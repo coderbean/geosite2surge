@@ -1,0 +1,313 @@
+DOMAIN-SUFFIX, # This list contains domains that don't have access point in China mainland. This is opposite to geolocation-cn.
+
+DOMAIN-SUFFIX, # Anime, Comics & Games
+DOMAIN-SUFFIX, include:category-acg
+
+DOMAIN-SUFFIX, # Advertisment & Analytics
+DOMAIN-SUFFIX, include:pubmatic
+DOMAIN-SUFFIX, include:taboola
+
+DOMAIN-SUFFIX, # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
+DOMAIN-SUFFIX, include:category-anticensorship
+
+DOMAIN-SUFFIX, # Art & Design & Photography
+DOMAIN-SUFFIX, include:artstation
+DOMAIN-SUFFIX, include:dribbble
+DOMAIN-SUFFIX, include:dyna
+DOMAIN-SUFFIX, include:flickr
+DOMAIN-SUFFIX, include:fonts
+DOMAIN-SUFFIX, include:fontsinuse
+DOMAIN-SUFFIX, include:gettyimages
+DOMAIN-SUFFIX, include:glyphs
+DOMAIN-SUFFIX, include:jiyukobo
+DOMAIN-SUFFIX, include:monotype
+DOMAIN-SUFFIX, include:morisawa
+DOMAIN-SUFFIX, include:pinterest
+DOMAIN-SUFFIX, include:realtype
+DOMAIN-SUFFIX, include:typenetwork
+DOMAIN-SUFFIX, include:typography
+DOMAIN-SUFFIX, include:webtype
+
+DOMAIN-SUFFIX, # Automobile
+DOMAIN-SUFFIX, include:bmw
+DOMAIN-SUFFIX, include:bridgestone
+DOMAIN-SUFFIX, include:tesla
+DOMAIN-SUFFIX, include:volvo
+
+DOMAIN-SUFFIX, # Bank & Finance
+DOMAIN-SUFFIX, include:dowjones
+DOMAIN-SUFFIX, include:mastercard
+DOMAIN-SUFFIX, include:paypal
+DOMAIN-SUFFIX, include:softbank
+DOMAIN-SUFFIX, include:stripe
+DOMAIN-SUFFIX, include:visa
+
+DOMAIN-SUFFIX, # CDN companies & Services
+DOMAIN-SUFFIX, include:akamai
+DOMAIN-SUFFIX, include:awempire
+DOMAIN-SUFFIX, include:cdn77
+DOMAIN-SUFFIX, include:cloudflare
+DOMAIN-SUFFIX, include:fastly
+DOMAIN-SUFFIX, include:imgix
+DOMAIN-SUFFIX, include:limelight
+DOMAIN-SUFFIX, include:pagecdn
+DOMAIN-SUFFIX, include:quantil
+DOMAIN-SUFFIX, include:scaleflex
+DOMAIN-SUFFIX, include:stackpath
+
+DOMAIN-SUFFIX, # Certificate authorities
+DOMAIN-SUFFIX, include:category-cas
+
+DOMAIN-SUFFIX, # Communications
+DOMAIN-SUFFIX, include:category-communication
+
+DOMAIN-SUFFIX, # Cryptocurrency
+DOMAIN-SUFFIX, include:category-cryptocurrency
+
+DOMAIN-SUFFIX, # E-commerce
+DOMAIN-SUFFIX, include:category-ecommerce
+
+DOMAIN-SUFFIX, # E-learning & Knowledge & Press & Scholar & Science & Technology
+DOMAIN-SUFFIX, include:anandtech
+DOMAIN-SUFFIX, include:betterexplained
+DOMAIN-SUFFIX, include:brilliant
+DOMAIN-SUFFIX, include:category-scholar-!cn
+DOMAIN-SUFFIX, include:cern
+DOMAIN-SUFFIX, include:chinapower
+DOMAIN-SUFFIX, include:cnet
+DOMAIN-SUFFIX, include:code
+DOMAIN-SUFFIX, include:codecademy
+DOMAIN-SUFFIX, include:codeforces
+DOMAIN-SUFFIX, include:coursera
+DOMAIN-SUFFIX, include:edx
+DOMAIN-SUFFIX, include:egghead
+DOMAIN-SUFFIX, include:embl
+DOMAIN-SUFFIX, include:freecodecamp
+DOMAIN-SUFFIX, include:kaggle
+DOMAIN-SUFFIX, include:khanacademy
+DOMAIN-SUFFIX, include:knovel
+DOMAIN-SUFFIX, include:laracasts
+DOMAIN-SUFFIX, include:libgen
+DOMAIN-SUFFIX, include:lifewire
+DOMAIN-SUFFIX, include:masterclass
+DOMAIN-SUFFIX, include:mzed
+DOMAIN-SUFFIX, include:oreilly
+DOMAIN-SUFFIX, include:pearson
+DOMAIN-SUFFIX, include:sitepoint
+DOMAIN-SUFFIX, include:skillshare
+DOMAIN-SUFFIX, include:spiceworks
+DOMAIN-SUFFIX, include:techtimes
+DOMAIN-SUFFIX, include:ted
+DOMAIN-SUFFIX, include:udacity
+DOMAIN-SUFFIX, include:udemy
+DOMAIN-SUFFIX, include:w3schools
+
+DOMAIN-SUFFIX, chemequations.com # 线上化学方程式！
+
+DOMAIN-SUFFIX, # Entertainment & Games & Music & Podcasts & Videos
+DOMAIN-SUFFIX, include:category-entertainment
+
+DOMAIN-SUFFIX, # File & Image & Video hosting
+DOMAIN-SUFFIX, include:0x0
+DOMAIN-SUFFIX, include:casimages
+DOMAIN-SUFFIX, include:cloudinary
+DOMAIN-SUFFIX, include:dropbox
+DOMAIN-SUFFIX, include:gfycat
+DOMAIN-SUFFIX, include:imagebam
+DOMAIN-SUFFIX, include:imagecurl
+DOMAIN-SUFFIX, include:imageshack
+DOMAIN-SUFFIX, include:imagetwist
+DOMAIN-SUFFIX, include:imgbb
+DOMAIN-SUFFIX, include:imgur
+DOMAIN-SUFFIX, include:pikpak
+DOMAIN-SUFFIX, include:pixhost
+DOMAIN-SUFFIX, include:postimages
+DOMAIN-SUFFIX, include:pstorage
+DOMAIN-SUFFIX, include:rumble
+DOMAIN-SUFFIX, include:streamable
+
+DOMAIN-SUFFIX, # Forums & Social network
+DOMAIN-SUFFIX, include:category-forums
+DOMAIN-SUFFIX, include:category-social-media-!cn
+
+DOMAIN-SUFFIX, # IPFS
+DOMAIN-SUFFIX, include:category-ipfs
+
+DOMAIN-SUFFIX, # Media & News & Press
+DOMAIN-SUFFIX, include:category-media
+DOMAIN-SUFFIX, include:pugpig
+
+DOMAIN-SUFFIX, # Organizations
+DOMAIN-SUFFIX, include:category-orgs
+
+DOMAIN-SUFFIX, # Porn
+DOMAIN-SUFFIX, include:category-porn
+
+DOMAIN-SUFFIX, # Religion
+DOMAIN-SUFFIX, include:falungong
+
+DOMAIN-SUFFIX, # Services & Softwares
+DOMAIN-SUFFIX, include:category-android-app-download
+DOMAIN-SUFFIX, include:category-browser-!cn
+DOMAIN-SUFFIX, include:category-enhance-gaming
+DOMAIN-SUFFIX, include:category-ntp
+DOMAIN-SUFFIX, include:decryptipastore # iOS
+
+DOMAIN-SUFFIX, include:accuweather
+DOMAIN-SUFFIX, include:adblock
+DOMAIN-SUFFIX, include:adblockplus
+DOMAIN-SUFFIX, include:addthis
+DOMAIN-SUFFIX, include:addtoany
+DOMAIN-SUFFIX, include:adguard
+DOMAIN-SUFFIX, include:aptoide
+DOMAIN-SUFFIX, include:arphic
+DOMAIN-SUFFIX, include:authy
+DOMAIN-SUFFIX, include:bitly
+DOMAIN-SUFFIX, include:bitwarden
+DOMAIN-SUFFIX, include:blender
+DOMAIN-SUFFIX, include:brightcove
+DOMAIN-SUFFIX, include:buymeacoffee
+DOMAIN-SUFFIX, include:chatango
+DOMAIN-SUFFIX, include:cloudconvert
+DOMAIN-SUFFIX, include:contentful
+DOMAIN-SUFFIX, include:cuttly
+DOMAIN-SUFFIX, include:digitalocean
+DOMAIN-SUFFIX, include:disqus
+DOMAIN-SUFFIX, include:duckduckgo
+DOMAIN-SUFFIX, include:easylist
+DOMAIN-SUFFIX, include:entermediadb
+DOMAIN-SUFFIX, include:esri
+DOMAIN-SUFFIX, include:evernote
+DOMAIN-SUFFIX, include:faststone
+DOMAIN-SUFFIX, include:feedly
+DOMAIN-SUFFIX, include:figma
+DOMAIN-SUFFIX, include:gofundme
+DOMAIN-SUFFIX, include:gravatar
+DOMAIN-SUFFIX, include:hcaptcha
+DOMAIN-SUFFIX, include:heroku
+DOMAIN-SUFFIX, include:hurricaneelectric
+DOMAIN-SUFFIX, include:iina
+DOMAIN-SUFFIX, include:imageglass
+DOMAIN-SUFFIX, include:infrapedia
+DOMAIN-SUFFIX, include:inoreader
+DOMAIN-SUFFIX, include:isgd
+DOMAIN-SUFFIX, include:jwplayer
+DOMAIN-SUFFIX, include:kindle4rss
+DOMAIN-SUFFIX, include:kodi
+DOMAIN-SUFFIX, include:liberapay
+DOMAIN-SUFFIX, include:linguee
+DOMAIN-SUFFIX, include:localizejs
+DOMAIN-SUFFIX, include:madshi
+DOMAIN-SUFFIX, include:mapbox
+DOMAIN-SUFFIX, include:mega
+DOMAIN-SUFFIX, include:mpv
+DOMAIN-SUFFIX, include:netlify
+DOMAIN-SUFFIX, include:notion
+DOMAIN-SUFFIX, include:ok
+DOMAIN-SUFFIX, include:okaapps
+DOMAIN-SUFFIX, include:opencollective
+DOMAIN-SUFFIX, include:organicmaps
+DOMAIN-SUFFIX, include:pastebin
+DOMAIN-SUFFIX, include:patreon
+DOMAIN-SUFFIX, include:picsee
+DOMAIN-SUFFIX, include:pingpe
+DOMAIN-SUFFIX, include:pingsx
+DOMAIN-SUFFIX, include:playcover
+DOMAIN-SUFFIX, include:protonmail
+DOMAIN-SUFFIX, include:quip
+DOMAIN-SUFFIX, include:reabble
+DOMAIN-SUFFIX, include:rebrandly
+DOMAIN-SUFFIX, include:reurl
+DOMAIN-SUFFIX, include:rsshub
+DOMAIN-SUFFIX, include:sb
+DOMAIN-SUFFIX, include:setapp
+DOMAIN-SUFFIX, include:sharethis
+DOMAIN-SUFFIX, include:shopify
+DOMAIN-SUFFIX, include:shorturl
+DOMAIN-SUFFIX, include:slideshare
+DOMAIN-SUFFIX, include:sourceforge
+DOMAIN-SUFFIX, include:squareup
+DOMAIN-SUFFIX, include:startpage
+DOMAIN-SUFFIX, include:steemit
+DOMAIN-SUFFIX, include:svp
+DOMAIN-SUFFIX, include:test-ipv6
+DOMAIN-SUFFIX, include:tex
+DOMAIN-SUFFIX, include:tidelift
+DOMAIN-SUFFIX, include:tinyurl
+DOMAIN-SUFFIX, include:trello
+DOMAIN-SUFFIX, include:tumblr
+DOMAIN-SUFFIX, include:tutanota
+DOMAIN-SUFFIX, include:vercel
+DOMAIN-SUFFIX, include:webflow
+DOMAIN-SUFFIX, include:wix
+DOMAIN-SUFFIX, include:wordpress
+DOMAIN-SUFFIX, include:zendesk
+DOMAIN-SUFFIX, include:zeplin
+DOMAIN-SUFFIX, include:zoho
+DOMAIN-SUFFIX, include:zoom
+
+DOMAIN-SUFFIX, biliplus.com # BiliPlus
+
+DOMAIN-SUFFIX, # Online LaTeX Editor
+DOMAIN-SUFFIX, cloudlatex.io
+DOMAIN-SUFFIX, overleaf.com
+
+DOMAIN-SUFFIX, # Aurora Open Source Software (https://gitlab.com/AuroraOSS)
+DOMAIN-SUFFIX, auroraoss.com
+
+DOMAIN-SUFFIX, # CookiePro, provides cookies and tracking
+DOMAIN-SUFFIX, cookiepro.com
+DOMAIN-SUFFIX, cookielaw.org
+DOMAIN-SUFFIX, onetrust.com
+
+DOMAIN-SUFFIX, # Software development
+DOMAIN-SUFFIX, include:category-dev
+
+DOMAIN-SUFFIX, # Tech companies
+DOMAIN-SUFFIX, include:category-companies
+
+DOMAIN-SUFFIX, # Torrent websites
+DOMAIN-SUFFIX, include:1337x
+DOMAIN-SUFFIX, include:btdig
+DOMAIN-SUFFIX, include:demonoid
+DOMAIN-SUFFIX, include:nyaa
+DOMAIN-SUFFIX, include:piratebay
+DOMAIN-SUFFIX, include:rarbg
+
+DOMAIN-SUFFIX, # VPN services
+DOMAIN-SUFFIX, include:category-vpnservices
+
+DOMAIN-SUFFIX, # Wiki
+DOMAIN-SUFFIX, include:fandom
+DOMAIN-SUFFIX, include:miraheze
+DOMAIN-SUFFIX, include:scp
+DOMAIN-SUFFIX, include:translatewiki
+DOMAIN-SUFFIX, include:wikidot
+DOMAIN-SUFFIX, include:wikihow
+DOMAIN-SUFFIX, include:wikimedia
+
+DOMAIN-SUFFIX, atwiki.jp
+DOMAIN-SUFFIX, touhouwiki.net
+
+DOMAIN-SUFFIX, # Nebula Emby
+DOMAIN-SUFFIX, api.nebula-emby.com
+DOMAIN-SUFFIX, web.nebula-emby.com
+
+DOMAIN-SUFFIX, # Others
+DOMAIN-SUFFIX, include:avaxhome
+DOMAIN-SUFFIX, include:dlsite
+DOMAIN-SUFFIX, include:espressif
+DOMAIN-SUFFIX, include:familymart
+DOMAIN-SUFFIX, include:fzdm
+DOMAIN-SUFFIX, include:hkedcity
+DOMAIN-SUFFIX, include:huanghuagang
+DOMAIN-SUFFIX, include:lavteam
+DOMAIN-SUFFIX, include:mcdonalds
+DOMAIN-SUFFIX, include:rb
+DOMAIN-SUFFIX, include:reagroup
+DOMAIN-SUFFIX, include:scenesource
+DOMAIN-SUFFIX, include:starbucks
+DOMAIN-SUFFIX, include:tsquare
+DOMAIN-SUFFIX, include:windy
+DOMAIN-SUFFIX, include:xdty
+DOMAIN-SUFFIX, include:xingrz

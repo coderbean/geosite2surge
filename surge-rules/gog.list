@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX, gog.com
+DOMAIN-SUFFIX, gog-statics.com
+
+DOMAIN-SUFFIX, full:gog.qtlglb.com @cn
+DOMAIN-SUFFIX, full:gogalaxy.gog-statics.com @cn
+DOMAIN-SUFFIX, full:menu-static.gog-statics.com @cn
+DOMAIN-SUFFIX, full:productcard.gog-statics.com @cn
+DOMAIN-SUFFIX, full:static-login.gog-statics.com @cn
+DOMAIN-SUFFIX, full:www4-static.gog-statics.com @cn
+DOMAIN-SUFFIX, regexp:^cdn-akamai-.+\.gog-services\.com$ @cn
+DOMAIN-SUFFIX, regexp:^gog-cdn-.+\.footprint\.net$ @cn
+DOMAIN-SUFFIX, regexp:^images(-\d)?\.gog-statics\.com$ @cn

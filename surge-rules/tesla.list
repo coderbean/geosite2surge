@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX, solarcity.com
+DOMAIN-SUFFIX, tesla.cn @cn
+DOMAIN-SUFFIX, tesla.com
+DOMAIN-SUFFIX, tesla.com.cn @cn
+DOMAIN-SUFFIX, tesla.services
+DOMAIN-SUFFIX, teslaenergy.services
+DOMAIN-SUFFIX, teslamotors.cn @cn
+DOMAIN-SUFFIX, teslamotors.com
+DOMAIN-SUFFIX, teslamotors.com.cn @cn
+DOMAIN-SUFFIX, teslazta.net
+DOMAIN-SUFFIX, ts.la
+
+DOMAIN-SUFFIX, full:tesla-cdn.thron.cn @cn
+DOMAIN-SUFFIX, full:tesla-cdn.thron.com

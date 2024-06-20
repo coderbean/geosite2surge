@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX, # viu.tv
+DOMAIN-SUFFIX, viu.tv
+DOMAIN-SUFFIX, full:api.viu.now.com
+DOMAIN-SUFFIX, regexp:^ewcdn[0-9]{2}\.nowe\.com$
+
+DOMAIN-SUFFIX, # viu.com
+DOMAIN-SUFFIX, viu.com
+DOMAIN-SUFFIX, full:dfp6rglgjqszk.cloudfront.net
+DOMAIN-SUFFIX, full:d1k2us671qcoau.cloudfront.net
+DOMAIN-SUFFIX, full:d2anahhhmp1ffz.cloudfront.net

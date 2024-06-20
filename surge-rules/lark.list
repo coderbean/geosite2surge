@@ -1,0 +1,20 @@
+DOMAIN-SUFFIX, # This tag 'lark' is for backward compatibility
+
+DOMAIN-SUFFIX, include:feishu
+DOMAIN-SUFFIX, include:lark-global
+
+DOMAIN-SUFFIX, baseopendev.com  # 京ICP备16045432号-79 多维表格开放中心
+DOMAIN-SUFFIX, bytecloud.com  # 京ICP备16045432号-23 视频云开放平台
+DOMAIN-SUFFIX, byteoc.com  # 京ICP备16045432号-41 企业服务平台
+DOMAIN-SUFFIX, bytewebservice.com  # 京ICP备16045432号-42 企业服务平台
+DOMAIN-SUFFIX, bytexns.cn  # 京ICP备16045432号-20 视频云开放平台
+DOMAIN-SUFFIX, bytexns.com  # 京ICP备16045432号-21 视频云开放平台
+DOMAIN-SUFFIX, bytexns.net  # 京ICP备16045432号-22 视频云开放平台
+DOMAIN-SUFFIX, bytexopen.com  # 京ICP备16045432号-43 企业服务平台
+DOMAIN-SUFFIX, bytexservice.com  # 京ICP备16045432号-44 企业服务平台
+DOMAIN-SUFFIX, meegobeta.com  # 京ICP备16045432号-162 Meego产品Beta测试
+DOMAIN-SUFFIX, oceancloudapi.com  # 京ICP备16045432号-70 Ocean云
+DOMAIN-SUFFIX, okr.cn  # 京ICP备16045432号-52 OKR网站
+DOMAIN-SUFFIX, okr.com  # 京ICP备16045432号-51 OKR网站
+DOMAIN-SUFFIX, okr.com.cn  # 京ICP备16045432号-50 OKR网站
+DOMAIN-SUFFIX, vscenevideo.com  # 京ICP备16045432号-1 北京维境视讯信息技术有限公司网站

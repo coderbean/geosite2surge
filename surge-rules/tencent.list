@@ -1,0 +1,76 @@
+DOMAIN-SUFFIX, include:qcloud #腾讯云
+DOMAIN-SUFFIX, include:tencent-ads
+DOMAIN-SUFFIX, include:tencent-dev
+DOMAIN-SUFFIX, include:tencent-games
+DOMAIN-SUFFIX, include:yuewen
+
+DOMAIN-SUFFIX, # qq.中国
+DOMAIN-SUFFIX, qq.xn--fiqs8s
+
+DOMAIN-SUFFIX, # 腾讯.中国
+DOMAIN-SUFFIX, xn--r70as2s.xn--fiqs8s
+
+DOMAIN-SUFFIX, apcdns.net
+DOMAIN-SUFFIX, foxmail.com
+DOMAIN-SUFFIX, foxmail.com.cn
+DOMAIN-SUFFIX, gtimg.cn
+DOMAIN-SUFFIX, gtimg.com
+DOMAIN-SUFFIX, gtimg.com.cn
+DOMAIN-SUFFIX, idqqimg.com
+DOMAIN-SUFFIX, imqq.com
+DOMAIN-SUFFIX, myapp.com
+DOMAIN-SUFFIX, qlogo.cn
+DOMAIN-SUFFIX, qpic.cn
+DOMAIN-SUFFIX, qq.cn.com
+DOMAIN-SUFFIX, qq.com
+DOMAIN-SUFFIX, qq.com.cn
+DOMAIN-SUFFIX, qq.wang
+DOMAIN-SUFFIX, qqmail.com
+DOMAIN-SUFFIX, qzone.com
+DOMAIN-SUFFIX, rtx.com.cn
+DOMAIN-SUFFIX, servicewechat.com
+DOMAIN-SUFFIX, tencent.cn
+DOMAIN-SUFFIX, tencent.co.id @!cn
+DOMAIN-SUFFIX, tencent.com
+DOMAIN-SUFFIX, tencent.com.cn
+DOMAIN-SUFFIX, tencent.com.hk
+DOMAIN-SUFFIX, tencent.net
+DOMAIN-SUFFIX, tencent.net.cn
+DOMAIN-SUFFIX, tencentmusic.com
+DOMAIN-SUFFIX, tenpay.com
+DOMAIN-SUFFIX, tfogc.com
+DOMAIN-SUFFIX, wechat.com
+DOMAIN-SUFFIX, wechatpay.cn
+DOMAIN-SUFFIX, weiyun.com
+DOMAIN-SUFFIX, wetv.vip @!cn
+DOMAIN-SUFFIX, wetvinfo.com @!cn
+
+DOMAIN-SUFFIX, full:wetv.qq.com @!cn
+
+DOMAIN-SUFFIX, alloyteam.com
+DOMAIN-SUFFIX, imweb.io
+DOMAIN-SUFFIX, ivweb.io
+
+DOMAIN-SUFFIX, # 腾讯枫叶
+DOMAIN-SUFFIX, fyeds.com
+DOMAIN-SUFFIX, fyeds0.com
+DOMAIN-SUFFIX, fyeds1.com
+DOMAIN-SUFFIX, fyeds3.com
+DOMAIN-SUFFIX, fyeds4.com
+DOMAIN-SUFFIX, fyeds5.com
+DOMAIN-SUFFIX, fyeds6.com
+DOMAIN-SUFFIX, fyeds7.com
+DOMAIN-SUFFIX, fyeds8.com
+DOMAIN-SUFFIX, fyeds9.com
+DOMAIN-SUFFIX, fymall0.com
+DOMAIN-SUFFIX, fymall1.com
+DOMAIN-SUFFIX, fymall4.com
+DOMAIN-SUFFIX, fymall7.com
+DOMAIN-SUFFIX, fymall9.com
+DOMAIN-SUFFIX, fymallqa0.com
+DOMAIN-SUFFIX, fymallqa1.com
+DOMAIN-SUFFIX, fymallqa2.com
+DOMAIN-SUFFIX, fymallqa3.com
+DOMAIN-SUFFIX, fymallqa4.com
+DOMAIN-SUFFIX, fymallqa7.com
+DOMAIN-SUFFIX, fymallqa9.com

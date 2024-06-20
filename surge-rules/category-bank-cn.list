@@ -1,0 +1,63 @@
+DOMAIN-SUFFIX, include:boc
+DOMAIN-SUFFIX, include:ccb
+DOMAIN-SUFFIX, include:cmb
+DOMAIN-SUFFIX, include:icbc
+DOMAIN-SUFFIX, include:unionpay
+
+DOMAIN-SUFFIX, abchina.com
+DOMAIN-SUFFIX, bankcomm.com
+DOMAIN-SUFFIX, bankofbeijing.com.cn
+DOMAIN-SUFFIX, bosc.cn
+DOMAIN-SUFFIX, bsb.com.cn
+DOMAIN-SUFFIX, ccb.com
+DOMAIN-SUFFIX, cgbchina.com.cn
+DOMAIN-SUFFIX, cib.com.cn
+DOMAIN-SUFFIX, citibank.com.cn
+DOMAIN-SUFFIX, cmbc.com.cn
+DOMAIN-SUFFIX, hsbc.com.cn
+DOMAIN-SUFFIX, hxb.com.cn
+DOMAIN-SUFFIX, njcb.com.cn
+DOMAIN-SUFFIX, psbc.com
+DOMAIN-SUFFIX, spdb.com.cn
+DOMAIN-SUFFIX, whccb.com
+
+DOMAIN-SUFFIX, # 中国19家民营银行
+DOMAIN-SUFFIX, # 天津金城银行股份有限公司 Kincheng Bank of Tianjin Co., Ltd.	
+DOMAIN-SUFFIX, kcbebank.com
+DOMAIN-SUFFIX, # 上海华瑞银行股份有限公司 Shanghai HuaRui Bank Co., LTD.
+DOMAIN-SUFFIX, shrbank.com
+DOMAIN-SUFFIX, # 浙江网商银行股份有限公司 ZHEJIANG E-COMMERCE BANK CO.,LTD
+DOMAIN-SUFFIX, mybank.cn
+DOMAIN-SUFFIX, # 温州民商银行股份有限公司 WENZHOU MINSHANG BANK CO.,LTD
+DOMAIN-SUFFIX, ms-bank.cn
+DOMAIN-SUFFIX, # 深圳前海微众银行股份有限公司 WeBank Co.,Ltd
+DOMAIN-SUFFIX, webank.com
+DOMAIN-SUFFIX, webankcdn.net
+DOMAIN-SUFFIX, # 湖南三湘银行股份有限公司 BANK OF SANXIANG
+DOMAIN-SUFFIX, csxbank.com
+DOMAIN-SUFFIX, # 重庆富民银行股份有限公司 Chongqing Fumin Bank Co.,Ltd.
+DOMAIN-SUFFIX, fbank.com
+DOMAIN-SUFFIX, # 四川新网银行股份有限公司 SICHUAN XW BANK CORP.,LTD.
+DOMAIN-SUFFIX, xwbank.com
+DOMAIN-SUFFIX, # 北京中关村银行股份有限公司 Beijing Zhongguancun Bank Corporation Limited
+DOMAIN-SUFFIX, zgcbank.com
+DOMAIN-SUFFIX, # 吉林亿联银行股份有限公司 JILIN YILLION BANK CO.，LTD.
+DOMAIN-SUFFIX, yillionbank.com
+DOMAIN-SUFFIX, # 武汉众邦银行股份有限公司 WUHANZBANK CO.,LTD.
+DOMAIN-SUFFIX, z-bank.com
+DOMAIN-SUFFIX, # 福建华通银行股份有限公司 Fujian OneBank Company Limited
+DOMAIN-SUFFIX, onebank.com.cn
+DOMAIN-SUFFIX, # 威海蓝海银行股份有限公司 WEIHAI BLUE OCEAN BANK CO.,LTD.
+DOMAIN-SUFFIX, wegobank.cn
+DOMAIN-SUFFIX, # 江苏苏宁银行股份有限公司 JIANGSU SUNING BANK CO.,LTD.
+DOMAIN-SUFFIX, suningbank.com
+DOMAIN-SUFFIX, # 梅州客商银行股份有限公司 MEIZHOU HAKKA BANK CO., LTD.
+DOMAIN-SUFFIX, kshbank.cn
+DOMAIN-SUFFIX, # 安徽新安银行股份有限公司 Anhui xin’an bank Co.,Ltd.
+DOMAIN-SUFFIX, xa-bank.com
+DOMAIN-SUFFIX, # 辽宁振兴银行股份有限公司 NewUp Bank of Liaoning Co.,Ltd.
+DOMAIN-SUFFIX, newupbank.com
+DOMAIN-SUFFIX, # 江西裕民银行股份有限公司 JIANGXI YUMIN BANK CO., LTD.
+DOMAIN-SUFFIX, ymbank.com
+DOMAIN-SUFFIX, # 无锡锡商银行股份有限公司 WUXI XISHANG BANK CO.，LTD.
+DOMAIN-SUFFIX, wxsbank.com

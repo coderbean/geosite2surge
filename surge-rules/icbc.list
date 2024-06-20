@@ -1,0 +1,60 @@
+DOMAIN-SUFFIX, # All .icbc domains
+DOMAIN-SUFFIX, icbc
+
+DOMAIN-SUFFIX, 95588.com
+DOMAIN-SUFFIX, 95588.com.cn
+DOMAIN-SUFFIX, dccnet.com.cn
+DOMAIN-SUFFIX, icbc-at.com @!cn
+DOMAIN-SUFFIX, icbc-cz.com @!cn
+DOMAIN-SUFFIX, icbc-ltd.com @!cn
+DOMAIN-SUFFIX, icbc-uk.com @!cn
+DOMAIN-SUFFIX, icbc-us.com @!cn
+DOMAIN-SUFFIX, icbc.ae @!cn
+DOMAIN-SUFFIX, icbc.be @!cn
+DOMAIN-SUFFIX, icbc.co.id @!cn
+DOMAIN-SUFFIX, icbc.co.jp @!cn
+DOMAIN-SUFFIX, icbc.co.kr @!cn
+DOMAIN-SUFFIX, icbc.co.nl @!cn
+DOMAIN-SUFFIX, icbc.com.au @!cn
+DOMAIN-SUFFIX, icbc.com.cn
+DOMAIN-SUFFIX, icbc.com.es @!cn
+DOMAIN-SUFFIX, icbc.com.kh @!cn
+DOMAIN-SUFFIX, icbc.com.kw @!cn
+DOMAIN-SUFFIX, icbc.com.la @!cn
+DOMAIN-SUFFIX, icbc.com.mm @!cn
+DOMAIN-SUFFIX, icbc.com.mo @!cn
+DOMAIN-SUFFIX, icbc.com.mx @!cn
+DOMAIN-SUFFIX, icbc.com.pe @!cn
+DOMAIN-SUFFIX, icbc.com.pk @!cn
+DOMAIN-SUFFIX, icbc.com.qa @!cn
+DOMAIN-SUFFIX, icbc.com.sg @!cn
+DOMAIN-SUFFIX, icbc.com.vn @!cn
+DOMAIN-SUFFIX, icbc.de @!cn
+DOMAIN-SUFFIX, icbc.eu @!cn
+DOMAIN-SUFFIX, icbc.lu @!cn
+DOMAIN-SUFFIX, icbcalmaty.kz @!cn
+DOMAIN-SUFFIX, icbcasia.com @!cn
+DOMAIN-SUFFIX, icbcbr.com.br @!cn
+DOMAIN-SUFFIX, icbccs.com.cn
+DOMAIN-SUFFIX, icbccstz.com.cn
+DOMAIN-SUFFIX, icbci.com.hk @!cn
+DOMAIN-SUFFIX, icbcina.com
+DOMAIN-SUFFIX, icbcindia.com @!cn
+DOMAIN-SUFFIX, icbcit.com @!cn
+DOMAIN-SUFFIX, icbclondon.com @!cn
+DOMAIN-SUFFIX, icbcmanila.com.cn
+DOMAIN-SUFFIX, icbcme.ae @!cn
+DOMAIN-SUFFIX, icbcmoscow.ru @!cn
+DOMAIN-SUFFIX, icbcmy.com @!cn
+DOMAIN-SUFFIX, icbcnz.com @!cn
+DOMAIN-SUFFIX, icbcpanama.com @!cn
+DOMAIN-SUFFIX, icbcparis.fr @!cn
+DOMAIN-SUFFIX, icbcpl.com @!cn
+DOMAIN-SUFFIX, icbcstandard.com
+DOMAIN-SUFFIX, icbcstandardbank.com
+DOMAIN-SUFFIX, icbcstandardresources.com
+DOMAIN-SUFFIX, icbcstandardsecurities.com
+DOMAIN-SUFFIX, icbcswiss.com @!cn
+DOMAIN-SUFFIX, icbcthai.com @!cn
+DOMAIN-SUFFIX, icbkfs.com @!cn
+DOMAIN-SUFFIX, icbkus.com @!cn

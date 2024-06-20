@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX, include:vmware
+
+DOMAIN-SUFFIX, # All .dell domains
+DOMAIN-SUFFIX, dell
+
+DOMAIN-SUFFIX, dell-brand.com
+DOMAIN-SUFFIX, dell.com
+DOMAIN-SUFFIX, dellcdn.com

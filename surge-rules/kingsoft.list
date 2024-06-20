@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX, include:cheetahmobile
+DOMAIN-SUFFIX, include:seasun
+DOMAIN-SUFFIX, include:wps
+
+DOMAIN-SUFFIX, kimg.cn
+DOMAIN-SUFFIX, kingsoft.com
+DOMAIN-SUFFIX, ksmobile.com
+
+DOMAIN-SUFFIX, # Kingsoft Cloud
+DOMAIN-SUFFIX, ks-cdn.com
+DOMAIN-SUFFIX, ks-cdn1.com
+DOMAIN-SUFFIX, ksyun.com
+DOMAIN-SUFFIX, ksyuncdn.com
+DOMAIN-SUFFIX, ksyungslb.com

@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX, include:duolingo-ads
+
+DOMAIN-SUFFIX, duolingo.com
+DOMAIN-SUFFIX, duolingo.cn @cn

@@ -1,0 +1,51 @@
+DOMAIN-SUFFIX, # This list contains well-known Certificate Authorities (CA) outside China mainland.
+
+DOMAIN-SUFFIX, # Reference: https://en.wikipedia.org/wiki/Certificate_authority
+DOMAIN-SUFFIX, include:actalis
+DOMAIN-SUFFIX, include:amazontrust
+DOMAIN-SUFFIX, include:apple-pki
+DOMAIN-SUFFIX, include:buypass
+DOMAIN-SUFFIX, include:certinomis
+DOMAIN-SUFFIX, include:certum
+DOMAIN-SUFFIX, include:comodo
+DOMAIN-SUFFIX, include:cybertrust
+DOMAIN-SUFFIX, include:digicert
+DOMAIN-SUFFIX, include:entrust
+DOMAIN-SUFFIX, include:gandi
+DOMAIN-SUFFIX, include:globalsign
+DOMAIN-SUFFIX, include:godaddy
+DOMAIN-SUFFIX, include:google-trust-services
+DOMAIN-SUFFIX, include:hinet-eca
+DOMAIN-SUFFIX, include:hongkongpost
+DOMAIN-SUFFIX, include:identrust
+DOMAIN-SUFFIX, include:letsencrypt
+DOMAIN-SUFFIX, include:microsoft-pki
+DOMAIN-SUFFIX, include:secom
+DOMAIN-SUFFIX, include:sectigo
+DOMAIN-SUFFIX, include:sslcom
+DOMAIN-SUFFIX, include:starfieldtech
+DOMAIN-SUFFIX, include:swisssign
+DOMAIN-SUFFIX, include:symantec
+DOMAIN-SUFFIX, include:telekom
+DOMAIN-SUFFIX, include:trustwave
+DOMAIN-SUFFIX, include:twca
+DOMAIN-SUFFIX, include:verisign
+DOMAIN-SUFFIX, include:verizon
+DOMAIN-SUFFIX, include:vodafone
+DOMAIN-SUFFIX, include:wisekey
+
+DOMAIN-SUFFIX, accv.es
+DOMAIN-SUFFIX, camerfirma.com
+DOMAIN-SUFFIX, certsign.ro
+DOMAIN-SUFFIX, d-trust.net
+DOMAIN-SUFFIX, e-szigno.hu
+DOMAIN-SUFFIX, e-tugra.com
+DOMAIN-SUFFIX, firmaprofesional.com
+DOMAIN-SUFFIX, fnmt.es
+DOMAIN-SUFFIX, harica.gr
+DOMAIN-SUFFIX, infocert.digital
+DOMAIN-SUFFIX, infocert.it
+DOMAIN-SUFFIX, netlock.hu
+DOMAIN-SUFFIX, trustcor.ca
+DOMAIN-SUFFIX, trustcor.com
+DOMAIN-SUFFIX, trustisfps.com

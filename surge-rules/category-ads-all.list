@@ -1,0 +1,28 @@
+DOMAIN-SUFFIX, # This file contains domains of all ads providers, including both the domains that serves ads, and the domains of providers themselves.
+
+
+DOMAIN-SUFFIX, 7box.vip @ads
+DOMAIN-SUFFIX, ad-delivery.net @ads
+DOMAIN-SUFFIX, adinplay.com @ads
+DOMAIN-SUFFIX, adnxs.com @ads
+DOMAIN-SUFFIX, ads.trafficjunky.net @ads
+DOMAIN-SUFFIX, advertserve.com @ads
+DOMAIN-SUFFIX, casalemedia.com @ads
+DOMAIN-SUFFIX, contextual.media.net @ads
+DOMAIN-SUFFIX, cpmstar.com @ads
+DOMAIN-SUFFIX, demdex.net @ads
+DOMAIN-SUFFIX, httpool.com @ads
+DOMAIN-SUFFIX, lijit.com @ads
+DOMAIN-SUFFIX, 1rx.io @ads
+DOMAIN-SUFFIX, mfadsrvr.com @ads
+DOMAIN-SUFFIX, mgid.com @ads
+DOMAIN-SUFFIX, ns1p.net @ads
+DOMAIN-SUFFIX, pubmatic.com @ads
+DOMAIN-SUFFIX, snapads.com @ads
+DOMAIN-SUFFIX, spotxchange.com @ads
+DOMAIN-SUFFIX, unimhk.com @ads
+DOMAIN-SUFFIX, upapi.net @ads
+
+
+DOMAIN-SUFFIX, include:taboola
+DOMAIN-SUFFIX, include:category-ads

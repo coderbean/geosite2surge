@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX, include:fontexplorer
+DOMAIN-SUFFIX, include:fonts
+DOMAIN-SUFFIX, include:fontshop
+DOMAIN-SUFFIX, include:linotype
+DOMAIN-SUFFIX, include:myfonts
+
+DOMAIN-SUFFIX, monotype.com
+DOMAIN-SUFFIX, monotypeimaging.com
+
+DOMAIN-SUFFIX, # Bitstream
+DOMAIN-SUFFIX, bitstream.com
+
+DOMAIN-SUFFIX, # International Typeface Corporation
+DOMAIN-SUFFIX, itcfonts.com

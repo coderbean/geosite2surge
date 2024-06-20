@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX, api-adservices.apple.com @ads
+DOMAIN-SUFFIX, iadsdk.apple.com @ads
+DOMAIN-SUFFIX, iad.apple.com @ads
+DOMAIN-SUFFIX, qwapi.com @ads

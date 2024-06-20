@@ -1,0 +1,33 @@
+DOMAIN-SUFFIX, include:bethesda
+DOMAIN-SUFFIX, include:mojang
+
+DOMAIN-SUFFIX, # All .xbox domains
+DOMAIN-SUFFIX, xbox
+
+DOMAIN-SUFFIX, forzamotorsport.net
+DOMAIN-SUFFIX, forzaracingchampionship.com
+DOMAIN-SUFFIX, forzarc.com
+DOMAIN-SUFFIX, gamepass.com
+DOMAIN-SUFFIX, orithegame.com
+DOMAIN-SUFFIX, renovacionxboxlive.com
+DOMAIN-SUFFIX, tellmewhygame.com
+DOMAIN-SUFFIX, xbox.co
+DOMAIN-SUFFIX, xbox.com
+DOMAIN-SUFFIX, xbox.eu
+DOMAIN-SUFFIX, xbox.org
+DOMAIN-SUFFIX, xbox360.co
+DOMAIN-SUFFIX, xbox360.com
+DOMAIN-SUFFIX, xbox360.eu
+DOMAIN-SUFFIX, xbox360.org
+DOMAIN-SUFFIX, xboxab.com
+DOMAIN-SUFFIX, xboxgamepass.com
+DOMAIN-SUFFIX, xboxgamestudios.com
+DOMAIN-SUFFIX, xboxlive.cn @cn
+DOMAIN-SUFFIX, xboxlive.com
+DOMAIN-SUFFIX, xboxone.co
+DOMAIN-SUFFIX, xboxone.com
+DOMAIN-SUFFIX, xboxone.eu
+DOMAIN-SUFFIX, xboxplayanywhere.com
+DOMAIN-SUFFIX, xboxservices.com
+DOMAIN-SUFFIX, xboxstudios.com
+DOMAIN-SUFFIX, xbx.lv

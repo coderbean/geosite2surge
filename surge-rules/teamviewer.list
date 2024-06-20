@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX, teamviewer.cn @cn
+DOMAIN-SUFFIX, teamviewer.com
+DOMAIN-SUFFIX, teamviewer.us
+
+DOMAIN-SUFFIX, full:client-teamviewer-com.trafficmanager.net
+DOMAIN-SUFFIX, full:teamviewer.com.cdn.cloudflare.net

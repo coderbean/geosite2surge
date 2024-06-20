@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX, include:facebook
+DOMAIN-SUFFIX, include:facebook-dev
+DOMAIN-SUFFIX, include:instagram
+DOMAIN-SUFFIX, include:messenger
+DOMAIN-SUFFIX, include:oculus
+DOMAIN-SUFFIX, include:threads
+DOMAIN-SUFFIX, include:whatsapp
+
+DOMAIN-SUFFIX, meta.ai
+DOMAIN-SUFFIX, meta.com

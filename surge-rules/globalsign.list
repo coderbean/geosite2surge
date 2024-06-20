@@ -1,0 +1,21 @@
+DOMAIN-SUFFIX, alphassl.com @cn
+DOMAIN-SUFFIX, easy-signing.com @cn
+DOMAIN-SUFFIX, globalsign-media.com
+DOMAIN-SUFFIX, globalsign.be
+DOMAIN-SUFFIX, globalsign.ch
+DOMAIN-SUFFIX, globalsign.cloud
+DOMAIN-SUFFIX, globalsign.cn @cn
+DOMAIN-SUFFIX, globalsign.co.uk
+DOMAIN-SUFFIX, globalsign.com @cn
+DOMAIN-SUFFIX, globalsign.com.au
+DOMAIN-SUFFIX, globalsign.com.br
+DOMAIN-SUFFIX, globalsign.com.hk
+DOMAIN-SUFFIX, globalsign.com.sg
+DOMAIN-SUFFIX, globalsign.es
+DOMAIN-SUFFIX, globalsign.eu
+DOMAIN-SUFFIX, globalsign.fr
+DOMAIN-SUFFIX, globalsign.net
+DOMAIN-SUFFIX, globalsign.nl
+DOMAIN-SUFFIX, globalsigncdn.com @cn
+
+DOMAIN-SUFFIX, full:cdn.globalsigncdn.com.cdn.cloudflare.net @cn

@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX, # This list is for backward compatibility of "geosite:cn" in V2Ray.
+
+DOMAIN-SUFFIX, include:tld-cn
+DOMAIN-SUFFIX, include:geolocation-cn

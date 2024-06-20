@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX, include:amp
+DOMAIN-SUFFIX, include:electron
+DOMAIN-SUFFIX, include:jquery
+DOMAIN-SUFFIX, include:mocha
+DOMAIN-SUFFIX, include:nodejs
+
+DOMAIN-SUFFIX, openjsf.org

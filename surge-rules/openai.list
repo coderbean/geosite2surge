@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX, # Main domain
+DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, oaistatic.com
+DOMAIN-SUFFIX, oaiusercontent.com
+DOMAIN-SUFFIX, openai.com
+
+DOMAIN-SUFFIX, # CDN & API
+DOMAIN-SUFFIX, openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX, full:openaiapi-site.azureedge.net
+DOMAIN-SUFFIX, full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX, full:openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX, full:production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX, regexp:^chatgpt-async-webps-prod-eastus-\d+\.webpubsub\.azure\.com$
+
+DOMAIN-SUFFIX, # tracking
+DOMAIN-SUFFIX, full:o33249.ingest.sentry.io @ads
+DOMAIN-SUFFIX, full:openaicom.imgix.net @ads

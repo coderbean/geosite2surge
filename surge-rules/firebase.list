@@ -1,0 +1,18 @@
+DOMAIN-SUFFIX, firebase.com
+DOMAIN-SUFFIX, firebase.io
+DOMAIN-SUFFIX, firebaseapp.com
+DOMAIN-SUFFIX, firebaseio.com
+
+DOMAIN-SUFFIX, full:firebase-settings.crashlytics.com @cn
+DOMAIN-SUFFIX, full:firebase.google.com
+DOMAIN-SUFFIX, full:firebase.googleapis.com
+DOMAIN-SUFFIX, full:firebaseappcheck.googleapis.com
+DOMAIN-SUFFIX, full:firebasedynamiclinks-ipv4.googleapis.com
+DOMAIN-SUFFIX, full:firebasedynamiclinks-ipv6.googleapis.com
+DOMAIN-SUFFIX, full:firebasedynamiclinks.googleapis.com
+DOMAIN-SUFFIX, full:firebaseinappmessaging.googleapis.com
+DOMAIN-SUFFIX, full:firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX, full:firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX, full:firebaselogging.googleapis.com
+DOMAIN-SUFFIX, full:firebaseperusertopics-pa.googleapis.com
+DOMAIN-SUFFIX, full:firebaseremoteconfig.googleapis.com

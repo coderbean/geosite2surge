@@ -1,0 +1,20 @@
+DOMAIN-SUFFIX, include:hashicorp
+
+DOMAIN-SUFFIX, # All .ibm domains
+DOMAIN-SUFFIX, ibm
+
+DOMAIN-SUFFIX, # All .weatherchannel domains
+DOMAIN-SUFFIX, weatherchannel
+
+DOMAIN-SUFFIX, # All .weather domains
+DOMAIN-SUFFIX, weather
+
+DOMAIN-SUFFIX, appdomain.cloud
+DOMAIN-SUFFIX, bluemix.com
+DOMAIN-SUFFIX, bluemix.net
+DOMAIN-SUFFIX, ibm.com
+DOMAIN-SUFFIX, ibm.eu
+DOMAIN-SUFFIX, ibm.net
+DOMAIN-SUFFIX, ibm.us
+DOMAIN-SUFFIX, s-bluemix.net
+DOMAIN-SUFFIX, s81c.com

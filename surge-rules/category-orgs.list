@@ -1,0 +1,27 @@
+DOMAIN-SUFFIX, # This list contains organizations outside China mainland.
+
+DOMAIN-SUFFIX, include:archive
+DOMAIN-SUFFIX, include:creativecommons
+DOMAIN-SUFFIX, include:csis
+DOMAIN-SUFFIX, include:emojipedia
+DOMAIN-SUFFIX, include:f-droid
+DOMAIN-SUFFIX, include:ieee
+DOMAIN-SUFFIX, include:nist
+DOMAIN-SUFFIX, include:openstreetmap
+DOMAIN-SUFFIX, include:paskoocheh
+DOMAIN-SUFFIX, include:peppy
+DOMAIN-SUFFIX, include:ruleoflaw
+
+DOMAIN-SUFFIX, aomedia.org
+DOMAIN-SUFFIX, atypi.org
+DOMAIN-SUFFIX, change.org
+DOMAIN-SUFFIX, globalsecurity.org
+DOMAIN-SUFFIX, iana.org
+DOMAIN-SUFFIX, ietf.org
+DOMAIN-SUFFIX, itu.int
+DOMAIN-SUFFIX, opte.org
+DOMAIN-SUFFIX, smpte.org
+DOMAIN-SUFFIX, un.org
+DOMAIN-SUFFIX, w3.org
+DOMAIN-SUFFIX, who.int
+DOMAIN-SUFFIX, wto.org

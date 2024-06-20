@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX, atlassian.com
+DOMAIN-SUFFIX, atlassian.net
+DOMAIN-SUFFIX, bitbucket.io
+DOMAIN-SUFFIX, bitbucket.org
+DOMAIN-SUFFIX, statuspage.io
+
+DOMAIN-SUFFIX, include:trello

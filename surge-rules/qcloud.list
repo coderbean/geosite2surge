@@ -1,0 +1,283 @@
+DOMAIN-SUFFIX, include:discuz
+DOMAIN-SUFFIX, include:dnspod
+
+DOMAIN-SUFFIX, acctdns.com
+DOMAIN-SUFFIX, acctdns.net
+DOMAIN-SUFFIX, aitransfy.com
+DOMAIN-SUFFIX, apaas-zone-test.com
+DOMAIN-SUFFIX, apigwtencent.com
+DOMAIN-SUFFIX, bkapigw.com
+DOMAIN-SUFFIX, bkapps.com
+DOMAIN-SUFFIX, bkclouds.cc
+DOMAIN-SUFFIX, bktencent.com
+DOMAIN-SUFFIX, build9s.io
+DOMAIN-SUFFIX, byodonline.com
+DOMAIN-SUFFIX, cdn-go.cn
+DOMAIN-SUFFIX, cdndoctor.com
+DOMAIN-SUFFIX, cdngot.com
+DOMAIN-SUFFIX, cdntip.com
+DOMAIN-SUFFIX, cdntips.com
+DOMAIN-SUFFIX, cdntips.net
+DOMAIN-SUFFIX, cdnv1.cn
+DOMAIN-SUFFIX, cdnv2.cn
+DOMAIN-SUFFIX, cdnv3.cn
+DOMAIN-SUFFIX, cloud-industry-delivery.site
+DOMAIN-SUFFIX, cloudbase.cn
+DOMAIN-SUFFIX, cloudbase.net
+DOMAIN-SUFFIX, cloudidaas.com
+DOMAIN-SUFFIX, cloudsite.vip
+DOMAIN-SUFFIX, cncqcloud.com
+DOMAIN-SUFFIX, computeinit.com
+DOMAIN-SUFFIX, coolsite.vip
+DOMAIN-SUFFIX, dnsv1.com
+DOMAIN-SUFFIX, dnsv1.com.cn
+DOMAIN-SUFFIX, dothework.cn
+DOMAIN-SUFFIX, ectencent.cn
+DOMAIN-SUFFIX, ectencent.com.cn
+DOMAIN-SUFFIX, edgeonedy1.com
+DOMAIN-SUFFIX, essurl.com
+DOMAIN-SUFFIX, exmailgz.com
+DOMAIN-SUFFIX, fsphere.cn
+DOMAIN-SUFFIX, gaapqcloud.com
+DOMAIN-SUFFIX, gitdrone.cn
+DOMAIN-SUFFIX, gmedev.cn
+DOMAIN-SUFFIX, govqcloud.com
+DOMAIN-SUFFIX, gsadds.com
+DOMAIN-SUFFIX, gtm.pub
+DOMAIN-SUFFIX, hr-welink.com
+DOMAIN-SUFFIX, idcgcloudcs.com
+DOMAIN-SUFFIX, iemiq.com
+DOMAIN-SUFFIX, igtm.pub
+DOMAIN-SUFFIX, intltencentcos.com @!cn
+DOMAIN-SUFFIX, isd.com
+DOMAIN-SUFFIX, ispqcloud.com
+DOMAIN-SUFFIX, itopsdk.com
+DOMAIN-SUFFIX, jrzk.net.cn
+DOMAIN-SUFFIX, my-qcloud.com
+DOMAIN-SUFFIX, myelasticsearch.com
+DOMAIN-SUFFIX, myqcloud.com
+DOMAIN-SUFFIX, onexmail.com
+DOMAIN-SUFFIX, openapp.run
+DOMAIN-SUFFIX, ovscdns.com
+DOMAIN-SUFFIX, ovscdns.net
+DOMAIN-SUFFIX, pn1waq.com
+DOMAIN-SUFFIX, qcloud-edumall.com
+DOMAIN-SUFFIX, qcloud.com
+DOMAIN-SUFFIX, qcloud.la
+DOMAIN-SUFFIX, qcloudapps.com
+DOMAIN-SUFFIX, qcloudcdn.com
+DOMAIN-SUFFIX, qcloudcdntest.cn
+DOMAIN-SUFFIX, qcloudclass.com
+DOMAIN-SUFFIX, qcloudcos.cn
+DOMAIN-SUFFIX, qcloudcos.com
+DOMAIN-SUFFIX, qcloudcos.com.cn
+DOMAIN-SUFFIX, qclouder.com
+DOMAIN-SUFFIX, qcloudgme.com
+DOMAIN-SUFFIX, qcloudimg.com
+DOMAIN-SUFFIX, qcloudipv6.com
+DOMAIN-SUFFIX, qcloudmarket.com
+DOMAIN-SUFFIX, qcloudns.com
+DOMAIN-SUFFIX, qcloudsmartiot.com
+DOMAIN-SUFFIX, qcloudtcic.com
+DOMAIN-SUFFIX, qcloudtiw.com
+DOMAIN-SUFFIX, qcloudtrip.com
+DOMAIN-SUFFIX, qcloudtt.com
+DOMAIN-SUFFIX, qcloudwaf.com
+DOMAIN-SUFFIX, qdwebim.com
+DOMAIN-SUFFIX, qeodns.com
+DOMAIN-SUFFIX, qeodns.net
+DOMAIN-SUFFIX, qqmra.cn
+DOMAIN-SUFFIX, qqmra.com
+DOMAIN-SUFFIX, qyunapp.com
+DOMAIN-SUFFIX, serverlesscloud.cn
+DOMAIN-SUFFIX, smtcdns.com
+DOMAIN-SUFFIX, smtcdns.net
+DOMAIN-SUFFIX, spcdntip.com
+DOMAIN-SUFFIX, spcdntipbak.com
+DOMAIN-SUFFIX, spcloudhw.com
+DOMAIN-SUFFIX, spcloudhw.net
+DOMAIN-SUFFIX, srmkp.cn
+DOMAIN-SUFFIX, starlakelab.com
+DOMAIN-SUFFIX, tamaegis.com
+DOMAIN-SUFFIX, tapd.cn
+DOMAIN-SUFFIX, tcdlive.com
+DOMAIN-SUFFIX, tcdnhw.com
+DOMAIN-SUFFIX, tcdnkcbak.com
+DOMAIN-SUFFIX, tcdnlive.com
+DOMAIN-SUFFIX, tcdnlivebak1.com
+DOMAIN-SUFFIX, tcdnlivebak2.com
+DOMAIN-SUFFIX, tcdnos.com
+DOMAIN-SUFFIX, tcdnos.net
+DOMAIN-SUFFIX, tcdntip.com
+DOMAIN-SUFFIX, tcdnvod.com
+DOMAIN-SUFFIX, tcdnvodbak.com
+DOMAIN-SUFFIX, tcloudbase.com
+DOMAIN-SUFFIX, tcloudbase.net
+DOMAIN-SUFFIX, tcloudbaseapp.com
+DOMAIN-SUFFIX, tcloudbi.com
+DOMAIN-SUFFIX, tclouddrive.com
+DOMAIN-SUFFIX, tcloudedu.com
+DOMAIN-SUFFIX, tcloudhw.com
+DOMAIN-SUFFIX, tcloudhw.net
+DOMAIN-SUFFIX, tcloudscdn.com
+DOMAIN-SUFFIX, tcloudscdn.net
+DOMAIN-SUFFIX, tdnsx1.com
+DOMAIN-SUFFIX, techo.chat
+DOMAIN-SUFFIX, tefscloud.com
+DOMAIN-SUFFIX, tefscloud.net
+DOMAIN-SUFFIX, tenant-zone-dev.com
+DOMAIN-SUFFIX, tencdns.net
+DOMAIN-SUFFIX, tencent-cloud.com
+DOMAIN-SUFFIX, tencent-cloud.net
+DOMAIN-SUFFIX, tencentapps.com
+DOMAIN-SUFFIX, tencentbyod.com
+DOMAIN-SUFFIX, tencentcdb.cn
+DOMAIN-SUFFIX, tencentcdb.com
+DOMAIN-SUFFIX, tencentcdb.com.cn
+DOMAIN-SUFFIX, tencentclb.com
+DOMAIN-SUFFIX, tencentcloud-aiot.com
+DOMAIN-SUFFIX, tencentcloudapi.com
+DOMAIN-SUFFIX, tencentcloudclub.com
+DOMAIN-SUFFIX, tencentcloudcr.com
+DOMAIN-SUFFIX, tencentcloudmarket.com
+DOMAIN-SUFFIX, tencentcloudns.com
+DOMAIN-SUFFIX, tencentcloudsec.com
+DOMAIN-SUFFIX, tencentcloudses.com
+DOMAIN-SUFFIX, tencentcos.cn
+DOMAIN-SUFFIX, tencentcos.com
+DOMAIN-SUFFIX, tencentcos.com.cn
+DOMAIN-SUFFIX, tencentcs.com
+DOMAIN-SUFFIX, tencentdayu.com
+DOMAIN-SUFFIX, tencentdb.com
+DOMAIN-SUFFIX, tencentdevices.com
+DOMAIN-SUFFIX, tencentdigitalassistant.com
+DOMAIN-SUFFIX, tencentdms.com
+DOMAIN-SUFFIX, tencenteiam.com
+DOMAIN-SUFFIX, tencentelasticsearch.com
+DOMAIN-SUFFIX, tencentid.com
+DOMAIN-SUFFIX, tencentidentity.com
+DOMAIN-SUFFIX, tencentproxy.com
+DOMAIN-SUFFIX, tencentrio.com
+DOMAIN-SUFFIX, tencenttid.com
+DOMAIN-SUFFIX, tencentwemeet.club
+DOMAIN-SUFFIX, tencentwepark.com
+DOMAIN-SUFFIX, tencentyun.com
+DOMAIN-SUFFIX, tendbcluster.com
+DOMAIN-SUFFIX, tendis.net
+DOMAIN-SUFFIX, testjrzk.net.cn
+DOMAIN-SUFFIX, testmeet.cn
+DOMAIN-SUFFIX, testwaf.com
+DOMAIN-SUFFIX, tgovcloud.com
+DOMAIN-SUFFIX, tidaas.com
+DOMAIN-SUFFIX, timatrix.com.cn
+DOMAIN-SUFFIX, timmerse.com
+DOMAIN-SUFFIX, tlivecdn.com
+DOMAIN-SUFFIX, tourismshow.cn
+DOMAIN-SUFFIX, tourismuser.cn
+DOMAIN-SUFFIX, tsparkling.com
+DOMAIN-SUFFIX, tx-exhibition.com
+DOMAIN-SUFFIX, txbyod.com
+DOMAIN-SUFFIX, txidc.wang
+DOMAIN-SUFFIX, txtyxg.com
+DOMAIN-SUFFIX, txyscdn.com
+DOMAIN-SUFFIX, txyscdn.net
+DOMAIN-SUFFIX, uncnn.cn
+DOMAIN-SUFFIX, vcloudstc.com
+DOMAIN-SUFFIX, vcloudstc.net
+DOMAIN-SUFFIX, vcloudvod.com
+DOMAIN-SUFFIX, vodtcbk.com
+DOMAIN-SUFFIX, vxo7tu.com
+DOMAIN-SUFFIX, wework-studio.com
+DOMAIN-SUFFIX, xqymuy.com
+DOMAIN-SUFFIX, yufuid.com
+DOMAIN-SUFFIX, yufuid.com.cn
+DOMAIN-SUFFIX, yufuid.net
+DOMAIN-SUFFIX, yunjitele.com
+
+DOMAIN-SUFFIX, regexp:.+\.dnse[0-5]\.(cn|com)$
+DOMAIN-SUFFIX, regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
+
+DOMAIN-SUFFIX, # myqcloud inside mainland China
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$             #北京
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$             #南京
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$            #上海
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$           #广州
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$             #成都
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$           #重庆
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$            #深圳
+
+DOMAIN-SUFFIX, # COS 使用到的非中国大陆的地域与可用区，参见 https://cloud.tencent.com/document/product/436/6224
+DOMAIN-SUFFIX, ap-hongkong.myqcloud.com @!cn       #中国香港
+DOMAIN-SUFFIX, ap-singapore.myqcloud.com @!cn      #新加坡
+DOMAIN-SUFFIX, ap-mumbai.myqcloud.com @!cn         #孟买
+DOMAIN-SUFFIX, ap-jakarta.myqcloud.com @!cn        #雅加达
+DOMAIN-SUFFIX, ap-seoul.myqcloud.com @!cn          #首尔
+DOMAIN-SUFFIX, ap-bangkok.myqcloud.com @!cn        #曼谷
+DOMAIN-SUFFIX, ap-tokyo.myqcloud.com @!cn          #东京
+DOMAIN-SUFFIX, na-siliconvalley.myqcloud.com @!cn  #硅谷（美西）
+DOMAIN-SUFFIX, na-ashburn.myqcloud.com @!cn        #弗吉尼亚（美东）
+DOMAIN-SUFFIX, na-toronto.myqcloud.com @!cn        #多伦多
+DOMAIN-SUFFIX, sa-saopaulo.myqcloud.com @!cn       #圣保罗
+DOMAIN-SUFFIX, eu-frankfurt.myqcloud.com @!cn      #法兰克福
+DOMAIN-SUFFIX, eu-moscow.myqcloud.com @!cn         #莫斯科
+
+DOMAIN-SUFFIX, # tencentcos inside mainland China
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #北京
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #南京
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #上海
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #广州
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #成都
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #重庆
+DOMAIN-SUFFIX, regexp:\.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #深圳
+
+DOMAIN-SUFFIX, # tencentcos outside mainland China
+DOMAIN-SUFFIX, regexp:.+\.ap-hongkong\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #中国香港
+DOMAIN-SUFFIX, regexp:.+\.ap-singapore\.tencentcos\.(cn|com(\.cn)?)$ @!cn      #新加坡
+DOMAIN-SUFFIX, regexp:.+\.ap-mumbai\.tencentcos\.(cn|com(\.cn)?)$ @!cn         #孟买
+DOMAIN-SUFFIX, regexp:.+\.ap-jakarta\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #雅加达
+DOMAIN-SUFFIX, regexp:.+\.ap-seoul\.tencentcos\.(cn|com(\.cn)?)$ @!cn          #首尔
+DOMAIN-SUFFIX, regexp:.+\.ap-bangkok\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #曼谷
+DOMAIN-SUFFIX, regexp:.+\.ap-tokyo\.tencentcos\.(cn|com(\.cn)?)$ @!cn          #东京
+DOMAIN-SUFFIX, regexp:.+\.na-siliconvalley\.tencentcos\.(cn|com(\.cn)?)$ @!cn  #硅谷（美西）
+DOMAIN-SUFFIX, regexp:.+\.na-ashburn\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #弗吉尼亚（美东）
+DOMAIN-SUFFIX, regexp:.+\.na-toronto\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #多伦多
+DOMAIN-SUFFIX, regexp:.+\.sa-saopaulo\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #圣保罗
+DOMAIN-SUFFIX, regexp:.+\.eu-frankfurt\.tencentcos\.(cn|com(\.cn)?)$ @!cn      #法兰克福
+DOMAIN-SUFFIX, regexp:.+\.eu-moscow\.tencentcos\.(cn|com(\.cn)?)$ @!cn         #莫斯科
+
+DOMAIN-SUFFIX, # Formerly COS Download Domain
+DOMAIN-SUFFIX, costj.myqcloud.com                  #北京一区（华北）
+DOMAIN-SUFFIX, cosbj.myqcloud.com                  #北京
+DOMAIN-SUFFIX, cossh.myqcloud.com                  #上海（华东）
+DOMAIN-SUFFIX, cosgz.myqcloud.com                  #广州（华南）
+DOMAIN-SUFFIX, coscd.myqcloud.com                  #成都（西南）
+DOMAIN-SUFFIX, coshk.myqcloud.com @!cn             #中国香港
+DOMAIN-SUFFIX, cossgp.myqcloud.com @!cn            #新加坡
+DOMAIN-SUFFIX, cosca.myqcloud.com @!cn             #多伦多
+DOMAIN-SUFFIX, cosger.myqcloud.com @!cn            #法兰克福
+
+DOMAIN-SUFFIX, # Formerly COS Upload Domain
+DOMAIN-SUFFIX, tj.file.myqcloud.com                #北京一区（华北）
+DOMAIN-SUFFIX, bj.file.myqcloud.com                #北京
+DOMAIN-SUFFIX, sh.file.myqcloud.com                #上海（华东）
+DOMAIN-SUFFIX, gz.file.myqcloud.com                #广州（华南）
+DOMAIN-SUFFIX, cd.file.myqcloud.com                #成都（西南）
+DOMAIN-SUFFIX, hk.file.myqcloud.com @!cn           #中国香港
+DOMAIN-SUFFIX, sgp.file.myqcloud.com @!cn          #新加坡
+DOMAIN-SUFFIX, ca.file.myqcloud.com @!cn           #多伦多
+DOMAIN-SUFFIX, ger.file.myqcloud.com @!cn          #法兰克福
+
+DOMAIN-SUFFIX, # Oracle
+DOMAIN-SUFFIX, oracle-tencent.cn
+DOMAIN-SUFFIX, oracle-tencent.com
+DOMAIN-SUFFIX, oracle-tencent.com.cn
+DOMAIN-SUFFIX, oracle-tencent.net
+DOMAIN-SUFFIX, oracle-tencent.net.cn
+
+DOMAIN-SUFFIX, # 腾讯优码
+DOMAIN-SUFFIX, m1.run
+DOMAIN-SUFFIX, m6.run
+DOMAIN-SUFFIX, m9.run
+DOMAIN-SUFFIX, ma.run
+DOMAIN-SUFFIX, um.run
+DOMAIN-SUFFIX, ym.run

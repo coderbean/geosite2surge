@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX, # Iranian shopping websites 
+DOMAIN-SUFFIX, include:divar
+
+DOMAIN-SUFFIX, digi-kala.com
+DOMAIN-SUFFIX, emalls.ir
+DOMAIN-SUFFIX, esam.ir
+DOMAIN-SUFFIX, janebi.com
+DOMAIN-SUFFIX, janebi.ir
+DOMAIN-SUFFIX, sheypoor.com
+DOMAIN-SUFFIX, torob.com
+DOMAIN-SUFFIX, zanbil.ir
+
+DOMAIN-SUFFIX, # Digikala
+DOMAIN-SUFFIX, digikala.com
+DOMAIN-SUFFIX, digikalabusiness.com
+DOMAIN-SUFFIX, digikalajet.com
+DOMAIN-SUFFIX, digistyle.com
