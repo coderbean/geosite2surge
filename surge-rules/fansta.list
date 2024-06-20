@@ -1,10 +1,7 @@
 DOMAIN-SUFFIX, fansta.me
-
 DOMAIN-SUFFIX, full:misa-prod.s3.ap-northeast-1.amazonaws.com
-
-DOMAIN-SUFFIX, # AGA Expo
+# AGA Expo
 DOMAIN-SUFFIX, 2023aga.oen.tw
 DOMAIN-SUFFIX, aga-expo.com
-
-DOMAIN-SUFFIX, # CosFans
+# CosFans
 DOMAIN-SUFFIX, cosfans-tw.com

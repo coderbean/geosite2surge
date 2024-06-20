@@ -1,9 +1,6 @@
-DOMAIN-SUFFIX, # All .yandex domains
-DOMAIN-SUFFIX, yandex
-
-DOMAIN-SUFFIX, # яндекс.рф
+# All .yandex domains
+# яндекс.рф
 DOMAIN-SUFFIX, xn--d1acpjx3f.xn--p1ai
-
 DOMAIN-SUFFIX, dzen.ru
 DOMAIN-SUFFIX, ya.ru
 DOMAIN-SUFFIX, yandex.aero

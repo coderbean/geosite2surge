@@ -48,7 +48,6 @@ DOMAIN-SUFFIX, pinterest.tw
 DOMAIN-SUFFIX, pinterest.uk
 DOMAIN-SUFFIX, pinterest.vn
 DOMAIN-SUFFIX, pinterestmail.com
-
-DOMAIN-SUFFIX, #CDN
+#CDN
 DOMAIN-SUFFIX, pinimg.com.cdn.cloudflare.net
 DOMAIN-SUFFIX, pinterest.map.fastly.net 

@@ -1,12 +1,3 @@
-DOMAIN-SUFFIX, include:bcy
-DOMAIN-SUFFIX, include:fqnovel
-DOMAIN-SUFFIX, include:juejin
-DOMAIN-SUFFIX, include:lark
-DOMAIN-SUFFIX, include:tiktok
-DOMAIN-SUFFIX, include:bytedance-ads
-DOMAIN-SUFFIX, include:volcengine
-
-
 DOMAIN-SUFFIX, 99uri.cn
 DOMAIN-SUFFIX, 99uri.com
 DOMAIN-SUFFIX, activity01.com
@@ -325,9 +316,7 @@ DOMAIN-SUFFIX, zjbyte.net
 DOMAIN-SUFFIX, zjcdn.com
 DOMAIN-SUFFIX, zjfcdn.com
 DOMAIN-SUFFIX, zjgslb.com
-
-
-DOMAIN-SUFFIX, # 今日头条
+# 今日头条
 DOMAIN-SUFFIX, toutiao.com
 DOMAIN-SUFFIX, toutiaoapi.com
 DOMAIN-SUFFIX, toutiaocdn.com
@@ -341,49 +330,40 @@ DOMAIN-SUFFIX, toutiaoimg.net
 DOMAIN-SUFFIX, toutiaopage.com
 DOMAIN-SUFFIX, toutiaostatic.com
 DOMAIN-SUFFIX, toutiaovod.com
-
-DOMAIN-SUFFIX, # 抖音
+# 抖音
 DOMAIN-SUFFIX, douyin.com
 DOMAIN-SUFFIX, douyincdn.com
 DOMAIN-SUFFIX, douyinliving.com
 DOMAIN-SUFFIX, douyinpic.com
 DOMAIN-SUFFIX, douyinstatic.com
 DOMAIN-SUFFIX, douyinvod.com
-
-DOMAIN-SUFFIX, # 抖音火山版
+# 抖音火山版
 DOMAIN-SUFFIX, huoshan.com
 DOMAIN-SUFFIX, huoshanstatic.com
 DOMAIN-SUFFIX, huoshanzhibo.com
-
-DOMAIN-SUFFIX, # 豆包
+# 豆包
 DOMAIN-SUFFIX, doubao.com @cn
-
-DOMAIN-SUFFIX, # 扣子
+# 扣子
 DOMAIN-SUFFIX, coze.cn @cn
 DOMAIN-SUFFIX, coze.com @!cn
-
-DOMAIN-SUFFIX, # 西瓜视频
+# 西瓜视频
 DOMAIN-SUFFIX, ixigua.com
 DOMAIN-SUFFIX, ixiguavideo.com
 DOMAIN-SUFFIX, ixgvideo.com
 DOMAIN-SUFFIX, bdxiguaimg.com
 DOMAIN-SUFFIX, bdxiguastatic.com
-
-DOMAIN-SUFFIX, # 快懂百科
+# 快懂百科
 DOMAIN-SUFFIX, baike.com
-
-DOMAIN-SUFFIX, # 飞书
+# 飞书
 DOMAIN-SUFFIX, feishu.cn
 DOMAIN-SUFFIX, feishu.net
 DOMAIN-SUFFIX, feishucdn.com
 DOMAIN-SUFFIX, feishupkg.com
-
-DOMAIN-SUFFIX, # 悟空问答
+# 悟空问答
 DOMAIN-SUFFIX, wukong.com
 DOMAIN-SUFFIX, wukongwenda.cn
 DOMAIN-SUFFIX, wukongwenda.com
-
-DOMAIN-SUFFIX, # 懂车帝
+# 懂车帝
 DOMAIN-SUFFIX, dcarapi.com
 DOMAIN-SUFFIX, dcarimg.com
 DOMAIN-SUFFIX, dcarlive.com
@@ -392,22 +372,16 @@ DOMAIN-SUFFIX, dcarvod.com
 DOMAIN-SUFFIX, dcdapp.com
 DOMAIN-SUFFIX, dongchedi.com
 DOMAIN-SUFFIX, dongchediapp.com
-
-DOMAIN-SUFFIX, # 阳关宽频网
+# 阳关宽频网
 DOMAIN-SUFFIX, 365yg.com
-
-DOMAIN-SUFFIX, # GoGoKid
+# GoGoKid
 DOMAIN-SUFFIX, gogokid.com.cn
 DOMAIN-SUFFIX, gogokid.com
-
-DOMAIN-SUFFIX, # 皮皮虾
+# 皮皮虾
 DOMAIN-SUFFIX, pipix.com
-
-DOMAIN-SUFFIX, # faceu
+# faceu
 DOMAIN-SUFFIX, faceu.com
-
-DOMAIN-SUFFIX, # 轻颜相机
+# 轻颜相机
 DOMAIN-SUFFIX, ulikecam.com
-
-DOMAIN-SUFFIX, # RsProxy 镜像
+# RsProxy 镜像
 DOMAIN-SUFFIX, rsproxy.cn

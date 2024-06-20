@@ -1,9 +1,4 @@
-DOMAIN-SUFFIX, include:playstation
-DOMAIN-SUFFIX, include:sonypictures
-
-DOMAIN-SUFFIX, # All .sony domains
-DOMAIN-SUFFIX, sony
-
+# All .sony domains
 DOMAIN-SUFFIX, ginzasonypark.jp
 DOMAIN-SUFFIX, sony-africa.com
 DOMAIN-SUFFIX, sony-asia.com

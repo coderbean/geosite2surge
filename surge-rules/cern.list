@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .cern domains
-DOMAIN-SUFFIX, cern
-
+# All .cern domains
 DOMAIN-SUFFIX, ams02.space
 DOMAIN-SUFFIX, cern.ch
 DOMAIN-SUFFIX, cixp.net

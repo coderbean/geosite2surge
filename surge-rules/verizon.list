@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX, include:yahoo
-
 DOMAIN-SUFFIX, oath.cloud
 DOMAIN-SUFFIX, oath.com
 DOMAIN-SUFFIX, ouroath.com
@@ -15,6 +13,5 @@ DOMAIN-SUFFIX, verizonmedia.com
 DOMAIN-SUFFIX, verizonwireless.com
 DOMAIN-SUFFIX, vzw.com
 DOMAIN-SUFFIX, xo.com
-
-DOMAIN-SUFFIX, # PKI
+# PKI
 DOMAIN-SUFFIX, omniroot.com

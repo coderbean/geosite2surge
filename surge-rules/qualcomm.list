@@ -42,8 +42,6 @@ DOMAIN-SUFFIX, uplinq.com
 DOMAIN-SUFFIX, wipower.com
 DOMAIN-SUFFIX, wirelessreach.com
 DOMAIN-SUFFIX, xtracloud.cn @cn
-
-DOMAIN-SUFFIX, # brew
+# brew
 DOMAIN-SUFFIX, brewmp.com
-
 DOMAIN-SUFFIX, full:qualcomm.sc.omtrdc.net

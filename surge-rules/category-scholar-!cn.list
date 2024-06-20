@@ -1,23 +1,4 @@
-DOMAIN-SUFFIX, # This list contains scholarly domains that don't have access point in China Mainland.
-
-DOMAIN-SUFFIX, include:apa
-DOMAIN-SUFFIX, include:cambridge
-DOMAIN-SUFFIX, include:clarivate
-DOMAIN-SUFFIX, include:doi
-DOMAIN-SUFFIX, include:elsevier
-DOMAIN-SUFFIX, include:google-scholar
-DOMAIN-SUFFIX, include:ieee
-DOMAIN-SUFFIX, include:imperialcollege
-DOMAIN-SUFFIX, include:knovel
-DOMAIN-SUFFIX, include:mit
-DOMAIN-SUFFIX, include:oup
-DOMAIN-SUFFIX, include:proquest
-DOMAIN-SUFFIX, include:sci-hub
-DOMAIN-SUFFIX, include:sciencedirect
-DOMAIN-SUFFIX, include:springer
-DOMAIN-SUFFIX, include:taylorfrancis
-DOMAIN-SUFFIX, include:z-library
-
+# This list contains scholarly domains that don't have access point in China Mainland.
 DOMAIN-SUFFIX, aacrjournals.org # AACR 美国癌症研究学会
 DOMAIN-SUFFIX, academic.eb.com # Britannica Academic
 DOMAIN-SUFFIX, acaric.co.jp # 株式会社アカリク
@@ -27,11 +8,9 @@ DOMAIN-SUFFIX, acs.org
 DOMAIN-SUFFIX, agu.org # American Geophysical Union
 DOMAIN-SUFFIX, aiaa.org # AIAA 美国航空航天学会
 DOMAIN-SUFFIX, aimsciences.org # AIMS 美国科学数学协会期刊库
-
-DOMAIN-SUFFIX, # 華藝學術
+# 華藝學術
 DOMAIN-SUFFIX, airiti.com
 DOMAIN-SUFFIX, airitilibrary.com
-
 DOMAIN-SUFFIX, altmetric.com
 DOMAIN-SUFFIX, alexanderstreet.com # Alexander Street
 DOMAIN-SUFFIX, amdigital.co.uk # Adam Matthew Digital 历史与文化珍稀史料数据库集成
@@ -100,11 +79,9 @@ DOMAIN-SUFFIX, icevirtuallibrary.com # 英国土木工程师学会 ICE Virtual L
 DOMAIN-SUFFIX, icsd.fiz-karlsruhe.de # Inorganic Crystal Structure Database
 DOMAIN-SUFFIX, igi-global.com # IGI Global 平台
 DOMAIN-SUFFIX, igpublish.com # iG Publishing电子图书
-
-DOMAIN-SUFFIX, #  漢珍數字圖書股份有限公司
+#  漢珍數字圖書股份有限公司
 DOMAIN-SUFFIX, hanzhen.xmulib.org # 厦门大学汉珍数位
 DOMAIN-SUFFIX, infolinker.com.tw
-
 DOMAIN-SUFFIX, informs.org
 DOMAIN-SUFFIX, ioinformatics.org
 DOMAIN-SUFFIX, iop.org
@@ -150,13 +127,11 @@ DOMAIN-SUFFIX, rupress.org
 DOMAIN-SUFFIX, sae.org
 DOMAIN-SUFFIX, sagepub.com
 DOMAIN-SUFFIX, scholarpedia.org
-
-DOMAIN-SUFFIX, # Science Online From AAAS
+# Science Online From AAAS
 DOMAIN-SUFFIX, science.com
 DOMAIN-SUFFIX, science.org
 DOMAIN-SUFFIX, sciencemag.org
 DOMAIN-SUFFIX, scienceonline.org
-
 DOMAIN-SUFFIX, scientificamerican.com
 DOMAIN-SUFFIX, scitation.org
 DOMAIN-SUFFIX, semanticscholar.org
@@ -166,13 +141,11 @@ DOMAIN-SUFFIX, spiedigitallibrary.org
 DOMAIN-SUFFIX, statsmakemecry.com
 DOMAIN-SUFFIX, thelancet.com
 DOMAIN-SUFFIX, tickdata.com # Tick Data-Futures and Indices Historical Data
-
-DOMAIN-SUFFIX, # Thieme Gruppe
+# Thieme Gruppe
 DOMAIN-SUFFIX, thieme.de
 DOMAIN-SUFFIX, thieme-connect.com
 DOMAIN-SUFFIX, thieme-connect.de
 DOMAIN-SUFFIX, full:medone-education.thieme.com
-
 DOMAIN-SUFFIX, totalmateria.com # Total Materia
 DOMAIN-SUFFIX, uchicago.edu
 DOMAIN-SUFFIX, ucla.edu
@@ -184,7 +157,6 @@ DOMAIN-SUFFIX, wolterskluwer.com
 DOMAIN-SUFFIX, worldscientific.com
 DOMAIN-SUFFIX, yale.edu
 DOMAIN-SUFFIX, zenodo.org
-
 DOMAIN-SUFFIX, full:angle.com.tw # 元照出版
 DOMAIN-SUFFIX, full:beck-online.beck.de # Beck-Online数据库
 DOMAIN-SUFFIX, full:dl.begellhouse.com # Begell Digital Library
@@ -193,10 +165,8 @@ DOMAIN-SUFFIX, full:database.asahi.com # 朝日新闻数据库（闻藏II Visual
 DOMAIN-SUFFIX, full:elib.maruzen.co.jp # Maruzen e-Book Library（MEL）
 DOMAIN-SUFFIX, full:firstsearch.oclc.org # OCLC FirstSearch
 DOMAIN-SUFFIX, full:muse.jhu.edu # Project MUSE
-
-DOMAIN-SUFFIX, # 日经TELECOM数据库
+# 日经TELECOM数据库
 DOMAIN-SUFFIX, full:t21.nikkei.co.jp
 DOMAIN-SUFFIX, full:t21ipau.nikkei.co.jp
-
 DOMAIN-SUFFIX, full:ulrichsweb.serialssolutions.com
 DOMAIN-SUFFIX, full:wrds-www.wharton.upenn.edu # Compustat 财务与价格数据库

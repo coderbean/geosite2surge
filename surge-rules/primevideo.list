@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX, # Prime Video
+# Prime Video
 DOMAIN-SUFFIX, aiv-cdn.net
 DOMAIN-SUFFIX, amazonprimevideo.cn @cn
 DOMAIN-SUFFIX, amazonprimevideo.com.cn @cn

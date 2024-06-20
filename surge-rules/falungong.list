@@ -1,7 +1,3 @@
-DOMAIN-SUFFIX, include:epochmediagroup
-DOMAIN-SUFFIX, include:kanzhongguo
-DOMAIN-SUFFIX, include:soundofhope
-
 DOMAIN-SUFFIX, aboluowang.com
 DOMAIN-SUFFIX, bannedbook.net
 DOMAIN-SUFFIX, bannedbook.org
@@ -37,8 +33,7 @@ DOMAIN-SUFFIX, zhengjian.org
 DOMAIN-SUFFIX, zhengwunet.org
 DOMAIN-SUFFIX, zhenxiang.biz
 DOMAIN-SUFFIX, zhuichaguoji.org
-
-DOMAIN-SUFFIX, # 神韻
+# 神韻
 DOMAIN-SUFFIX, shenyun.com
 DOMAIN-SUFFIX, shenyun.org
 DOMAIN-SUFFIX, shenyuncreations.com

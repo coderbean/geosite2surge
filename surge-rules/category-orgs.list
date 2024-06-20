@@ -1,17 +1,4 @@
-DOMAIN-SUFFIX, # This list contains organizations outside China mainland.
-
-DOMAIN-SUFFIX, include:archive
-DOMAIN-SUFFIX, include:creativecommons
-DOMAIN-SUFFIX, include:csis
-DOMAIN-SUFFIX, include:emojipedia
-DOMAIN-SUFFIX, include:f-droid
-DOMAIN-SUFFIX, include:ieee
-DOMAIN-SUFFIX, include:nist
-DOMAIN-SUFFIX, include:openstreetmap
-DOMAIN-SUFFIX, include:paskoocheh
-DOMAIN-SUFFIX, include:peppy
-DOMAIN-SUFFIX, include:ruleoflaw
-
+# This list contains organizations outside China mainland.
 DOMAIN-SUFFIX, aomedia.org
 DOMAIN-SUFFIX, atypi.org
 DOMAIN-SUFFIX, change.org

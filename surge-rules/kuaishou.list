@@ -1,10 +1,7 @@
-DOMAIN-SUFFIX, # Beijing Kuaishou Technology Co., Ltd.
-
+# Beijing Kuaishou Technology Co., Ltd.
 DOMAIN-SUFFIX, gifshow.com
 DOMAIN-SUFFIX, ksapisrv.com
 DOMAIN-SUFFIX, kuaishou.com
 DOMAIN-SUFFIX, yximgs.com
 DOMAIN-SUFFIX, kwaizt.com
 DOMAIN-SUFFIX, kuaishouzt.com
-
-DOMAIN-SUFFIX, include:kuaishou-ads

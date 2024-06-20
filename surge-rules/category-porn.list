@@ -1,75 +1,4 @@
-DOMAIN-SUFFIX, include:18comic
-DOMAIN-SUFFIX, include:54647
-DOMAIN-SUFFIX, include:anon-v
-DOMAIN-SUFFIX, include:avmoo
-DOMAIN-SUFFIX, include:bdsmhub
-DOMAIN-SUFFIX, include:bilibili2
-DOMAIN-SUFFIX, include:boboporn
-DOMAIN-SUFFIX, include:bongacams
-DOMAIN-SUFFIX, include:boylove
-DOMAIN-SUFFIX, include:bttzyw
-DOMAIN-SUFFIX, include:camwhores
-DOMAIN-SUFFIX, include:cavporn
-DOMAIN-SUFFIX, include:chatwhores
-DOMAIN-SUFFIX, include:clips4sale
-DOMAIN-SUFFIX, include:cuinc
-DOMAIN-SUFFIX, include:dlsite
-DOMAIN-SUFFIX, include:dmm-porn
-DOMAIN-SUFFIX, include:ehentai
-DOMAIN-SUFFIX, include:erolabs
-DOMAIN-SUFFIX, include:fans66
-DOMAIN-SUFFIX, include:fansta
-DOMAIN-SUFFIX, include:hentaivn
-DOMAIN-SUFFIX, include:heyzo
-DOMAIN-SUFFIX, include:hooligapps
-DOMAIN-SUFFIX, include:illusion
-DOMAIN-SUFFIX, include:illusion-nonofficial
-DOMAIN-SUFFIX, include:jable
-DOMAIN-SUFFIX, include:javbus
-DOMAIN-SUFFIX, include:javcc
-DOMAIN-SUFFIX, include:javdb
-DOMAIN-SUFFIX, include:japonx
-DOMAIN-SUFFIX, include:javwide
-DOMAIN-SUFFIX, include:jkf
-DOMAIN-SUFFIX, include:johren
-DOMAIN-SUFFIX, include:justav
-DOMAIN-SUFFIX, include:kemono
-DOMAIN-SUFFIX, include:konachan
-DOMAIN-SUFFIX, include:kubakuba
-DOMAIN-SUFFIX, include:lethalhardcore
-DOMAIN-SUFFIX, include:lisiku
-DOMAIN-SUFFIX, include:metart
-DOMAIN-SUFFIX, include:mindgeek-porn
-DOMAIN-SUFFIX, include:moxing
-DOMAIN-SUFFIX, include:netflav
-DOMAIN-SUFFIX, include:nudevista
-DOMAIN-SUFFIX, include:picacg
-DOMAIN-SUFFIX, include:playboy
-DOMAIN-SUFFIX, include:pornpros
-DOMAIN-SUFFIX, include:sehuatang
-DOMAIN-SUFFIX, include:shireyishunjian
-DOMAIN-SUFFIX, include:smtiaojiaoshi
-DOMAIN-SUFFIX, include:spankbang
-DOMAIN-SUFFIX, include:swag
-DOMAIN-SUFFIX, include:theporndude
-DOMAIN-SUFFIX, include:thescoregroup
-DOMAIN-SUFFIX, include:tokyo-toshokan
-DOMAIN-SUFFIX, include:truyen-hentai
-DOMAIN-SUFFIX, include:uu-chat
-DOMAIN-SUFFIX, include:xhamster
-DOMAIN-SUFFIX, include:xingkongwuxianmedia
-DOMAIN-SUFFIX, include:xnxx
-DOMAIN-SUFFIX, include:xvideos
-DOMAIN-SUFFIX, include:youjizz
-DOMAIN-SUFFIX, include:yunlaopo
-DOMAIN-SUFFIX, include:zhimeishe
-
-
-DOMAIN-SUFFIX, # The top domains of the pornographic website.
-
-DOMAIN-SUFFIX, adult
-DOMAIN-SUFFIX, porn
-
+# The top domains of the pornographic website.
 DOMAIN-SUFFIX, 02weqj32.com
 DOMAIN-SUFFIX, 04647.club
 DOMAIN-SUFFIX, 0cgdklr5sfwj.com
@@ -5925,13 +5854,9 @@ DOMAIN-SUFFIX, zzdh77.com
 DOMAIN-SUFFIX, zzdh808.com
 DOMAIN-SUFFIX, zzdh99.com
 DOMAIN-SUFFIX, zzgays.com
-
-DOMAIN-SUFFIX, # Full Domain Name
-
+# Full Domain Name
 DOMAIN-SUFFIX, full:anime-rule34-world.b-cdn.net
-
-DOMAIN-SUFFIX, # Internationalized Domain Name
-
+# Internationalized Domain Name
 DOMAIN-SUFFIX, xn--096-4g6em5t.com
 DOMAIN-SUFFIX, xn--201-4g6em5t.com
 DOMAIN-SUFFIX, xn--202-4g6em5t.com
@@ -5954,9 +5879,7 @@ DOMAIN-SUFFIX, xn--uis17aj9kmuf.com
 DOMAIN-SUFFIX, xn--urs05q.jp
 DOMAIN-SUFFIX, xn--x-qeu1ji09tzlg.biz
 DOMAIN-SUFFIX, xn--x-qeu1ji09tzlg.net
-
-DOMAIN-SUFFIX, # Regular Expression
-
+# Regular Expression
 DOMAIN-SUFFIX, regexp:(^|\.)[1-5]gaoap\.com$
 DOMAIN-SUFFIX, regexp:(^|\.)[1-9]+aipai\.(com|net)$
 DOMAIN-SUFFIX, regexp:(^|\.)[1-9]+zipai\.(com|net)$

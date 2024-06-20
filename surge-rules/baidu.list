@@ -1,9 +1,4 @@
-DOMAIN-SUFFIX, include:baidu-ads
-DOMAIN-SUFFIX, include:zuoyebang
-
-DOMAIN-SUFFIX, # All .baidu domains
-DOMAIN-SUFFIX, baidu
-
+# All .baidu domains
 DOMAIN-SUFFIX, 91.com
 DOMAIN-SUFFIX, aipage.com
 DOMAIN-SUFFIX, apollo.auto

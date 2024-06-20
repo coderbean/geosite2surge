@@ -2,6 +2,5 @@ DOMAIN-SUFFIX, livehdcams.com
 DOMAIN-SUFFIX, redtube.com
 DOMAIN-SUFFIX, redtube.com.br
 DOMAIN-SUFFIX, redtubepremium.com
-
-DOMAIN-SUFFIX, # CDN
+# CDN
 DOMAIN-SUFFIX, rdtcdn.com

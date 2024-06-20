@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .youtube domains
-DOMAIN-SUFFIX, youtube
-
+# All .youtube domains
 DOMAIN-SUFFIX, ggpht.cn @cn
 DOMAIN-SUFFIX, ggpht.com
 DOMAIN-SUFFIX, googlevideo.com

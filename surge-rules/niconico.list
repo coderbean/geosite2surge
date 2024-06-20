@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .nico domains
-DOMAIN-SUFFIX, nico
-
+# All .nico domains
 DOMAIN-SUFFIX, nicodic.jp
 DOMAIN-SUFFIX, nicomanga.jp
 DOMAIN-SUFFIX, niconico.com

@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX, # All .target domains
-DOMAIN-SUFFIX, target
-
+# All .target domains
 DOMAIN-SUFFIX, target.com
 DOMAIN-SUFFIX, targetimg1.com

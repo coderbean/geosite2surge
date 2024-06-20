@@ -1,15 +1,6 @@
-DOMAIN-SUFFIX, # This list contains social media platforms inside China mainland.
-
-DOMAIN-SUFFIX, include:bcy
-DOMAIN-SUFFIX, include:douban
-DOMAIN-SUFFIX, include:gracg
-DOMAIN-SUFFIX, include:sina
-DOMAIN-SUFFIX, include:xiaohongshu
-DOMAIN-SUFFIX, include:zhihu
-
+# This list contains social media platforms inside China mainland.
 DOMAIN-SUFFIX, tieba.baidu.com
 DOMAIN-SUFFIX, tieba.com
-
-DOMAIN-SUFFIX, # 杭州蛋蛋语音科技有限公司
+# 杭州蛋蛋语音科技有限公司
 DOMAIN-SUFFIX, dandan818.com
 DOMAIN-SUFFIX, dandanvoice.com

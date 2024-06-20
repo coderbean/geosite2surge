@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX, # Adobe online activation domains
+# Adobe online activation domains
 DOMAIN-SUFFIX, full:3dns-1.adobe.com
 DOMAIN-SUFFIX, full:3dns-2.adobe.com
 DOMAIN-SUFFIX, full:3dns-3.adobe.com

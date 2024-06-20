@@ -1,100 +1,59 @@
-DOMAIN-SUFFIX, include:36kr
-DOMAIN-SUFFIX, include:cctv
-DOMAIN-SUFFIX, include:chinanews
-DOMAIN-SUFFIX, include:dgtle
-DOMAIN-SUFFIX, include:geekpark
-DOMAIN-SUFFIX, include:hupu
-DOMAIN-SUFFIX, include:ifanr
-DOMAIN-SUFFIX, include:jiemian
-DOMAIN-SUFFIX, include:landian
-DOMAIN-SUFFIX, include:phoenix
-DOMAIN-SUFFIX, include:ruanmei
-DOMAIN-SUFFIX, include:sohu
-DOMAIN-SUFFIX, include:solidot
-DOMAIN-SUFFIX, include:sspai
-DOMAIN-SUFFIX, include:tmtpost
-DOMAIN-SUFFIX, include:weiphone
-DOMAIN-SUFFIX, include:ynet
-DOMAIN-SUFFIX, include:xueqiu
-
-DOMAIN-SUFFIX, # 证券时报网
+# 证券时报网
 DOMAIN-SUFFIX, stcn.com
-
-DOMAIN-SUFFIX, # 财经网
+# 财经网
 DOMAIN-SUFFIX, caijing.com.cn
-
-DOMAIN-SUFFIX, # 和讯
+# 和讯
 DOMAIN-SUFFIX, hexun.com
-
-DOMAIN-SUFFIX, # 中金在线
+# 中金在线
 DOMAIN-SUFFIX, cnfol.com
 DOMAIN-SUFFIX, cnfolimg.com
-
-DOMAIN-SUFFIX, # 证券日报
+# 证券日报
 DOMAIN-SUFFIX, zqrb.cn
-
-DOMAIN-SUFFIX, # 每日经济新闻报社
+# 每日经济新闻报社
 DOMAIN-SUFFIX, nbd.com.cn
-
-DOMAIN-SUFFIX, # 上海证券报
+# 上海证券报
 DOMAIN-SUFFIX, cnstock.com
-
-DOMAIN-SUFFIX, # 21世纪经济报
+# 21世纪经济报
 DOMAIN-SUFFIX, 21jingji.com
-
-DOMAIN-SUFFIX, # 第一财经
+# 第一财经
 DOMAIN-SUFFIX, yicai.com
-
-DOMAIN-SUFFIX, # 中证网
+# 中证网
 DOMAIN-SUFFIX, cs.com.cn
-
-DOMAIN-SUFFIX, # 证券之星
+# 证券之星
 DOMAIN-SUFFIX, ssajax.cn
 DOMAIN-SUFFIX, ssimg.cn
 DOMAIN-SUFFIX, stockstar.com
-
-DOMAIN-SUFFIX, # 金融界
+# 金融界
 DOMAIN-SUFFIX, jrj.com.cn
 DOMAIN-SUFFIX, jrjimg.cn
-
-DOMAIN-SUFFIX, # 财联社
+# 财联社
 DOMAIN-SUFFIX, cls.cn
 DOMAIN-SUFFIX, cailianpress.com
-
-DOMAIN-SUFFIX, # 华尔街见闻
+# 华尔街见闻
 DOMAIN-SUFFIX, wallstreetcn.com
 DOMAIN-SUFFIX, jianyuweb.com
 DOMAIN-SUFFIX, wallstcn.com
-
-DOMAIN-SUFFIX, # 同花顺
+# 同花顺
 DOMAIN-SUFFIX, 10jqka.com.cn
 DOMAIN-SUFFIX, thsi.cn
 DOMAIN-SUFFIX, ths123.com
-
-DOMAIN-SUFFIX, # 大智慧
+# 大智慧
 DOMAIN-SUFFIX, dzh.com.cn
 DOMAIN-SUFFIX, gw.com.cn
 DOMAIN-SUFFIX, yundzh.com
-
-DOMAIN-SUFFIX, # 财新网
+# 财新网
 DOMAIN-SUFFIX, caixin.com
-
-DOMAIN-SUFFIX, # Xinhua News Agency
+# Xinhua News Agency
 DOMAIN-SUFFIX, news.cn
 DOMAIN-SUFFIX, xinhuanet.com
-
-DOMAIN-SUFFIX, # 人民网
+# 人民网
 DOMAIN-SUFFIX, people.cn
 DOMAIN-SUFFIX, people.com.cn
-
-DOMAIN-SUFFIX, # 超能网
+# 超能网
 DOMAIN-SUFFIX, expreview.com
-
-DOMAIN-SUFFIX, # 锋潮科技
+# 锋潮科技
 DOMAIN-SUFFIX, anzhuo.cn
-
-DOMAIN-SUFFIX, # 中国IDC圈
+# 中国IDC圈
 DOMAIN-SUFFIX, idcquan.com
-
-DOMAIN-SUFFIX, # 站长网
+# 站长网
 DOMAIN-SUFFIX, admin5.com

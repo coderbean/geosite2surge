@@ -1,17 +1,10 @@
-DOMAIN-SUFFIX, # References:
-DOMAIN-SUFFIX, # https://icannwiki.org/Country_code_top-level_domain
-DOMAIN-SUFFIX, # https://www.101domain.com/branded_domains.htm
-
-DOMAIN-SUFFIX, include:google-registry-tld
-
-DOMAIN-SUFFIX, # Used by U.S. federal government
-DOMAIN-SUFFIX, gov
-DOMAIN-SUFFIX, # Used by U.S. DoD.
-DOMAIN-SUFFIX, mil
-DOMAIN-SUFFIX, # Used by U.S. Higher Education.
-DOMAIN-SUFFIX, edu
-
-DOMAIN-SUFFIX, # ccTLD
+# References:
+# https://icannwiki.org/Country_code_top-level_domain
+# https://www.101domain.com/branded_domains.htm
+# Used by U.S. federal government
+# Used by U.S. DoD.
+# Used by U.S. Higher Education.
+# ccTLD
 DOMAIN-SUFFIX, ac # Ascension Island
 DOMAIN-SUFFIX, ad # Andorra
 DOMAIN-SUFFIX, ae # United Arab Emirates (UAE)
@@ -256,15 +249,13 @@ DOMAIN-SUFFIX, yt # Mayotte
 DOMAIN-SUFFIX, za # South Africa
 DOMAIN-SUFFIX, zm # Zambia
 DOMAIN-SUFFIX, zw # Zimbabwe
-
-DOMAIN-SUFFIX, # Athletics Domains
+# Athletics Domains
 DOMAIN-SUFFIX, afl # Australian Football League
 DOMAIN-SUFFIX, mlb # MLB Advanced Media DH, LLC
 DOMAIN-SUFFIX, nba # National Basketball Association
 DOMAIN-SUFFIX, nfl # National Football League
 DOMAIN-SUFFIX, nra # National Rifle Association
-
-DOMAIN-SUFFIX, # Business Products & Services Domains
+# Business Products & Services Domains
 DOMAIN-SUFFIX, crs # Federated Co operatives Limited
 DOMAIN-SUFFIX, dnp # Dai Nippon Printing Co., Ltd.
 DOMAIN-SUFFIX, dvag # Deutsche Vermögensberatung Aktiengesellschaft DVAG
@@ -279,8 +270,7 @@ DOMAIN-SUFFIX, sap # SAP AG
 DOMAIN-SUFFIX, seek # Seek Limited
 DOMAIN-SUFFIX, wtc # World Trade Centers Association, Inc.
 DOMAIN-SUFFIX, xerox # Business Products Services Domains
-
-DOMAIN-SUFFIX, # Fashion Domains
+# Fashion Domains
 DOMAIN-SUFFIX, athleta # The Gap, Inc.
 DOMAIN-SUFFIX, bloomberg # Bloomberg IP Holdings LLC
 DOMAIN-SUFFIX, calvinklein # Calvin Klein
@@ -296,16 +286,13 @@ DOMAIN-SUFFIX, nike # Nike, Inc.
 DOMAIN-SUFFIX, omega # The Swatch Group Ltd
 DOMAIN-SUFFIX, redstone # Redstone Haute Couture Co., Ltd.
 DOMAIN-SUFFIX, swatch # The Swatch Group Ltd
-
-DOMAIN-SUFFIX, # Geographic top-level domains
-
-DOMAIN-SUFFIX, ## Africa
+# Geographic top-level domains
+## Africa
 DOMAIN-SUFFIX, africa     # Africa
 DOMAIN-SUFFIX, capetown   # Cape Town, South Africa
 DOMAIN-SUFFIX, durban     # Durban, South Africa
 DOMAIN-SUFFIX, joburg     # Johannesburg, South Africa
-
-DOMAIN-SUFFIX, ## Asia
+## Asia
 DOMAIN-SUFFIX, abudhabi   # Abu Dhabi
 DOMAIN-SUFFIX, arab       # Leagueof Arab States
 DOMAIN-SUFFIX, asia       # Asia-Pacific region
@@ -320,8 +307,7 @@ DOMAIN-SUFFIX, taipei     # Taipei, Republic of China (Taiwan)
 DOMAIN-SUFFIX, tatar      # Tatar peoples and places
 DOMAIN-SUFFIX, tokyo      # Tokyo, Japan
 DOMAIN-SUFFIX, yokohama   # Yokohama, Japan
-
-DOMAIN-SUFFIX, ## Europe
+## Europe
 DOMAIN-SUFFIX, alsace     # Alsace, France
 DOMAIN-SUFFIX, amsterdam  # Amsterdam, Netherlands
 DOMAIN-SUFFIX, bar        # Bar, Montenegro
@@ -359,24 +345,20 @@ DOMAIN-SUFFIX, vlaanderen # Flanders, Belgium
 DOMAIN-SUFFIX, wales      # Wales, United Kingdom
 DOMAIN-SUFFIX, wien       # Vienna, Austria
 DOMAIN-SUFFIX, zuerich    # Zurich, Switzerland
-
-DOMAIN-SUFFIX, ## North America
+## North America
 DOMAIN-SUFFIX, boston     # Boston, Massachusetts, United States of America
 DOMAIN-SUFFIX, miami      # Miami, Florida, United States of America
 DOMAIN-SUFFIX, nyc        # New York City, New York, United States of America
 DOMAIN-SUFFIX, quebec     # Quebec, Canada
 DOMAIN-SUFFIX, vegas      # Las Vegas, Nevada, United States of America
-
-DOMAIN-SUFFIX, ## Oceania
+## Oceania
 DOMAIN-SUFFIX, kiwi       # New Zealanders
 DOMAIN-SUFFIX, melbourne  # Melbourne, Australia
 DOMAIN-SUFFIX, sydney     # Sydney, Australia
-
-DOMAIN-SUFFIX, ## South America
+## South America
 DOMAIN-SUFFIX, lat        # Latin America
 DOMAIN-SUFFIX, rio        # Rio de Janeiro, Brazil
-
-DOMAIN-SUFFIX, # Health & Wellness Domains
+# Health & Wellness Domains
 DOMAIN-SUFFIX, aarp # Health Wellness Domains
 DOMAIN-SUFFIX, abbott # Abbott Laboratories
 DOMAIN-SUFFIX, abbvie # Abbott Laboratories
@@ -387,8 +369,7 @@ DOMAIN-SUFFIX, dabur # Dabur India Limited
 DOMAIN-SUFFIX, fresenius # Fresenius Immobilien-Verwaltungs-GmbH
 DOMAIN-SUFFIX, jnj # Johnson & Johnson Services, Inc.
 DOMAIN-SUFFIX, sanofi # Health Wellness Domains
-
-DOMAIN-SUFFIX, # Industrial Domains
+# Industrial Domains
 DOMAIN-SUFFIX, aeg # Aktiebolaget Electrolux
 DOMAIN-SUFFIX, airbus # Airbus S.A.S.
 DOMAIN-SUFFIX, alstom # Industrial Domains
@@ -428,8 +409,7 @@ DOMAIN-SUFFIX, weber # Saint-Gobain Weber SA
 DOMAIN-SUFFIX, weir # Weir Group IP Limited
 DOMAIN-SUFFIX, woodside # Woodside Petroleum Limited
 DOMAIN-SUFFIX, zara # Inditex, SA
-
-DOMAIN-SUFFIX, # Miscellaneous Domains
+# Miscellaneous Domains
 DOMAIN-SUFFIX, africamagic # Electronic Media Network Limited
 DOMAIN-SUFFIX, agakhan # Aga Khan Foundation
 DOMAIN-SUFFIX, akdn # Aga Khan Foundation
@@ -466,14 +446,12 @@ DOMAIN-SUFFIX, vodka # Alcohol
 DOMAIN-SUFFIX, wine # Alcohol
 DOMAIN-SUFFIX, wme # William Morris Endeavor Entertainment, LLC
 DOMAIN-SUFFIX, wtf # What the fuck
-
-DOMAIN-SUFFIX, # Religion
+# Religion
 DOMAIN-SUFFIX, bible # Bible
 DOMAIN-SUFFIX, catholic # Catholic
 DOMAIN-SUFFIX, ismaili # a Shiite sect
 DOMAIN-SUFFIX, xn--mgbi4ecexp # Arabic for Catholic
-
-DOMAIN-SUFFIX, # Research & Science Domains
+# Research & Science Domains
 DOMAIN-SUFFIX, cern # European Organization for Nuclear Research
 DOMAIN-SUFFIX, emerck # Merck
 DOMAIN-SUFFIX, hisamitsu # Hisamitsu Pharmaceutical Co., Inc.
@@ -487,21 +465,17 @@ DOMAIN-SUFFIX, stada # STADA Arzneimittel AG
 DOMAIN-SUFFIX, teva # Teva Pharmaceutical Industries Limited
 DOMAIN-SUFFIX, toray # Toray Industries, Inc.
 DOMAIN-SUFFIX, weather # The Weather Channel LLC
-
-DOMAIN-SUFFIX, # Sex & Porn
+# Sex & Porn
 DOMAIN-SUFFIX, adult # Adult content
 DOMAIN-SUFFIX, porn # Pornographic website
 DOMAIN-SUFFIX, sex # Sex
 DOMAIN-SUFFIX, sexy # Sexy
 DOMAIN-SUFFIX, xxx # Pornographic website
-
-DOMAIN-SUFFIX, # Shipping & Delivery Domains
+# Shipping & Delivery Domains
 DOMAIN-SUFFIX, auspost # Australian Postal Corporation
 DOMAIN-SUFFIX, dhl # Deutsche Post AG
 DOMAIN-SUFFIX, fedex # Federal Express Corporation
-
-DOMAIN-SUFFIX, # Top domain of Country or Region (Internationalized Domain Name)
-
+# Top domain of Country or Region (Internationalized Domain Name)
 DOMAIN-SUFFIX, xn--lgbbat1ad8j  #  الجزائر Algeria
 DOMAIN-SUFFIX, xn--y9a3aq  #  հայ Armenia
 DOMAIN-SUFFIX, xn--mgbcpq6gpa1a  #  البحرين Bahrain
@@ -568,8 +542,7 @@ DOMAIN-SUFFIX, xn--pgbs0dh  #  تونس Tunisia
 DOMAIN-SUFFIX, xn--j1amh  #  укр Ukraine
 DOMAIN-SUFFIX, xn--mgbaam7a8h  #  امارات United Arab Emirates
 DOMAIN-SUFFIX, xn--mgb2ddes  #  اليمن Yemen
-
-DOMAIN-SUFFIX, # Automotive Domains
+# Automotive Domains
 DOMAIN-SUFFIX, aaa # American Automobile Association
 DOMAIN-SUFFIX, audi # Automotive Domains
 DOMAIN-SUFFIX, bentley # Bentley Motors Limited
@@ -601,8 +574,7 @@ DOMAIN-SUFFIX, tatamotors # Tata Motors Ltd
 DOMAIN-SUFFIX, toyota # Automotive Domains
 DOMAIN-SUFFIX, tvs # T V Sundram Iyengar & Sons Limited
 DOMAIN-SUFFIX, volvo # Volvo Cars
-
-DOMAIN-SUFFIX, # Computers & Electronics Domains
+# Computers & Electronics Domains
 DOMAIN-SUFFIX, android # Google
 DOMAIN-SUFFIX, apple # Apple Inc.
 DOMAIN-SUFFIX, bestbuy # BBY Solutions, Inc.
@@ -622,8 +594,7 @@ DOMAIN-SUFFIX, sharp # Sharp Corporation
 DOMAIN-SUFFIX, sony # Computers Electronics Domains
 DOMAIN-SUFFIX, toshiba # Toshiba Corporation
 DOMAIN-SUFFIX, yodobashi # Yodobashi Camera Co., LTD
-
-DOMAIN-SUFFIX, # Financial Services Domains
+# Financial Services Domains
 DOMAIN-SUFFIX, allfinanz # Allfinanz Deutsche Vermögensberatung Aktiengesellschaft
 DOMAIN-SUFFIX, ally # Ally Financial Inc.
 DOMAIN-SUFFIX, americanexpress # American Express
@@ -681,14 +652,12 @@ DOMAIN-SUFFIX, ubs # UBS AG
 DOMAIN-SUFFIX, vanguard # The Vanguard Group, Inc.
 DOMAIN-SUFFIX, visa # Visa International Service Association
 DOMAIN-SUFFIX, wolterskluwer # Wolters Kluwer N.V.
-
-DOMAIN-SUFFIX, # Home & Garden Domains
+# Home & Garden Domains
 DOMAIN-SUFFIX, aquarelle # Aquarelle.com
 DOMAIN-SUFFIX, diy # Lifestyle Domain Holdings, Inc
 DOMAIN-SUFFIX, homedepot # Homer TLC, Inc.
 DOMAIN-SUFFIX, homegoods # The TJX Companies, Inc.
-
-DOMAIN-SUFFIX, # Insurance Domains
+# Insurance Domains
 DOMAIN-SUFFIX, aig # American International Group, Inc.
 DOMAIN-SUFFIX, allstate # Allstate Fire and Casualty Insurance Company
 DOMAIN-SUFFIX, americanfamily # AmFam, Inc.
@@ -706,8 +675,7 @@ DOMAIN-SUFFIX, travelersinsurance # Travelers TLD, LLC
 DOMAIN-SUFFIX, travelers # Travelers TLD, LLC
 DOMAIN-SUFFIX, trv # Travelers TLD, LLC
 DOMAIN-SUFFIX, vig # Vienna Insurance Group
-
-DOMAIN-SUFFIX, # Music & Entertainment Domains
+# Music & Entertainment Domains
 DOMAIN-SUFFIX, beats # Beats Electronics, LLC
 DOMAIN-SUFFIX, blockbuster # Dish DBS Corporation
 DOMAIN-SUFFIX, netflix # Netflix, Inc.
@@ -715,8 +683,7 @@ DOMAIN-SUFFIX, playstation # Sony
 DOMAIN-SUFFIX, tab # Tabcorp Holdings Limited
 DOMAIN-SUFFIX, williamhill # William Hill Organization Limited
 DOMAIN-SUFFIX, xbox # Microsoft
-
-DOMAIN-SUFFIX, # Retail Domains
+# Retail Domains
 DOMAIN-SUFFIX, asda # Wal-Mart Stores, Inc.
 DOMAIN-SUFFIX, george # Wal-Mart Stores, Inc.
 DOMAIN-SUFFIX, homesense # The TJX Companies, Inc.
@@ -731,8 +698,7 @@ DOMAIN-SUFFIX, tjmaxx # The TJX Companies, Inc.
 DOMAIN-SUFFIX, tjx # The TJX Companies, Inc.
 DOMAIN-SUFFIX, tkmaxx # The TJX Companies, Inc.
 DOMAIN-SUFFIX, walmart # Wal-Mart Stores, Inc.
-
-DOMAIN-SUFFIX, # Tech Domains
+# Tech Domains
 DOMAIN-SUFFIX, abb # ABB Ltd.
 DOMAIN-SUFFIX, accenture # Accenture Global Services Limited
 DOMAIN-SUFFIX, aco # ACO Severin Ahlmann GmbH & Co. KG
@@ -827,8 +793,7 @@ DOMAIN-SUFFIX, clinique # ELC Online Inc.
 DOMAIN-SUFFIX, lamer # ELC Online Inc.
 DOMAIN-SUFFIX, natura # Natura Cosmeticos S.A.
 DOMAIN-SUFFIX, origins # ELC Online Inc.
-
-DOMAIN-SUFFIX, # Consumables Domains
+# Consumables Domains
 DOMAIN-SUFFIX, barefoot # Gallo Vineyards, Inc.
 DOMAIN-SUFFIX, cuisinella # SALM S.A.S.
 DOMAIN-SUFFIX, edeka # EDEKA Verband kaufmännischer Genossenschaften e.V.
@@ -836,8 +801,7 @@ DOMAIN-SUFFIX, fage # FAGE Dairy Industry S.A.
 DOMAIN-SUFFIX, ferrero # Ferrero Trading Lux S.A.
 DOMAIN-SUFFIX, food # Scripps Networks Interactive, Inc
 DOMAIN-SUFFIX, gallo # Gallo Vineyards, Inc.
-
-DOMAIN-SUFFIX, # Full - IDN Domains
+# Full - IDN Domains
 DOMAIN-SUFFIX, xn--5su34j936bgsg # .香格里拉 Shangri-La International Hotel Management Limited
 DOMAIN-SUFFIX, xn--b4w605ferd # .淡马锡 Temasek Holdings Limtied
 DOMAIN-SUFFIX, xn--cckwcxetd # .アマゾン Amazon
@@ -852,8 +816,7 @@ DOMAIN-SUFFIX, xn--ngbe9e0a # .بيتك Kuwait Finance House
 DOMAIN-SUFFIX, xn--qcka1pmc # .グーグル Google
 DOMAIN-SUFFIX, xn--w4r85el8fhu5dnra # .嘉里大酒店 Kerry Trading Co. Limited
 DOMAIN-SUFFIX, xn--w4rs40l # .嘉里 Kerry Trading Co. Limited
-
-DOMAIN-SUFFIX, # Hotel & Travel Domains
+# Hotel & Travel Domains
 DOMAIN-SUFFIX, caravan # Caravan International, Inc.
 DOMAIN-SUFFIX, cipriani # Hotel Cipriani
 DOMAIN-SUFFIX, clubmed # Club Méditerranée S.A.
@@ -867,14 +830,12 @@ DOMAIN-SUFFIX, shangrila # Shangri-La International Hotel Management Limited
 DOMAIN-SUFFIX, tui # TUI AG
 DOMAIN-SUFFIX, viking # Viking River Cruises
 DOMAIN-SUFFIX, virgin # Virgin Enterprises Limited
-
-DOMAIN-SUFFIX, # Land & Buildings Domains
+# Land & Buildings Domains
 DOMAIN-SUFFIX, able # Able Inc.
 DOMAIN-SUFFIX, cbre # CBRE, Inc.
 DOMAIN-SUFFIX, chintai # Chintai Corporation
 DOMAIN-SUFFIX, lefrak # LeFrak Organization, Inc.
-
-DOMAIN-SUFFIX, # News & Media Domains
+# News & Media Domains
 DOMAIN-SUFFIX, abc #  American Broadcasting Companies, Inc.
 DOMAIN-SUFFIX, arte #  Association Relative à la Télévision Européenne
 DOMAIN-SUFFIX, bbc #  British Broadcasting Corporation
@@ -892,8 +853,7 @@ DOMAIN-SUFFIX, sbs #  Special Broadcasting Service Corporation
 DOMAIN-SUFFIX, seven #  Seven West Media Ltd
 DOMAIN-SUFFIX, sky #  Sky IP International Ltd
 DOMAIN-SUFFIX, weatherchannel #  The Weather Channel, LLC
-
-DOMAIN-SUFFIX, # School & Training Domains
+# School & Training Domains
 DOMAIN-SUFFIX, bauhaus # Werkhaus GmbH
 DOMAIN-SUFFIX, latrobe # La Trobe University
 DOMAIN-SUFFIX, monash # Monash University

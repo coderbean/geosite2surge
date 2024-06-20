@@ -66,40 +66,31 @@ DOMAIN-SUFFIX, whychoosevmwareeuc.com
 DOMAIN-SUFFIX, windowsuem.com
 DOMAIN-SUFFIX, workspaceair.com
 DOMAIN-SUFFIX, xlstudio.com
-
-DOMAIN-SUFFIX, # Avi Networks
+# Avi Networks
 DOMAIN-SUFFIX, avinetworks.com
 DOMAIN-SUFFIX, badaas.com
-
-DOMAIN-SUFFIX, # Bitnami
+# Bitnami
 DOMAIN-SUFFIX, bitnami.com
 DOMAIN-SUFFIX, bitnamiapp.com
 DOMAIN-SUFFIX, bitnamistudio.com
 DOMAIN-SUFFIX, dockerizer.com
-
-DOMAIN-SUFFIX, # Cloud Cred
+# Cloud Cred
 DOMAIN-SUFFIX, cloudcredibility.com
-
-DOMAIN-SUFFIX, # CloudHealth
+# CloudHealth
 DOMAIN-SUFFIX, cloudhealthtech.com
 DOMAIN-SUFFIX, cloudlive.com
-
-DOMAIN-SUFFIX, # Kube
+# Kube
 DOMAIN-SUFFIX, kubeacademy.com
 DOMAIN-SUFFIX, kubeapps.com
-
-DOMAIN-SUFFIX, # Nyansa
+# Nyansa
 DOMAIN-SUFFIX, nyansa.com
-
-DOMAIN-SUFFIX, # VeloCloud
+# VeloCloud
 DOMAIN-SUFFIX, velocloud.com
-
-DOMAIN-SUFFIX, # VMware Tanzu Portfolio
+# VMware Tanzu Portfolio
 DOMAIN-SUFFIX, gopivotal.com
 DOMAIN-SUFFIX, heptio.cn @cn
 DOMAIN-SUFFIX, heptio.com
-
-DOMAIN-SUFFIX, # vRealize Operations
+# vRealize Operations
 DOMAIN-SUFFIX, aliveipc.com
 DOMAIN-SUFFIX, aliveitsm.com
 DOMAIN-SUFFIX, aliveprofiler.com
@@ -109,12 +100,10 @@ DOMAIN-SUFFIX, alivertsm.com
 DOMAIN-SUFFIX, alivevm.com
 DOMAIN-SUFFIX, alivevmax.com
 DOMAIN-SUFFIX, alivevue.com
-
-DOMAIN-SUFFIX, # vSphere
+# vSphere
 DOMAIN-SUFFIX, vsphere.com
 DOMAIN-SUFFIX, vsphere.net
-
-DOMAIN-SUFFIX, # Workspace ONE
+# Workspace ONE
 DOMAIN-SUFFIX, air-watch.com
 DOMAIN-SUFFIX, airwatchexpress.com
 DOMAIN-SUFFIX, airwatchqa.com
@@ -123,5 +112,4 @@ DOMAIN-SUFFIX, getwsone.com
 DOMAIN-SUFFIX, whatisairwatch.com
 DOMAIN-SUFFIX, whatisworkspaceone.com
 DOMAIN-SUFFIX, workspaceone.com
-
 DOMAIN-SUFFIX, full:vmware.tt.omtrdc.net

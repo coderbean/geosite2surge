@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .flickr domains
-DOMAIN-SUFFIX, flickr
-
+# All .flickr domains
 DOMAIN-SUFFIX, flic.kr
 DOMAIN-SUFFIX, flickr.com
 DOMAIN-SUFFIX, flickr.net

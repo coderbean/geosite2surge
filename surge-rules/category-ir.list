@@ -1,65 +1,38 @@
-DOMAIN-SUFFIX, # Iranian websites which will not open without an Iranian IP
-DOMAIN-SUFFIX, # Use to make them direct connections so they open inside Iran
-
-DOMAIN-SUFFIX, # Iran TLDs
-DOMAIN-SUFFIX, ir
+# Iranian websites which will not open without an Iranian IP
+# Use to make them direct connections so they open inside Iran
+# Iran TLDs
 DOMAIN-SUFFIX, xn--mgba3a4f16a # .ایران
 DOMAIN-SUFFIX, xn--mgba3a4fra # .ايران
-
-DOMAIN-SUFFIX, include:category-bank-ir
-DOMAIN-SUFFIX, include:category-bourse-ir
-DOMAIN-SUFFIX, include:category-education-ir
-DOMAIN-SUFFIX, include:category-forums-ir
-DOMAIN-SUFFIX, include:category-gov-ir
-DOMAIN-SUFFIX, include:category-insurance-ir
-DOMAIN-SUFFIX, include:category-media-ir
-DOMAIN-SUFFIX, include:category-news-ir
-DOMAIN-SUFFIX, include:category-payment-ir
-DOMAIN-SUFFIX, include:category-scholar-ir
-DOMAIN-SUFFIX, include:category-shopping-ir
-DOMAIN-SUFFIX, include:category-social-media-ir
-DOMAIN-SUFFIX, include:category-tech-ir
-DOMAIN-SUFFIX, include:category-travel-ir
-
-DOMAIN-SUFFIX, # Conglomerate company
-DOMAIN-SUFFIX, include:snapp
-
-DOMAIN-SUFFIX, # Blog
+# Conglomerate company
+# Blog
 DOMAIN-SUFFIX, blogfa.com
 DOMAIN-SUFFIX, blogsky.com
 DOMAIN-SUFFIX, loxblog.com
 DOMAIN-SUFFIX, niniweblog.com
 DOMAIN-SUFFIX, rozblog.com
-
-DOMAIN-SUFFIX, # Maps
+# Maps
 DOMAIN-SUFFIX, balad.ir
 DOMAIN-SUFFIX, neshan.org
 DOMAIN-SUFFIX, raah.ir
-
-DOMAIN-SUFFIX, # Sport
+# Sport
 DOMAIN-SUFFIX, varzesh3.com
-
-DOMAIN-SUFFIX, # Financial
+# Financial
 DOMAIN-SUFFIX, isignal.ir
 DOMAIN-SUFFIX, tgju.org
-
-DOMAIN-SUFFIX, # Cars
+# Cars
 DOMAIN-SUFFIX, bama.ir
 DOMAIN-SUFFIX, car.ir
 DOMAIN-SUFFIX, ikco.ir
 DOMAIN-SUFFIX, karnameh.com
 DOMAIN-SUFFIX, khodro45.com
 DOMAIN-SUFFIX, saipacorp.com
-
-DOMAIN-SUFFIX, # Misc
+# Misc
 DOMAIN-SUFFIX, porsline.ir
 DOMAIN-SUFFIX, time.ir
-
-DOMAIN-SUFFIX, # Jobs
+# Jobs
 DOMAIN-SUFFIX, jobinja.com
 DOMAIN-SUFFIX, jobinja.ir
 DOMAIN-SUFFIX, jobinjacdn.com
-
 DOMAIN-SUFFIX, beytoote.com
 DOMAIN-SUFFIX, setare.com
 DOMAIN-SUFFIX, tebyan.net

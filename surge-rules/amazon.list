@@ -1,26 +1,8 @@
-DOMAIN-SUFFIX, include:amazon-ads
-DOMAIN-SUFFIX, include:amazontrust
-DOMAIN-SUFFIX, include:aws
-DOMAIN-SUFFIX, include:imdb
-DOMAIN-SUFFIX, include:kindle
-DOMAIN-SUFFIX, include:primevideo
-DOMAIN-SUFFIX, include:wholefoodsmarket
-
-DOMAIN-SUFFIX, # All .amazon domains
-DOMAIN-SUFFIX, amazon
-
-DOMAIN-SUFFIX, # All .アマゾン domains
-DOMAIN-SUFFIX, xn--cckwcxetd
-
-DOMAIN-SUFFIX, # All .亚马逊 domains
-DOMAIN-SUFFIX, xn--jlq480n2rg
-
-DOMAIN-SUFFIX, # All .yamaxun domains
-DOMAIN-SUFFIX, yamaxun
-
-DOMAIN-SUFFIX, # All .zappos domains
-DOMAIN-SUFFIX, zappos
-
+# All .amazon domains
+# All .アマゾン domains
+# All .亚马逊 domains
+# All .yamaxun domains
+# All .zappos domains
 DOMAIN-SUFFIX, a2z.com
 DOMAIN-SUFFIX, aboutamazon.cn @cn
 DOMAIN-SUFFIX, aboutamazon.co.uk
@@ -110,15 +92,11 @@ DOMAIN-SUFFIX, ueberamazon.de
 DOMAIN-SUFFIX, yamaxun.cn @cn
 DOMAIN-SUFFIX, yamaxun.com
 DOMAIN-SUFFIX, z.cn @cn
-
-DOMAIN-SUFFIX, # Alexa
+# Alexa
 DOMAIN-SUFFIX, alexa.com
-
-DOMAIN-SUFFIX, # Audible
+# Audible
 DOMAIN-SUFFIX, audible.com
-
-DOMAIN-SUFFIX, # CreateSpace
+# CreateSpace
 DOMAIN-SUFFIX, createspace.com
-
 DOMAIN-SUFFIX, full:images-cn.ssl-images-amazon.com @cn
 DOMAIN-SUFFIX, full:images-cn-8.ssl-images-amazon.com @cn

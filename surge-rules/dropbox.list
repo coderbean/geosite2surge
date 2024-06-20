@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX, # List of all domains being operated by Dorpbox Inc.
-DOMAIN-SUFFIX, # Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
+# List of all domains being operated by Dorpbox Inc.
+# Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
 DOMAIN-SUFFIX, db.tt
 DOMAIN-SUFFIX, dropbox-dns.com
 DOMAIN-SUFFIX, dropbox.com
@@ -15,5 +15,4 @@ DOMAIN-SUFFIX, dropboxpartners.com
 DOMAIN-SUFFIX, dropboxstatic.com
 DOMAIN-SUFFIX, dropboxusercontent.com
 DOMAIN-SUFFIX, getdropbox.com
-
 DOMAIN-SUFFIX, full:paper-attachments.s3.amazonaws.com

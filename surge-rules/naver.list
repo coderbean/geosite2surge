@@ -1,7 +1,4 @@
-DOMAIN-SUFFIX, include:line
-
-DOMAIN-SUFFIX, # Naver Corp.
-
+# Naver Corp.
 DOMAIN-SUFFIX, naver.com
 DOMAIN-SUFFIX, naver.me
 DOMAIN-SUFFIX, naver.net
@@ -9,35 +6,25 @@ DOMAIN-SUFFIX, naver.com.akadns.net
 DOMAIN-SUFFIX, navercorp.com
 DOMAIN-SUFFIX, nheos.com
 DOMAIN-SUFFIX, pstatic.net
-
-DOMAIN-SUFFIX, # Naver Cloud
-
+# Naver Cloud
 DOMAIN-SUFFIX, clova.ai
 DOMAIN-SUFFIX, navercloudcorp.com
 DOMAIN-SUFFIX, naverncp.com
 DOMAIN-SUFFIX, ncloud.com
 DOMAIN-SUFFIX, worksmobile.com
-
-DOMAIN-SUFFIX, # Naver Financial
-
+# Naver Financial
 DOMAIN-SUFFIX, naverfincorp.com
-
-DOMAIN-SUFFIX, # Snow
-
+# Snow
 DOMAIN-SUFFIX, snow.me
 DOMAIN-SUFFIX, snowcorp.com
 DOMAIN-SUFFIX, vday.io
-
-DOMAIN-SUFFIX, # Webtoons Corp
-
+# Webtoons Corp
 DOMAIN-SUFFIX, studiolico.com
 DOMAIN-SUFFIX, studioncorp.com
 DOMAIN-SUFFIX, wattpad.com
 DOMAIN-SUFFIX, webtoons.com
 DOMAIN-SUFFIX, webtoonscorp.com
-
-DOMAIN-SUFFIX, # Other Services and Subsidiaries
-
+# Other Services and Subsidiaries
 DOMAIN-SUFFIX, band.us
 DOMAIN-SUFFIX, grafolio.com
 DOMAIN-SUFFIX, modoo.at

@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX, entrust.net
 DOMAIN-SUFFIX, entrustdatacard.com
-
-DOMAIN-SUFFIX, # Sub brand
+# Sub brand
 DOMAIN-SUFFIX, affirmtrust.com
 DOMAIN-SUFFIX, atos.net
 DOMAIN-SUFFIX, myatos.net

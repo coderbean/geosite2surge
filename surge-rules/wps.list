@@ -1,20 +1,14 @@
 DOMAIN-SUFFIX, wps.cn
 DOMAIN-SUFFIX, wps.com
-
-DOMAIN-SUFFIX, # Dazitong
+# Dazitong
 DOMAIN-SUFFIX, 51dzt.com
-
-DOMAIN-SUFFIX, # Dictionary
+# Dictionary
 DOMAIN-SUFFIX, iciba.com
-
-DOMAIN-SUFFIX, # Docer
+# Docer
 DOMAIN-SUFFIX, docer.com
-
-DOMAIN-SUFFIX, # Documents
+# Documents
 DOMAIN-SUFFIX, kdocs.cn
-
-DOMAIN-SUFFIX, # PAPocket
+# PAPocket
 DOMAIN-SUFFIX, papocket.com
-
-DOMAIN-SUFFIX, # PDF
+# PDF
 DOMAIN-SUFFIX, wpspdf.cn

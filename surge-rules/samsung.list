@@ -1,9 +1,5 @@
-DOMAIN-SUFFIX, # All .samsung domains
-DOMAIN-SUFFIX, samsung
-
-DOMAIN-SUFFIX, # All .삼성 domains
-DOMAIN-SUFFIX, xn--cg4bki
-
+# All .samsung domains
+# All .삼성 domains
 DOMAIN-SUFFIX, galaxyappstore.com
 DOMAIN-SUFFIX, galaxymobile.jp
 DOMAIN-SUFFIX, game-platform.net

@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .bridgestone domains
-DOMAIN-SUFFIX, bridgestone
-
+# All .bridgestone domains
 DOMAIN-SUFFIX, bandag.cc
 DOMAIN-SUFFIX, bandag.com
 DOMAIN-SUFFIX, blizzak-juken.jp
@@ -72,11 +70,9 @@ DOMAIN-SUFFIX, prodrive-japan.com
 DOMAIN-SUFFIX, store-bridgestonesports.com
 DOMAIN-SUFFIX, thetread.com
 DOMAIN-SUFFIX, tiresplus.com
-
-DOMAIN-SUFFIX, # Credit First National Association
+# Credit First National Association
 DOMAIN-SUFFIX, cfna.com
-
-DOMAIN-SUFFIX, # Firestone
+# Firestone
 DOMAIN-SUFFIX, bastropfirestone.com
 DOMAIN-SUFFIX, crossfitfirestone.com
 DOMAIN-SUFFIX, firestone.cl
@@ -100,7 +96,6 @@ DOMAIN-SUFFIX, firestonetire.ca
 DOMAIN-SUFFIX, firestonetire.com
 DOMAIN-SUFFIX, hibdontire.com
 DOMAIN-SUFFIX, wheelworks.net
-
-DOMAIN-SUFFIX, # Nokian Tyres
+# Nokian Tyres
 DOMAIN-SUFFIX, nokiantyres.cn @cn
 DOMAIN-SUFFIX, nokiantyres.com

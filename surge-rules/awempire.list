@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX, awempire.com
-
-DOMAIN-SUFFIX, # CDN
+# CDN
 DOMAIN-SUFFIX, dditsadn.com
 DOMAIN-SUFFIX, dditscdn.com
 DOMAIN-SUFFIX, docleradn.com

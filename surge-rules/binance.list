@@ -25,12 +25,10 @@ DOMAIN-SUFFIX, binancezh.net
 DOMAIN-SUFFIX, binancezh.pro
 DOMAIN-SUFFIX, binancezh.sh
 DOMAIN-SUFFIX, binancezh.top
-
-DOMAIN-SUFFIX, # API
+# API
 DOMAIN-SUFFIX, binanceapi.com
 DOMAIN-SUFFIX, bnbstatic.com
-
-DOMAIN-SUFFIX, # saas 
+# saas 
 DOMAIN-SUFFIX, saasexch.com
 DOMAIN-SUFFIX, saasexch.io
 DOMAIN-SUFFIX, appsflayer.com

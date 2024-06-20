@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .bloomberg domains
-DOMAIN-SUFFIX, bloomberg
-
+# All .bloomberg domains
 DOMAIN-SUFFIX, bbgevent.com
 DOMAIN-SUFFIX, bbhub.io
 DOMAIN-SUFFIX, bbthat.com

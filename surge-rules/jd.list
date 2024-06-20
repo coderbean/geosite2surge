@@ -228,8 +228,5 @@ DOMAIN-SUFFIX, yihaodian.com
 DOMAIN-SUFFIX, yihaodianimg.com
 DOMAIN-SUFFIX, yiyaojd.com
 DOMAIN-SUFFIX, yizhitou.com
-
-DOMAIN-SUFFIX, # 哆啦宝
+# 哆啦宝
 DOMAIN-SUFFIX, duolabao.com
-
-DOMAIN-SUFFIX, include:jd-ads

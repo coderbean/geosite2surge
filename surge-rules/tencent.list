@@ -1,15 +1,7 @@
-DOMAIN-SUFFIX, include:qcloud #腾讯云
-DOMAIN-SUFFIX, include:tencent-ads
-DOMAIN-SUFFIX, include:tencent-dev
-DOMAIN-SUFFIX, include:tencent-games
-DOMAIN-SUFFIX, include:yuewen
-
-DOMAIN-SUFFIX, # qq.中国
+# qq.中国
 DOMAIN-SUFFIX, qq.xn--fiqs8s
-
-DOMAIN-SUFFIX, # 腾讯.中国
+# 腾讯.中国
 DOMAIN-SUFFIX, xn--r70as2s.xn--fiqs8s
-
 DOMAIN-SUFFIX, apcdns.net
 DOMAIN-SUFFIX, foxmail.com
 DOMAIN-SUFFIX, foxmail.com.cn
@@ -44,14 +36,11 @@ DOMAIN-SUFFIX, wechatpay.cn
 DOMAIN-SUFFIX, weiyun.com
 DOMAIN-SUFFIX, wetv.vip @!cn
 DOMAIN-SUFFIX, wetvinfo.com @!cn
-
 DOMAIN-SUFFIX, full:wetv.qq.com @!cn
-
 DOMAIN-SUFFIX, alloyteam.com
 DOMAIN-SUFFIX, imweb.io
 DOMAIN-SUFFIX, ivweb.io
-
-DOMAIN-SUFFIX, # 腾讯枫叶
+# 腾讯枫叶
 DOMAIN-SUFFIX, fyeds.com
 DOMAIN-SUFFIX, fyeds0.com
 DOMAIN-SUFFIX, fyeds1.com

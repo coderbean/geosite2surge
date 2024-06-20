@@ -1,9 +1,5 @@
-DOMAIN-SUFFIX, # All .cbs domains
-DOMAIN-SUFFIX, cbs
-
-DOMAIN-SUFFIX, # All .showtime domains
-DOMAIN-SUFFIX, showtime
-
+# All .cbs domains
+# All .showtime domains
 DOMAIN-SUFFIX, cbs.com
 DOMAIN-SUFFIX, cbscorporation.com
 DOMAIN-SUFFIX, cbsi.com
@@ -23,11 +19,9 @@ DOMAIN-SUFFIX, viacbs.com
 DOMAIN-SUFFIX, viacom.com
 DOMAIN-SUFFIX, viacomcbs.com
 DOMAIN-SUFFIX, viacomcbspressexpress.com
-
-DOMAIN-SUFFIX, # Paramount
+# Paramount
 DOMAIN-SUFFIX, paramount.com
-
-DOMAIN-SUFFIX, # Paramount Plus
+# Paramount Plus
 DOMAIN-SUFFIX, amlg.io
 DOMAIN-SUFFIX, cbsaavideo.com
 DOMAIN-SUFFIX, mtvnservices.com

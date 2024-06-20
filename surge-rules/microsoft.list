@@ -1,27 +1,8 @@
-DOMAIN-SUFFIX, include:azure
-DOMAIN-SUFFIX, include:bing
-DOMAIN-SUFFIX, include:github
-DOMAIN-SUFFIX, include:microsoft-dev
-DOMAIN-SUFFIX, include:microsoft-pki
-DOMAIN-SUFFIX, include:msn
-DOMAIN-SUFFIX, include:onedrive
-DOMAIN-SUFFIX, include:xbox
-
-DOMAIN-SUFFIX, # All .microsoft domains
-DOMAIN-SUFFIX, microsoft
-
-DOMAIN-SUFFIX, # All .hotmail domains
-DOMAIN-SUFFIX, hotmail
-
-DOMAIN-SUFFIX, # All .office domains
-DOMAIN-SUFFIX, office
-
-DOMAIN-SUFFIX, # All .skype domains
-DOMAIN-SUFFIX, skype
-
-DOMAIN-SUFFIX, # All .windows domains
-DOMAIN-SUFFIX, windows
-
+# All .microsoft domains
+# All .hotmail domains
+# All .office domains
+# All .skype domains
+# All .windows domains
 DOMAIN-SUFFIX, microsoft.az
 DOMAIN-SUFFIX, microsoft.be
 DOMAIN-SUFFIX, microsoft.by
@@ -60,12 +41,10 @@ DOMAIN-SUFFIX, microsoft.tv
 DOMAIN-SUFFIX, microsoft.ua
 DOMAIN-SUFFIX, microsoft.uz
 DOMAIN-SUFFIX, microsoft.vn
-
-DOMAIN-SUFFIX, # M12
+# M12
 DOMAIN-SUFFIX, femalefounderscomp.com
 DOMAIN-SUFFIX, m12.vc
-
-DOMAIN-SUFFIX, # Others
+# Others
 DOMAIN-SUFFIX, a-msedge.net
 DOMAIN-SUFFIX, aka.ms
 DOMAIN-SUFFIX, ankarazirvesi2018.com
@@ -288,14 +267,12 @@ DOMAIN-SUFFIX, windowsupdate.com
 DOMAIN-SUFFIX, winhec.com
 DOMAIN-SUFFIX, winhec.net
 DOMAIN-SUFFIX, yammer.com
-
-DOMAIN-SUFFIX, # Skype CDN
+# Skype CDN
 DOMAIN-SUFFIX, edge-skype-com.s-0001.s-msedge.net
 DOMAIN-SUFFIX, skype-edf.akadns.net
 DOMAIN-SUFFIX, skypedata.akadns.net
-
-DOMAIN-SUFFIX, # Domains and services below are available in China mainland
-DOMAIN-SUFFIX, # Use in config file like this: "geosite:microsoft@cn"
+# Domains and services below are available in China mainland
+# Use in config file like this: "geosite:microsoft@cn"
 DOMAIN-SUFFIX, dl.delivery.mp.microsoft.com @cn
 DOMAIN-SUFFIX, download.windowsupdate.com @cn
 DOMAIN-SUFFIX, full:b.c2r.ts.cdn.office.net @cn
@@ -335,7 +312,6 @@ DOMAIN-SUFFIX, full:wl.dlservice.microsoft.com @cn
 DOMAIN-SUFFIX, full:wscont1.apps.microsoft.com @cn
 DOMAIN-SUFFIX, full:wscont2.apps.microsoft.com @cn
 DOMAIN-SUFFIX, full:xb.dlservice.microsoft.com @cn
-
 DOMAIN-SUFFIX, full:img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN-SUFFIX, full:img-s-msn-com.akamaized.net
 DOMAIN-SUFFIX, full:mwf-service.akamaized.net

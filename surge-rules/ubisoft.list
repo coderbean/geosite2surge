@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX, ubi.com
 DOMAIN-SUFFIX, ubisoft.com
-
-DOMAIN-SUFFIX, # Ubisoft Connect
+# Ubisoft Connect
 DOMAIN-SUFFIX, ubisoftconnect.com
 DOMAIN-SUFFIX, uplay.com
 DOMAIN-SUFFIX, full:ubisoft-uplay-savegames.s3.amazonaws.com

@@ -1,7 +1,6 @@
-DOMAIN-SUFFIX, # AvaxHome main site:
+# AvaxHome main site:
 DOMAIN-SUFFIX, avxhm.se
-
-DOMAIN-SUFFIX, # AvaxHome mirror sites:
+# AvaxHome mirror sites:
 DOMAIN-SUFFIX, avh.world
 DOMAIN-SUFFIX, avxde.org
 DOMAIN-SUFFIX, avxhm.is

@@ -1,10 +1,5 @@
-DOMAIN-SUFFIX, include:hkt
-DOMAIN-SUFFIX, include:now
-DOMAIN-SUFFIX, include:viu
-
 DOMAIN-SUFFIX, pccw.com
 DOMAIN-SUFFIX, pccwglobal.com
 DOMAIN-SUFFIX, pccwsolutions.com
-
-DOMAIN-SUFFIX, # Moov
+# Moov
 DOMAIN-SUFFIX, moov.hk

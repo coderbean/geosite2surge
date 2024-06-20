@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .mit domains
-DOMAIN-SUFFIX, mit
-
+# All .mit domains
 DOMAIN-SUFFIX, mit.edu
 DOMAIN-SUFFIX, mit.net
 DOMAIN-SUFFIX, mitpressjournals.org

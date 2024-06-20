@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .imdb domains
-DOMAIN-SUFFIX, imdb
-
+# All .imdb domains
 DOMAIN-SUFFIX, boxofficemojo.com
 DOMAIN-SUFFIX, imdb.com
 DOMAIN-SUFFIX, imdb.to

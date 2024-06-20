@@ -203,8 +203,7 @@ DOMAIN-SUFFIX, theshoppingexpresslane.net
 DOMAIN-SUFFIX, www-paypal.info
 DOMAIN-SUFFIX, www-paypal.us
 DOMAIN-SUFFIX, xn--bnq297cix3a.cn @cn # 易付通.cn
-
-DOMAIN-SUFFIX, # Braintree
+# Braintree
 DOMAIN-SUFFIX, braintreegateway.com
 DOMAIN-SUFFIX, braintreegateway.tv
 DOMAIN-SUFFIX, braintreepayments.com
@@ -217,33 +216,27 @@ DOMAIN-SUFFIX, briantreepayments.net
 DOMAIN-SUFFIX, briantreepayments.tv
 DOMAIN-SUFFIX, card.io
 DOMAIN-SUFFIX, getbraintree.com
-
-DOMAIN-SUFFIX, # krakenjs
+# krakenjs
 DOMAIN-SUFFIX, krakenjs.com
-
-DOMAIN-SUFFIX, # LoanBuilder
+# LoanBuilder
 DOMAIN-SUFFIX, loanbuilder.com
 DOMAIN-SUFFIX, swiftcapital.com
-
-DOMAIN-SUFFIX, # Simility
+# Simility
 DOMAIN-SUFFIX, simility.com
-
-DOMAIN-SUFFIX, # Swift Financial
+# Swift Financial
 DOMAIN-SUFFIX, cashify.net
 DOMAIN-SUFFIX, swiftbank.info
 DOMAIN-SUFFIX, swiftbank.us
 DOMAIN-SUFFIX, swiftfinancial.com
 DOMAIN-SUFFIX, swiftfinancial.info
 DOMAIN-SUFFIX, swiftfinancial.net
-
-DOMAIN-SUFFIX, # Venmo
+# Venmo
 DOMAIN-SUFFIX, venmo-touch.com
 DOMAIN-SUFFIX, venmo.com
 DOMAIN-SUFFIX, venmo.info
 DOMAIN-SUFFIX, venmo.net
 DOMAIN-SUFFIX, venmo.org
-
-DOMAIN-SUFFIX, # Xoom
+# Xoom
 DOMAIN-SUFFIX, cash2.com
 DOMAIN-SUFFIX, filipino-music.net
 DOMAIN-SUFFIX, s-xoom.com
@@ -256,5 +249,4 @@ DOMAIN-SUFFIX, xoom.io
 DOMAIN-SUFFIX, xoom.net.cn @cn
 DOMAIN-SUFFIX, xoom.us
 DOMAIN-SUFFIX, xoomcom.com
-
 DOMAIN-SUFFIX, full:venmo.s3.amazonaws.com

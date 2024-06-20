@@ -1,6 +1,3 @@
-DOMAIN-SUFFIX, include:cloudflare-cn
-DOMAIN-SUFFIX, include:cloudflare-ipfs
-
 DOMAIN-SUFFIX, argotunnel.com
 DOMAIN-SUFFIX, cfl.re
 DOMAIN-SUFFIX, cloudflare-dns.com

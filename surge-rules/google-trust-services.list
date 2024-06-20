@@ -1,8 +1,6 @@
 DOMAIN-SUFFIX, pki.goog
-
 DOMAIN-SUFFIX, full:clients1.google.com
 DOMAIN-SUFFIX, full:pki.google.com
-
 DOMAIN-SUFFIX, full:crl.pki.goog @cn
 DOMAIN-SUFFIX, full:crls.pki.goog @cn
 DOMAIN-SUFFIX, full:ocsp.pki.goog @cn

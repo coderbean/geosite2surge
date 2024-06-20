@@ -1,5 +1,4 @@
-DOMAIN-SUFFIX, # Iranian technology websites
-
+# Iranian technology websites
 DOMAIN-SUFFIX, abrha.net
 DOMAIN-SUFFIX, afranet.com
 DOMAIN-SUFFIX, arvancloud.com
@@ -42,4 +41,3 @@ DOMAIN-SUFFIX, uupload.ir
 DOMAIN-SUFFIX, yasdl.com
 DOMAIN-SUFFIX, zhaket.com
 DOMAIN-SUFFIX, zoomit.ir
-

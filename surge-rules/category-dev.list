@@ -1,79 +1,11 @@
-DOMAIN-SUFFIX, include:anaconda
-DOMAIN-SUFFIX, include:android
-DOMAIN-SUFFIX, include:apple-dev
-DOMAIN-SUFFIX, include:archlinux
-DOMAIN-SUFFIX, include:bootstrap
-DOMAIN-SUFFIX, include:braveux
-DOMAIN-SUFFIX, include:canonical
-DOMAIN-SUFFIX, include:category-container
-DOMAIN-SUFFIX, include:dart
-DOMAIN-SUFFIX, include:debian
-DOMAIN-SUFFIX, include:docker
-DOMAIN-SUFFIX, include:embedly
-DOMAIN-SUFFIX, include:facebook-dev
-DOMAIN-SUFFIX, include:fastlane
-DOMAIN-SUFFIX, include:fedora
-DOMAIN-SUFFIX, include:firebase
-DOMAIN-SUFFIX, include:flatpak
-DOMAIN-SUFFIX, include:flutter
-DOMAIN-SUFFIX, include:fontawesome
-DOMAIN-SUFFIX, include:gemfury
-DOMAIN-SUFFIX, include:gitbook
-DOMAIN-SUFFIX, include:github
-DOMAIN-SUFFIX, include:gitlab
-DOMAIN-SUFFIX, include:golang
-DOMAIN-SUFFIX, include:hashicorp
-DOMAIN-SUFFIX, include:haskell
-DOMAIN-SUFFIX, include:homebrew
-DOMAIN-SUFFIX, include:huawei-dev
-DOMAIN-SUFFIX, include:intel-dev
-DOMAIN-SUFFIX, include:java
-DOMAIN-SUFFIX, include:jetbrains
-DOMAIN-SUFFIX, include:jetbrains-ai
-DOMAIN-SUFFIX, include:jfrog
-DOMAIN-SUFFIX, include:jsdelivr
-DOMAIN-SUFFIX, include:kubernetes
-DOMAIN-SUFFIX, include:microsoft-dev
-DOMAIN-SUFFIX, include:mongodb
-DOMAIN-SUFFIX, include:nginx
-DOMAIN-SUFFIX, include:nixos
-DOMAIN-SUFFIX, include:openai
-DOMAIN-SUFFIX, include:openwrt
-DOMAIN-SUFFIX, include:osdn
-DOMAIN-SUFFIX, include:perl
-DOMAIN-SUFFIX, include:polymer
-DOMAIN-SUFFIX, include:python
-DOMAIN-SUFFIX, include:python-community
-DOMAIN-SUFFIX, include:qt
-DOMAIN-SUFFIX, include:readthedocs
-DOMAIN-SUFFIX, include:redis
-DOMAIN-SUFFIX, include:remirepo
-DOMAIN-SUFFIX, include:ruby
-DOMAIN-SUFFIX, include:rust
-DOMAIN-SUFFIX, include:redhat
-DOMAIN-SUFFIX, include:scala
-DOMAIN-SUFFIX, include:sourcehut
-DOMAIN-SUFFIX, include:stackexchange
-DOMAIN-SUFFIX, include:strikingly
-DOMAIN-SUFFIX, include:tencent-dev
-DOMAIN-SUFFIX, include:termux
-DOMAIN-SUFFIX, include:thelinuxfoundation
-DOMAIN-SUFFIX, include:topcoder
-DOMAIN-SUFFIX, include:unity
-DOMAIN-SUFFIX, include:v8
-DOMAIN-SUFFIX, include:vim
-DOMAIN-SUFFIX, include:xda
-
 DOMAIN-SUFFIX, adventofcode.com
 DOMAIN-SUFFIX, alpinelinux.org
 DOMAIN-SUFFIX, apache.org
 DOMAIN-SUFFIX, artixlinux.org
 DOMAIN-SUFFIX, atom.io
 DOMAIN-SUFFIX, badgen.net
-
-DOMAIN-SUFFIX, # Bitvise official website.
+# Bitvise official website.
 DOMAIN-SUFFIX, bitvise.com
-
 DOMAIN-SUFFIX, cdnjs.com
 DOMAIN-SUFFIX, centos.org
 DOMAIN-SUFFIX, chocolatey.org
@@ -94,10 +26,8 @@ DOMAIN-SUFFIX, getcomposer.org
 DOMAIN-SUFFIX, getzola.org
 DOMAIN-SUFFIX, git-scm.com
 DOMAIN-SUFFIX, gnu.org
-
-DOMAIN-SUFFIX, # PuTTY and some software official websites.
+# PuTTY and some software official websites.
 DOMAIN-SUFFIX, greenend.org.uk
-
 DOMAIN-SUFFIX, hex.pm
 DOMAIN-SUFFIX, hexdocs.pm
 DOMAIN-SUFFIX, ius.io
@@ -111,10 +41,8 @@ DOMAIN-SUFFIX, lua.org
 DOMAIN-SUFFIX, macports.org
 DOMAIN-SUFFIX, mariadb.org
 DOMAIN-SUFFIX, mingw.org
-
-DOMAIN-SUFFIX, # Mobatek official website.
+# Mobatek official website.
 DOMAIN-SUFFIX, mobatek.net
-
 DOMAIN-SUFFIX, mysql.com
 DOMAIN-SUFFIX, nixos.org
 DOMAIN-SUFFIX, nodesource.com
@@ -126,10 +54,8 @@ DOMAIN-SUFFIX, packagist.org
 DOMAIN-SUFFIX, pcre.org
 DOMAIN-SUFFIX, phantomjs.org
 DOMAIN-SUFFIX, php.net
-
-DOMAIN-SUFFIX, # PuTTY unofficial website, owned by Bitvise.
+# PuTTY unofficial website, owned by Bitvise.
 DOMAIN-SUFFIX, putty.org
-
 DOMAIN-SUFFIX, postgresql.org
 DOMAIN-SUFFIX, r-project.org
 DOMAIN-SUFFIX, raspberrypi.org
@@ -142,10 +68,8 @@ DOMAIN-SUFFIX, shellcheck.net
 DOMAIN-SUFFIX, shields.io
 DOMAIN-SUFFIX, sqlite.org
 DOMAIN-SUFFIX, sublimetext.com
-
-DOMAIN-SUFFIX, # Termius official website.
+# Termius official website.
 DOMAIN-SUFFIX, termius.com
-
 DOMAIN-SUFFIX, unpkg.com
 DOMAIN-SUFFIX, videojs.com
 DOMAIN-SUFFIX, videolan.org
@@ -156,6 +80,5 @@ DOMAIN-SUFFIX, x.org
 DOMAIN-SUFFIX, xposed.info
 DOMAIN-SUFFIX, yarnpkg.com
 DOMAIN-SUFFIX, zsh.org
-
-DOMAIN-SUFFIX, # Hugging Face official website.
+# Hugging Face official website.
 DOMAIN-SUFFIX, huggingface.co

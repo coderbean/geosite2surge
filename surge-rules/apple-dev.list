@@ -1,37 +1,26 @@
-DOMAIN-SUFFIX, include:swift
-
-DOMAIN-SUFFIX, # Calendar and Contact Server
+# Calendar and Contact Server
 DOMAIN-SUFFIX, calendarserver.org
-
-DOMAIN-SUFFIX, # CloudKit
+# CloudKit
 DOMAIN-SUFFIX, apple-cloudkit.com
-
-DOMAIN-SUFFIX, # CUPS
+# CUPS
 DOMAIN-SUFFIX, cups.org
-
-DOMAIN-SUFFIX, # Developer
+# Developer
 DOMAIN-SUFFIX, developer.apple.com
 DOMAIN-SUFFIX, devimages-cdn.apple.com
 DOMAIN-SUFFIX, devstreaming-cdn.apple.com
-
-DOMAIN-SUFFIX, # FoundationDB
+# FoundationDB
 DOMAIN-SUFFIX, foundationdb.org
-
-DOMAIN-SUFFIX, # macOS forge
+# macOS forge
 DOMAIN-SUFFIX, macosforge.org
-
-DOMAIN-SUFFIX, # MacRuby
+# MacRuby
 DOMAIN-SUFFIX, macruby.com
 DOMAIN-SUFFIX, macruby.net
 DOMAIN-SUFFIX, macruby.org
-
-DOMAIN-SUFFIX, # MapKit
+# MapKit
 DOMAIN-SUFFIX, apple-mapkit.com
-
-DOMAIN-SUFFIX, # Playgrounds
+# Playgrounds
 DOMAIN-SUFFIX, playgrounds-cdn.apple.com
-
-DOMAIN-SUFFIX, # Research & Care
+# Research & Care
 DOMAIN-SUFFIX, carekit.org
 DOMAIN-SUFFIX, researchandcare.org
 DOMAIN-SUFFIX, researchkit.cn @cn
@@ -40,18 +29,14 @@ DOMAIN-SUFFIX, researchkit.hk
 DOMAIN-SUFFIX, researchkit.net
 DOMAIN-SUFFIX, researchkit.org
 DOMAIN-SUFFIX, researchkit.tv
-
-DOMAIN-SUFFIX, # ServiceTalk
+# ServiceTalk
 DOMAIN-SUFFIX, servicetalk.io
-
-DOMAIN-SUFFIX, # WebKit
+# WebKit
 DOMAIN-SUFFIX, webkit.org
 DOMAIN-SUFFIX, webkitgtk.org
 DOMAIN-SUFFIX, wpewebkit.org
-
-DOMAIN-SUFFIX, # Other
+# Other
 DOMAIN-SUFFIX, webobjects.com
-
 DOMAIN-SUFFIX, full:appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN-SUFFIX, full:appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN-SUFFIX, full:p-events-delivery.akamaized.net

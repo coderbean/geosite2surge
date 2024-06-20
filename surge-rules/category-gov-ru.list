@@ -1,43 +1,36 @@
-DOMAIN-SUFFIX, # Federal Gov.
+# Federal Gov.
 DOMAIN-SUFFIX, government.ru
 DOMAIN-SUFFIX, gov.ru
-
-DOMAIN-SUFFIX, # Federal Public Services
+# Federal Public Services
 DOMAIN-SUFFIX, gosuslugi.ru
 DOMAIN-SUFFIX, gu-st.ru
-
-DOMAIN-SUFFIX, # Federal Healthcare Services
+# Federal Healthcare Services
 DOMAIN-SUFFIX, emias.info
 DOMAIN-SUFFIX, mgfoms.ru
-
-DOMAIN-SUFFIX, # Federal Educational Services
+# Federal Educational Services
 DOMAIN-SUFFIX, edu.ru
-
-DOMAIN-SUFFIX, # Other Federal Resources
+# Other Federal Resources
 DOMAIN-SUFFIX, cbr.ru          # Central Bank of Russia
 DOMAIN-SUFFIX, nalog.ru        # Federal Tax Service
-
-DOMAIN-SUFFIX, #
-DOMAIN-SUFFIX, # Regional sites and Public Services
-DOMAIN-SUFFIX, # Reminder on federal subjects naming:
-DOMAIN-SUFFIX, # | English name        | RU transliteration    | RU naming         |
-DOMAIN-SUFFIX, # | Region, Province    | Oblast                | Область           |
-DOMAIN-SUFFIX, # | Territory           | Krai                  | Край              |
-DOMAIN-SUFFIX, # | Autonomous Region,  | Avtonomniy Okrug      | Автономный Округ  |
-DOMAIN-SUFFIX, # | Autonomous Area     |                       |                   |
-DOMAIN-SUFFIX, #
-DOMAIN-SUFFIX, # Moscow, St. Petersburg, Sevastopol — are separate federal subjects,
-DOMAIN-SUFFIX, # meaning that e.g. Moscow is not part of Moscow Region.
-DOMAIN-SUFFIX, #
-
-DOMAIN-SUFFIX, # Federal Cities (Cities of Federal Importance)
+#
+# Regional sites and Public Services
+# Reminder on federal subjects naming:
+# | English name        | RU transliteration    | RU naming         |
+# | Region, Province    | Oblast                | Область           |
+# | Territory           | Krai                  | Край              |
+# | Autonomous Region,  | Avtonomniy Okrug      | Автономный Округ  |
+# | Autonomous Area     |                       |                   |
+#
+# Moscow, St. Petersburg, Sevastopol — are separate federal subjects,
+# meaning that e.g. Moscow is not part of Moscow Region.
+#
+# Federal Cities (Cities of Federal Importance)
 DOMAIN-SUFFIX, mos.ru          # Moscow 
 DOMAIN-SUFFIX, mosreg.ru       # Moscow Region
 DOMAIN-SUFFIX, spb.ru          # St. Petersburg
 DOMAIN-SUFFIX, sevastopol.ru   # Sevastopol
 DOMAIN-SUFFIX, sev.ru          # Sevastopol
-
-DOMAIN-SUFFIX, # Republics
+# Republics
 DOMAIN-SUFFIX, adygeya.ru      # Republic of Adygea
 DOMAIN-SUFFIX, bashkiria.ru    # Republic of Bashkortostan
 DOMAIN-SUFFIX, buryatia.ru     # Republic of Buryatia
@@ -65,8 +58,7 @@ DOMAIN-SUFFIX, udmurtia.ru     # Republic of Udmurtia
 DOMAIN-SUFFIX, ulan-ude.ru     # Ulan-Ude City, Republic of Buryatia
 DOMAIN-SUFFIX, vladikavkaz.ru  # Vladikavkaz City, Republic of North Ossetia-Alania
 DOMAIN-SUFFIX, yakutia.ru      # Republic of Yakutia
-
-DOMAIN-SUFFIX, # Territories (Krai)
+# Territories (Krai)
 DOMAIN-SUFFIX, altai.ru        # Altai Territory
 DOMAIN-SUFFIX, chita.ru        # Chita City, Zabaykalsky Territory
 DOMAIN-SUFFIX, kamchatka.ru    # Kamchatka Territory
@@ -81,8 +73,7 @@ DOMAIN-SUFFIX, stavropol.ru    # Stavropol Territory
 DOMAIN-SUFFIX, stv.ru          # Stavropol Territory
 DOMAIN-SUFFIX, vl.ru           # Vladivostok City, Primorye Territory
 DOMAIN-SUFFIX, vladivostok.ru  # Vladivostok City, Primorye Territory
-
-DOMAIN-SUFFIX, # Regions / Provinces (Oblast)
+# Regions / Provinces (Oblast)
 DOMAIN-SUFFIX, amur.ru         # Amur Region
 DOMAIN-SUFFIX, arkhangelsk.ru  # Arkhangelsk Region
 DOMAIN-SUFFIX, astrakhan.ru    # Astrakhan Region
@@ -143,8 +134,7 @@ DOMAIN-SUFFIX, vrn.ru          # Voronezh Region
 DOMAIN-SUFFIX, vyatka.ru       # Kirov Region
 DOMAIN-SUFFIX, yaroslavl.ru    # Yaroslavl Region
 DOMAIN-SUFFIX, yuzhno-sakhalinsk.ru # Yuzhno-Sakhalinsk City, Sakhalin Region
-
-DOMAIN-SUFFIX, # Autonomous areas
+# Autonomous areas
 DOMAIN-SUFFIX, chukotka.ru     # Chukotka Autonomous Area
 DOMAIN-SUFFIX, jamal.ru        # Yamal-Nenets Autonomous Area
 DOMAIN-SUFFIX, surgut.ru       # Khanty-Mansi Autonomous Area – Yugra

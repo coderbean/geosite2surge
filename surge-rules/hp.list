@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX, # HP Development Company, L.P.
+# HP Development Company, L.P.
 DOMAIN-SUFFIX, 123-hp.com
 DOMAIN-SUFFIX, 123hplaserjet.com
 DOMAIN-SUFFIX, 8008206616.com
@@ -156,5 +156,4 @@ DOMAIN-SUFFIX, workstations.tv
 DOMAIN-SUFFIX, www8-hp.com
 DOMAIN-SUFFIX, xn--6eup7j.com # 惠普.com
 DOMAIN-SUFFIX, xn--6eup7j.net # 惠普.net
-
 DOMAIN-SUFFIX, full:hpstore.corpmerchandise.com

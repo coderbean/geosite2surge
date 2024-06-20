@@ -1,4 +1,3 @@
 DOMAIN-SUFFIX, domain:okaapps.com
-
-DOMAIN-SUFFIX, # CN part of okaapps
+# CN part of okaapps
 DOMAIN-SUFFIX, regexp:^(.+\.)*zh\.okaapps\.com$ @cn

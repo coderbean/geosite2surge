@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .volvo domains
-DOMAIN-SUFFIX, volvo
-
+# All .volvo domains
 DOMAIN-SUFFIX, dynafleetonline.com
 DOMAIN-SUFFIX, escandinavia-arg.com
 DOMAIN-SUFFIX, independentoperatorcn.com
@@ -210,6 +208,5 @@ DOMAIN-SUFFIX, volvotruckcenter.nl
 DOMAIN-SUFFIX, volvotruckcenter.no
 DOMAIN-SUFFIX, volvotruckcenter.se
 DOMAIN-SUFFIX, volvotruckrental.be
-
-DOMAIN-SUFFIX, # UD Trucks
+# UD Trucks
 DOMAIN-SUFFIX, udtrucksmeena.com

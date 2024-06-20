@@ -1,8 +1,4 @@
-DOMAIN-SUFFIX, include:webex
-
-DOMAIN-SUFFIX, # All .cisco domains
-DOMAIN-SUFFIX, cisco
-
+# All .cisco domains
 DOMAIN-SUFFIX, academynetriders.com
 DOMAIN-SUFFIX, cciernslabs.com
 DOMAIN-SUFFIX, cciesecuritylabs.com
@@ -88,8 +84,7 @@ DOMAIN-SUFFIX, wballiance.com
 DOMAIN-SUFFIX, whyiwantciscotelepresence.com
 DOMAIN-SUFFIX, wifi-mx.com
 DOMAIN-SUFFIX, youtubecisco.com
-
-DOMAIN-SUFFIX, # App Dynamic
+# App Dynamic
 DOMAIN-SUFFIX, app-dynamics.com
 DOMAIN-SUFFIX, appdynamics.co.uk
 DOMAIN-SUFFIX, appdynamics.com
@@ -98,16 +93,13 @@ DOMAIN-SUFFIX, appdynamics.fr
 DOMAIN-SUFFIX, appdynamics.info
 DOMAIN-SUFFIX, appdynamics.jp
 DOMAIN-SUFFIX, appdynamics.org
-
-DOMAIN-SUFFIX, # Meraki Go
+# Meraki Go
 DOMAIN-SUFFIX, mearki.com
 DOMAIN-SUFFIX, meraki-go.com
 DOMAIN-SUFFIX, meraki.hk
 DOMAIN-SUFFIX, merakigo.com
-
-DOMAIN-SUFFIX, # Tail-f
+# Tail-f
 DOMAIN-SUFFIX, tail-f.com
 DOMAIN-SUFFIX, tailf.com
-
 DOMAIN-SUFFIX, full:cisco.evergage.com
 DOMAIN-SUFFIX, full:ciscolivehls-i.akamaihd.net

@@ -1,5 +1,1 @@
-DOMAIN-SUFFIX, include:launchpad
-DOMAIN-SUFFIX, include:snapcraft
-DOMAIN-SUFFIX, include:ubuntu
-
 DOMAIN-SUFFIX, canonical.com

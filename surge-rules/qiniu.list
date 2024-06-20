@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX, include:staticfile
-
 DOMAIN-SUFFIX, qbox.me
 DOMAIN-SUFFIX, qiniu.com
 DOMAIN-SUFFIX, qiniucdn.com

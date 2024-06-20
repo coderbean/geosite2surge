@@ -100,11 +100,9 @@ DOMAIN-SUFFIX, visaitalia.com
 DOMAIN-SUFFIX, visakorea.com
 DOMAIN-SUFFIX, visamiddleeast.com
 DOMAIN-SUFFIX, visasoutheasteurope.com
-
-DOMAIN-SUFFIX, # Financial Literacy Submmit
+# Financial Literacy Submmit
 DOMAIN-SUFFIX, finlitsummit.org
-
-DOMAIN-SUFFIX, # Visa Infinite Luxury Hotel Collection
+# Visa Infinite Luxury Hotel Collection
 DOMAIN-SUFFIX, myvisaluxuryhotels.com
 DOMAIN-SUFFIX, visainfinite.ca
 DOMAIN-SUFFIX, visainfiniteluxuryhotels.ca
@@ -114,8 +112,7 @@ DOMAIN-SUFFIX, visaluxuryhotelcollection.com.mx
 DOMAIN-SUFFIX, visaluxuryhotels.com
 DOMAIN-SUFFIX, visaluxuryhotels.com.ar
 DOMAIN-SUFFIX, visasignaturehotels.com
-
-DOMAIN-SUFFIX, # Other
+# Other
 DOMAIN-SUFFIX, connaissancesfinancierespratiques.ca
 DOMAIN-SUFFIX, dnsvisa.com
 DOMAIN-SUFFIX, eubluecardvisa.com

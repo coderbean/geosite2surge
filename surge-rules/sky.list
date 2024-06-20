@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .sky domains
-DOMAIN-SUFFIX, sky
-
+# All .sky domains
 DOMAIN-SUFFIX, sky.com
 DOMAIN-SUFFIX, skyassets.com
 DOMAIN-SUFFIX, skyoceanrescue.com

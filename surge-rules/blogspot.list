@@ -1,8 +1,7 @@
-DOMAIN-SUFFIX, # Main domain which weblogs are registered in
+# Main domain which weblogs are registered in
 DOMAIN-SUFFIX, blogger.com
 DOMAIN-SUFFIX, blogblog.com
-
-DOMAIN-SUFFIX, # Subdomains which weblogs can be accessed from
+# Subdomains which weblogs can be accessed from
 DOMAIN-SUFFIX, blogspot.ae
 DOMAIN-SUFFIX, blogspot.al
 DOMAIN-SUFFIX, blogspot.am

@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .azure domains
-DOMAIN-SUFFIX, azure
-
+# All .azure domains
 DOMAIN-SUFFIX, 21vbc.com @cn
 DOMAIN-SUFFIX, 21vbluecloud.com @cn
 DOMAIN-SUFFIX, 21vbluecloud.net @cn
@@ -103,17 +101,13 @@ DOMAIN-SUFFIX, unity3dcloud.cn @cn
 DOMAIN-SUFFIX, windowsazure.cn @cn
 DOMAIN-SUFFIX, windowsazure.com
 DOMAIN-SUFFIX, windowsazurestatus.cn @cn
-
 DOMAIN-SUFFIX, regexp:.+\.azchcdn[a-s]\.com$ @cn
-
 DOMAIN-SUFFIX, full:azure.microsoft.com
 DOMAIN-SUFFIX, full:azuremarketplace.microsoft.com
-
-DOMAIN-SUFFIX, # Azure DNS
+# Azure DNS
 DOMAIN-SUFFIX, azure-dns.cn @cn
 DOMAIN-SUFFIX, azure-dns.com
 DOMAIN-SUFFIX, azure-dns.info
 DOMAIN-SUFFIX, azure-dns.net
 DOMAIN-SUFFIX, azure-dns.org
-
 DOMAIN-SUFFIX, regexp:.+\.azure-dns-([1-9]|10)\.cn$ @cn

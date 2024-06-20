@@ -83,7 +83,13 @@ func processFile(inputFilePath, outputFilePath string) {
 	// 读取输入文件的每一行，处理非空行，并写入输出文件
 	for scanner.Scan() {
 		line := scanner.Text()
-		if strings.TrimSpace(line) != "" {
+		trimLine := strings.TrimSpace(line)
+		// 跳过的场景
+		if strings.HasPrefix(trimLine, "include") ||
+			(!strings.Contains(trimLine, ".") && !strings.Contains(trimLine, "#")) {
+			continue
+		}
+		if trimLine != "" && !strings.HasPrefix(line, "#") {
 			line = prefix + line
 		}
 		_, err := writer.WriteString(line + "\n")

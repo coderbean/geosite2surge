@@ -1,34 +1,25 @@
-DOMAIN-SUFFIX, # 9amine
+# 9amine
 DOMAIN-SUFFIX, 9anime.cz
 DOMAIN-SUFFIX, 9anime.id
 DOMAIN-SUFFIX, 9anime.to
 DOMAIN-SUFFIX, 9anime.ws
-
-DOMAIN-SUFFIX, # animedao
+# animedao
 DOMAIN-SUFFIX, animedao-tv.com
-
-DOMAIN-SUFFIX, # crunchyroll
+# crunchyroll
 DOMAIN-SUFFIX, crunchyroll.com
-
-DOMAIN-SUFFIX, # funimation
+# funimation
 DOMAIN-SUFFIX, funimation.com
-
-DOMAIN-SUFFIX, # Gogoanime related site
+# Gogoanime related site
 DOMAIN-SUFFIX, gogo-load.com
-
-DOMAIN-SUFFIX, # Gogoanime official sites
+# Gogoanime official sites
 DOMAIN-SUFFIX, gogoanime.vc
 DOMAIN-SUFFIX, gogoanime.wiki
-
-DOMAIN-SUFFIX, # Gogoanime image hosting  site
+# Gogoanime image hosting  site
 DOMAIN-SUFFIX, gogocdn.net
-
-DOMAIN-SUFFIX, # hidive
+# hidive
 DOMAIN-SUFFIX, hidive.com
-
-DOMAIN-SUFFIX, # vrv
+# vrv
 DOMAIN-SUFFIX, vrv.co
-
-DOMAIN-SUFFIX, # agefans
+# agefans
 DOMAIN-SUFFIX, age.tv
 DOMAIN-SUFFIX, agedm.org

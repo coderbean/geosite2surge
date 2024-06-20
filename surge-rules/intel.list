@@ -1,8 +1,4 @@
-DOMAIN-SUFFIX, include:intel-dev
-
-DOMAIN-SUFFIX, # All .intel domains
-DOMAIN-SUFFIX, intel
-
+# All .intel domains
 DOMAIN-SUFFIX, intel.ac
 DOMAIN-SUFFIX, intel.ae
 DOMAIN-SUFFIX, intel.af
@@ -148,7 +144,6 @@ DOMAIN-SUFFIX, intel.vn
 DOMAIN-SUFFIX, intel.vu
 DOMAIN-SUFFIX, intel.wf
 DOMAIN-SUFFIX, intel.yt
-
 DOMAIN-SUFFIX, altera.com
 DOMAIN-SUFFIX, alteraforum.com
 DOMAIN-SUFFIX, alteraforums.com
@@ -251,6 +246,5 @@ DOMAIN-SUFFIX, vpro.net
 DOMAIN-SUFFIX, xeon.com
 DOMAIN-SUFFIX, xn--ztsq84g.cn # 奔腾.cn
 DOMAIN-SUFFIX, xscale.com
-
-DOMAIN-SUFFIX, # Barefoot Networks
+# Barefoot Networks
 DOMAIN-SUFFIX, barefootnetworks.com

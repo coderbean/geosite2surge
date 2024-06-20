@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .canon domains
-DOMAIN-SUFFIX, canon
-
+# All .canon domains
 DOMAIN-SUFFIX, c-ij.com
 DOMAIN-SUFFIX, canon-cee.com
 DOMAIN-SUFFIX, canon-cmos-sensors.com

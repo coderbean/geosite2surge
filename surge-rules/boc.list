@@ -1,13 +1,10 @@
 DOMAIN-SUFFIX, boc.cn
-
-DOMAIN-SUFFIX, # BOC International
+# BOC International
 DOMAIN-SUFFIX, bank-of-china.com
 DOMAIN-SUFFIX, bankofchina.com
-
-DOMAIN-SUFFIX, # BOC Fullerton Community Bank
+# BOC Fullerton Community Bank
 DOMAIN-SUFFIX, bocfullertonbank.com
-
-DOMAIN-SUFFIX, # Comprehensive management
+# Comprehensive management
 DOMAIN-SUFFIX, bocamchina.com
 DOMAIN-SUFFIX, bocaviation.com
 DOMAIN-SUFFIX, boccfc.cc

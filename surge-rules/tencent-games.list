@@ -48,28 +48,22 @@ DOMAIN-SUFFIX, yxwsgame.com @cn
 DOMAIN-SUFFIX, yzyxgame.com @cn
 DOMAIN-SUFFIX, zcjbgame.com @cn
 DOMAIN-SUFFIX, zhuoyuegame.com @cn
-
 DOMAIN-SUFFIX, xn--owtw8cc49ajfl.cn @cn #碧蓝幻想.cn
-
-DOMAIN-SUFFIX, # Roblox
+# Roblox
 DOMAIN-SUFFIX, roblox.cn @cn
 DOMAIN-SUFFIX, roblox.qq.com @cn
 DOMAIN-SUFFIX, robloxdev.cn @cn
-
-DOMAIN-SUFFIX, # NExT Studios
+# NExT Studios
 DOMAIN-SUFFIX, nextstudios.com @cn
 DOMAIN-SUFFIX, nextworkshop.net @cn
-
-DOMAIN-SUFFIX, # 迷失之地
+# 迷失之地
 DOMAIN-SUFFIX, mszdld.cn @cn
 DOMAIN-SUFFIX, mszdld.com @cn
 DOMAIN-SUFFIX, mszdld.net @cn
-
-DOMAIN-SUFFIX, # 篝火营地
+# 篝火营地
 DOMAIN-SUFFIX, gamebonfire.com @cn
 DOMAIN-SUFFIX, gouhuo.qq.com @cn
-
-DOMAIN-SUFFIX, # WeGame
+# WeGame
 DOMAIN-SUFFIX, ffbuddy.com @cn
 DOMAIN-SUFFIX, gotolink.net @cn
 DOMAIN-SUFFIX, gtgres.com @cn
@@ -78,8 +72,7 @@ DOMAIN-SUFFIX, wegame.com @cn
 DOMAIN-SUFFIX, wegame.com.cn @cn
 DOMAIN-SUFFIX, wegameplus.com @cn
 DOMAIN-SUFFIX, werepository.com.cn @cn
-
-DOMAIN-SUFFIX, # Supercell
+# Supercell
 DOMAIN-SUFFIX, brawlstars.cn @cn
 DOMAIN-SUFFIX, haydaypop.cn @cn
 DOMAIN-SUFFIX, labycore.cn @cn
@@ -91,17 +84,13 @@ DOMAIN-SUFFIX, scsentry.cn @cn
 DOMAIN-SUFFIX, supercell.com @!cn
 DOMAIN-SUFFIX, supercellcommunity.cn @cn
 DOMAIN-SUFFIX, supercellsupport.cn @cn
-
-DOMAIN-SUFFIX, # 使命召唤
+# 使命召唤
 DOMAIN-SUFFIX, codm.com @cn
-
-DOMAIN-SUFFIX, # 穿越火线
+# 穿越火线
 DOMAIN-SUFFIX, bcfmglobal.com @cn
 DOMAIN-SUFFIX, tcfmglobal.com @cn
-	
-DOMAIN-SUFFIX, # 腾讯游戏安全专家
+# 腾讯游戏安全专家
 DOMAIN-SUFFIX, anticheatexpert.com @cn
-
-DOMAIN-SUFFIX, # 洛克王国
+# 洛克王国
 DOMAIN-SUFFIX, 17roco.com @cn
 DOMAIN-SUFFIX, roco.qq.com @cn

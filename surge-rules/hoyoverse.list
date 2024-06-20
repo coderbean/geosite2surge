@@ -1,20 +1,14 @@
-DOMAIN-SUFFIX, # 原神
+# 原神
 DOMAIN-SUFFIX, genshinimpact.com
-
-DOMAIN-SUFFIX, # 崩壞3
+# 崩壞3
 DOMAIN-SUFFIX, honkaiimpact3.com
-
-DOMAIN-SUFFIX, # 星穹鐵道
+# 星穹鐵道
 DOMAIN-SUFFIX, honkaistarrail.com
-
-DOMAIN-SUFFIX, # 短網址
+# 短網址
 DOMAIN-SUFFIX, hoyo.link
-
-DOMAIN-SUFFIX, # HoYoLab
+# HoYoLab
 DOMAIN-SUFFIX, hoyolab.com
-
-DOMAIN-SUFFIX, # HoYoverse
+# HoYoverse
 DOMAIN-SUFFIX, hoyoverse.com
-
-DOMAIN-SUFFIX, # n0va
+# n0va
 DOMAIN-SUFFIX, n0vadesktop.com

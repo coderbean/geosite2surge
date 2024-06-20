@@ -1,9 +1,4 @@
-DOMAIN-SUFFIX, include:flickr
-DOMAIN-SUFFIX, include:yahoo-ads
-
-DOMAIN-SUFFIX, # All .yahoo domains
-DOMAIN-SUFFIX, yahoo
-
+# All .yahoo domains
 DOMAIN-SUFFIX, yahoo.ae
 DOMAIN-SUFFIX, yahoo.am
 DOMAIN-SUFFIX, yahoo.as
@@ -153,8 +148,7 @@ DOMAIN-SUFFIX, yahoo.tm
 DOMAIN-SUFFIX, yahoo.tn
 DOMAIN-SUFFIX, yahoo.vg
 DOMAIN-SUFFIX, yahoo.ws
-
-DOMAIN-SUFFIX, # Others
+# Others
 DOMAIN-SUFFIX, maktoob.com
 DOMAIN-SUFFIX, myguide.hk
 DOMAIN-SUFFIX, techcrunch.com
@@ -171,5 +165,4 @@ DOMAIN-SUFFIX, yimg.com
 DOMAIN-SUFFIX, yimg.jp
 DOMAIN-SUFFIX, ymail.com
 DOMAIN-SUFFIX, yusercontent.com
-
 DOMAIN-SUFFIX, full:cdn.js7k.com

@@ -1,24 +1,13 @@
-DOMAIN-SUFFIX, # References:
-DOMAIN-SUFFIX, # https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml
-DOMAIN-SUFFIX, # https://unix.stackexchange.com/questions/92441/whats-the-difference-between-local-home-and-lan
-DOMAIN-SUFFIX, lan
-DOMAIN-SUFFIX, localdomain
-
-DOMAIN-SUFFIX, # https://tools.ietf.org/html/rfc2606
-DOMAIN-SUFFIX, # https://tools.ietf.org/html/rfc6761
-DOMAIN-SUFFIX, example
-DOMAIN-SUFFIX, invalid
-DOMAIN-SUFFIX, localhost
-DOMAIN-SUFFIX, test
-
-DOMAIN-SUFFIX, # https://tools.ietf.org/html/rfc6762
-DOMAIN-SUFFIX, local
-
-DOMAIN-SUFFIX, # https://tools.ietf.org/html/rfc8375
+# References:
+# https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml
+# https://unix.stackexchange.com/questions/92441/whats-the-difference-between-local-home-and-lan
+# https://tools.ietf.org/html/rfc2606
+# https://tools.ietf.org/html/rfc6761
+# https://tools.ietf.org/html/rfc6762
+# https://tools.ietf.org/html/rfc8375
 DOMAIN-SUFFIX, home.arpa
-
-DOMAIN-SUFFIX, # References: https://www.iana.org/assignments/locally-served-dns-zones/locally-served-dns-zones.xhtml
-DOMAIN-SUFFIX, # https://www.rfc-editor.org/rfc/rfc6303.html
+# References: https://www.iana.org/assignments/locally-served-dns-zones/locally-served-dns-zones.xhtml
+# https://www.rfc-editor.org/rfc/rfc6303.html
 DOMAIN-SUFFIX, 10.in-addr.arpa
 DOMAIN-SUFFIX, 16.172.in-addr.arpa
 DOMAIN-SUFFIX, 17.172.in-addr.arpa
@@ -52,7 +41,7 @@ DOMAIN-SUFFIX, 9.e.f.ip6.arpa
 DOMAIN-SUFFIX, a.e.f.ip6.arpa
 DOMAIN-SUFFIX, b.e.f.ip6.arpa
 DOMAIN-SUFFIX, 8.b.d.0.1.0.0.2.ip6.arpa
-DOMAIN-SUFFIX, # https://www.rfc-editor.org/rfc/rfc7793.html
+# https://www.rfc-editor.org/rfc/rfc7793.html
 DOMAIN-SUFFIX, 64.100.in-addr.arpa
 DOMAIN-SUFFIX, 65.100.in-addr.arpa
 DOMAIN-SUFFIX, 66.100.in-addr.arpa
@@ -117,84 +106,62 @@ DOMAIN-SUFFIX, 124.100.in-addr.arpa
 DOMAIN-SUFFIX, 125.100.in-addr.arpa
 DOMAIN-SUFFIX, 126.100.in-addr.arpa
 DOMAIN-SUFFIX, 127.100.in-addr.arpa
-
-DOMAIN-SUFFIX, # Dotless domains
-DOMAIN-SUFFIX, regexp:^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$
-
-DOMAIN-SUFFIX, # Aruba router
+# Dotless domains
+# Aruba router
 DOMAIN-SUFFIX, full:instant.arubanetworks.com
 DOMAIN-SUFFIX, full:setmeup.arubanetworks.com
-
-DOMAIN-SUFFIX, # Apple
+# Apple
 DOMAIN-SUFFIX, captive.apple.com
-
-DOMAIN-SUFFIX, # Android
+# Android
 DOMAIN-SUFFIX, connectivitycheck.gstatic.com
-
-DOMAIN-SUFFIX, # ASUS router
-DOMAIN-SUFFIX, # Reference: https://www.asus.com/support/FAQ/1005263/
+# ASUS router
+# Reference: https://www.asus.com/support/FAQ/1005263/
 DOMAIN-SUFFIX, full:asusrouter.com
 DOMAIN-SUFFIX, full:router.asus.com
 DOMAIN-SUFFIX, full:www.asusrouter.com
-
-DOMAIN-SUFFIX, # Cloudflare
+# Cloudflare
 DOMAIN-SUFFIX, full:cp.cloudflare.com
-
-DOMAIN-SUFFIX, # Firefox
+# Firefox
 DOMAIN-SUFFIX, full:detectportal.firefox.com
-
-DOMAIN-SUFFIX, # KDE
+# KDE
 DOMAIN-SUFFIX, networkcheck.kde.org
-
-DOMAIN-SUFFIX, # Mozilla Location Service
+# Mozilla Location Service
 DOMAIN-SUFFIX, location.services.mozilla.com
-
-DOMAIN-SUFFIX, # Netgear router
-DOMAIN-SUFFIX, # Reference: https://kb.netgear.com/27199/I-can-t-access-my-router-what-do-I-do
-DOMAIN-SUFFIX, # https://www.netgear.com/business/services/aplogincom/
+# Netgear router
+# Reference: https://kb.netgear.com/27199/I-can-t-access-my-router-what-do-I-do
+# https://www.netgear.com/business/services/aplogincom/
 DOMAIN-SUFFIX, full:routerlogin.com
 DOMAIN-SUFFIX, full:www.routerlogin.com
-
-DOMAIN-SUFFIX, # Other router
+# Other router
 DOMAIN-SUFFIX, hiwifi.com
 DOMAIN-SUFFIX, leike.cc
 DOMAIN-SUFFIX, my.router
 DOMAIN-SUFFIX, peiluyou.com
 DOMAIN-SUFFIX, phicomm.me
 DOMAIN-SUFFIX, router.ctc
-
-DOMAIN-SUFFIX, # Plex Media Server
-DOMAIN-SUFFIX, # Reference: https://support.plex.tv/articles/206225077-how-to-use-secure-server-connections/
+# Plex Media Server
+# Reference: https://support.plex.tv/articles/206225077-how-to-use-secure-server-connections/
 DOMAIN-SUFFIX, plex.direct
-
-DOMAIN-SUFFIX, # QQ SSO for quick login
+# QQ SSO for quick login
 DOMAIN-SUFFIX, localhost.sec.qq.com
 DOMAIN-SUFFIX, localhost.ptlogin2.qq.com
-
-DOMAIN-SUFFIX, # Steam Deck Game mode
+# Steam Deck Game mode
 DOMAIN-SUFFIX, test.steampowered.com
-
-DOMAIN-SUFFIX, # Tenda router
+# Tenda router
 DOMAIN-SUFFIX, tendawifi.com
-
-DOMAIN-SUFFIX, # TP-Link router
-DOMAIN-SUFFIX, # Reference: https://resource.tp-link.com.cn/m/productClass/product_document?id=1655112502304621
+# TP-Link router
+# Reference: https://resource.tp-link.com.cn/m/productClass/product_document?id=1655112502304621
 DOMAIN-SUFFIX, tplinkwifi.net
 DOMAIN-SUFFIX, full:tplogin.cn
-
-DOMAIN-SUFFIX, # Windows
+# Windows
 DOMAIN-SUFFIX, msftconnecttest.com
 DOMAIN-SUFFIX, msftncsi.com
-
-DOMAIN-SUFFIX, # Xiaomi router
-DOMAIN-SUFFIX, # Reference: https://www1.miwifi.com/miwifi_faq.html
+# Xiaomi router
+# Reference: https://www1.miwifi.com/miwifi_faq.html
 DOMAIN-SUFFIX, full:miwifi.com
 DOMAIN-SUFFIX, full:www.miwifi.com
-
-DOMAIN-SUFFIX, # ZTE router
+# ZTE router
 DOMAIN-SUFFIX, zte.home
-
-
-DOMAIN-SUFFIX, # Tailscale Magic DNS
-DOMAIN-SUFFIX, # Reference: https://tailscale.com/kb/1081/magicdns/#fully-qualified-domain-names-vs-machine-names
+# Tailscale Magic DNS
+# Reference: https://tailscale.com/kb/1081/magicdns/#fully-qualified-domain-names-vs-machine-names
 DOMAIN-SUFFIX, ts.net

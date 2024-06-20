@@ -1,10 +1,8 @@
-DOMAIN-SUFFIX, # Forum
+# Forum
 DOMAIN-SUFFIX, libgen.life
-
-DOMAIN-SUFFIX, # Official site
+# Official site
 DOMAIN-SUFFIX, libgen.fun
-
-DOMAIN-SUFFIX, # Unofficial sites (forked from the official site)
+# Unofficial sites (forked from the official site)
 DOMAIN-SUFFIX, gen.lib.rus.ec
 DOMAIN-SUFFIX, libgen.is
 DOMAIN-SUFFIX, libgen.me

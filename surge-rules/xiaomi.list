@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX, include:xiaomi-ads
-
 DOMAIN-SUFFIX, mi-img.com
 DOMAIN-SUFFIX, mi.com
 DOMAIN-SUFFIX, mifile.cn
@@ -10,9 +8,7 @@ DOMAIN-SUFFIX, xiaomi.com
 DOMAIN-SUFFIX, xiaomi.net
 DOMAIN-SUFFIX, xiaomiev.com
 DOMAIN-SUFFIX, xiaomimobile.com
-
-DOMAIN-SUFFIX, # Xiaomi YouPin
+# Xiaomi YouPin
 DOMAIN-SUFFIX, xiaomiyoupin.com
-
-DOMAIN-SUFFIX, # AppStore CDN
+# AppStore CDN
 DOMAIN-SUFFIX, saxyit.com

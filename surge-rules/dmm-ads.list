@@ -1,6 +1,5 @@
-DOMAIN-SUFFIX, # Refer: https://tonahazana.com/kancolle-2nd-weight-saving
-DOMAIN-SUFFIX, # If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
-
+# Refer: https://tonahazana.com/kancolle-2nd-weight-saving
+# If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
 DOMAIN-SUFFIX, ad.games.dmm.com @ads
 DOMAIN-SUFFIX, bluekai.com @ads
 DOMAIN-SUFFIX, fout.jp @ads

@@ -1,13 +1,7 @@
-DOMAIN-SUFFIX, include:bilibili-game
-
-
-DOMAIN-SUFFIX, # 哔哩哔哩漫画
+# 哔哩哔哩漫画
 DOMAIN-SUFFIX, bilicomic.com
 DOMAIN-SUFFIX, bilicomics.com
-
 DOMAIN-SUFFIX, full:manga.bilibili.com
-
-
 DOMAIN-SUFFIX, acg.tv
 DOMAIN-SUFFIX, acgvideo.com
 DOMAIN-SUFFIX, animetamashi.cn
@@ -48,5 +42,4 @@ DOMAIN-SUFFIX, im9.com
 DOMAIN-SUFFIX, maoercdn.com
 DOMAIN-SUFFIX, mincdn.com
 DOMAIN-SUFFIX, yo9.com
-
 DOMAIN-SUFFIX, full:upos-hz-mirrorakam.akamaized.net

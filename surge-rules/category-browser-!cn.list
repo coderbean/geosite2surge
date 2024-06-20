@@ -1,13 +1,6 @@
-DOMAIN-SUFFIX, include:ceno
-DOMAIN-SUFFIX, include:epicbrowser
-DOMAIN-SUFFIX, include:firefox
-DOMAIN-SUFFIX, include:torproject
-
-DOMAIN-SUFFIX, # chromium
-DOMAIN-SUFFIX, chrome
+# chromium
 DOMAIN-SUFFIX, chrome.com
 DOMAIN-SUFFIX, chromium.org
-
 DOMAIN-SUFFIX, basilisk-browser.org
 DOMAIN-SUFFIX, brave.com
 DOMAIN-SUFFIX, bromite.org

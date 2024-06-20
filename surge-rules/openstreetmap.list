@@ -5,7 +5,6 @@ DOMAIN-SUFFIX, openstreetmap.org
 DOMAIN-SUFFIX, openstreetmaps.org
 DOMAIN-SUFFIX, osm.org
 DOMAIN-SUFFIX, osmfoundation.org
-
-DOMAIN-SUFFIX, # State of the Map
+# State of the Map
 DOMAIN-SUFFIX, stateofthemap.com
 DOMAIN-SUFFIX, stateofthemap.org

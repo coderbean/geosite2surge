@@ -1,8 +1,7 @@
 DOMAIN-SUFFIX, blizzard.com
 DOMAIN-SUFFIX, blizzardgearstore.com
 DOMAIN-SUFFIX, blz-contentstack.com
-
-DOMAIN-SUFFIX, # Battle.Net
+# Battle.Net
 DOMAIN-SUFFIX, battle.net
 DOMAIN-SUFFIX, full:blizzard.nefficient.co.kr
 DOMAIN-SUFFIX, full:blzddist1-a.akamaihd.net
@@ -10,31 +9,23 @@ DOMAIN-SUFFIX, full:blzddistkr1-a.akamaihd.net
 DOMAIN-SUFFIX, full:bnetcmsus-a.akamaihd.net
 DOMAIN-SUFFIX, full:bnetproduct-a.akamaihd.net
 DOMAIN-SUFFIX, full:bnetshopus.akamaized.net
-
-DOMAIN-SUFFIX, # Diablo
+# Diablo
 DOMAIN-SUFFIX, diablo3.com
 DOMAIN-SUFFIX, diabloimmortal.com
-
-DOMAIN-SUFFIX, # Hearthstone
+# Hearthstone
 DOMAIN-SUFFIX, firesidegatherings.com
 DOMAIN-SUFFIX, playhearthstone.com
-
-DOMAIN-SUFFIX, # Hero of the Storm
+# Hero of the Storm
 DOMAIN-SUFFIX, heroesofthestorm.com
-
-DOMAIN-SUFFIX, # Overwatch
+# Overwatch
 DOMAIN-SUFFIX, playoverwatch.com
-
-DOMAIN-SUFFIX, # Starcraft
+# Starcraft
 DOMAIN-SUFFIX, starcraft.com
 DOMAIN-SUFFIX, starcraft2.com
-
-DOMAIN-SUFFIX, # Warcraft
+# Warcraft
 DOMAIN-SUFFIX, playwarcraft3.com
-
-DOMAIN-SUFFIX, # World of Warcraft
+# World of Warcraft
 DOMAIN-SUFFIX, worldofwarcraft.com
-
 DOMAIN-SUFFIX, full:blizzcon-a.akamaihd.net
 DOMAIN-SUFFIX, full:blzmedia-a.akamaihd.net
 DOMAIN-SUFFIX, full:blznav.akamaized.net

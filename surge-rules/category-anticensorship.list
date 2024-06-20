@@ -1,16 +1,3 @@
-DOMAIN-SUFFIX, include:category-ipfs
-DOMAIN-SUFFIX, include:ceno
-DOMAIN-SUFFIX, include:citizenlab
-DOMAIN-SUFFIX, include:epicbrowser
-DOMAIN-SUFFIX, include:greatfire
-DOMAIN-SUFFIX, include:haveibeenpwned
-DOMAIN-SUFFIX, include:lantern
-DOMAIN-SUFFIX, include:paskoocheh
-DOMAIN-SUFFIX, include:softether
-DOMAIN-SUFFIX, include:torproject
-DOMAIN-SUFFIX, include:v2ray
-DOMAIN-SUFFIX, include:vpngate
-
 DOMAIN-SUFFIX, ahmia.fi
 DOMAIN-SUFFIX, akasha.world
 DOMAIN-SUFFIX, browserleaks.com

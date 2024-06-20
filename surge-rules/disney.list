@@ -1,11 +1,3 @@
-DOMAIN-SUFFIX, include:abc
-DOMAIN-SUFFIX, include:bamtech
-DOMAIN-SUFFIX, include:espn
-DOMAIN-SUFFIX, include:hotstar
-DOMAIN-SUFFIX, include:marvel
-DOMAIN-SUFFIX, include:nationalgeographic
-DOMAIN-SUFFIX, include:starplus
-
 DOMAIN-SUFFIX, disney.asia
 DOMAIN-SUFFIX, disney.be
 DOMAIN-SUFFIX, disney.bg
@@ -44,8 +36,7 @@ DOMAIN-SUFFIX, disney.ro
 DOMAIN-SUFFIX, disney.ru
 DOMAIN-SUFFIX, disney.se
 DOMAIN-SUFFIX, disney.sg
-
-DOMAIN-SUFFIX, # Others
+# Others
 DOMAIN-SUFFIX, 20thcenturystudios.com.au
 DOMAIN-SUFFIX, 20thcenturystudios.com.br
 DOMAIN-SUFFIX, 20thcenturystudios.jp

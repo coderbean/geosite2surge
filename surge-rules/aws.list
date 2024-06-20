@@ -1,9 +1,5 @@
-DOMAIN-SUFFIX, include:aws-cn
-
-DOMAIN-SUFFIX, # All .aws domains
-DOMAIN-SUFFIX, aws
-
-DOMAIN-SUFFIX, # AWS
+# All .aws domains
+# AWS
 DOMAIN-SUFFIX, acmvalidations.com
 DOMAIN-SUFFIX, acmvalidationsaws.com
 DOMAIN-SUFFIX, aesworkshops.com
@@ -37,6 +33,5 @@ DOMAIN-SUFFIX, cloudfront.net
 DOMAIN-SUFFIX, containersonaws.com
 DOMAIN-SUFFIX, elasticbeanstalk.com
 DOMAIN-SUFFIX, thinkboxsoftware.com
-
-DOMAIN-SUFFIX, # AWS DNS
+# AWS DNS
 DOMAIN-SUFFIX, regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$

@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX, # Reginol Store
+# Reginol Store
 DOMAIN-SUFFIX, ikea.ae
 DOMAIN-SUFFIX, ikea.at
 DOMAIN-SUFFIX, ikea.au
@@ -86,7 +86,6 @@ DOMAIN-SUFFIX, ikea.si
 DOMAIN-SUFFIX, ikea.sk
 DOMAIN-SUFFIX, ikea.ua
 DOMAIN-SUFFIX, ikea.us
-
 DOMAIN-SUFFIX, ikea.com
 DOMAIN-SUFFIX, ikea.net
 DOMAIN-SUFFIX, ingka-dt.cn @cn

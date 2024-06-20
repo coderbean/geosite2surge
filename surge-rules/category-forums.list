@@ -1,19 +1,4 @@
-DOMAIN-SUFFIX, # Forums & Social network
-DOMAIN-SUFFIX, include:4chan
-DOMAIN-SUFFIX, include:5ch
-DOMAIN-SUFFIX, include:6park
-DOMAIN-SUFFIX, include:ck101
-DOMAIN-SUFFIX, include:dcard
-DOMAIN-SUFFIX, include:dslreports
-DOMAIN-SUFFIX, include:hkgolden
-DOMAIN-SUFFIX, include:lihkg
-DOMAIN-SUFFIX, include:mobile01
-DOMAIN-SUFFIX, include:pixnet
-DOMAIN-SUFFIX, include:ptt
-DOMAIN-SUFFIX, include:quora
-DOMAIN-SUFFIX, include:reddit
-DOMAIN-SUFFIX, include:yamibo
-
+# Forums & Social network
 DOMAIN-SUFFIX, 18p2p.com
 DOMAIN-SUFFIX, avsforum.com
 DOMAIN-SUFFIX, disp.cc

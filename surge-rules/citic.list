@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .citic domains
-DOMAIN-SUFFIX, citic
-
+# All .citic domains
 DOMAIN-SUFFIX, chinaamc.com
 DOMAIN-SUFFIX, citic-prudential.com.cn
 DOMAIN-SUFFIX, citicbank.com
@@ -15,4 +13,3 @@ DOMAIN-SUFFIX, cncbinternational.com @!cn
 DOMAIN-SUFFIX, csc108.com
 DOMAIN-SUFFIX, csci.hk @!cn
 DOMAIN-SUFFIX, ecitic.com
-

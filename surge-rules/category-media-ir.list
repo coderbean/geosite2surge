@@ -1,7 +1,4 @@
-DOMAIN-SUFFIX, # Iranian media websites
-DOMAIN-SUFFIX, include:aparat
-DOMAIN-SUFFIX, include:filimo
-
+# Iranian media websites
 DOMAIN-SUFFIX, cinematicket.org
 DOMAIN-SUFFIX, filmnet.ir
 DOMAIN-SUFFIX, irib.ir

@@ -1,9 +1,1 @@
-DOMAIN-SUFFIX, # This list contains social media platforms outside China mainland.
-
-DOMAIN-SUFFIX, include:bluesky
-DOMAIN-SUFFIX, include:facebook
-DOMAIN-SUFFIX, include:instagram
-DOMAIN-SUFFIX, include:linkedin
-DOMAIN-SUFFIX, include:threads
-DOMAIN-SUFFIX, include:twitter
-DOMAIN-SUFFIX, include:vk
+# This list contains social media platforms outside China mainland.

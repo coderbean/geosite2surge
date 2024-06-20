@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .mini domains
-DOMAIN-SUFFIX, mini
-
+# All .mini domains
 DOMAIN-SUFFIX, 4myminicard.com
 DOMAIN-SUFFIX, aboutyourmini.com
 DOMAIN-SUFFIX, atlantaminidealers.com

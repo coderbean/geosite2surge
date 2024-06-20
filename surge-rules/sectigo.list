@@ -11,8 +11,7 @@ DOMAIN-SUFFIX, sectigochina.com.cdn.cloudflare.net @cn
 DOMAIN-SUFFIX, trust-provider.cn @cn
 DOMAIN-SUFFIX, trust-provider.com
 DOMAIN-SUFFIX, usertrust.com
-
-DOMAIN-SUFFIX, # Sub brand
+# Sub brand
 DOMAIN-SUFFIX, aoc.cat
 DOMAIN-SUFFIX, catcert.cat
 DOMAIN-SUFFIX, incommon-rsa.org

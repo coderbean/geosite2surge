@@ -1,9 +1,7 @@
-DOMAIN-SUFFIX, # Aliyun
+# Aliyun
 DOMAIN-SUFFIX, regexp:^ntp([1-7])?\.aliyun\.com$ @cn
-
-DOMAIN-SUFFIX, # Tencent
+# Tencent
 DOMAIN-SUFFIX, regexp:^ntp([1-5])?\.tencent\.com$ @cn
-
 DOMAIN-SUFFIX, cn.pool.ntp.org @cn
 DOMAIN-SUFFIX, ntp.neu.edu.cn @cn
 DOMAIN-SUFFIX, ntp.ntsc.ac.cn @cn

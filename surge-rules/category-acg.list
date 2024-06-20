@@ -1,13 +1,11 @@
-DOMAIN-SUFFIX, # Game
+# Game
 DOMAIN-SUFFIX, colorfulstage.com
-
-DOMAIN-SUFFIX, # Idol
+# Idol
 DOMAIN-SUFFIX, crypton.co.jp
 DOMAIN-SUFFIX, lapriere.jp
 DOMAIN-SUFFIX, magicalmirai.com
 DOMAIN-SUFFIX, mikuexpo.com
 DOMAIN-SUFFIX, piapro.net
 DOMAIN-SUFFIX, snowmiku.com
-
-DOMAIN-SUFFIX, # Resource sharing
+# Resource sharing
 DOMAIN-SUFFIX, bowlroll.net

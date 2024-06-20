@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # This file contains domains of all ads providers, including both the domains that serves ads, and the domains of providers themselves.
-
-
+# This file contains domains of all ads providers, including both the domains that serves ads, and the domains of providers themselves.
 DOMAIN-SUFFIX, 7box.vip @ads
 DOMAIN-SUFFIX, ad-delivery.net @ads
 DOMAIN-SUFFIX, adinplay.com @ads
@@ -22,7 +20,3 @@ DOMAIN-SUFFIX, snapads.com @ads
 DOMAIN-SUFFIX, spotxchange.com @ads
 DOMAIN-SUFFIX, unimhk.com @ads
 DOMAIN-SUFFIX, upapi.net @ads
-
-
-DOMAIN-SUFFIX, include:taboola
-DOMAIN-SUFFIX, include:category-ads

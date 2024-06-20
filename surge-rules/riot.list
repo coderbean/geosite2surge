@@ -19,9 +19,7 @@ DOMAIN-SUFFIX, riotpoints.com
 DOMAIN-SUFFIX, rstatic.net
 DOMAIN-SUFFIX, supremacy.com
 DOMAIN-SUFFIX, supremacy.net
-
-
-DOMAIN-SUFFIX, # League of Lengends
+# League of Lengends
 DOMAIN-SUFFIX, championshipseriesleague.com
 DOMAIN-SUFFIX, lcsmerch.com
 DOMAIN-SUFFIX, leaguehighschool.com
@@ -50,16 +48,10 @@ DOMAIN-SUFFIX, lpl.com.cn @cn
 DOMAIN-SUFFIX, pvp.net
 DOMAIN-SUFFIX, pvp.tv
 DOMAIN-SUFFIX, ulol.com
-
 DOMAIN-SUFFIX, full:lolstatic-a.akamaihd.net
-
-
-DOMAIN-SUFFIX, # Valorant
+# Valorant
 DOMAIN-SUFFIX, playvalorant.com
-
-
-DOMAIN-SUFFIX, # Riot Forge
+# Riot Forge
 DOMAIN-SUFFIX, riotforgegames.com
 DOMAIN-SUFFIX, ruinedking.com
 DOMAIN-SUFFIX, convrgencegame.com
-

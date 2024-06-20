@@ -1,8 +1,4 @@
-DOMAIN-SUFFIX, # This tag 'lark' is for backward compatibility
-
-DOMAIN-SUFFIX, include:feishu
-DOMAIN-SUFFIX, include:lark-global
-
+# This tag 'lark' is for backward compatibility
 DOMAIN-SUFFIX, baseopendev.com  # 京ICP备16045432号-79 多维表格开放中心
 DOMAIN-SUFFIX, bytecloud.com  # 京ICP备16045432号-23 视频云开放平台
 DOMAIN-SUFFIX, byteoc.com  # 京ICP备16045432号-41 企业服务平台

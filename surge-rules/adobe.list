@@ -1,7 +1,3 @@
-DOMAIN-SUFFIX, include:adobe-activation
-DOMAIN-SUFFIX, include:adobe-ads
-DOMAIN-SUFFIX, include:typekit
-
 DOMAIN-SUFFIX, 10xfotolia.com
 DOMAIN-SUFFIX, 2o7.net
 DOMAIN-SUFFIX, acrobat.com
@@ -71,23 +67,19 @@ DOMAIN-SUFFIX, placesdocs.com
 DOMAIN-SUFFIX, sundanceignite2016.com
 DOMAIN-SUFFIX, worldsecureemail.com
 DOMAIN-SUFFIX, worldsecuresystems.com
-
-DOMAIN-SUFFIX, # Adobe Dev
+# Adobe Dev
 DOMAIN-SUFFIX, adobe.io
 DOMAIN-SUFFIX, developria.com
-
-DOMAIN-SUFFIX, # Behance
+# Behance
 DOMAIN-SUFFIX, behance.net
 DOMAIN-SUFFIX, s2stagehance.com
-
-DOMAIN-SUFFIX, # Creative Cloud
+# Creative Cloud
 DOMAIN-SUFFIX, adobecc.com
 DOMAIN-SUFFIX, adobecce.com
 DOMAIN-SUFFIX, adobeccstatic.com
 DOMAIN-SUFFIX, creativecloud.com
 DOMAIN-SUFFIX, creativesdk.com
-
-DOMAIN-SUFFIX, # Fotolia
+# Fotolia
 DOMAIN-SUFFIX, cotolia.com
 DOMAIN-SUFFIX, ffotolia.com
 DOMAIN-SUFFIX, fiotolia.com
@@ -106,8 +98,7 @@ DOMAIN-SUFFIX, motolia.com
 DOMAIN-SUFFIX, photolia.net
 DOMAIN-SUFFIX, tenbyfotolia.com
 DOMAIN-SUFFIX, votolia.com
-
-DOMAIN-SUFFIX, # Magento
+# Magento
 DOMAIN-SUFFIX, bluefootcms.com
 DOMAIN-SUFFIX, mageconf.com
 DOMAIN-SUFFIX, mageconf.com.ua
@@ -115,8 +106,7 @@ DOMAIN-SUFFIX, magento.com
 DOMAIN-SUFFIX, magento.net
 DOMAIN-SUFFIX, magentocommerce.com
 DOMAIN-SUFFIX, magentomobile.com
-
-DOMAIN-SUFFIX, # Marketo
+# Marketo
 DOMAIN-SUFFIX, marketing-cloud.com
 DOMAIN-SUFFIX, marketo.co.uk
 DOMAIN-SUFFIX, marketo.com
@@ -131,11 +121,9 @@ DOMAIN-SUFFIX, mktroute.com
 DOMAIN-SUFFIX, mobilemarketo.com
 DOMAIN-SUFFIX, revenue-performance-management.com
 DOMAIN-SUFFIX, toutapp.com
-
-DOMAIN-SUFFIX, # Tools
+# Tools
 DOMAIN-SUFFIX, compresspdf.new
 DOMAIN-SUFFIX, pdf.new
 DOMAIN-SUFFIX, sign.new
-
-DOMAIN-SUFFIX, # Adobe Dynamic Media Delivery
+# Adobe Dynamic Media Delivery
 DOMAIN-SUFFIX, scene7.com

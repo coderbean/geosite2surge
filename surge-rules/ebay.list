@@ -317,12 +317,10 @@ DOMAIN-SUFFIX, xn--xsq959n.com # 依钡.com
 DOMAIN-SUFFIX, xn--yf1at58a.com # 艺钡.com
 DOMAIN-SUFFIX, xxbay.com
 DOMAIN-SUFFIX, yibei.org
-
-DOMAIN-SUFFIX, # GittiGidiyor
+# GittiGidiyor
 DOMAIN-SUFFIX, gittigidiyor.net
 DOMAIN-SUFFIX, gittigidiyorsikayet.com
-
-DOMAIN-SUFFIX, # kijiji
+# kijiji
 DOMAIN-SUFFIX, gumtree.sg
 DOMAIN-SUFFIX, jijiji.ca
 DOMAIN-SUFFIX, kiji.ca
@@ -338,18 +336,15 @@ DOMAIN-SUFFIX, kijijii.ca
 DOMAIN-SUFFIX, kijijiraps.ca
 DOMAIN-SUFFIX, kijji.ca
 DOMAIN-SUFFIX, kijjiji.ca
-
-DOMAIN-SUFFIX, # Mobile.de
+# Mobile.de
 DOMAIN-SUFFIX, automobile.fr
 DOMAIN-SUFFIX, mobile.de
 DOMAIN-SUFFIX, mobileinternational.com
 DOMAIN-SUFFIX, mobileinternational.com.cn @cn
-
-DOMAIN-SUFFIX, # Qoo10
+# Qoo10
 DOMAIN-SUFFIX, q10.jp
 DOMAIN-SUFFIX, qoo10.jp
-
-DOMAIN-SUFFIX, # Terapeak
+# Terapeak
 DOMAIN-SUFFIX, achievementanalytics.com
 DOMAIN-SUFFIX, cdn-terapeak.com
 DOMAIN-SUFFIX, listinganalytics.net
@@ -365,13 +360,11 @@ DOMAIN-SUFFIX, terapeak.info
 DOMAIN-SUFFIX, teraperk.com
 DOMAIN-SUFFIX, terrapeak.com
 DOMAIN-SUFFIX, thebayuk.com
-
-DOMAIN-SUFFIX, # WHI
+# WHI
 DOMAIN-SUFFIX, nexcat.com
 DOMAIN-SUFFIX, nexpart.com
 DOMAIN-SUFFIX, nexpart.tv
 DOMAIN-SUFFIX, renchead.com
 DOMAIN-SUFFIX, whisolutions.com
 DOMAIN-SUFFIX, wrenchead.com
-
 DOMAIN-SUFFIX, full:ebay-25-assets.s3-us-west-1.amazonaws.com

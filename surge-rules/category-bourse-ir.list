@@ -1,6 +1,5 @@
-DOMAIN-SUFFIX, # Iranian stock exchange websites 
-
-DOMAIN-SUFFIX, # Bourse
+# Iranian stock exchange websites 
+# Bourse
 DOMAIN-SUFFIX, arman-ati.com
 DOMAIN-SUFFIX, bourseiness.com
 DOMAIN-SUFFIX, codal.ir
@@ -12,8 +11,7 @@ DOMAIN-SUFFIX, sukuk.ir
 DOMAIN-SUFFIX, talarebourse.com
 DOMAIN-SUFFIX, tse.ir
 DOMAIN-SUFFIX, tsetmc.ir
-
-DOMAIN-SUFFIX, # Brokers
+# Brokers
 DOMAIN-SUFFIX, abanbroker.com
 DOMAIN-SUFFIX, bahmanbroker.com
 DOMAIN-SUFFIX, bkisecurities.com
@@ -38,8 +36,7 @@ DOMAIN-SUFFIX, samanbourse.com
 DOMAIN-SUFFIX, sdbhouse.com
 DOMAIN-SUFFIX, sepahbourse.com
 DOMAIN-SUFFIX, tadbirgar.com
-
-DOMAIN-SUFFIX, # Exchanges
+# Exchanges
 DOMAIN-SUFFIX, abantether.com
 DOMAIN-SUFFIX, bit24.cash
 DOMAIN-SUFFIX, bitpin.ir

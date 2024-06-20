@@ -1,11 +1,9 @@
-DOMAIN-SUFFIX, # 北京联想调频科技有限公司 京ICP备2023017858号
+# 北京联想调频科技有限公司 京ICP备2023017858号
 DOMAIN-SUFFIX, lenovo.net
-
-DOMAIN-SUFFIX, # 联想百应（天津）科技有限公司 津ICP备19001829号
+# 联想百应（天津）科技有限公司 津ICP备19001829号
 DOMAIN-SUFFIX, baiying.cn
 DOMAIN-SUFFIX, baiying.com.cn
-
-DOMAIN-SUFFIX, # 联想（北京）有限公司 京ICP备11035381号
+# 联想（北京）有限公司 京ICP备11035381号
 DOMAIN-SUFFIX, cftsupport.com
 DOMAIN-SUFFIX, con-c-hybris.lenovo.com
 DOMAIN-SUFFIX, ileapcloud.com
@@ -20,8 +18,7 @@ DOMAIN-SUFFIX, lxzjjt.com
 DOMAIN-SUFFIX, thinkcloudlab.com
 DOMAIN-SUFFIX, thinkpad.com
 DOMAIN-SUFFIX, zhiliaowenda.com.cn
-
-DOMAIN-SUFFIX, # 北京神奇工场科技有限公司 京ICP备15007699号
+# 北京神奇工场科技有限公司 京ICP备15007699号
 DOMAIN-SUFFIX, blurdev.com
 DOMAIN-SUFFIX, chainedbox.com
 DOMAIN-SUFFIX, fm365.com
@@ -42,17 +39,14 @@ DOMAIN-SUFFIX, zui.com
 DOMAIN-SUFFIX, zuk.cn
 DOMAIN-SUFFIX, zuk.com
 DOMAIN-SUFFIX, zuk.com.cn
-
-DOMAIN-SUFFIX, # 联想移动通信科技有限公司 闽ICP备05023775号
+# 联想移动通信科技有限公司 闽ICP备05023775号
 DOMAIN-SUFFIX, lenovocare.com.cn
 DOMAIN-SUFFIX, lenovocust.cn
 DOMAIN-SUFFIX, lenovomobile.com
-
-DOMAIN-SUFFIX, # 联想凌拓科技有限公司北京分公司 京ICP备19022858号
+# 联想凌拓科技有限公司北京分公司 京ICP备19022858号
 DOMAIN-SUFFIX, cunchuhulian-ln.cn
 DOMAIN-SUFFIX, lenovonetapp.com
-
-DOMAIN-SUFFIX, # 联想图像（北京）科技有限公司 京ICP备17065633号
+# 联想图像（北京）科技有限公司 京ICP备17065633号
 DOMAIN-SUFFIX, dayin8.com
 DOMAIN-SUFFIX, iprintworks.cn
 DOMAIN-SUFFIX, lenovoimage.cn
@@ -64,6 +58,5 @@ DOMAIN-SUFFIX, thinkprinter.cn
 DOMAIN-SUFFIX, thinkprinter.com.cn
 DOMAIN-SUFFIX, thinkprinter.net
 DOMAIN-SUFFIX, zxsales.cn
-
-DOMAIN-SUFFIX, # CDN
+# CDN
 DOMAIN-SUFFIX, lenovo.com.cdn.cloudflare.net

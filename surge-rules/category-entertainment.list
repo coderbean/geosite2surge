@@ -1,69 +1,4 @@
-DOMAIN-SUFFIX, # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
-
-DOMAIN-SUFFIX, include:abema
-DOMAIN-SUFFIX, include:amc
-DOMAIN-SUFFIX, include:anime
-DOMAIN-SUFFIX, include:archiveofourown
-DOMAIN-SUFFIX, include:attwatchtv
-DOMAIN-SUFFIX, include:bahamut
-DOMAIN-SUFFIX, include:bandcamp
-DOMAIN-SUFFIX, include:boomerang
-DOMAIN-SUFFIX, include:catchplay
-DOMAIN-SUFFIX, include:category-games
-DOMAIN-SUFFIX, include:category-novel
-DOMAIN-SUFFIX, include:dailymotion
-DOMAIN-SUFFIX, include:dandanzan
-DOMAIN-SUFFIX, include:dazn
-DOMAIN-SUFFIX, include:deviantart
-DOMAIN-SUFFIX, include:discoveryplus
-DOMAIN-SUFFIX, include:disney
-DOMAIN-SUFFIX, include:dlsite
-DOMAIN-SUFFIX, include:gimy
-DOMAIN-SUFFIX, include:goodreads
-DOMAIN-SUFFIX, include:hamivideo
-DOMAIN-SUFFIX, include:hbo
-DOMAIN-SUFFIX, include:hulu
-DOMAIN-SUFFIX, include:imdb
-DOMAIN-SUFFIX, include:iyf
-DOMAIN-SUFFIX, include:kingkonglive
-DOMAIN-SUFFIX, include:kkbox
-DOMAIN-SUFFIX, include:kktv
-DOMAIN-SUFFIX, include:lastfm
-DOMAIN-SUFFIX, include:litv
-DOMAIN-SUFFIX, include:manhuagui
-DOMAIN-SUFFIX, include:mihoyo
-DOMAIN-SUFFIX, include:mudvod
-DOMAIN-SUFFIX, include:mytvsuper
-DOMAIN-SUFFIX, include:netflix
-DOMAIN-SUFFIX, include:niconico
-DOMAIN-SUFFIX, include:olevod
-DOMAIN-SUFFIX, include:pbs
-DOMAIN-SUFFIX, include:pixiv
-DOMAIN-SUFFIX, include:plutotv
-DOMAIN-SUFFIX, include:pocketcasts
-DOMAIN-SUFFIX, include:primevideo
-DOMAIN-SUFFIX, include:roku
-DOMAIN-SUFFIX, include:showtimeanytime
-DOMAIN-SUFFIX, include:sling
-DOMAIN-SUFFIX, include:sonypictures
-DOMAIN-SUFFIX, include:soundcloud
-DOMAIN-SUFFIX, include:spotify
-DOMAIN-SUFFIX, include:subscene
-DOMAIN-SUFFIX, include:tidal
-DOMAIN-SUFFIX, include:tiktok
-DOMAIN-SUFFIX, include:tmdb
-DOMAIN-SUFFIX, include:tvdb
-DOMAIN-SUFFIX, include:tver
-DOMAIN-SUFFIX, include:twitch
-DOMAIN-SUFFIX, include:vimeo
-DOMAIN-SUFFIX, include:visualarts
-DOMAIN-SUFFIX, include:viu
-DOMAIN-SUFFIX, include:volmoe
-DOMAIN-SUFFIX, include:webnovel
-DOMAIN-SUFFIX, include:wwe
-DOMAIN-SUFFIX, include:youtube
-DOMAIN-SUFFIX, include:zeetv
-
+# This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 DOMAIN-SUFFIX, 777tv.net
 DOMAIN-SUFFIX, blubrry.com
 DOMAIN-SUFFIX, buzzsprout.com
@@ -85,8 +20,7 @@ DOMAIN-SUFFIX, syosetu.com
 DOMAIN-SUFFIX, thetvdb.com
 DOMAIN-SUFFIX, weverse.io
 DOMAIN-SUFFIX, yande.re
-
-DOMAIN-SUFFIX, # Apple Podcast
+# Apple Podcast
 DOMAIN-SUFFIX, amp-api.podcast.apple.com
 DOMAIN-SUFFIX, bag.itunes.apple.com
 DOMAIN-SUFFIX, bookeeper.itunes.apple.com

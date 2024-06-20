@@ -10,8 +10,7 @@ DOMAIN-SUFFIX, nflximg.net
 DOMAIN-SUFFIX, nflxsearch.net
 DOMAIN-SUFFIX, nflxso.net
 DOMAIN-SUFFIX, nflxvideo.net
-
-DOMAIN-SUFFIX, # DNS test
+# DNS test
 DOMAIN-SUFFIX, netflixdnstest0.com
 DOMAIN-SUFFIX, netflixdnstest1.com
 DOMAIN-SUFFIX, netflixdnstest2.com
@@ -23,12 +22,10 @@ DOMAIN-SUFFIX, netflixdnstest7.com
 DOMAIN-SUFFIX, netflixdnstest8.com
 DOMAIN-SUFFIX, netflixdnstest9.com
 DOMAIN-SUFFIX, netflixdnstest10.com
-
-DOMAIN-SUFFIX, # regular expression
+# regular expression
 DOMAIN-SUFFIX, regexp:(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
 DOMAIN-SUFFIX, regexp:(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
 DOMAIN-SUFFIX, regexp:(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
 DOMAIN-SUFFIX, regexp:(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
-
-DOMAIN-SUFFIX, # Full
+# Full
 DOMAIN-SUFFIX, full:netflix.com.edgesuite.net

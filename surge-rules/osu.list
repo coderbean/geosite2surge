@@ -1,10 +1,10 @@
-DOMAIN-SUFFIX, # osu
+# osu
 DOMAIN-SUFFIX, full:a.ppy.sh
 DOMAIN-SUFFIX, full:assets.ppy.sh
 DOMAIN-SUFFIX, full:c.ppy.sh
 DOMAIN-SUFFIX, full:osu.ppy.sh
 DOMAIN-SUFFIX, full:m1.ppy.sh
-DOMAIN-SUFFIX, # osu lazer
+# osu lazer
 DOMAIN-SUFFIX, full:lazer.ppy.sh
 DOMAIN-SUFFIX, full:notify.ppy.sh
 DOMAIN-SUFFIX, full:sentry.ppy.sh

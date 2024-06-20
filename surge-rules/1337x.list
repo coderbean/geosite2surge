@@ -1,8 +1,7 @@
-DOMAIN-SUFFIX, # Main domain
+# Main domain
 DOMAIN-SUFFIX, 1337x.to
-
-DOMAIN-SUFFIX, # Mirror domains
-DOMAIN-SUFFIX, # Reference: https://1337x.to/about
+# Mirror domains
+# Reference: https://1337x.to/about
 DOMAIN-SUFFIX, 1337x.gd
 DOMAIN-SUFFIX, 1337x.is
 DOMAIN-SUFFIX, 1337x.st

@@ -2,7 +2,5 @@ DOMAIN-SUFFIX, amp.dev
 DOMAIN-SUFFIX, ampproject.com
 DOMAIN-SUFFIX, ampproject.net
 DOMAIN-SUFFIX, ampproject.org
-
 DOMAIN-SUFFIX, full:cdn.ampproject.org @cn
-
 DOMAIN-SUFFIX, full:amp.akamaized.net

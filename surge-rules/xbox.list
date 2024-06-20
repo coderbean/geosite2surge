@@ -1,9 +1,4 @@
-DOMAIN-SUFFIX, include:bethesda
-DOMAIN-SUFFIX, include:mojang
-
-DOMAIN-SUFFIX, # All .xbox domains
-DOMAIN-SUFFIX, xbox
-
+# All .xbox domains
 DOMAIN-SUFFIX, forzamotorsport.net
 DOMAIN-SUFFIX, forzaracingchampionship.com
 DOMAIN-SUFFIX, forzarc.com

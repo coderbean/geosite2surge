@@ -7,10 +7,7 @@ DOMAIN-SUFFIX, pan.quark.cn  # 夸克网盘
 DOMAIN-SUFFIX, weiyun.com  # 微云
 DOMAIN-SUFFIX, yun.139.com  # 中国移动云盘
 DOMAIN-SUFFIX, yunpan.com  # 360安全云盘
-
-DOMAIN-SUFFIX, # 阿里云盘
+# 阿里云盘
 DOMAIN-SUFFIX, aliyundrive.com
 DOMAIN-SUFFIX, yunpan.aliyun.com
-
-DOMAIN-SUFFIX, # 蓝奏云
-DOMAIN-SUFFIX, include:lanzou
+# 蓝奏云

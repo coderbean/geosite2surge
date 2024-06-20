@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .gucci domains
-DOMAIN-SUFFIX, gucci
-
+# All .gucci domains
 DOMAIN-SUFFIX, chimeforchange.org
 DOMAIN-SUFFIX, gucci.cn @cn
 DOMAIN-SUFFIX, gucci.com

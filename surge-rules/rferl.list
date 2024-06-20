@@ -1,12 +1,9 @@
-DOMAIN-SUFFIX, # RadioFreeEurope RadioLiberty
-
-DOMAIN-SUFFIX, # References:
-DOMAIN-SUFFIX, # https://www.rferl.org/navigation/allsites
-
-DOMAIN-SUFFIX, # English
+# RadioFreeEurope RadioLiberty
+# References:
+# https://www.rferl.org/navigation/allsites
+# English
 DOMAIN-SUFFIX, rferl.org
-
-DOMAIN-SUFFIX, # Other Languages
+# Other Languages
 DOMAIN-SUFFIX, azadiradio.com
 DOMAIN-SUFFIX, azadliq.org
 DOMAIN-SUFFIX, azathabar.com

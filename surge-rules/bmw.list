@@ -1,8 +1,4 @@
-DOMAIN-SUFFIX, include:mini
-
-DOMAIN-SUFFIX, # All .bmw domains
-DOMAIN-SUFFIX, bmw
-
+# All .bmw domains
 DOMAIN-SUFFIX, approvedusedbmw.com
 DOMAIN-SUFFIX, baltimorebmw.com
 DOMAIN-SUFFIX, bayareabmw.com
@@ -446,8 +442,7 @@ DOMAIN-SUFFIX, the-m-festival.com
 DOMAIN-SUFFIX, tristatebmw.com
 DOMAIN-SUFFIX, vancouverbmwretailers.ca
 DOMAIN-SUFFIX, washingtondcbmw.com
-
-DOMAIN-SUFFIX, # Alphera
+# Alphera
 DOMAIN-SUFFIX, alfera.com.hk
 DOMAIN-SUFFIX, alfera.com.my
 DOMAIN-SUFFIX, alfera.in
@@ -479,8 +474,7 @@ DOMAIN-SUFFIX, alpherafs.ie
 DOMAIN-SUFFIX, alpherafs.in
 DOMAIN-SUFFIX, alpherafs.my
 DOMAIN-SUFFIX, premiumfs.de
-
-DOMAIN-SUFFIX, # Alphabet
+# Alphabet
 DOMAIN-SUFFIX, alphabet.asia
 DOMAIN-SUFFIX, alphabet.at
 DOMAIN-SUFFIX, alphabet.be
@@ -515,8 +509,7 @@ DOMAIN-SUFFIX, alphabet.pt
 DOMAIN-SUFFIX, alphabet.uk
 DOMAIN-SUFFIX, alphabet.us
 DOMAIN-SUFFIX, alphabetfinance.net
-
-DOMAIN-SUFFIX, # Rolls-Royce
+# Rolls-Royce
 DOMAIN-SUFFIX, electricluxury.com
 DOMAIN-SUFFIX, rolls-roycecullinan.com
 DOMAIN-SUFFIX, rolls-roycemotorcars.com

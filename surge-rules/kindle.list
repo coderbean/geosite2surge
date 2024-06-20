@@ -1,7 +1,5 @@
-DOMAIN-SUFFIX, # All .kindle domains
-DOMAIN-SUFFIX, kindle
-
-DOMAIN-SUFFIX, # Kindle
+# All .kindle domains
+# Kindle
 DOMAIN-SUFFIX, kindle.cn @cn
 DOMAIN-SUFFIX, kindle.co.jp
 DOMAIN-SUFFIX, kindle.co.uk

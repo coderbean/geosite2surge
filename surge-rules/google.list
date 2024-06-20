@@ -1,65 +1,19 @@
-DOMAIN-SUFFIX, # List of all domains being operated by Google Inc.
-DOMAIN-SUFFIX, include:android
-DOMAIN-SUFFIX, include:blogspot
-DOMAIN-SUFFIX, include:dart
-DOMAIN-SUFFIX, include:fastlane
-DOMAIN-SUFFIX, include:firebase
-DOMAIN-SUFFIX, include:flutter
-DOMAIN-SUFFIX, include:golang
-DOMAIN-SUFFIX, include:google-ads
-DOMAIN-SUFFIX, include:google-registry
-DOMAIN-SUFFIX, include:google-scholar
-DOMAIN-SUFFIX, include:google-trust-services
-DOMAIN-SUFFIX, include:googlefcm
-DOMAIN-SUFFIX, include:kaggle
-DOMAIN-SUFFIX, include:opensourceinsights
-DOMAIN-SUFFIX, include:polymer
-DOMAIN-SUFFIX, include:v8
-DOMAIN-SUFFIX, include:youtube
-
-DOMAIN-SUFFIX, # All .and domains
-DOMAIN-SUFFIX, and
-
-DOMAIN-SUFFIX, # All .chrome domains
-DOMAIN-SUFFIX, chrome
-
-DOMAIN-SUFFIX, # All .dclk domains
-DOMAIN-SUFFIX, dclk
-
-DOMAIN-SUFFIX, # All .gbiz domains
-DOMAIN-SUFFIX, gbiz
-
-DOMAIN-SUFFIX, # All .gle domains
-DOMAIN-SUFFIX, gle
-
-DOMAIN-SUFFIX, # All .gmail domains
-DOMAIN-SUFFIX, gmail
-
-DOMAIN-SUFFIX, # All .goo domains
-DOMAIN-SUFFIX, goo
-
-DOMAIN-SUFFIX, # All .goog domains
-DOMAIN-SUFFIX, goog
-
-DOMAIN-SUFFIX, # All .google domains
-DOMAIN-SUFFIX, google
-
-DOMAIN-SUFFIX, # All .guge domains
-DOMAIN-SUFFIX, guge
-
-DOMAIN-SUFFIX, # All .hangout domains
-DOMAIN-SUFFIX, hangout
-
-DOMAIN-SUFFIX, # All .nexus domains
-DOMAIN-SUFFIX, nexus
-
-DOMAIN-SUFFIX, # All .谷歌 domains
-DOMAIN-SUFFIX, xn--flw351e
-
-DOMAIN-SUFFIX, # All .グーグル domains
-DOMAIN-SUFFIX, xn--qcka1pmc
-
-DOMAIN-SUFFIX, # Source: https://www.google.com/supported_domains
+# List of all domains being operated by Google Inc.
+# All .and domains
+# All .chrome domains
+# All .dclk domains
+# All .gbiz domains
+# All .gle domains
+# All .gmail domains
+# All .goo domains
+# All .goog domains
+# All .google domains
+# All .guge domains
+# All .hangout domains
+# All .nexus domains
+# All .谷歌 domains
+# All .グーグル domains
+# Source: https://www.google.com/supported_domains
 DOMAIN-SUFFIX, google.ad
 DOMAIN-SUFFIX, google.ae
 DOMAIN-SUFFIX, google.al
@@ -251,8 +205,7 @@ DOMAIN-SUFFIX, google.tt
 DOMAIN-SUFFIX, google.vg
 DOMAIN-SUFFIX, google.vu
 DOMAIN-SUFFIX, google.ws
-
-DOMAIN-SUFFIX, # Others
+# Others
 DOMAIN-SUFFIX, 0emm.com
 DOMAIN-SUFFIX, 1e100.net
 DOMAIN-SUFFIX, 1ucrs.com
@@ -532,14 +485,12 @@ DOMAIN-SUFFIX, xn--gogl-1nd42e.com # goοglе.com
 DOMAIN-SUFFIX, xn--ngstr-lra8j.com # google play 应用下载时涉及
 DOMAIN-SUFFIX, xplr.co
 DOMAIN-SUFFIX, zukunftswerkstatt.de
-
-DOMAIN-SUFFIX, # Domains and services below are available in China mainland
-DOMAIN-SUFFIX, # Use in config file like this: "geosite:google@cn"
+# Domains and services below are available in China mainland
+# Use in config file like this: "geosite:google@cn"
 DOMAIN-SUFFIX, full:www.recaptcha.net @cn
-
-DOMAIN-SUFFIX, # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
-DOMAIN-SUFFIX, # Revision: 1cb04ffd38b040ccbe6f903db9d118e78a2d10d8
-DOMAIN-SUFFIX, # Use in config file like this: "geosite:google@cn"
+# The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
+# Revision: 1cb04ffd38b040ccbe6f903db9d118e78a2d10d8
+# Use in config file like this: "geosite:google@cn"
 DOMAIN-SUFFIX, full:265.com @cn
 DOMAIN-SUFFIX, full:2mdn-cn.net @cn
 DOMAIN-SUFFIX, full:2mdn.net @cn

@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX, include:icloudprivaterelay
-
 DOMAIN-SUFFIX, apple-icloud.cn @cn
 DOMAIN-SUFFIX, appleicloud.cn @cn
 DOMAIN-SUFFIX, applemx-icloud.com
@@ -49,5 +47,4 @@ DOMAIN-SUFFIX, me.com
 DOMAIN-SUFFIX, myicloud.net
 DOMAIN-SUFFIX, mylcloud.net
 DOMAIN-SUFFIX, wwwicloud.com
-
 DOMAIN-SUFFIX, full:www-cdn.icloud.com.akadns.net

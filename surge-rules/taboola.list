@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX, # Taboola uses this single domain for both official website and ads serving. 
-DOMAIN-SUFFIX, # Blocking the following domain will prevent taboola ads from displaying,
-DOMAIN-SUFFIX, # but also cut the connection to Taboola website.
+# Taboola uses this single domain for both official website and ads serving. 
+# Blocking the following domain will prevent taboola ads from displaying,
+# but also cut the connection to Taboola website.
 DOMAIN-SUFFIX, taboola.com

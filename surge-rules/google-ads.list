@@ -40,7 +40,5 @@ DOMAIN-SUFFIX, googletraveladservices.com @ads
 DOMAIN-SUFFIX, googlevads-cn.com @ads
 DOMAIN-SUFFIX, marketingplatform.google.com @ads
 DOMAIN-SUFFIX, urchin.com @ads
-
 DOMAIN-SUFFIX, full:analytics.google.com @ads
-
 DOMAIN-SUFFIX, regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$ @ads

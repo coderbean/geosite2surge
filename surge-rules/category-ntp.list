@@ -1,18 +1,13 @@
-DOMAIN-SUFFIX, # Apple
+# Apple
 DOMAIN-SUFFIX, regexp:^time(.euro)?.apple.com$
-
-DOMAIN-SUFFIX, # Facebook
+# Facebook
 DOMAIN-SUFFIX, regexp:^time([1-5])?\.facebook\.com$
-
-DOMAIN-SUFFIX, # Google
+# Google
 DOMAIN-SUFFIX, regexp:^time([1-4])?.google.com$
-
-DOMAIN-SUFFIX, # NIST: https://tf.nist.gov/tf-cgi/servers.cgi
+# NIST: https://tf.nist.gov/tf-cgi/servers.cgi
 DOMAIN-SUFFIX, regexp:^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$
-
-DOMAIN-SUFFIX, # NTP-servers: https://ntp-servers.net/servers.html
+# NTP-servers: https://ntp-servers.net/servers.html
 DOMAIN-SUFFIX, regexp:^ntp[0-7]\.ntp-servers\.net$
-
 DOMAIN-SUFFIX, clock.isc.org
 DOMAIN-SUFFIX, ntp.fiord.ru
 DOMAIN-SUFFIX, ntp.nat.ms
@@ -25,5 +20,3 @@ DOMAIN-SUFFIX, pool.ntp.org
 DOMAIN-SUFFIX, time.cloudflare.com
 DOMAIN-SUFFIX, time.nrc.ca
 DOMAIN-SUFFIX, time.windows.com
-
-DOMAIN-SUFFIX, include:category-ntp-cn

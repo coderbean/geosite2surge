@@ -1,49 +1,26 @@
-DOMAIN-SUFFIX, include:17zuoye
-DOMAIN-SUFFIX, include:applysquare
-DOMAIN-SUFFIX, include:hujiang
-DOMAIN-SUFFIX, include:koolearn
-DOMAIN-SUFFIX, include:shanbay
-DOMAIN-SUFFIX, include:xueersi
-DOMAIN-SUFFIX, include:yuanfudao
-DOMAIN-SUFFIX, include:zhihuishu
-
-
-DOMAIN-SUFFIX, # 雨课堂
-DOMAIN-SUFFIX, include:yuketang
-
-DOMAIN-SUFFIX, ## 雨豆课堂
+# 雨课堂
+## 雨豆课堂
 DOMAIN-SUFFIX, yudou.cn
-
-DOMAIN-SUFFIX, ## 雨实验
+## 雨实验
 DOMAIN-SUFFIX, yushiyan.net
-
-DOMAIN-SUFFIX, ## 学堂在线
+## 学堂在线
 DOMAIN-SUFFIX, xuetangx.com
-
-DOMAIN-SUFFIX, # 时代行云
+# 时代行云
 DOMAIN-SUFFIX, x-cloud.cc
-
-
-DOMAIN-SUFFIX, # 莞教通
+# 莞教通
 DOMAIN-SUFFIX, dgjy.net
-
-DOMAIN-SUFFIX, # 云校
+# 云校
 DOMAIN-SUFFIX, 91yunxiao.com
-
-DOMAIN-SUFFIX, # 爱云校/好分数
+# 爱云校/好分数
 DOMAIN-SUFFIX, aiyunxiao.com
 DOMAIN-SUFFIX, haofenshu.com
 DOMAIN-SUFFIX, iyunxiao.com
 DOMAIN-SUFFIX, yunxiao.com
-
-DOMAIN-SUFFIX, # 课播云校
+# 课播云校
 DOMAIN-SUFFIX, keboyunxiao.com
-
-DOMAIN-SUFFIX, # 课堂派
+# 课堂派
 DOMAIN-SUFFIX, ketangpai.com
-
-DOMAIN-SUFFIX, # 批改网
+# 批改网
 DOMAIN-SUFFIX, pigai.org
-
-DOMAIN-SUFFIX, # 未来云校
+# 未来云校
 DOMAIN-SUFFIX, weilaiyunxiao.com

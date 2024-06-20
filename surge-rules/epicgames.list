@@ -12,7 +12,6 @@ DOMAIN-SUFFIX, shadowcomplex.com
 DOMAIN-SUFFIX, spyjinx.com
 DOMAIN-SUFFIX, unrealengine.com
 DOMAIN-SUFFIX, unrealtournament.com
-
 DOMAIN-SUFFIX, regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$ @cn
 DOMAIN-SUFFIX, regexp:^epicgames-download\d\.akamaized\.net$
 DOMAIN-SUFFIX, regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$ @cn

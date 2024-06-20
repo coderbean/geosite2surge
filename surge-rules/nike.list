@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .nike domains
-DOMAIN-SUFFIX, nike
-
+# All .nike domains
 DOMAIN-SUFFIX, air-nike-shoes.com
 DOMAIN-SUFFIX, airmax360.com
 DOMAIN-SUFFIX, beijingnike.com

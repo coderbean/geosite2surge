@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .panasonic domains
-DOMAIN-SUFFIX, panasonic
-
+# All .panasonic domains
 DOMAIN-SUFFIX, panasonic.cn @cn
 DOMAIN-SUFFIX, panasonic.com
 DOMAIN-SUFFIX, panasonic.jp

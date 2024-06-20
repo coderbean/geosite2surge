@@ -1,6 +1,2 @@
-DOMAIN-SUFFIX, include:kernel
-DOMAIN-SUFFIX, include:linux
-DOMAIN-SUFFIX, include:openjsfoundation
-
 DOMAIN-SUFFIX, lfai.foundation
 DOMAIN-SUFFIX, linuxfoundation.org

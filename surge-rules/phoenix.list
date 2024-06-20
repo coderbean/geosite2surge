@@ -1,12 +1,9 @@
 DOMAIN-SUFFIX, fengcx.com
 DOMAIN-SUFFIX, ifeng.com
 DOMAIN-SUFFIX, ifengimg.com
-
-DOMAIN-SUFFIX, # Phoenix Center
+# Phoenix Center
 DOMAIN-SUFFIX, phoenixcenter.cn
-
-DOMAIN-SUFFIX, # Phoenix Education
+# Phoenix Education
 DOMAIN-SUFFIX, fengedu.com
-
-DOMAIN-SUFFIX, # Phoenix Weekly
+# Phoenix Weekly
 DOMAIN-SUFFIX, ifengweekly.com

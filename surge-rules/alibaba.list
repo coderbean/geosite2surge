@@ -1,24 +1,7 @@
-DOMAIN-SUFFIX, # All .alibaba domains
-DOMAIN-SUFFIX, alibaba
-
-DOMAIN-SUFFIX, # All .alipay domains
-DOMAIN-SUFFIX, alipay
-
-DOMAIN-SUFFIX, # All .taobao domains
-DOMAIN-SUFFIX, taobao
-
-DOMAIN-SUFFIX, # All .tmall domains
-DOMAIN-SUFFIX, tmall
-
-DOMAIN-SUFFIX, include:alibaba-ads
-DOMAIN-SUFFIX, include:alibabacloud
-DOMAIN-SUFFIX, include:aliyun
-DOMAIN-SUFFIX, include:dingtalk
-DOMAIN-SUFFIX, include:eleme
-DOMAIN-SUFFIX, include:teambition
-DOMAIN-SUFFIX, include:uc
-DOMAIN-SUFFIX, include:umeng
-
+# All .alibaba domains
+# All .alipay domains
+# All .taobao domains
+# All .tmall domains
 DOMAIN-SUFFIX, 25pp.com
 DOMAIN-SUFFIX, 56che.com
 DOMAIN-SUFFIX, 95095.com
@@ -111,53 +94,41 @@ DOMAIN-SUFFIX, yunos-inc.com
 DOMAIN-SUFFIX, yunos.com
 DOMAIN-SUFFIX, yushanfang.com
 DOMAIN-SUFFIX, zuodao.com
-
-DOMAIN-SUFFIX, # AliExpress
+# AliExpress
 DOMAIN-SUFFIX, aliexpress.com
 DOMAIN-SUFFIX, aliexpress.ru
-
-DOMAIN-SUFFIX, # Alipay+
+# Alipay+
 DOMAIN-SUFFIX, alipayplus.com
-
-DOMAIN-SUFFIX, # AlipayHK
+# AlipayHK
 DOMAIN-SUFFIX, alipay.hk @!cn
-
-DOMAIN-SUFFIX, # AlipayMO
+# AlipayMO
 DOMAIN-SUFFIX, alipaymo.com @!cn
-
-DOMAIN-SUFFIX, # 阿里云盘
+# 阿里云盘
 DOMAIN-SUFFIX, alicloudccp.com
 DOMAIN-SUFFIX, alipan.com
 DOMAIN-SUFFIX, aliyundrive.com
 DOMAIN-SUFFIX, aliyundrive.net
-
-DOMAIN-SUFFIX, # 菜鸟
+# 菜鸟
 DOMAIN-SUFFIX, cainiao.com
 DOMAIN-SUFFIX, cainiao.com.cn
 DOMAIN-SUFFIX, cainiao-inc.com
-
-DOMAIN-SUFFIX, # 盒马
+# 盒马
 DOMAIN-SUFFIX, freshhema.com
 DOMAIN-SUFFIX, hemamax.com
 DOMAIN-SUFFIX, hemaos.com
 DOMAIN-SUFFIX, hemashare.cn
 DOMAIN-SUFFIX, shyhhema.com
-
-DOMAIN-SUFFIX, # 蚂蚁财富
+# 蚂蚁财富
 DOMAIN-SUFFIX, antfortune.com
-
-DOMAIN-SUFFIX, # 蚂蚁基金
+# 蚂蚁基金
 DOMAIN-SUFFIX, fund123.cn
-
-DOMAIN-SUFFIX, # 蚂蚁集团
+# 蚂蚁集团
 DOMAIN-SUFFIX, antfin.com
 DOMAIN-SUFFIX, antgroup.com
 DOMAIN-SUFFIX, antgroup-inc.cn
-
-DOMAIN-SUFFIX, # 神马搜索
+# 神马搜索
 DOMAIN-SUFFIX, sm.cn
-
-DOMAIN-SUFFIX, # 淘宝
+# 淘宝
 DOMAIN-SUFFIX, 1688.com
 DOMAIN-SUFFIX, etao.com
 DOMAIN-SUFFIX, juhuasuan.com
@@ -176,34 +147,25 @@ DOMAIN-SUFFIX, tmall.com
 DOMAIN-SUFFIX, tmall.ru
 DOMAIN-SUFFIX, tmalltv.com
 DOMAIN-SUFFIX, tmjl.ai
-
-DOMAIN-SUFFIX, # 夸克云盘
+# 夸克云盘
 DOMAIN-SUFFIX, quark.cn
-
-DOMAIN-SUFFIX, # 飞猪
+# 飞猪
 DOMAIN-SUFFIX, alitrip.com
 DOMAIN-SUFFIX, feizhu.cn
 DOMAIN-SUFFIX, feizhu.com
 DOMAIN-SUFFIX, fliggy.com
 DOMAIN-SUFFIX, fliggy.hk
 DOMAIN-SUFFIX, iuynfg.com
-
-DOMAIN-SUFFIX, # 高德地图
-DOMAIN-SUFFIX, include:amap
-
-DOMAIN-SUFFIX, # 虾米音乐
+# 高德地图
+# 虾米音乐
 DOMAIN-SUFFIX, xiami.com
 DOMAIN-SUFFIX, xiami.fm
 DOMAIN-SUFFIX, xiami.net
-
-DOMAIN-SUFFIX, # 口碑
+# 口碑
 DOMAIN-SUFFIX, koubei.com
-
-DOMAIN-SUFFIX, # 吱声网
+# 吱声网
 DOMAIN-SUFFIX, zhisheng.com
-
-DOMAIN-SUFFIX, # npmmirror 中国镜像站
+# npmmirror 中国镜像站
 DOMAIN-SUFFIX, npmmirror.com
-
-DOMAIN-SUFFIX, # 闲鱼
+# 闲鱼
 DOMAIN-SUFFIX, goofish.com

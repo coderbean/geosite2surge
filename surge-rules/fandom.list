@@ -2,24 +2,17 @@ DOMAIN-SUFFIX, cursecdn.com
 DOMAIN-SUFFIX, fandom.com
 DOMAIN-SUFFIX, wikia.com
 DOMAIN-SUFFIX, wikia.org
-
-DOMAIN-SUFFIX, # D&D Beyond
+# D&D Beyond
 DOMAIN-SUFFIX, dndbeyond.com
-
-DOMAIN-SUFFIX, # Futhead
+# Futhead
 DOMAIN-SUFFIX, futhead.com
-
-DOMAIN-SUFFIX, # Gamepedia
+# Gamepedia
 DOMAIN-SUFFIX, gamepedia.com
-
-DOMAIN-SUFFIX, # Muthead
+# Muthead
 DOMAIN-SUFFIX, muthead.com
-
-DOMAIN-SUFFIX, # Cortex RPG
+# Cortex RPG
 DOMAIN-SUFFIX, cortexrpg.com
-
-DOMAIN-SUFFIX, # Fanatical
+# Fanatical
 DOMAIN-SUFFIX, fanatical.com
-
 DOMAIN-SUFFIX, wikia.nocookie.net
 DOMAIN-SUFFIX, full:fandom.zendesk.com

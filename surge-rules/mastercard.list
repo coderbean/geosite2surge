@@ -79,8 +79,7 @@ DOMAIN-SUFFIX, mastercard.si
 DOMAIN-SUFFIX, mastercard.sk
 DOMAIN-SUFFIX, mastercard.ua
 DOMAIN-SUFFIX, mastercard.us
-
-DOMAIN-SUFFIX, # Other
+# Other
 DOMAIN-SUFFIX, areyoucreditwise.com
 DOMAIN-SUFFIX, borderlessprepaid.com
 DOMAIN-SUFFIX, branchportal.com
@@ -120,11 +119,9 @@ DOMAIN-SUFFIX, taptotokyo.com
 DOMAIN-SUFFIX, tasteofpremium.jp
 DOMAIN-SUFFIX, travelcontroller.com
 DOMAIN-SUFFIX, wwwpaypass.com
-
-DOMAIN-SUFFIX, # Become
+# Become
 DOMAIN-SUFFIX, becomeindex.com
-
-DOMAIN-SUFFIX, # Cash Passport
+# Cash Passport
 DOMAIN-SUFFIX, cashpassport.ca
 DOMAIN-SUFFIX, cashpassport.co.za
 DOMAIN-SUFFIX, cashpassport.com
@@ -135,17 +132,14 @@ DOMAIN-SUFFIX, icashpassport.com.mx
 DOMAIN-SUFFIX, intercamcashpassport.com.mx
 DOMAIN-SUFFIX, multicurrencycashpassport.com
 DOMAIN-SUFFIX, shinhangmc.com
-
-DOMAIN-SUFFIX, # Mastercard Biz Blog
+# Mastercard Biz Blog
 DOMAIN-SUFFIX, mastercardbiz.ca
 DOMAIN-SUFFIX, mastercardbiz.com
 DOMAIN-SUFFIX, mastercardbusinessnetwork.com
-
-DOMAIN-SUFFIX, # NAB Traveller Card
+# NAB Traveller Card
 DOMAIN-SUFFIX, nab.com.au
 DOMAIN-SUFFIX, nabtravellercard.com.au
-
-DOMAIN-SUFFIX, # Priceless City
+# Priceless City
 DOMAIN-SUFFIX, 53world.com
 DOMAIN-SUFFIX, 53worldsweeps.com
 DOMAIN-SUFFIX, lovethiscity.com
@@ -168,12 +162,10 @@ DOMAIN-SUFFIX, pricelesssydney.com
 DOMAIN-SUFFIX, pricelesssurprises.com
 DOMAIN-SUFFIX, pricelesstoronto.ca
 DOMAIN-SUFFIX, pricelesstv.com
-
-DOMAIN-SUFFIX, # Simplify Commerce
+# Simplify Commerce
 DOMAIN-SUFFIX, simplify.com
 DOMAIN-SUFFIX, simplifycommerce.com
-
-DOMAIN-SUFFIX, # Travelex
+# Travelex
 DOMAIN-SUFFIX, cashpassportglobe.com
 DOMAIN-SUFFIX, gwktravelex.nl
 DOMAIN-SUFFIX, travelex.be
@@ -197,10 +189,8 @@ DOMAIN-SUFFIX, travelex.qa
 DOMAIN-SUFFIX, travelexae.com
 DOMAIN-SUFFIX, travelexch.com
 DOMAIN-SUFFIX, travelexmoneycard.com
-
-DOMAIN-SUFFIX, # World Currency Card
+# World Currency Card
 DOMAIN-SUFFIX, bidvestbank.co.za
 DOMAIN-SUFFIX, worldcurrencycard.co.za
-
 DOMAIN-SUFFIX, full:nab.demdex.net
 DOMAIN-SUFFIX, full:nationalaustraliaban.tt.omtrdc.net

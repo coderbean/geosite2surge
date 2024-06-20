@@ -61,20 +61,16 @@ DOMAIN-SUFFIX, thewonderful101.com
 DOMAIN-SUFFIX, wariolandshakeit.com
 DOMAIN-SUFFIX, wariowarediy.com
 DOMAIN-SUFFIX, yoshisnewisland.com
-
-DOMAIN-SUFFIX, # Animal Croosing 动物森友会
+# Animal Croosing 动物森友会
 DOMAIN-SUFFIX, ac-pocketcamp.com
-
-DOMAIN-SUFFIX, # Donkey Kong Country
+# Donkey Kong Country
 DOMAIN-SUFFIX, diddykongracing.com
 DOMAIN-SUFFIX, dkr.com
 DOMAIN-SUFFIX, donkeykongcountryreturns.com
-
-DOMAIN-SUFFIX, # Fire Emblem
+# Fire Emblem
 DOMAIN-SUFFIX, fire-emblem-heroes.com
 DOMAIN-SUFFIX, fireemblemawakening.com
-
-DOMAIN-SUFFIX, # Pokemon
+# Pokemon
 DOMAIN-SUFFIX, dialga.com
 DOMAIN-SUFFIX, giratina.com
 DOMAIN-SUFFIX, kyurem.com
@@ -103,14 +99,11 @@ DOMAIN-SUFFIX, pokemonvgc.com
 DOMAIN-SUFFIX, pokemonwifi.net
 DOMAIN-SUFFIX, xn--mts47c3w9b1qr.cn @cn # 神奇宝贝.cn
 DOMAIN-SUFFIX, xn--mts47c3w9b1qr.net # 神奇宝贝.net
-
-DOMAIN-SUFFIX, # Splatoon 2 Tournament
+# Splatoon 2 Tournament
 DOMAIN-SUFFIX, splatoon2tournament.com
-
-DOMAIN-SUFFIX, # Star Fox
+# Star Fox
 DOMAIN-SUFFIX, starfox.com
-
-DOMAIN-SUFFIX, # Super Mario
+# Super Mario
 DOMAIN-SUFFIX, drmario-world.com
 DOMAIN-SUFFIX, marioandluigidreamteam.com
 DOMAIN-SUFFIX, mariobroswii.com
@@ -126,8 +119,7 @@ DOMAIN-SUFFIX, supermariobros.com.cn @cn
 DOMAIN-SUFFIX, supermariogalaxy.com
 DOMAIN-SUFFIX, supermariorun.com
 DOMAIN-SUFFIX, superpapermario.com
-
-DOMAIN-SUFFIX, # Wii
+# Wii
 DOMAIN-SUFFIX, nintendowii.com
 DOMAIN-SUFFIX, wii-u.com
 DOMAIN-SUFFIX, wiifit.com
@@ -137,6 +129,5 @@ DOMAIN-SUFFIX, wiisports.com
 DOMAIN-SUFFIX, wiisportsresort.com
 DOMAIN-SUFFIX, wiiugamepad.com
 DOMAIN-SUFFIX, wiivc.net
-
-DOMAIN-SUFFIX, # Xenoblade Chronicles
+# Xenoblade Chronicles
 DOMAIN-SUFFIX, xenoblade.com

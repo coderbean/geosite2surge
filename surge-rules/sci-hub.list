@@ -1,7 +1,6 @@
-DOMAIN-SUFFIX, # Official site
+# Official site
 DOMAIN-SUFFIX, sci-hub.se
-
-DOMAIN-SUFFIX, # Mirrors from the official site
+# Mirrors from the official site
 DOMAIN-SUFFIX, sci-hub.ee
 DOMAIN-SUFFIX, sci-hub.it.nf
 DOMAIN-SUFFIX, sci-hub.mksa.top

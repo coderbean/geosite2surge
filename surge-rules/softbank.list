@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX, # All .softbank domains
-DOMAIN-SUFFIX, softbank
-
+# All .softbank domains
 DOMAIN-SUFFIX, sb-mobile.jp
 DOMAIN-SUFFIX, sb-telecom.net
 DOMAIN-SUFFIX, softbank-ipo.com

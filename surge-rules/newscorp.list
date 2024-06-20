@@ -1,14 +1,4 @@
-DOMAIN-SUFFIX, # Reference: https://zh.wikipedia.org/wiki/%E6%96%B0%E9%97%BB%E9%9B%86%E5%9B%A2
-
-DOMAIN-SUFFIX, include:barrons
-DOMAIN-SUFFIX, include:dowjones
-DOMAIN-SUFFIX, include:harpercollins
-DOMAIN-SUFFIX, include:nypost
-DOMAIN-SUFFIX, include:reagroup
-DOMAIN-SUFFIX, include:thesun
-DOMAIN-SUFFIX, include:thetimes
-DOMAIN-SUFFIX, include:wsj
-
+# Reference: https://zh.wikipedia.org/wiki/%E6%96%B0%E9%97%BB%E9%9B%86%E5%9B%A2
 DOMAIN-SUFFIX, 1degree.com.au
 DOMAIN-SUFFIX, adelaidenow.com.au
 DOMAIN-SUFFIX, adhelpnews.com

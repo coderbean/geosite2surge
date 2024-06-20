@@ -1,22 +1,4 @@
-DOMAIN-SUFFIX, # Reference: https://bitcoin.org/en/exchanges
-
-DOMAIN-SUFFIX, include:asproex
-DOMAIN-SUFFIX, include:binance
-DOMAIN-SUFFIX, include:bitflyer
-DOMAIN-SUFFIX, include:bitsquare
-DOMAIN-SUFFIX, include:bybit
-DOMAIN-SUFFIX, include:coinone
-DOMAIN-SUFFIX, include:deribit
-DOMAIN-SUFFIX, include:ethereum
-DOMAIN-SUFFIX, include:gateio
-DOMAIN-SUFFIX, include:huobi
-DOMAIN-SUFFIX, include:localbitcoins
-DOMAIN-SUFFIX, include:okx
-DOMAIN-SUFFIX, include:onekey
-DOMAIN-SUFFIX, include:wisekey
-DOMAIN-SUFFIX, include:wynd
-DOMAIN-SUFFIX, include:zb
-
+# Reference: https://bitcoin.org/en/exchanges
 DOMAIN-SUFFIX, 1inch.io
 DOMAIN-SUFFIX, aave.com
 DOMAIN-SUFFIX, bitbank.cc

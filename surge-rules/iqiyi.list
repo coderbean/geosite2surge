@@ -7,8 +7,5 @@ DOMAIN-SUFFIX, ppsimg.com
 DOMAIN-SUFFIX, qiyi.com
 DOMAIN-SUFFIX, qiyipic.com
 DOMAIN-SUFFIX, qy.net
-
-DOMAIN-SUFFIX, # CDN used by iqiyi
+# CDN used by iqiyi
 DOMAIN-SUFFIX, 71edge.com
-
-DOMAIN-SUFFIX, include:iqiyi-ads
