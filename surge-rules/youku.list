@@ -1,8 +1,12 @@
 # youku uses some alicdn services, so this must use with domain list "alibaba"
+
 DOMAIN-SUFFIX, kumiao.com
 DOMAIN-SUFFIX, youku.com
+
 DOMAIN-SUFFIX, ykimg.com
 DOMAIN-SUFFIX, mmstat.com
+
 DOMAIN-SUFFIX, soku.com
+
 # youku video cdn
 DOMAIN-SUFFIX, cibntv.net

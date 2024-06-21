@@ -1,4 +1,25 @@
+DOMAIN-SUFFIX, 01.org
+DOMAIN-SUFFIX, hyperscan.io
+DOMAIN-SUFFIX, intellinuxgraphics.com
+DOMAIN-SUFFIX, intellinuxgraphics.net
+DOMAIN-SUFFIX, oneapi.com
+DOMAIN-SUFFIX, openvinotoolkit.org
+DOMAIN-SUFFIX, snap-telemetry.io
+
+# ACPI Component Architecture
+DOMAIN-SUFFIX, acpica.com
+
+# Clear Linux
+DOMAIN-SUFFIX, clearlinux.org
+
+# OSPRay
+DOMAIN-SUFFIX, ospray.net
+DOMAIN-SUFFIX, ospray.org
+
+
 # All .intel domains
+DOMAIN-SUFFIX, intel
+
 DOMAIN-SUFFIX, intel.ac
 DOMAIN-SUFFIX, intel.ae
 DOMAIN-SUFFIX, intel.af
@@ -20,7 +41,7 @@ DOMAIN-SUFFIX, intel.cg
 DOMAIN-SUFFIX, intel.ch
 DOMAIN-SUFFIX, intel.cl
 DOMAIN-SUFFIX, intel.cm
-DOMAIN-SUFFIX, intel.cn @cn
+DOMAIN-SUFFIX, intel.cn
 DOMAIN-SUFFIX, intel.co.ae
 DOMAIN-SUFFIX, intel.co.cr
 DOMAIN-SUFFIX, intel.co.id
@@ -34,7 +55,7 @@ DOMAIN-SUFFIX, intel.com.ar
 DOMAIN-SUFFIX, intel.com.au
 DOMAIN-SUFFIX, intel.com.bo
 DOMAIN-SUFFIX, intel.com.br
-DOMAIN-SUFFIX, intel.com.cn @cn
+DOMAIN-SUFFIX, intel.com.cn
 DOMAIN-SUFFIX, intel.com.co
 DOMAIN-SUFFIX, intel.com.ec
 DOMAIN-SUFFIX, intel.com.hk
@@ -144,6 +165,7 @@ DOMAIN-SUFFIX, intel.vn
 DOMAIN-SUFFIX, intel.vu
 DOMAIN-SUFFIX, intel.wf
 DOMAIN-SUFFIX, intel.yt
+
 DOMAIN-SUFFIX, altera.com
 DOMAIN-SUFFIX, alteraforum.com
 DOMAIN-SUFFIX, alteraforums.com
@@ -197,7 +219,7 @@ DOMAIN-SUFFIX, intelnervana.com
 DOMAIN-SUFFIX, intelnet.Component
 DOMAIN-SUFFIX, intelplay.com
 DOMAIN-SUFFIX, intelquark.com
-DOMAIN-SUFFIX, intelrealsense.cn @cn
+DOMAIN-SUFFIX, intelrealsense.cn
 DOMAIN-SUFFIX, intelrealsense.com
 DOMAIN-SUFFIX, intelrxt.com
 DOMAIN-SUFFIX, intelsalestraining.com
@@ -246,5 +268,6 @@ DOMAIN-SUFFIX, vpro.net
 DOMAIN-SUFFIX, xeon.com
 DOMAIN-SUFFIX, xn--ztsq84g.cn # 奔腾.cn
 DOMAIN-SUFFIX, xscale.com
+
 # Barefoot Networks
 DOMAIN-SUFFIX, barefootnetworks.com

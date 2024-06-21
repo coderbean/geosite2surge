@@ -1,4 +1,5 @@
 # Subscene main site
 DOMAIN-SUFFIX, subscene.com
+
 # Subscene image hosting site
-DOMAIN-SUFFIX, full:i.jeded.com
+DOMAIN, i.jeded.com

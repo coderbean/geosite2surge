@@ -1,4 +1,6 @@
 # All .canon domains
+DOMAIN-SUFFIX, canon
+
 DOMAIN-SUFFIX, c-ij.com
 DOMAIN-SUFFIX, canon-cee.com
 DOMAIN-SUFFIX, canon-cmos-sensors.com
@@ -19,7 +21,7 @@ DOMAIN-SUFFIX, canon.be
 DOMAIN-SUFFIX, canon.bg
 DOMAIN-SUFFIX, canon.ca
 DOMAIN-SUFFIX, canon.ch
-DOMAIN-SUFFIX, canon.cn @cn
+DOMAIN-SUFFIX, canon.cn
 DOMAIN-SUFFIX, canon.co.il
 DOMAIN-SUFFIX, canon.co.uk
 DOMAIN-SUFFIX, canon.co.za
@@ -27,7 +29,7 @@ DOMAIN-SUFFIX, canon.com
 DOMAIN-SUFFIX, canon.com.al
 DOMAIN-SUFFIX, canon.com.au
 DOMAIN-SUFFIX, canon.com.by
-DOMAIN-SUFFIX, canon.com.cn @cn
+DOMAIN-SUFFIX, canon.com.cn
 DOMAIN-SUFFIX, canon.com.cy
 DOMAIN-SUFFIX, canon.com.hk
 DOMAIN-SUFFIX, canon.com.mk

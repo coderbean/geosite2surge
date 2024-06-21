@@ -6,9 +6,11 @@ DOMAIN-SUFFIX, adguard.org
 DOMAIN-SUFFIX, adtidy.net
 DOMAIN-SUFFIX, adtidy.org
 DOMAIN-SUFFIX, agrd.io
+
 # adguard dns
 DOMAIN-SUFFIX, adguard-dns.com
 DOMAIN-SUFFIX, adguard-dns.io
+
 # adguard vpn
 DOMAIN-SUFFIX, adguardvpn.com
 DOMAIN-SUFFIX, adguard-vpn.com

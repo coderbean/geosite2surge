@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX, visa.be
 DOMAIN-SUFFIX, visa.ca
 DOMAIN-SUFFIX, visa.cl
-DOMAIN-SUFFIX, visa.cn @cn
+DOMAIN-SUFFIX, visa.cn
 DOMAIN-SUFFIX, visa.co.ao
 DOMAIN-SUFFIX, visa.co.cr
 DOMAIN-SUFFIX, visa.co.id
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX, visa.com.bo
 DOMAIN-SUFFIX, visa.com.br
 DOMAIN-SUFFIX, visa.com.bs
 DOMAIN-SUFFIX, visa.com.bz
-DOMAIN-SUFFIX, visa.com.cn @cn
+DOMAIN-SUFFIX, visa.com.cn
 DOMAIN-SUFFIX, visa.com.co
 DOMAIN-SUFFIX, visa.com.cy
 DOMAIN-SUFFIX, visa.com.dm
@@ -100,8 +100,10 @@ DOMAIN-SUFFIX, visaitalia.com
 DOMAIN-SUFFIX, visakorea.com
 DOMAIN-SUFFIX, visamiddleeast.com
 DOMAIN-SUFFIX, visasoutheasteurope.com
+
 # Financial Literacy Submmit
 DOMAIN-SUFFIX, finlitsummit.org
+
 # Visa Infinite Luxury Hotel Collection
 DOMAIN-SUFFIX, myvisaluxuryhotels.com
 DOMAIN-SUFFIX, visainfinite.ca
@@ -112,19 +114,20 @@ DOMAIN-SUFFIX, visaluxuryhotelcollection.com.mx
 DOMAIN-SUFFIX, visaluxuryhotels.com
 DOMAIN-SUFFIX, visaluxuryhotels.com.ar
 DOMAIN-SUFFIX, visasignaturehotels.com
+
 # Other
 DOMAIN-SUFFIX, connaissancesfinancierespratiques.ca
 DOMAIN-SUFFIX, dnsvisa.com
 DOMAIN-SUFFIX, eubluecardvisa.com
 DOMAIN-SUFFIX, financialsoccer.ca
-DOMAIN-SUFFIX, financialsoccer.com.cn @cn
+DOMAIN-SUFFIX, financialsoccer.com.cn
 DOMAIN-SUFFIX, lightbridge.com
 DOMAIN-SUFFIX, miamifintechfestival.com
 DOMAIN-SUFFIX, mhshosting.com
 DOMAIN-SUFFIX, practicalbusinessskills.com
 DOMAIN-SUFFIX, practicalmoneyskills.ca
-DOMAIN-SUFFIX, practicalmoneyskills.cn @cn
-DOMAIN-SUFFIX, practicalmoneyskills.com.cn @cn
+DOMAIN-SUFFIX, practicalmoneyskills.cn
+DOMAIN-SUFFIX, practicalmoneyskills.com.cn
 DOMAIN-SUFFIX, practicalmoneyskills.jp
 DOMAIN-SUFFIX, soccerfinancier.ca
 DOMAIN-SUFFIX, torcidadeouro.com
@@ -151,12 +154,12 @@ DOMAIN-SUFFIX, visagiftcard.us
 DOMAIN-SUFFIX, visaglobalfinance.com
 DOMAIN-SUFFIX, visaicsdirect.com
 DOMAIN-SUFFIX, visainfinite.ca
-DOMAIN-SUFFIX, visainfinite.cn @cn
+DOMAIN-SUFFIX, visainfinite.cn
 DOMAIN-SUFFIX, visanet.net
-DOMAIN-SUFFIX, visapay.cn @cn
+DOMAIN-SUFFIX, visapay.cn
 DOMAIN-SUFFIX, visapcsdirect.com
-DOMAIN-SUFFIX, visaplatinum.cn @cn
-DOMAIN-SUFFIX, visaplatinum.com.cn @cn
+DOMAIN-SUFFIX, visaplatinum.cn
+DOMAIN-SUFFIX, visaplatinum.com.cn
 DOMAIN-SUFFIX, visaplus.com
 DOMAIN-SUFFIX, visasavingsedge.ca
 DOMAIN-SUFFIX, visasignature.co.kr

@@ -1,7 +1,9 @@
 # Forum
 DOMAIN-SUFFIX, libgen.life
+
 # Official site
 DOMAIN-SUFFIX, libgen.fun
+
 # Unofficial sites (forked from the official site)
 DOMAIN-SUFFIX, gen.lib.rus.ec
 DOMAIN-SUFFIX, libgen.is

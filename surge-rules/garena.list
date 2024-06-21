@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX, full:avatargarenanow-a.akamaihd.net
-DOMAIN-SUFFIX, full:cdngarenanow-a.akamaihd.net
-DOMAIN-SUFFIX, full:dlgarenanow-a.akamaihd.net
-DOMAIN-SUFFIX, full:dlmobilegarena-a.akamaihd.net
+DOMAIN, avatargarenanow-a.akamaihd.net
+DOMAIN, cdngarenanow-a.akamaihd.net
+DOMAIN, dlgarenanow-a.akamaihd.net
+DOMAIN, dlmobilegarena-a.akamaihd.net
 DOMAIN-SUFFIX, garena.co.id
 DOMAIN-SUFFIX, garena.co.th
 DOMAIN-SUFFIX, garena.com

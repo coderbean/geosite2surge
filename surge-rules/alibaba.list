@@ -1,7 +1,229 @@
 # All .alibaba domains
+DOMAIN-SUFFIX, alibaba
+
 # All .alipay domains
+DOMAIN-SUFFIX, alipay
+
 # All .taobao domains
+DOMAIN-SUFFIX, taobao
+
 # All .tmall domains
+DOMAIN-SUFFIX, tmall
+
+DOMAIN-SUFFIX, a.alimama.cn
+DOMAIN-SUFFIX, acjs.aliyun.com
+DOMAIN-SUFFIX, adash-c.m.taobao.com
+DOMAIN-SUFFIX, adash-c.ut.taobao.com
+DOMAIN-SUFFIX, adash-emas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX, adash.m.taobao.com
+DOMAIN-SUFFIX, adash.man.aliyuncs.com
+DOMAIN-SUFFIX, adashbc.m.taobao.com
+DOMAIN-SUFFIX, adashbc.ut.taobao.com
+DOMAIN-SUFFIX, adashx.m.taobao.com
+DOMAIN-SUFFIX, adashx.ut.amap.com
+DOMAIN-SUFFIX, adashx.ut.ele.me
+DOMAIN-SUFFIX, adashx.ut.youku.com
+DOMAIN-SUFFIX, adashx4ae.ut.taobao.com
+DOMAIN-SUFFIX, adashx4yt.m.taobao.com
+DOMAIN-SUFFIX, adashxgc.ut.taobao.com
+DOMAIN-SUFFIX, adsh.m.taobao.com
+DOMAIN-SUFFIX, afp.adchina.com
+DOMAIN-SUFFIX, afp.alicdn.com
+DOMAIN-SUFFIX, agoodm.m.taobao.com
+DOMAIN-SUFFIX, agoodm.wapa.taobao.com
+DOMAIN-SUFFIX, alipaylog.com
+DOMAIN-SUFFIX, amdc.alipay.com
+DOMAIN-SUFFIX, api.wapa.taobao.com
+DOMAIN-SUFFIX, api.waptest.taobao.com
+DOMAIN-SUFFIX, apoll.m.taobao.com
+DOMAIN-SUFFIX, atanx.alicdn.com
+DOMAIN-SUFFIX, atanx2.alicdn.com
+DOMAIN-SUFFIX, c-adash.m.taobao.com
+DOMAIN-SUFFIX, cdn0.mobmore.com
+DOMAIN-SUFFIX, click.aliyun.com
+DOMAIN-SUFFIX, click.mz.simba.taobao.com
+DOMAIN-SUFFIX, cm.ipinyou.com
+DOMAIN-SUFFIX, dsp.simba.taobao.com
+DOMAIN-SUFFIX, ex.mobmore.com
+DOMAIN-SUFFIX, ex.puata.info
+DOMAIN-SUFFIX, fav.simba.taobao.com
+DOMAIN-SUFFIX, feedback.whalecloud.com
+DOMAIN-SUFFIX, ff.win.taobao.com
+DOMAIN-SUFFIX, fm.p0y.cn
+DOMAIN-SUFFIX, g.click.taobao.com
+DOMAIN-SUFFIX, g.tbcdn.cn
+DOMAIN-SUFFIX, gma.alicdn.com
+DOMAIN-SUFFIX, gtms01.alicdn.com
+DOMAIN-SUFFIX, gtms02.alicdn.com
+DOMAIN-SUFFIX, gtms03.alicdn.com
+DOMAIN-SUFFIX, gtms04.alicdn.com
+DOMAIN-SUFFIX, h-adashx.ut.ele.me
+DOMAIN-SUFFIX, h-adashx.ut.taobao.com
+DOMAIN-SUFFIX, h-adashx.ut.youku.com
+DOMAIN-SUFFIX, h-adashx4yt.ut.taobao.com
+DOMAIN-SUFFIX, hydra.alibaba.com
+DOMAIN-SUFFIX, hz.pre.tbusergw.taobao.net
+DOMAIN-SUFFIX, hz.tbusergw.taobao.net
+DOMAIN-SUFFIX, i.ipinyou.com
+DOMAIN-SUFFIX, init.phpwind.com
+DOMAIN-SUFFIX, intl.wapa.taobao.com
+DOMAIN-SUFFIX, intl.waptest.taobao.com
+DOMAIN-SUFFIX, jxlog.istreamsche.com
+DOMAIN-SUFFIX, log.umtrack.com
+DOMAIN-SUFFIX, m-adash.m.taobao.com
+DOMAIN-SUFFIX, m.intl.taobao.com
+DOMAIN-SUFFIX, m.simba.taobao.com
+DOMAIN-SUFFIX, match.p4p.1688.com
+DOMAIN-SUFFIX, material.istreamsche.com
+DOMAIN-SUFFIX, mlt01.com
+DOMAIN-SUFFIX, nbsdk-baichuan.alicdn.com
+DOMAIN-SUFFIX, nbsdk-baichuan.taobao.com
+DOMAIN-SUFFIX, osfota.cdn.aliyun.com
+DOMAIN-SUFFIX, osupdate.aliyun.com
+DOMAIN-SUFFIX, osupdateservice.yunos.com
+DOMAIN-SUFFIX, pindao.huoban.taobao.com
+DOMAIN-SUFFIX, push.wandoujia.com
+DOMAIN-SUFFIX, re.m.taobao.com
+DOMAIN-SUFFIX, re.taobao.com
+DOMAIN-SUFFIX, redirect.simba.taobao.com
+DOMAIN-SUFFIX, rj.m.taobao.co
+DOMAIN-SUFFIX, rj.m.taobao.com
+DOMAIN-SUFFIX, sdkinit.taobao.com
+DOMAIN-SUFFIX, simaba.taobao.com
+DOMAIN-SUFFIX, simba.m.taobao.com
+DOMAIN-SUFFIX, srd.simba.taobao.com
+DOMAIN-SUFFIX, stats.ipinyou.com
+DOMAIN-SUFFIX, strip.taobaocdn.com
+DOMAIN-SUFFIX, tanxlog.istreamsche.com
+DOMAIN-SUFFIX, tejia.taobao.com
+DOMAIN-SUFFIX, temai.taobao.com
+DOMAIN-SUFFIX, tns.simba.taobao.com
+DOMAIN-SUFFIX, tongji.linezing.com
+DOMAIN-SUFFIX, tvupgrade.yunos.com
+DOMAIN-SUFFIX, tyh.taobao.com
+DOMAIN-SUFFIX, userimg.qunar.com
+DOMAIN-SUFFIX, v6-adashx.ut.amap.com
+DOMAIN-SUFFIX, v6-adashx.ut.cainiao.com
+DOMAIN-SUFFIX, v6-adashx.ut.ele.me
+DOMAIN-SUFFIX, v6-adashx.ut.taobao.com
+DOMAIN-SUFFIX, w.m.taobao.com
+DOMAIN-SUFFIX, yiliao.hupan.com
+
+DOMAIN-SUFFIX, alibabacloud.co.in
+DOMAIN-SUFFIX, alibabacloud.com
+DOMAIN-SUFFIX, alibabacloud.com.au
+DOMAIN-SUFFIX, alibabacloud.com.hk
+DOMAIN-SUFFIX, alibabacloud.com.my
+DOMAIN-SUFFIX, alibabacloud.com.sg
+DOMAIN-SUFFIX, alibabacloud.com.tw
+DOMAIN-SUFFIX, alicloud.com
+
+DOMAIN-SUFFIX, alibabadns.com
+DOMAIN-SUFFIX, alicdn.com
+DOMAIN-SUFFIX, alicloudapi.com
+DOMAIN-SUFFIX, alidayu.com
+DOMAIN-SUFFIX, alidns.com
+DOMAIN-SUFFIX, alikunlun.com
+DOMAIN-SUFFIX, aliyun-inc.com
+DOMAIN-SUFFIX, aliyun-iot-share.com
+DOMAIN-SUFFIX, aliyun.com
+DOMAIN-SUFFIX, aliyuncdn.com
+DOMAIN-SUFFIX, cdngslb.com
+DOMAIN-SUFFIX, hichina.com
+DOMAIN-SUFFIX, ica-alliance.org
+DOMAIN-SUFFIX, kunlunaq.com
+DOMAIN-SUFFIX, kunlunar.com
+DOMAIN-SUFFIX, kunlunca.com
+DOMAIN-SUFFIX, kunluncan.com
+DOMAIN-SUFFIX, kunlunea.com
+DOMAIN-SUFFIX, kunlungem.com
+DOMAIN-SUFFIX, kunlungr.com
+DOMAIN-SUFFIX, kunlunhuf.com
+DOMAIN-SUFFIX, kunlunle.com
+DOMAIN-SUFFIX, kunlunli.com
+DOMAIN-SUFFIX, kunlunno.com
+DOMAIN-SUFFIX, kunlunpi.com
+DOMAIN-SUFFIX, kunlunra.com
+DOMAIN-SUFFIX, kunlunsa.com
+DOMAIN-SUFFIX, kunlunsc.com
+DOMAIN-SUFFIX, kunlunsl.com
+DOMAIN-SUFFIX, kunlunso.com
+DOMAIN-SUFFIX, kunlunta.com
+DOMAIN-SUFFIX, kunlunvi.com
+DOMAIN-SUFFIX, kunlunwe.com
+DOMAIN-SUFFIX, mxhichina.com
+DOMAIN-SUFFIX, myalicdn.com
+
+DOMAIN-SUFFIX, oss-ap-northeast-1.aliyuncs.com
+DOMAIN-SUFFIX, oss-ap-northeast-2.aliyuncs.com
+DOMAIN-SUFFIX, oss-ap-south-1.aliyuncs.com
+DOMAIN-SUFFIX, oss-ap-southeast-1.aliyuncs.com
+DOMAIN-SUFFIX, oss-ap-southeast-2.aliyuncs.com
+DOMAIN-SUFFIX, oss-ap-southeast-3.aliyuncs.com
+DOMAIN-SUFFIX, oss-ap-southeast-5.aliyuncs.com
+DOMAIN-SUFFIX, oss-ap-southeast-6.aliyuncs.com
+DOMAIN-SUFFIX, oss-ap-southeast-7.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-chengdu.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-guangzhou.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-heyuan.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-huhehaote.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-nanjing.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-qingdao.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-shenzhen.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-wulanchabu.aliyuncs.com
+DOMAIN-SUFFIX, oss-cn-zhangjiakou.aliyuncs.com
+DOMAIN-SUFFIX, oss-eu-central-1.aliyuncs.com
+DOMAIN-SUFFIX, oss-eu-west-1.aliyuncs.com
+DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
+DOMAIN-SUFFIX, oss-us-east-1.aliyuncs.com
+DOMAIN-SUFFIX, oss-us-west-1.aliyuncs.com
+
+DOMAIN-SUFFIX, ddurl.to
+DOMAIN-SUFFIX, dingding.xin
+DOMAIN-SUFFIX, dingtalk.cn
+DOMAIN-SUFFIX, dingtalk.com
+DOMAIN-SUFFIX, dingtalk.net
+DOMAIN-SUFFIX, dingtalkapps.com
+DOMAIN-SUFFIX, laiwang.com
+DOMAIN-SUFFIX, lwurl.to
+
+DOMAIN-SUFFIX, doservice.com
+DOMAIN-SUFFIX, ele.me
+DOMAIN-SUFFIX, ele.to
+DOMAIN-SUFFIX, eleme.cn
+DOMAIN-SUFFIX, eleme.io
+DOMAIN-SUFFIX, elemecdn.cn
+DOMAIN-SUFFIX, elemecdn.com
+DOMAIN-SUFFIX, elenet.me
+
+DOMAIN-SUFFIX, teambition.com
+DOMAIN-SUFFIX, teambition.net
+DOMAIN-SUFFIX, teambitionapis.com
+
+DOMAIN-SUFFIX, uc.cn
+DOMAIN-SUFFIX, ucweb.com
+
+DOMAIN-SUFFIX, mobmore.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, umengcloud.com
+DOMAIN-SUFFIX, umsns.com
+DOMAIN-SUFFIX, umtrack.com
+DOMAIN-SUFFIX, uyunad.com
+DOMAIN-SUFFIX, whalecloud.com
+
+DOMAIN-SUFFIX, alog.umeng.com
+DOMAIN-SUFFIX, alog.umengcloud.com
+
+# CNZZ
+DOMAIN-SUFFIX, w.cnzz.com
+DOMAIN-SUFFIX, z.gds.cnzz.com
+
+
+
 DOMAIN-SUFFIX, 25pp.com
 DOMAIN-SUFFIX, 56che.com
 DOMAIN-SUFFIX, 95095.com
@@ -94,40 +316,52 @@ DOMAIN-SUFFIX, yunos-inc.com
 DOMAIN-SUFFIX, yunos.com
 DOMAIN-SUFFIX, yushanfang.com
 DOMAIN-SUFFIX, zuodao.com
+
 # AliExpress
 DOMAIN-SUFFIX, aliexpress.com
 DOMAIN-SUFFIX, aliexpress.ru
+
 # Alipay+
 DOMAIN-SUFFIX, alipayplus.com
+
 # AlipayHK
-DOMAIN-SUFFIX, alipay.hk @!cn
+DOMAIN-SUFFIX, alipay.hk
+
 # AlipayMO
-DOMAIN-SUFFIX, alipaymo.com @!cn
+DOMAIN-SUFFIX, alipaymo.com
+
 # 阿里云盘
 DOMAIN-SUFFIX, alicloudccp.com
 DOMAIN-SUFFIX, alipan.com
 DOMAIN-SUFFIX, aliyundrive.com
 DOMAIN-SUFFIX, aliyundrive.net
+
 # 菜鸟
 DOMAIN-SUFFIX, cainiao.com
 DOMAIN-SUFFIX, cainiao.com.cn
 DOMAIN-SUFFIX, cainiao-inc.com
+
 # 盒马
 DOMAIN-SUFFIX, freshhema.com
 DOMAIN-SUFFIX, hemamax.com
 DOMAIN-SUFFIX, hemaos.com
 DOMAIN-SUFFIX, hemashare.cn
 DOMAIN-SUFFIX, shyhhema.com
+
 # 蚂蚁财富
 DOMAIN-SUFFIX, antfortune.com
+
 # 蚂蚁基金
 DOMAIN-SUFFIX, fund123.cn
+
 # 蚂蚁集团
 DOMAIN-SUFFIX, antfin.com
 DOMAIN-SUFFIX, antgroup.com
 DOMAIN-SUFFIX, antgroup-inc.cn
+
 # 神马搜索
 DOMAIN-SUFFIX, sm.cn
+
 # 淘宝
 DOMAIN-SUFFIX, 1688.com
 DOMAIN-SUFFIX, etao.com
@@ -147,8 +381,10 @@ DOMAIN-SUFFIX, tmall.com
 DOMAIN-SUFFIX, tmall.ru
 DOMAIN-SUFFIX, tmalltv.com
 DOMAIN-SUFFIX, tmjl.ai
+
 # 夸克云盘
 DOMAIN-SUFFIX, quark.cn
+
 # 飞猪
 DOMAIN-SUFFIX, alitrip.com
 DOMAIN-SUFFIX, feizhu.cn
@@ -156,16 +392,33 @@ DOMAIN-SUFFIX, feizhu.com
 DOMAIN-SUFFIX, fliggy.com
 DOMAIN-SUFFIX, fliggy.hk
 DOMAIN-SUFFIX, iuynfg.com
+
 # 高德地图
+DOMAIN-SUFFIX, a-map.cn
+DOMAIN-SUFFIX, a-map.co
+DOMAIN-SUFFIX, a-map.link
+DOMAIN-SUFFIX, a-map.vip
+DOMAIN-SUFFIX, acloudrender.com
+DOMAIN-SUFFIX, amap.com
+DOMAIN-SUFFIX, amapauto.com
+DOMAIN-SUFFIX, anav.com
+DOMAIN-SUFFIX, autonavi.com
+DOMAIN-SUFFIX, gaode.com
+
+
 # 虾米音乐
 DOMAIN-SUFFIX, xiami.com
 DOMAIN-SUFFIX, xiami.fm
 DOMAIN-SUFFIX, xiami.net
+
 # 口碑
 DOMAIN-SUFFIX, koubei.com
+
 # 吱声网
 DOMAIN-SUFFIX, zhisheng.com
+
 # npmmirror 中国镜像站
 DOMAIN-SUFFIX, npmmirror.com
+
 # 闲鱼
 DOMAIN-SUFFIX, goofish.com

@@ -1,5 +1,6 @@
 # Official site
 DOMAIN-SUFFIX, sci-hub.se
+
 # Mirrors from the official site
 DOMAIN-SUFFIX, sci-hub.ee
 DOMAIN-SUFFIX, sci-hub.it.nf

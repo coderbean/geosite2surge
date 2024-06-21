@@ -388,9 +388,11 @@ DOMAIN-SUFFIX, wwwfacebook.com
 DOMAIN-SUFFIX, wwwmfacebook.com
 DOMAIN-SUFFIX, zuckerberg.com
 DOMAIN-SUFFIX, zuckerberg.net
+
 # Workplace
 DOMAIN-SUFFIX, facebookwork.com
 DOMAIN-SUFFIX, redkix.com
 DOMAIN-SUFFIX, workplace.com
 DOMAIN-SUFFIX, workplaceusecases.com
-DOMAIN-SUFFIX, full:fbcdn-a.akamaihd.net
+
+DOMAIN, fbcdn-a.akamaihd.net

@@ -1,4 +1,5 @@
 # AT&T Inc.
+
 DOMAIN-SUFFIX, accbusiness.com
 DOMAIN-SUFFIX, atandt.com
 DOMAIN-SUFFIX, att-bundles.com
@@ -6,7 +7,7 @@ DOMAIN-SUFFIX, att-japan.com
 DOMAIN-SUFFIX, att-mail.com
 DOMAIN-SUFFIX, att-promotions.com
 DOMAIN-SUFFIX, att-rsvp.com
-DOMAIN-SUFFIX, att.cn @cn
+DOMAIN-SUFFIX, att.cn
 DOMAIN-SUFFIX, att.com
 DOMAIN-SUFFIX, att.jobs
 DOMAIN-SUFFIX, att.net
@@ -16,7 +17,7 @@ DOMAIN-SUFFIX, attbelieves.com
 DOMAIN-SUFFIX, attbusiness.net
 DOMAIN-SUFFIX, attcenter.com
 DOMAIN-SUFFIX, attcollaborate.com
-DOMAIN-SUFFIX, attcorp.cn @cn
+DOMAIN-SUFFIX, attcorp.cn
 DOMAIN-SUFFIX, attexperts.com
 DOMAIN-SUFFIX, attglobal.net
 DOMAIN-SUFFIX, attinnovationspace.com
@@ -63,11 +64,13 @@ DOMAIN-SUFFIX, thanksloyalty.com
 DOMAIN-SUFFIX, tvpromise.com
 DOMAIN-SUFFIX, uverse.com
 DOMAIN-SUFFIX, webhosting.com
+
 # AT&T DNS
 DOMAIN-SUFFIX, att-idns.net
 DOMAIN-SUFFIX, attdns.com
 DOMAIN-SUFFIX, attdns.net
 DOMAIN-SUFFIX, na-att-idns.net
+
 # Direct TV
 DOMAIN-SUFFIX, audiencenetwork.com
 DOMAIN-SUFFIX, audiencenetwork.tv
@@ -133,5 +136,6 @@ DOMAIN-SUFFIX, mydirectgroove.com
 DOMAIN-SUFFIX, mydirectvchannels.com
 DOMAIN-SUFFIX, redzonechannel.com
 DOMAIN-SUFFIX, txdirectv.com
+
 # Xandr
 DOMAIN-SUFFIX, xandr.com

@@ -63,12 +63,12 @@ DOMAIN-SUFFIX, beats-sale.com
 DOMAIN-SUFFIX, beats-seller.com
 DOMAIN-SUFFIX, beats-soaho.com
 DOMAIN-SUFFIX, beats1.cc
-DOMAIN-SUFFIX, beats1.cn @cn
+DOMAIN-SUFFIX, beats1.cn
 DOMAIN-SUFFIX, beats1.tv
-DOMAIN-SUFFIX, beats1.com.cn @cn
+DOMAIN-SUFFIX, beats1.com.cn
 DOMAIN-SUFFIX, beats123.com
-DOMAIN-SUFFIX, beats2.com.cn @cn
-DOMAIN-SUFFIX, beats4.cn @cn
+DOMAIN-SUFFIX, beats2.com.cn
+DOMAIN-SUFFIX, beats4.cn
 DOMAIN-SUFFIX, beats4.net
 DOMAIN-SUFFIX, beats4outlets.com
 DOMAIN-SUFFIX, beats4salecheap.com
@@ -111,8 +111,8 @@ DOMAIN-SUFFIX, beatsbydre-sell.com
 DOMAIN-SUFFIX, beatsbydre-store.com
 DOMAIN-SUFFIX, beatsbydre-studio.com
 DOMAIN-SUFFIX, beatsbydre-us.com
-DOMAIN-SUFFIX, beatsbydre.com @cn
-DOMAIN-SUFFIX, beatsbydre.com.cn @cn
+DOMAIN-SUFFIX, beatsbydre.com
+DOMAIN-SUFFIX, beatsbydre.com.cn
 DOMAIN-SUFFIX, beatsbydre.jp
 DOMAIN-SUFFIX, beatsbydre2081.com
 DOMAIN-SUFFIX, beatsbydre411.com
@@ -246,7 +246,7 @@ DOMAIN-SUFFIX, beatsforme.com
 DOMAIN-SUFFIX, beatsfranceofficiel.com
 DOMAIN-SUFFIX, beatselectronic.net
 DOMAIN-SUFFIX, beatselectronics.com
-DOMAIN-SUFFIX, beatsep.cn @cn
+DOMAIN-SUFFIX, beatsep.cn
 DOMAIN-SUFFIX, beatsep.com
 DOMAIN-SUFFIX, beatsep.net
 DOMAIN-SUFFIX, beatsheadphones-discount.com
@@ -713,4 +713,5 @@ DOMAIN-SUFFIX, wholesalefine.com
 DOMAIN-SUFFIX, wholesaleonlinemart.com
 DOMAIN-SUFFIX, worldcoinpay.com
 DOMAIN-SUFFIX, yourmonsterbeats.com
-DOMAIN-SUFFIX, full:beatselectronicsllc.tt.omtrdc.net
+
+DOMAIN, beatselectronicsllc.tt.omtrdc.net

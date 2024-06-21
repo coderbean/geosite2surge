@@ -24,5 +24,6 @@ DOMAIN-SUFFIX, test-ipv6.se
 DOMAIN-SUFFIX, test-ipv6.sin.vr.org
 DOMAIN-SUFFIX, test-ipv6.ttk.ru
 DOMAIN-SUFFIX, testipv6.de
+
 # 豫ICP备20004384号
-DOMAIN-SUFFIX, testipv6.cn @cn
+DOMAIN-SUFFIX, testipv6.cn

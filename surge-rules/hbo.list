@@ -15,6 +15,7 @@ DOMAIN-SUFFIX, hbomax.com
 DOMAIN-SUFFIX, hbomaxcdn.com
 DOMAIN-SUFFIX, hbonow.com
 DOMAIN-SUFFIX, maxgo.com
+
 # CDNs
 DOMAIN-SUFFIX, hbo.com.c.footprint.net
 DOMAIN-SUFFIX, hbo.com.edgesuite.net

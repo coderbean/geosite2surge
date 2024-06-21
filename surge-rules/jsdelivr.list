@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX, jsdelivr.com
 DOMAIN-SUFFIX, jsdelivr.net
 DOMAIN-SUFFIX, esm.run
-DOMAIN-SUFFIX, full:cdn.jsdelivr.net
+
+DOMAIN, cdn.jsdelivr.net

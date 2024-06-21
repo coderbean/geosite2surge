@@ -1,4 +1,6 @@
 # All .nike domains
+DOMAIN-SUFFIX, nike
+
 DOMAIN-SUFFIX, air-nike-shoes.com
 DOMAIN-SUFFIX, airmax360.com
 DOMAIN-SUFFIX, beijingnike.com
@@ -21,7 +23,7 @@ DOMAIN-SUFFIX, handbags-nike.com
 DOMAIN-SUFFIX, hightopnikes.com
 DOMAIN-SUFFIX, idnike.com
 DOMAIN-SUFFIX, inikesneakers.com
-DOMAIN-SUFFIX, just-do-it.cn @cn
+DOMAIN-SUFFIX, just-do-it.cn
 DOMAIN-SUFFIX, justdoit.us
 DOMAIN-SUFFIX, kicksnike1.com
 DOMAIN-SUFFIX, kidsnikeshoes.com
@@ -30,12 +32,12 @@ DOMAIN-SUFFIX, nike-air-max.com
 DOMAIN-SUFFIX, nike-dunksb.com
 DOMAIN-SUFFIX, nike-fr.com
 DOMAIN-SUFFIX, nike-org.com
-DOMAIN-SUFFIX, nike-shox.cn @cn
+DOMAIN-SUFFIX, nike-shox.cn
 DOMAIN-SUFFIX, nike-uk.com
 DOMAIN-SUFFIX, nike-us.com
 DOMAIN-SUFFIX, nike-usa.com
 DOMAIN-SUFFIX, nike.ci
-DOMAIN-SUFFIX, nike.cn @cn
+DOMAIN-SUFFIX, nike.cn
 DOMAIN-SUFFIX, nike.com
 DOMAIN-SUFFIX, nike.com.br
 DOMAIN-SUFFIX, nike.com.hk
@@ -59,9 +61,9 @@ DOMAIN-SUFFIX, nikeaw77.com
 DOMAIN-SUFFIX, nikeb.com
 DOMAIN-SUFFIX, nikebbn.com
 DOMAIN-SUFFIX, nikebetrue.com
-DOMAIN-SUFFIX, nikebetterworld.cn @cn
+DOMAIN-SUFFIX, nikebetterworld.cn
 DOMAIN-SUFFIX, nikebetterworld.com
-DOMAIN-SUFFIX, nikebetterworld.com.cn @cn
+DOMAIN-SUFFIX, nikebetterworld.com.cn
 DOMAIN-SUFFIX, nikebetterworld.info
 DOMAIN-SUFFIX, nikebetterworld.net
 DOMAIN-SUFFIX, nikebetterworld.org
@@ -71,7 +73,7 @@ DOMAIN-SUFFIX, nikeby.com
 DOMAIN-SUFFIX, nikecdn.com
 DOMAIN-SUFFIX, nikecompany.com
 DOMAIN-SUFFIX, nikeconfluence.com
-DOMAIN-SUFFIX, nikechina.cn @cn
+DOMAIN-SUFFIX, nikechina.cn
 DOMAIN-SUFFIX, nikechosen.com
 DOMAIN-SUFFIX, nikecloud.com
 DOMAIN-SUFFIX, nikeclub.com
@@ -97,16 +99,16 @@ DOMAIN-SUFFIX, nikefuelband.com
 DOMAIN-SUFFIX, nikegadgets.com
 DOMAIN-SUFFIX, nikegenealogy.com
 DOMAIN-SUFFIX, nikegolf.ca
-DOMAIN-SUFFIX, nikegolf.cn @cn
+DOMAIN-SUFFIX, nikegolf.cn
 DOMAIN-SUFFIX, nikegrid.com
 DOMAIN-SUFFIX, nikehelp.com
 DOMAIN-SUFFIX, nikehightops.com
 DOMAIN-SUFFIX, nikehyperdunk.com
-DOMAIN-SUFFIX, nikeid.cn @cn
-DOMAIN-SUFFIX, nikeid.com.cn @cn
+DOMAIN-SUFFIX, nikeid.cn
+DOMAIN-SUFFIX, nikeid.com.cn
 DOMAIN-SUFFIX, nikeidshoes.com
 DOMAIN-SUFFIX, nikeinc.com
-DOMAIN-SUFFIX, nikeinc.com.cn @cn
+DOMAIN-SUFFIX, nikeinc.com.cn
 DOMAIN-SUFFIX, nikeincchemistry.com
 DOMAIN-SUFFIX, nikeinstock.com
 DOMAIN-SUFFIX, nikeit.com
@@ -114,16 +116,16 @@ DOMAIN-SUFFIX, nikeitalia.com
 DOMAIN-SUFFIX, nikeitaly.com
 DOMAIN-SUFFIX, nikekd.com
 DOMAIN-SUFFIX, nikekid.com
-DOMAIN-SUFFIX, nikelab.cn @cn
-DOMAIN-SUFFIX, nikelab.com.cn @cn
+DOMAIN-SUFFIX, nikelab.cn
+DOMAIN-SUFFIX, nikelab.com.cn
 DOMAIN-SUFFIX, nikelink.com
-DOMAIN-SUFFIX, nikeliuxiang.cn @cn
+DOMAIN-SUFFIX, nikeliuxiang.cn
 DOMAIN-SUFFIX, nikeliuxiang.com
-DOMAIN-SUFFIX, nikeliuxiang.com.cn @cn
+DOMAIN-SUFFIX, nikeliuxiang.com.cn
 DOMAIN-SUFFIX, nikelives.com
 DOMAIN-SUFFIX, nikelunarglide.com
-DOMAIN-SUFFIX, nikemall.cn @cn
-DOMAIN-SUFFIX, nikemall.com.cn @cn
+DOMAIN-SUFFIX, nikemall.cn
+DOMAIN-SUFFIX, nikemall.com.cn
 DOMAIN-SUFFIX, nikemarketing.com
 DOMAIN-SUFFIX, nikenews.com
 DOMAIN-SUFFIX, niken7.com
@@ -139,10 +141,10 @@ DOMAIN-SUFFIX, nikeproduct.com
 DOMAIN-SUFFIX, nikepromax.com
 DOMAIN-SUFFIX, nikeresponsibility.com
 DOMAIN-SUFFIX, nikereuseashoe.com
-DOMAIN-SUFFIX, nikerunclub.cn @cn
-DOMAIN-SUFFIX, nikerunclub.com.cn @cn
+DOMAIN-SUFFIX, nikerunclub.cn
+DOMAIN-SUFFIX, nikerunclub.com.cn
 DOMAIN-SUFFIX, nikerunner.com
-DOMAIN-SUFFIX, nikerunning.com.cn @cn
+DOMAIN-SUFFIX, nikerunning.com.cn
 DOMAIN-SUFFIX, nikerunningshoes.com
 DOMAIN-SUFFIX, nikesb.com
 DOMAIN-SUFFIX, nikesbdunks.net
@@ -166,7 +168,7 @@ DOMAIN-SUFFIX, nikesnowboarding.com
 DOMAIN-SUFFIX, nikesoccercleats.com
 DOMAIN-SUFFIX, nikesportswear.com
 DOMAIN-SUFFIX, nikestares.com
-DOMAIN-SUFFIX, nikestore.cn @cn
+DOMAIN-SUFFIX, nikestore.cn
 DOMAIN-SUFFIX, nikestore.com
 DOMAIN-SUFFIX, nikestore.com.au
 DOMAIN-SUFFIX, nikestyles.com

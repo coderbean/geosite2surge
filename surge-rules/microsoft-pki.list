@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX, msocsp.com
-DOMAIN-SUFFIX, full:crl.microsoft.com
-DOMAIN-SUFFIX, full:mscrl.microsoft.com
-DOMAIN-SUFFIX, full:ocsp.microsoft.com
-DOMAIN-SUFFIX, full:oneocsp.microsoft.com
-DOMAIN-SUFFIX, full:www.microsoft.com @cn
+
+DOMAIN, crl.microsoft.com
+DOMAIN, mscrl.microsoft.com
+DOMAIN, ocsp.microsoft.com
+DOMAIN, oneocsp.microsoft.com
+DOMAIN, www.microsoft.com

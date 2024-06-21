@@ -1,4 +1,33 @@
+DOMAIN-SUFFIX, a2z.org.cn
+DOMAIN-SUFFIX, amazonaws.cn
+DOMAIN-SUFFIX, amazonaws.com.cn
+DOMAIN-SUFFIX, amazonwebservices.com.cn
+DOMAIN-SUFFIX, amazonworkdocs.cn
+DOMAIN-SUFFIX, amazonworkdocs.com.cn
+DOMAIN-SUFFIX, asfiovnxocqpcry.com.cn
+DOMAIN-SUFFIX, aws-border.cn
+DOMAIN-SUFFIX, aws-icp-domain-manager.cn
+DOMAIN-SUFFIX, awsapps.cn
+DOMAIN-SUFFIX, awsapps.com.cn
+DOMAIN-SUFFIX, awsstatic.cn
+DOMAIN-SUFFIX, cloudfront-cn.net
+DOMAIN-SUFFIX, cloudfront-test.cn
+DOMAIN-SUFFIX, cloudfront.cn
+DOMAIN-SUFFIX, nwcdcloud.cn
+DOMAIN-SUFFIX, nwcdcloud.com.cn
+DOMAIN-SUFFIX, nwcddns.cn
+DOMAIN-SUFFIX, nwcdinfosec.cn
+DOMAIN-SUFFIX, route53.cn
+DOMAIN-SUFFIX, sagemaker.com.cn
+
+# AWS CN DNS
+URL-REGEX, .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
+URL-REGEX, .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+
+
 # All .aws domains
+DOMAIN-SUFFIX, aws
+
 # AWS
 DOMAIN-SUFFIX, acmvalidations.com
 DOMAIN-SUFFIX, acmvalidationsaws.com
@@ -33,5 +62,6 @@ DOMAIN-SUFFIX, cloudfront.net
 DOMAIN-SUFFIX, containersonaws.com
 DOMAIN-SUFFIX, elasticbeanstalk.com
 DOMAIN-SUFFIX, thinkboxsoftware.com
+
 # AWS DNS
-DOMAIN-SUFFIX, regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
+URL-REGEX, .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$

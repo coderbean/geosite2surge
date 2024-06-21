@@ -1,22 +1,28 @@
 # 米哈游
-DOMAIN-SUFFIX, mhystatic.com @cn
-DOMAIN-SUFFIX, mhyurl.cn @cn
-DOMAIN-SUFFIX, mihayo.com @cn
-DOMAIN-SUFFIX, mihayou.com @cn
-DOMAIN-SUFFIX, mihoyo.com @cn
-DOMAIN-SUFFIX, mihoyocg.com @cn
-DOMAIN-SUFFIX, mihoyogift.com @cn
-DOMAIN-SUFFIX, mihoyomall.com @cn
-DOMAIN-SUFFIX, miyoushe.com @cn
+DOMAIN-SUFFIX, mhystatic.com
+DOMAIN-SUFFIX, mhyurl.cn
+DOMAIN-SUFFIX, mihayo.com
+DOMAIN-SUFFIX, mihayou.com
+DOMAIN-SUFFIX, mihoyo.com
+DOMAIN-SUFFIX, mihoyocg.com
+DOMAIN-SUFFIX, mihoyogift.com
+DOMAIN-SUFFIX, mihoyomall.com
+DOMAIN-SUFFIX, miyoushe.com
+
 # 崩坏2
-DOMAIN-SUFFIX, benghuai.com @cn
+DOMAIN-SUFFIX, benghuai.com
+
 # 崩坏3
-DOMAIN-SUFFIX, bh3.com @cn
+DOMAIN-SUFFIX, bh3.com
+
 # 星穹铁道
-DOMAIN-SUFFIX, bhsr.com @cn
+DOMAIN-SUFFIX, bhsr.com
+
 # 未定事件簿
-DOMAIN-SUFFIX, themisweeps.com @cn
+DOMAIN-SUFFIX, themisweeps.com
+
 # 原神
-DOMAIN-SUFFIX, yuanshen.com @cn
+DOMAIN-SUFFIX, yuanshen.com
+
 # Akamai
-DOMAIN-SUFFIX, regexp:^.+-mihayo\.akamaized\.net$ @cn
+URL-REGEX, ^.+-mihayo\.akamaized\.net$

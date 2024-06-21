@@ -6,6 +6,7 @@ DOMAIN-SUFFIX, icve.com.cn
 DOMAIN-SUFFIX, mooc.cn
 DOMAIN-SUFFIX, openlearning.com
 DOMAIN-SUFFIX, pmphmooc.com
-DOMAIN-SUFFIX, full:moocs.unipus.cn
-DOMAIN-SUFFIX, full:opencourse.pku.edu.cn
-DOMAIN-SUFFIX, full:study.163.com
+
+DOMAIN, moocs.unipus.cn
+DOMAIN, opencourse.pku.edu.cn
+DOMAIN, study.163.com

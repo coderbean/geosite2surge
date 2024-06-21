@@ -5,10 +5,13 @@ DOMAIN-SUFFIX, intellinuxgraphics.net
 DOMAIN-SUFFIX, oneapi.com
 DOMAIN-SUFFIX, openvinotoolkit.org
 DOMAIN-SUFFIX, snap-telemetry.io
+
 # ACPI Component Architecture
 DOMAIN-SUFFIX, acpica.com
+
 # Clear Linux
 DOMAIN-SUFFIX, clearlinux.org
+
 # OSPRay
 DOMAIN-SUFFIX, ospray.net
 DOMAIN-SUFFIX, ospray.org

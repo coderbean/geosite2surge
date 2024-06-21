@@ -1,4 +1,5 @@
 # Best Buy Co., Inc
+
 DOMAIN-SUFFIX, bby.com
 DOMAIN-SUFFIX, bbycastatic.ca
 DOMAIN-SUFFIX, bbycloud.com
@@ -14,9 +15,9 @@ DOMAIN-SUFFIX, bestbuy-giftcard.info
 DOMAIN-SUFFIX, bestbuy-int.com
 DOMAIN-SUFFIX, bestbuy-jobs.com
 DOMAIN-SUFFIX, bestbuy.ca
-DOMAIN-SUFFIX, bestbuy.cn @cn
+DOMAIN-SUFFIX, bestbuy.cn
 DOMAIN-SUFFIX, bestbuy.com
-DOMAIN-SUFFIX, bestbuy.com.cn @cn
+DOMAIN-SUFFIX, bestbuy.com.cn
 DOMAIN-SUFFIX, bestbuy.com.mx
 DOMAIN-SUFFIX, bestbuy.info
 DOMAIN-SUFFIX, bestbuy24x7solutions.com
@@ -46,7 +47,7 @@ DOMAIN-SUFFIX, bienvenuechezbestbuy.ca
 DOMAIN-SUFFIX, cowboom.com
 DOMAIN-SUFFIX, futureshop.ca
 DOMAIN-SUFFIX, initproducts.com
-DOMAIN-SUFFIX, magnoliaav.com.cn @cn
+DOMAIN-SUFFIX, magnoliaav.com.cn
 DOMAIN-SUFFIX, mybestbuy.com
 DOMAIN-SUFFIX, mybestbuyclaims.com
 DOMAIN-SUFFIX, myrewardzone.com
@@ -58,6 +59,7 @@ DOMAIN-SUFFIX, welcometobestbuy.ca
 DOMAIN-SUFFIX, wolfatbestbuy.com
 DOMAIN-SUFFIX, wolfatbestbuy.net
 DOMAIN-SUFFIX, www-bestbuystores.com
+
 # Geek Squad
 DOMAIN-SUFFIX, geek-squad-support.com
 DOMAIN-SUFFIX, geek-squad.net
@@ -79,8 +81,10 @@ DOMAIN-SUFFIX, gscanada.info
 DOMAIN-SUFFIX, gsccdn.com
 DOMAIN-SUFFIX, gslink.us
 DOMAIN-SUFFIX, onlinegeeksquad.com
+
 # RocketFish
 DOMAIN-SUFFIX, rocketfishproducts.com
+
 # Tech Liquidators
 DOMAIN-SUFFIX, dealtree.org
 DOMAIN-SUFFIX, techliquidators.com

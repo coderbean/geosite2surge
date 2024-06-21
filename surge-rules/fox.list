@@ -1,4 +1,6 @@
 # All .fox domains
+DOMAIN-SUFFIX, fox
+
 DOMAIN-SUFFIX, fox-corporation.com
 DOMAIN-SUFFIX, fox-news.com
 DOMAIN-SUFFIX, fox.com
@@ -169,12 +171,15 @@ DOMAIN-SUFFIX, fssta.com
 DOMAIN-SUFFIX, fxn.ws
 DOMAIN-SUFFIX, fxnetwork.com
 DOMAIN-SUFFIX, fxnetworks.com
+
 # Bento Box Entertainment
 DOMAIN-SUFFIX, bentobox.tv
+
 # KTVU FOX 2
 DOMAIN-SUFFIX, kicu.tv
 DOMAIN-SUFFIX, ktvu.com
 DOMAIN-SUFFIX, myfoxsanfran.com
+
 # Other
 DOMAIN-SUFFIX, afewmomentswith.com
 DOMAIN-SUFFIX, anidom.com
@@ -243,4 +248,5 @@ DOMAIN-SUFFIX, whosthehost.com
 DOMAIN-SUFFIX, wofl.tv
 DOMAIN-SUFFIX, woflthenewsstation.com
 DOMAIN-SUFFIX, wogx.com
-DOMAIN-SUFFIX, full:foxnewsplayer-a.akamaihd.net
+
+DOMAIN, foxnewsplayer-a.akamaihd.net

@@ -1,5 +1,6 @@
 # DreamWorks
 DOMAIN-SUFFIX, dreamworks.com
+
 # NBC
 DOMAIN-SUFFIX, cnbc.com
 DOMAIN-SUFFIX, cnbcfm.com
@@ -12,8 +13,10 @@ DOMAIN-SUFFIX, nbcsports.com
 DOMAIN-SUFFIX, nbcuni.com
 DOMAIN-SUFFIX, nbcuniversal.com
 DOMAIN-SUFFIX, s-nbcnews.com
+
 # Peacock
 DOMAIN-SUFFIX, peacocktv.com
+
 # Universal
 DOMAIN-SUFFIX, universalorlando.com
 DOMAIN-SUFFIX, universalpictures.com

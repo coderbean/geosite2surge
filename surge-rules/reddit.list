@@ -6,4 +6,5 @@ DOMAIN-SUFFIX, redditmail.com
 DOMAIN-SUFFIX, redditmedia.com
 DOMAIN-SUFFIX, redditstatic.com
 DOMAIN-SUFFIX, redd.it
-DOMAIN-SUFFIX, full:reddit.map.fastly.net
+
+DOMAIN, reddit.map.fastly.net

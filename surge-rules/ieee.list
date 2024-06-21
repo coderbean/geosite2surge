@@ -1,13 +1,17 @@
 DOMAIN-SUFFIX, ieee.org
 DOMAIN-SUFFIX, ieee.tv
+
 # Co-sponsored
 DOMAIN-SUFFIX, tryengineering.org
+
 # Conference & Event
 DOMAIN-SUFFIX, ieee-ccnc.org
 DOMAIN-SUFFIX, ieee-ecce.org
 DOMAIN-SUFFIX, ieeemce.org
+
 # Education and career
 DOMAIN-SUFFIX, standardsuniversity.org
+
 # Geographic Activities
 DOMAIN-SUFFIX, ieee-region6.org
 DOMAIN-SUFFIX, ieee.ca
@@ -15,17 +19,21 @@ DOMAIN-SUFFIX, ieeer10.org
 DOMAIN-SUFFIX, ieeer5.org
 DOMAIN-SUFFIX, ieeer8.org
 DOMAIN-SUFFIX, ieeeusa.org
+
 # Humanitarian Program
 DOMAIN-SUFFIX, ieeefoundation.org
+
 # Other
 DOMAIN-SUFFIX, ieee-into-focus.org
 DOMAIN-SUFFIX, ieee-vics.org
 DOMAIN-SUFFIX, ieeeday.org
+
 # Publications, Products, & Services
 DOMAIN-SUFFIX, datasheets360.com
 DOMAIN-SUFFIX, globalspec.com
 DOMAIN-SUFFIX, ieee-isto.org
 DOMAIN-SUFFIX, techstreet.com
+
 # Society & Council
 DOMAIN-SUFFIX, computer.org
 DOMAIN-SUFFIX, comsoc.org

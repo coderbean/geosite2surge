@@ -1,17 +1,22 @@
 # Federal Gov.
 DOMAIN-SUFFIX, government.ru
 DOMAIN-SUFFIX, gov.ru
+
 # Federal Public Services
 DOMAIN-SUFFIX, gosuslugi.ru
 DOMAIN-SUFFIX, gu-st.ru
+
 # Federal Healthcare Services
 DOMAIN-SUFFIX, emias.info
 DOMAIN-SUFFIX, mgfoms.ru
+
 # Federal Educational Services
 DOMAIN-SUFFIX, edu.ru
+
 # Other Federal Resources
 DOMAIN-SUFFIX, cbr.ru          # Central Bank of Russia
 DOMAIN-SUFFIX, nalog.ru        # Federal Tax Service
+
 #
 # Regional sites and Public Services
 # Reminder on federal subjects naming:
@@ -24,12 +29,14 @@ DOMAIN-SUFFIX, nalog.ru        # Federal Tax Service
 # Moscow, St. Petersburg, Sevastopol — are separate federal subjects,
 # meaning that e.g. Moscow is not part of Moscow Region.
 #
+
 # Federal Cities (Cities of Federal Importance)
-DOMAIN-SUFFIX, mos.ru          # Moscow 
+DOMAIN-SUFFIX, mos.ru          # Moscow
 DOMAIN-SUFFIX, mosreg.ru       # Moscow Region
 DOMAIN-SUFFIX, spb.ru          # St. Petersburg
 DOMAIN-SUFFIX, sevastopol.ru   # Sevastopol
 DOMAIN-SUFFIX, sev.ru          # Sevastopol
+
 # Republics
 DOMAIN-SUFFIX, adygeya.ru      # Republic of Adygea
 DOMAIN-SUFFIX, bashkiria.ru    # Republic of Bashkortostan
@@ -58,6 +65,7 @@ DOMAIN-SUFFIX, udmurtia.ru     # Republic of Udmurtia
 DOMAIN-SUFFIX, ulan-ude.ru     # Ulan-Ude City, Republic of Buryatia
 DOMAIN-SUFFIX, vladikavkaz.ru  # Vladikavkaz City, Republic of North Ossetia-Alania
 DOMAIN-SUFFIX, yakutia.ru      # Republic of Yakutia
+
 # Territories (Krai)
 DOMAIN-SUFFIX, altai.ru        # Altai Territory
 DOMAIN-SUFFIX, chita.ru        # Chita City, Zabaykalsky Territory
@@ -73,6 +81,7 @@ DOMAIN-SUFFIX, stavropol.ru    # Stavropol Territory
 DOMAIN-SUFFIX, stv.ru          # Stavropol Territory
 DOMAIN-SUFFIX, vl.ru           # Vladivostok City, Primorye Territory
 DOMAIN-SUFFIX, vladivostok.ru  # Vladivostok City, Primorye Territory
+
 # Regions / Provinces (Oblast)
 DOMAIN-SUFFIX, amur.ru         # Amur Region
 DOMAIN-SUFFIX, arkhangelsk.ru  # Arkhangelsk Region
@@ -134,6 +143,7 @@ DOMAIN-SUFFIX, vrn.ru          # Voronezh Region
 DOMAIN-SUFFIX, vyatka.ru       # Kirov Region
 DOMAIN-SUFFIX, yaroslavl.ru    # Yaroslavl Region
 DOMAIN-SUFFIX, yuzhno-sakhalinsk.ru # Yuzhno-Sakhalinsk City, Sakhalin Region
+
 # Autonomous areas
 DOMAIN-SUFFIX, chukotka.ru     # Chukotka Autonomous Area
 DOMAIN-SUFFIX, jamal.ru        # Yamal-Nenets Autonomous Area

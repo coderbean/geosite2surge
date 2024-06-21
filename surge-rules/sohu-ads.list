@@ -1,19 +1,20 @@
-DOMAIN-SUFFIX, adnet.sohu.com @ads
-DOMAIN-SUFFIX, ads.sohu.com @ads
-DOMAIN-SUFFIX, adv-sv-show.focus.cn @ads
-DOMAIN-SUFFIX, aty.sohu.com @ads
-DOMAIN-SUFFIX, data.vod.itc.cn @ads
-DOMAIN-SUFFIX, epro.sogou.com @ads
-DOMAIN-SUFFIX, go.sohu.com @ads
-DOMAIN-SUFFIX, golden1.sogou.com @ads
-DOMAIN-SUFFIX, imp.optaim.com @ads
-DOMAIN-SUFFIX, inte.sogou.com @ads
-DOMAIN-SUFFIX, inte.sogoucdn.com @ads
-DOMAIN-SUFFIX, lu.sogoucdn.com @ads
-DOMAIN-SUFFIX, pv.sohu.com @ads
-DOMAIN-SUFFIX, theta.sogoucdn.com @ads
-DOMAIN-SUFFIX, track.sohu.com @ads
-DOMAIN-SUFFIX, uranus.sogou.com @ads
-DOMAIN-SUFFIX, v2.reachmax.cn @ads
-DOMAIN-SUFFIX, full:e8aeb8bbdbbd7.cdn.sohucs.com @ads
-DOMAIN-SUFFIX, full:643108e7617ef.cdn.sohucs.com @ads
+DOMAIN-SUFFIX, adnet.sohu.com
+DOMAIN-SUFFIX, ads.sohu.com
+DOMAIN-SUFFIX, adv-sv-show.focus.cn
+DOMAIN-SUFFIX, aty.sohu.com
+DOMAIN-SUFFIX, data.vod.itc.cn
+DOMAIN-SUFFIX, epro.sogou.com
+DOMAIN-SUFFIX, go.sohu.com
+DOMAIN-SUFFIX, golden1.sogou.com
+DOMAIN-SUFFIX, imp.optaim.com
+DOMAIN-SUFFIX, inte.sogou.com
+DOMAIN-SUFFIX, inte.sogoucdn.com
+DOMAIN-SUFFIX, lu.sogoucdn.com
+DOMAIN-SUFFIX, pv.sohu.com
+DOMAIN-SUFFIX, theta.sogoucdn.com
+DOMAIN-SUFFIX, track.sohu.com
+DOMAIN-SUFFIX, uranus.sogou.com
+DOMAIN-SUFFIX, v2.reachmax.cn
+
+DOMAIN, e8aeb8bbdbbd7.cdn.sohucs.com
+DOMAIN, 643108e7617ef.cdn.sohucs.com

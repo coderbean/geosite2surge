@@ -1,9 +1,9 @@
-DOMAIN-SUFFIX, geforce.cn @cn
+DOMAIN-SUFFIX, geforce.cn
 DOMAIN-SUFFIX, geforce.co.kr
 DOMAIN-SUFFIX, geforce.co.uk
 DOMAIN-SUFFIX, geforce.com
 DOMAIN-SUFFIX, geforce.com.tw
-DOMAIN-SUFFIX, gputechconf.cn @cn
+DOMAIN-SUFFIX, gputechconf.cn
 DOMAIN-SUFFIX, gputechconf.co.kr
 DOMAIN-SUFFIX, gputechconf.com
 DOMAIN-SUFFIX, gputechconf.com.au
@@ -15,7 +15,7 @@ DOMAIN-SUFFIX, nvidia.asia
 DOMAIN-SUFFIX, nvidia.at
 DOMAIN-SUFFIX, nvidia.be
 DOMAIN-SUFFIX, nvidia.ch
-DOMAIN-SUFFIX, nvidia.cn @cn
+DOMAIN-SUFFIX, nvidia.cn
 DOMAIN-SUFFIX, nvidia.co.at
 DOMAIN-SUFFIX, nvidia.co.in
 DOMAIN-SUFFIX, nvidia.co.jp
@@ -58,4 +58,5 @@ DOMAIN-SUFFIX, tegrazone.co.kr
 DOMAIN-SUFFIX, tegrazone.com
 DOMAIN-SUFFIX, tegrazone.jp
 DOMAIN-SUFFIX, tegrazone.kr
-DOMAIN-SUFFIX, full:nvidia.tt.omtrdc.net
+
+DOMAIN, nvidia.tt.omtrdc.net

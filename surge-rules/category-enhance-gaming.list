@@ -1,11 +1,24 @@
+DOMAIN-SUFFIX, playcover.io
+DOMAIN-SUFFIX, playcover.workers.dev
+
+DOMAIN-SUFFIX, fflogs.com
+DOMAIN-SUFFIX, rpglogs.com
+
+DOMAIN-SUFFIX, rpglogs.cn
+
+
 # Android Emulator
 DOMAIN-SUFFIX, bluestacks.com
-DOMAIN-SUFFIX, lsplayer.com @cn
-DOMAIN-SUFFIX, yeshen.com @cn
+DOMAIN-SUFFIX, lsplayer.com
+DOMAIN-SUFFIX, yeshen.com
+
 # Arknights
 DOMAIN-SUFFIX, maa.plus
 DOMAIN-SUFFIX, prts.plus
+
 # KanColle
-DOMAIN-SUFFIX, heavenlywind.cc @cn
+DOMAIN-SUFFIX, heavenlywind.cc
 DOMAIN-SUFFIX, poi.moe
-DOMAIN-SUFFIX, steampp.net @cn
+
+
+DOMAIN-SUFFIX, steampp.net

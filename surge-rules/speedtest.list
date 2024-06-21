@@ -1,1 +1,17 @@
 # This tag 'speedtest' is for backward compatibility of 'geosite:speedtest' in V2Ray.
+
+DOMAIN-SUFFIX, cdnst.net
+DOMAIN-SUFFIX, cellmaps.com
+DOMAIN-SUFFIX, ekahau.cloud
+DOMAIN-SUFFIX, ekahau.com
+DOMAIN-SUFFIX, ookla.com
+DOMAIN-SUFFIX, ooklaserver.net
+DOMAIN-SUFFIX, pingtest.net
+DOMAIN-SUFFIX, speedtest.co
+DOMAIN-SUFFIX, speedtest.net
+DOMAIN-SUFFIX, speedtestcustom.com
+DOMAIN-SUFFIX, webtest.net
+
+URL-REGEX, ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
+
+

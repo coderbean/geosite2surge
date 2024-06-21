@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX, patreon.com
 DOMAIN-SUFFIX, patreoncommunity.com
 DOMAIN-SUFFIX, patreonusercontent.com
-DOMAIN-SUFFIX, full:live-patreon-marketing.pantheonsite.io
+
+DOMAIN, live-patreon-marketing.pantheonsite.io

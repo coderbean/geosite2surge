@@ -1,6 +1,10 @@
 # All .mcd domains
+DOMAIN-SUFFIX, mcd
+
 # All .mcdonalds domains
-DOMAIN-SUFFIX, 4008-517-517.cn @cn
+DOMAIN-SUFFIX, mcdonalds
+
+DOMAIN-SUFFIX, 4008-517-517.cn
 DOMAIN-SUFFIX, aboutmcdonalds.com
 DOMAIN-SUFFIX, happymeal.co.nz
 DOMAIN-SUFFIX, happymeal.com.au

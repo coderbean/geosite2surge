@@ -6,4 +6,5 @@ DOMAIN-SUFFIX, mdn.mozilla.net
 DOMAIN-SUFFIX, mdn.mozit.cloud
 DOMAIN-SUFFIX, mdnplay.dev
 DOMAIN-SUFFIX, mdnyalp.dev
-DOMAIN-SUFFIX, full:mdn.mozillademos.org
+
+DOMAIN, mdn.mozillademos.org

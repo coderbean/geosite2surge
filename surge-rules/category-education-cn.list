@@ -1,26 +1,76 @@
+DOMAIN-SUFFIX, 17zuoye.cn
+DOMAIN-SUFFIX, 17zuoye.com
+DOMAIN-SUFFIX, 17zuoye.net
+
+DOMAIN-SUFFIX, applysquare.com
+DOMAIN-SUFFIX, applysquare.net
+
+DOMAIN-SUFFIX, cctalk.com
+DOMAIN-SUFFIX, hjapi.com
+DOMAIN-SUFFIX, hjfile.cn
+DOMAIN-SUFFIX, hujiang.com
+DOMAIN-SUFFIX, yeshj.com
+
+DOMAIN-SUFFIX, koocdn.com
+DOMAIN-SUFFIX, koolearn.com
+DOMAIN-SUFFIX, koopass.com
+
+DOMAIN-SUFFIX, baydn.com
+DOMAIN-SUFFIX, shanbay.com
+
+DOMAIN-SUFFIX, speiyou.com
+DOMAIN-SUFFIX, xesimg.com
+DOMAIN-SUFFIX, xueersi.com
+
+DOMAIN-SUFFIX, banmaaike.com
+DOMAIN-SUFFIX, xiaoyuankousuan.com
+DOMAIN-SUFFIX, ybccode.com
+DOMAIN-SUFFIX, yuanfudao.com
+DOMAIN-SUFFIX, yuansouti.com
+DOMAIN-SUFFIX, yuantiku.com
+
+DOMAIN-SUFFIX, zhihuishu.com
+
+
+
 # 雨课堂
+DOMAIN-SUFFIX, rainclassroom.com
+DOMAIN-SUFFIX, yuketang.cn
+
+
 ## 雨豆课堂
 DOMAIN-SUFFIX, yudou.cn
+
 ## 雨实验
 DOMAIN-SUFFIX, yushiyan.net
+
 ## 学堂在线
 DOMAIN-SUFFIX, xuetangx.com
+
 # 时代行云
 DOMAIN-SUFFIX, x-cloud.cc
+
+
 # 莞教通
 DOMAIN-SUFFIX, dgjy.net
+
 # 云校
 DOMAIN-SUFFIX, 91yunxiao.com
+
 # 爱云校/好分数
 DOMAIN-SUFFIX, aiyunxiao.com
 DOMAIN-SUFFIX, haofenshu.com
 DOMAIN-SUFFIX, iyunxiao.com
 DOMAIN-SUFFIX, yunxiao.com
+
 # 课播云校
 DOMAIN-SUFFIX, keboyunxiao.com
+
 # 课堂派
 DOMAIN-SUFFIX, ketangpai.com
+
 # 批改网
 DOMAIN-SUFFIX, pigai.org
+
 # 未来云校
 DOMAIN-SUFFIX, weilaiyunxiao.com

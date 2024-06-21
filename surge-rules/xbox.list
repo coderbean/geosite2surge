@@ -1,4 +1,23 @@
+DOMAIN-SUFFIX, beth.games
+DOMAIN-SUFFIX, bethesda.net
+DOMAIN-SUFFIX, bethesdagamestudios.com
+DOMAIN-SUFFIX, bethsoft.com
+
+# Doom
+DOMAIN-SUFFIX, doom.com
+
+# The Elder Scrolls
+DOMAIN-SUFFIX, elderscrolls.com
+
+DOMAIN-SUFFIX, callersbane.com
+DOMAIN-SUFFIX, minecraft.net
+DOMAIN-SUFFIX, minecraftshop.com
+DOMAIN-SUFFIX, mojang.com
+
+
 # All .xbox domains
+DOMAIN-SUFFIX, xbox
+
 DOMAIN-SUFFIX, forzamotorsport.net
 DOMAIN-SUFFIX, forzaracingchampionship.com
 DOMAIN-SUFFIX, forzarc.com
@@ -17,7 +36,7 @@ DOMAIN-SUFFIX, xbox360.org
 DOMAIN-SUFFIX, xboxab.com
 DOMAIN-SUFFIX, xboxgamepass.com
 DOMAIN-SUFFIX, xboxgamestudios.com
-DOMAIN-SUFFIX, xboxlive.cn @cn
+DOMAIN-SUFFIX, xboxlive.cn
 DOMAIN-SUFFIX, xboxlive.com
 DOMAIN-SUFFIX, xboxone.co
 DOMAIN-SUFFIX, xboxone.com

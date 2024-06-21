@@ -3,5 +3,6 @@ DOMAIN-SUFFIX, fastly.net
 DOMAIN-SUFFIX, fastlylabs.com
 DOMAIN-SUFFIX, fastlylb.net
 DOMAIN-SUFFIX, fastly-terrarium.com
+
 # Video.js CDN
 DOMAIN-SUFFIX, zencdn.net

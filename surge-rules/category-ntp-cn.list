@@ -1,8 +1,10 @@
 # Aliyun
-DOMAIN-SUFFIX, regexp:^ntp([1-7])?\.aliyun\.com$ @cn
+URL-REGEX, ^ntp([1-7])?\.aliyun\.com$
+
 # Tencent
-DOMAIN-SUFFIX, regexp:^ntp([1-5])?\.tencent\.com$ @cn
-DOMAIN-SUFFIX, cn.pool.ntp.org @cn
-DOMAIN-SUFFIX, ntp.neu.edu.cn @cn
-DOMAIN-SUFFIX, ntp.ntsc.ac.cn @cn
-DOMAIN-SUFFIX, ntp.org.cn @cn
+URL-REGEX, ^ntp([1-5])?\.tencent\.com$
+
+DOMAIN-SUFFIX, cn.pool.ntp.org
+DOMAIN-SUFFIX, ntp.neu.edu.cn
+DOMAIN-SUFFIX, ntp.ntsc.ac.cn
+DOMAIN-SUFFIX, ntp.org.cn

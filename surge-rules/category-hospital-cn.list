@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX, fuwai.com
 DOMAIN-SUFFIX, pkuh6.cn
 DOMAIN-SUFFIX, puh3.net.cn
-DOMAIN-SUFFIX, full:hospital.pku.edu.cn
-DOMAIN-SUFFIX, full:ss.bjmu.edu.cn
+
+DOMAIN, hospital.pku.edu.cn
+DOMAIN, ss.bjmu.edu.cn

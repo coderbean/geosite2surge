@@ -1,6 +1,8 @@
 # All .kindle domains
+DOMAIN-SUFFIX, kindle
+
 # Kindle
-DOMAIN-SUFFIX, kindle.cn @cn
+DOMAIN-SUFFIX, kindle.cn
 DOMAIN-SUFFIX, kindle.co.jp
 DOMAIN-SUFFIX, kindle.co.uk
 DOMAIN-SUFFIX, kindle.com
@@ -10,9 +12,9 @@ DOMAIN-SUFFIX, kindle.fr
 DOMAIN-SUFFIX, kindle.in
 DOMAIN-SUFFIX, kindle.it
 DOMAIN-SUFFIX, kindle.jp
-DOMAIN-SUFFIX, kindleoasis.cn @cn
+DOMAIN-SUFFIX, kindleoasis.cn
 DOMAIN-SUFFIX, kindleoasis.com
-DOMAIN-SUFFIX, kindleoasis.com.cn @cn
+DOMAIN-SUFFIX, kindleoasis.com.cn
 DOMAIN-SUFFIX, kindleoasis.info
 DOMAIN-SUFFIX, kindleoasis.jp
 DOMAIN-SUFFIX, kindleoasis.org

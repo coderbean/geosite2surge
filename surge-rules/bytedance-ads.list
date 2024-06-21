@@ -1,19 +1,19 @@
-DOMAIN-SUFFIX, bds.snssdk.com @ads
-DOMAIN-SUFFIX, ctobsnssdk.com @ads
-DOMAIN-SUFFIX, dig.bdurl.net @ads
-DOMAIN-SUFFIX, extlog.snssdk.com @ads
-DOMAIN-SUFFIX, i.snssdk.com @ads
-DOMAIN-SUFFIX, mcs.snssdk.com @ads
-DOMAIN-SUFFIX, pangolin-dsp-toutiao-b.com @ads
-DOMAIN-SUFFIX, pangolin-dsp-toutiao.com @ads
-DOMAIN-SUFFIX, pangolin-sdk-toutiao-b.com @ads
-DOMAIN-SUFFIX, pangolin-sdk-toutiao.com @ads
-DOMAIN-SUFFIX, pangolin-sdk-toutiao1.com @ads
-DOMAIN-SUFFIX, pangolin.snssdk.com @ads
-DOMAIN-SUFFIX, panplayable-toutiao-b.com @ads
-DOMAIN-SUFFIX, panplayable-toutiao.com @ads
-DOMAIN-SUFFIX, pglstatp-sdk-toutiao.com @ads
-DOMAIN-SUFFIX, pglstatp-snssdk-toutiao.com @ads
-DOMAIN-SUFFIX, pglstatp-toutiao-b.com @ads
-DOMAIN-SUFFIX, pglstatp-toutiao.com @ads
-DOMAIN-SUFFIX, sf3-ttcdn-tos.pstatp.com @ads
+DOMAIN-SUFFIX, bds.snssdk.com
+DOMAIN-SUFFIX, ctobsnssdk.com
+DOMAIN-SUFFIX, dig.bdurl.net
+DOMAIN-SUFFIX, extlog.snssdk.com
+DOMAIN-SUFFIX, i.snssdk.com
+DOMAIN-SUFFIX, mcs.snssdk.com
+DOMAIN-SUFFIX, pangolin-dsp-toutiao-b.com
+DOMAIN-SUFFIX, pangolin-dsp-toutiao.com
+DOMAIN-SUFFIX, pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX, pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX, pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX, pangolin.snssdk.com
+DOMAIN-SUFFIX, panplayable-toutiao-b.com
+DOMAIN-SUFFIX, panplayable-toutiao.com
+DOMAIN-SUFFIX, pglstatp-sdk-toutiao.com
+DOMAIN-SUFFIX, pglstatp-snssdk-toutiao.com
+DOMAIN-SUFFIX, pglstatp-toutiao-b.com
+DOMAIN-SUFFIX, pglstatp-toutiao.com
+DOMAIN-SUFFIX, sf3-ttcdn-tos.pstatp.com

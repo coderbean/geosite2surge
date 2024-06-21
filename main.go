@@ -3,25 +3,28 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"os/exec"
 	"path/filepath"
 	"strings"
 )
 
-const prefix = "DOMAIN-SUFFIX, "
+const domainSuffixPrefix = "DOMAIN-SUFFIX, "
+const domainPrefix = "DOMAIN, "
+const urlRegexPrefix = "URL-REGEX, "
 const gitRepo = "https://github.com/v2fly/domain-list-community.git" // 替换为你的Git仓库地址
+var (
+	processFlag = map[string]bool{}
+	// 定义文件夹路径
+	gitDir        = "domain-list-community-tmp"
+	dateDir       = filepath.Join(gitDir, "data")
+	surgeRulesDir = "surge-rules"
+)
 
 func main() {
-	// 定义文件夹路径
-	gitDir := "domain-list-community-tmp"
-	dateDir := filepath.Join(gitDir, "data")
-	surgeRulesDir := "surge-rules"
 
-	_ = os.RemoveAll(gitDir) // 清理git目录
-	//_ = os.RemoveAll(surgeRulesDir)
 	// 拉取Git仓库
+	_ = os.RemoveAll(gitDir) // 清理git目录
 	err := cloneGitRepo(gitDir, gitRepo)
 	if err != nil {
 		fmt.Println("Error cloning Git repository:", err)
@@ -30,14 +33,14 @@ func main() {
 	defer os.RemoveAll(gitDir) // 在程序结束时删除data文件夹
 
 	// 创建surge-rules文件夹
-	err = os.MkdirAll(surgeRulesDir, os.ModePerm)
-	if err != nil {
-		fmt.Println("Error creating surge-rules directory:", err)
+	createErr := os.MkdirAll(surgeRulesDir, os.ModePerm)
+	if createErr != nil {
+		fmt.Println("Error creating surge-rules directory:", createErr)
 		return
 	}
 
 	// 读取data文件夹下的所有文件
-	files, err := ioutil.ReadDir(dateDir)
+	files, err := os.ReadDir(dateDir)
 	if err != nil {
 		fmt.Println("Error reading directory:", err)
 		return
@@ -61,6 +64,9 @@ func cloneGitRepo(dir, repo string) error {
 }
 
 func processFile(inputFilePath, outputFilePath string) {
+	if processFlag[inputFilePath] {
+		return
+	}
 	// 打开输入文件
 	inputFile, err := os.Open(inputFilePath)
 	if err != nil {
@@ -82,21 +88,32 @@ func processFile(inputFilePath, outputFilePath string) {
 
 	// 读取输入文件的每一行，处理非空行，并写入输出文件
 	for scanner.Scan() {
-		line := scanner.Text()
+		line := removeAtAndAfter(scanner.Text())
 		trimLine := strings.TrimSpace(line)
-		// 跳过的场景
-		if strings.HasPrefix(trimLine, "include") ||
-			(!strings.Contains(trimLine, ".") && !strings.Contains(trimLine, "#")) {
-			continue
-		}
-		if trimLine != "" && !strings.HasPrefix(line, "#") {
-			line = prefix + line
+		if trimLine != "" {
+			if strings.HasPrefix(trimLine, "#") {
+				// 保持注释不动
+			} else if strings.HasPrefix(trimLine, "full:") {
+				line = strings.ReplaceAll(line, "full:", domainPrefix)
+			} else if strings.HasPrefix(trimLine, "regexp:") {
+				line = strings.ReplaceAll(line, "regexp:", urlRegexPrefix)
+			} else if strings.HasPrefix(trimLine, "include:") {
+				// 递归处理
+				subInputFilePath, subOutPutFilePath := genInputAndOutputFileName(strings.Split(trimLine[len("include:"):], " ")[0])
+				processFile(subInputFilePath, subOutPutFilePath)
+				// 处理完成后将整个文件替换该行
+				lineBytes, _ := os.ReadFile(subOutPutFilePath)
+				line = string(lineBytes)
+			} else {
+				line = domainSuffixPrefix + line
+			}
 		}
 		_, err := writer.WriteString(line + "\n")
 		if err != nil {
 			fmt.Println("Error writing to output file:", err)
 			return
 		}
+		processFlag[inputFilePath] = true
 	}
 
 	if err := scanner.Err(); err != nil {
@@ -109,4 +126,19 @@ func processFile(inputFilePath, outputFilePath string) {
 		fmt.Println("Error flushing writer:", err)
 		return
 	}
+}
+
+// removeAtAndAfter 删除字符串中 '@' 及其后面的所有字符
+func removeAtAndAfter(input string) string {
+	input = strings.TrimSpace(input)
+	if idx := strings.Index(input, " @"); idx != -1 {
+		return input[:idx]
+	}
+	return input
+}
+
+func genInputAndOutputFileName(key string) (string, string) {
+	inputFilePath := filepath.Join(dateDir, key)
+	outputFilePath := filepath.Join(surgeRulesDir, key+".list")
+	return inputFilePath, outputFilePath
 }

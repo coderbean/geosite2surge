@@ -7,4 +7,6 @@ DOMAIN-SUFFIX, mcr.microsoft.com
 DOMAIN-SUFFIX, quay.io
 DOMAIN-SUFFIX, registry.gitlab.com
 DOMAIN-SUFFIX, registry.k8s.io
-DOMAIN-SUFFIX, regexp:.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
+
+
+URL-REGEX, .+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$

@@ -1,4 +1,937 @@
+DOMAIN-SUFFIX, api-adservices.apple.com
+DOMAIN-SUFFIX, iadsdk.apple.com
+DOMAIN-SUFFIX, iad.apple.com
+DOMAIN-SUFFIX, qwapi.com
+
+DOMAIN-SUFFIX, appleswift.com
+DOMAIN-SUFFIX, swift.org
+DOMAIN-SUFFIX, swiftui.cn
+DOMAIN-SUFFIX, swiftui.com.cn
+
+
+# Calendar and Contact Server
+DOMAIN-SUFFIX, calendarserver.org
+
+# CloudKit
+DOMAIN-SUFFIX, apple-cloudkit.com
+
+# CUPS
+DOMAIN-SUFFIX, cups.org
+
+# Developer
+DOMAIN-SUFFIX, developer.apple.com
+DOMAIN-SUFFIX, devimages-cdn.apple.com
+DOMAIN-SUFFIX, devstreaming-cdn.apple.com
+
+# FoundationDB
+DOMAIN-SUFFIX, foundationdb.org
+
+# macOS forge
+DOMAIN-SUFFIX, macosforge.org
+
+# MacRuby
+DOMAIN-SUFFIX, macruby.com
+DOMAIN-SUFFIX, macruby.net
+DOMAIN-SUFFIX, macruby.org
+
+# MapKit
+DOMAIN-SUFFIX, apple-mapkit.com
+
+# Playgrounds
+DOMAIN-SUFFIX, playgrounds-cdn.apple.com
+
+# Research & Care
+DOMAIN-SUFFIX, carekit.org
+DOMAIN-SUFFIX, researchandcare.org
+DOMAIN-SUFFIX, researchkit.cn
+DOMAIN-SUFFIX, researchkit.com.cn
+DOMAIN-SUFFIX, researchkit.hk
+DOMAIN-SUFFIX, researchkit.net
+DOMAIN-SUFFIX, researchkit.org
+DOMAIN-SUFFIX, researchkit.tv
+
+# ServiceTalk
+DOMAIN-SUFFIX, servicetalk.io
+
+# WebKit
+DOMAIN-SUFFIX, webkit.org
+DOMAIN-SUFFIX, webkitgtk.org
+DOMAIN-SUFFIX, wpewebkit.org
+
+# Other
+DOMAIN-SUFFIX, webobjects.com
+
+DOMAIN, appleworldwidedeveloper.hb-api.omtrdc.net
+DOMAIN, appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN, p-events-delivery.akamaized.net
+
+DOMAIN, certs-lb.apple.com.akadns.net
+DOMAIN, certs.apple.com
+DOMAIN, crl-lb.apple.com.akadns.net
+DOMAIN, crl.apple.com
+DOMAIN, ocsp-lb.apple.com.akadns.net
+DOMAIN, ocsp.apple.com
+DOMAIN, ocsp2-lb.apple.com.akadns.net
+DOMAIN, ocsp2.apple.com
+
+# https://support.apple.com/en-us/HT210060
+
+DOMAIN-SUFFIX, appldnld.apple.com
+DOMAIN-SUFFIX, gg.apple.com
+DOMAIN-SUFFIX, gnf-mdn.apple.com
+DOMAIN-SUFFIX, gnf-mr.apple.com
+DOMAIN-SUFFIX, gs.apple.com
+DOMAIN-SUFFIX, ig.apple.com
+DOMAIN-SUFFIX, mesu.apple.com
+DOMAIN-SUFFIX, ns.itunes.apple.com
+DOMAIN-SUFFIX, oscdn.apple.com
+DOMAIN-SUFFIX, osrecovery.apple.com
+DOMAIN-SUFFIX, skl.apple.com
+DOMAIN-SUFFIX, swcdn.apple.com
+DOMAIN-SUFFIX, swdist.apple.com
+DOMAIN-SUFFIX, swdownload.apple.com
+DOMAIN-SUFFIX, swpost.apple.com
+DOMAIN-SUFFIX, swscan.apple.com
+DOMAIN-SUFFIX, updates-http.cdn-apple.com
+DOMAIN-SUFFIX, updates.cdn-apple.com
+DOMAIN-SUFFIX, xp.apple.com
+
+DOMAIN-SUFFIX, 100beatscheap.com
+DOMAIN-SUFFIX, 1monsterbeatsbydreus.com
+DOMAIN-SUFFIX, 2013beatsbydrdreonline.com
+DOMAIN-SUFFIX, 2013beatsbydrdreshop.com
+DOMAIN-SUFFIX, 2013beatsbydreshop.com
+DOMAIN-SUFFIX, 2013beatshdcybermonday.com
+DOMAIN-SUFFIX, 2013cheapestbeats.com
+DOMAIN-SUFFIX, 2013newbeatsworld.com
+DOMAIN-SUFFIX, 2013pascherbeatsbydre.com
+DOMAIN-SUFFIX, 2014cheapbeatsbydre.com
+DOMAIN-SUFFIX, 2beatsdre.com
+DOMAIN-SUFFIX, 2buybeatsbydre.com
+DOMAIN-SUFFIX, 2drdrebeats.com
+DOMAIN-SUFFIX, 40shopping.com
+DOMAIN-SUFFIX, 4beatsbydre.com
+DOMAIN-SUFFIX, 5beatsbydre.com
+DOMAIN-SUFFIX, aaagradeheadphones.com
+DOMAIN-SUFFIX, aanaan.com
+DOMAIN-SUFFIX, abcheadphones.com
+DOMAIN-SUFFIX, abeatsbydrdre.com
+DOMAIN-SUFFIX, aeasyshop.com
+DOMAIN-SUFFIX, airmay.com
+DOMAIN-SUFFIX, ajtalk.com
+DOMAIN-SUFFIX, albeats.com
+DOMAIN-SUFFIX, annstores.net
+DOMAIN-SUFFIX, aokwholesale.net
+DOMAIN-SUFFIX, aucheapbeats.com
+DOMAIN-SUFFIX, audiobeatsau.com
+DOMAIN-SUFFIX, audiobeatsbydre.com
+DOMAIN-SUFFIX, audiomonsterbeatsonline.com
+DOMAIN-SUFFIX, auricularemonsterbeats.com
+DOMAIN-SUFFIX, auricularesbeatsbaratosshop.com
+DOMAIN-SUFFIX, auricularesbeatsmarkt.com
+DOMAIN-SUFFIX, ausbeatsbydrdre.com
+DOMAIN-SUFFIX, bag-glasses1.com
+DOMAIN-SUFFIX, bandgirlz.com
+DOMAIN-SUFFIX, baxsound.com
+DOMAIN-SUFFIX, bbestmall.com
+DOMAIN-SUFFIX, beatbd.com
+DOMAIN-SUFFIX, beatbydre2013.com
+DOMAIN-SUFFIX, beatbydremonster.com
+DOMAIN-SUFFIX, beatbydreheadphonesonsale.com
+DOMAIN-SUFFIX, beatbydrekopen.com
+DOMAIN-SUFFIX, beatbydreuk2014.com
+DOMAIN-SUFFIX, beatdrdres.com
+DOMAIN-SUFFIX, beatfactoryoutlets.com
+DOMAIN-SUFFIX, beatmonstersaustralia.net
+DOMAIN-SUFFIX, beats-by-dre-australia.com
+DOMAIN-SUFFIX, beats-bydrdre.net
+DOMAIN-SUFFIX, beats-bydre-mall.com
+DOMAIN-SUFFIX, beats-bydrecheapsale.com
+DOMAIN-SUFFIX, beats-bydreoutletonline.com
+DOMAIN-SUFFIX, beats-bydreoutletsale.com
+DOMAIN-SUFFIX, beats-bydreoutletsale.net
+DOMAIN-SUFFIX, beats-bydreoutletssale.net
+DOMAIN-SUFFIX, beats-bydrestore.com
+DOMAIN-SUFFIX, beats-bydreuk.com
+DOMAIN-SUFFIX, beats-deal.com
+DOMAIN-SUFFIX, beats-dre-us.com
+DOMAIN-SUFFIX, beats-headphones-buy-cheap.com
+DOMAIN-SUFFIX, beats-headphones.us
+DOMAIN-SUFFIX, beats-sale.com
+DOMAIN-SUFFIX, beats-seller.com
+DOMAIN-SUFFIX, beats-soaho.com
+DOMAIN-SUFFIX, beats1.cc
+DOMAIN-SUFFIX, beats1.cn
+DOMAIN-SUFFIX, beats1.tv
+DOMAIN-SUFFIX, beats1.com.cn
+DOMAIN-SUFFIX, beats123.com
+DOMAIN-SUFFIX, beats2.com.cn
+DOMAIN-SUFFIX, beats4.cn
+DOMAIN-SUFFIX, beats4.net
+DOMAIN-SUFFIX, beats4outlets.com
+DOMAIN-SUFFIX, beats4salecheap.com
+DOMAIN-SUFFIX, beatsallsale.com
+DOMAIN-SUFFIX, beatsaudifonos.com
+DOMAIN-SUFFIX, beatsaudiobydre.com
+DOMAIN-SUFFIX, beatsaudiobydre.net
+DOMAIN-SUFFIX, beatsaudios.net
+DOMAIN-SUFFIX, beatsbeatsmonster.com
+DOMAIN-SUFFIX, beatsbestdeals.com
+DOMAIN-SUFFIX, beatsblackfridaydeals.net
+DOMAIN-SUFFIX, beatsblackfridayretails.com
+DOMAIN-SUFFIX, beatsboxingdayuksale.com
+DOMAIN-SUFFIX, beatsbydrdre-headphones.com
+DOMAIN-SUFFIX, beatsbydrdre-officials5.com
+DOMAIN-SUFFIX, beatsbydrdre-online.com
+DOMAIN-SUFFIX, beatsbydrdre-onsale.com
+DOMAIN-SUFFIX, beatsbydrdre-store.com
+DOMAIN-SUFFIX, beatsbydrdre-store.us
+DOMAIN-SUFFIX, beatsbydrdre4sale.com
+DOMAIN-SUFFIX, beatsbydrdrebiz.com
+DOMAIN-SUFFIX, beatsbydrdrecustom.com
+DOMAIN-SUFFIX, beatsbydrdredanmark.com
+DOMAIN-SUFFIX, beatsbydrdremall.com
+DOMAIN-SUFFIX, beatsbydrdreoutlet.com
+DOMAIN-SUFFIX, beatsbydrdres.com
+DOMAIN-SUFFIX, beatsbydrdresale.net
+DOMAIN-SUFFIX, beatsbydrdrestore.com
+DOMAIN-SUFFIX, beatsbydrdreus.com
+DOMAIN-SUFFIX, beatsbydre-beatsheadphone.com
+DOMAIN-SUFFIX, beatsbydre-chen.com
+DOMAIN-SUFFIX, beatsbydre-club.com
+DOMAIN-SUFFIX, beatsbydre-headphones.com
+DOMAIN-SUFFIX, beatsbydre-headphonesshop.com
+DOMAIN-SUFFIX, beatsbydre-mall.com
+DOMAIN-SUFFIX, beatsbydre-outlet.com
+DOMAIN-SUFFIX, beatsbydre-outletsale.net
+DOMAIN-SUFFIX, beatsbydre-outletstore.com
+DOMAIN-SUFFIX, beatsbydre-sell.com
+DOMAIN-SUFFIX, beatsbydre-store.com
+DOMAIN-SUFFIX, beatsbydre-studio.com
+DOMAIN-SUFFIX, beatsbydre-us.com
+DOMAIN-SUFFIX, beatsbydre.com
+DOMAIN-SUFFIX, beatsbydre.com.cn
+DOMAIN-SUFFIX, beatsbydre.jp
+DOMAIN-SUFFIX, beatsbydre2081.com
+DOMAIN-SUFFIX, beatsbydre411.com
+DOMAIN-SUFFIX, beatsbydre4usales.com
+DOMAIN-SUFFIX, beatsbydreauofficial.com
+DOMAIN-SUFFIX, beatsbydreausale.net
+DOMAIN-SUFFIX, beatsbydreaustralia-sale.com
+DOMAIN-SUFFIX, beatsbydreaustraliaonline.com
+DOMAIN-SUFFIX, beatsbydreaustraliaonlines.com
+DOMAIN-SUFFIX, beatsbydreaustraliasales.com
+DOMAIN-SUFFIX, beatsbydrebeatsby.com
+DOMAIN-SUFFIX, beatsbydreblackfriday2013.com
+DOMAIN-SUFFIX, beatsbydreblackfridaypro.com
+DOMAIN-SUFFIX, beatsbydreboxingdayca.com
+DOMAIN-SUFFIX, beatsbydrecasquesfr.com
+DOMAIN-SUFFIX, beatsbydrecheap-outletstore.com
+DOMAIN-SUFFIX, beatsbydrecheaper.com
+DOMAIN-SUFFIX, beatsbydrecheaponlinesales.com
+DOMAIN-SUFFIX, beatsbydrecolors.com
+DOMAIN-SUFFIX, beatsbydrecustomwireless.com
+DOMAIN-SUFFIX, beatsbydrecybermondaydeals2013.com
+DOMAIN-SUFFIX, beatsbydrecybermondaydeals2013.net
+DOMAIN-SUFFIX, beatsbydredanmarks.com
+DOMAIN-SUFFIX, beatsbydredealsblackfriday.com
+DOMAIN-SUFFIX, beatsbydredealscybermonday.com
+DOMAIN-SUFFIX, beatsbydrediscount.com
+DOMAIN-SUFFIX, beatsbydrediscountonline.net
+DOMAIN-SUFFIX, beatsbydredr.com
+DOMAIN-SUFFIX, beatsbydreexecutivesale.com
+DOMAIN-SUFFIX, beatsbydreformall2013-nl.com
+DOMAIN-SUFFIX, beatsbydreforsalesonline.com
+DOMAIN-SUFFIX, beatsbydreforshop2013-nl.com
+DOMAIN-SUFFIX, beatsbydreforstore.com
+DOMAIN-SUFFIX, beatsbydreforyououtlet.com
+DOMAIN-SUFFIX, beatsbydrefr.com
+DOMAIN-SUFFIX, beatsbydrefrcasquepascher.com
+DOMAIN-SUFFIX, beatsbydrefriday.com
+DOMAIN-SUFFIX, beatsbydregot.com
+DOMAIN-SUFFIX, beatsbydrehd.com
+DOMAIN-SUFFIX, beatsbydrehd.net
+DOMAIN-SUFFIX, beatsbydreheadphones-nz.com
+DOMAIN-SUFFIX, beatsbydreheadphonesolo.com
+DOMAIN-SUFFIX, beatsbydrehut.com
+DOMAIN-SUFFIX, beatsbydreinexpensive.com
+DOMAIN-SUFFIX, beatsbydreireland-sales.com
+DOMAIN-SUFFIX, beatsbydreirelandonlines.com
+DOMAIN-SUFFIX, beatsbydreirelandsale.com
+DOMAIN-SUFFIX, beatsbydreirelandsonline.com
+DOMAIN-SUFFIX, beatsbydremall2013.com
+DOMAIN-SUFFIX, beatsbydremonsteraustralia.com
+DOMAIN-SUFFIX, beatsbydrenls.com
+DOMAIN-SUFFIX, beatsbydrenorge1.net
+DOMAIN-SUFFIX, beatsbydreofficialdanmark.com
+DOMAIN-SUFFIX, beatsbydreoksale.com
+DOMAIN-SUFFIX, beatsbydreol.com
+DOMAIN-SUFFIX, beatsbydreonlie2013-nl.com
+DOMAIN-SUFFIX, beatsbydreonlines-ireland.com
+DOMAIN-SUFFIX, beatsbydreonlines-uk.com
+DOMAIN-SUFFIX, beatsbydreonlinesale-nz.com
+DOMAIN-SUFFIX, beatsbydreoordopjes.com
+DOMAIN-SUFFIX, beatsbydreoslo.com
+DOMAIN-SUFFIX, beatsbydreoutletsale.com
+DOMAIN-SUFFIX, beatsbydreoutletscheap.com
+DOMAIN-SUFFIX, beatsbydrerealstore.com
+DOMAIN-SUFFIX, beatsbydres-shop.com
+DOMAIN-SUFFIX, beatsbydresale-uk.com
+DOMAIN-SUFFIX, beatsbydresalemall2013.com
+DOMAIN-SUFFIX, beatsbydresales.us
+DOMAIN-SUFFIX, beatsbydresalesonline-australia.com
+DOMAIN-SUFFIX, beatsbydresaleonlines-nz.com
+DOMAIN-SUFFIX, beatsbydresdanmark.net
+DOMAIN-SUFFIX, beatsbydreshop-uk.com
+DOMAIN-SUFFIX, beatsbydreshops.net
+DOMAIN-SUFFIX, beatsbydresingapores.com
+DOMAIN-SUFFIX, beatsbydresingaporesale.com
+DOMAIN-SUFFIX, beatsbydrespeakers.com
+DOMAIN-SUFFIX, beatsbydresold.com
+DOMAIN-SUFFIX, beatsbydresolohdonline-canada.com
+DOMAIN-SUFFIX, beatsbydresonline-nz.com
+DOMAIN-SUFFIX, beatsbydrestorevip.com
+DOMAIN-SUFFIX, beatsbydressale.com
+DOMAIN-SUFFIX, beatsbydressolo.com
+DOMAIN-SUFFIX, beatsbydresstudio.com
+DOMAIN-SUFFIX, beatsbydrestudio-australia.com
+DOMAIN-SUFFIX, beatsbydrestudio.com
+DOMAIN-SUFFIX, beatsbydretoutlet.com
+DOMAIN-SUFFIX, beatsbydreuk.com
+DOMAIN-SUFFIX, beatsbydreuk.net
+DOMAIN-SUFFIX, beatsbydreus.com
+DOMAIN-SUFFIX, beatsbydrevipde.com
+DOMAIN-SUFFIX, beatsbydrew.com
+DOMAIN-SUFFIX, beatsbydrsmonsterinusa.com
+DOMAIN-SUFFIX, beatsbymusic.net
+DOMAIN-SUFFIX, beatsbysdrbre.com
+DOMAIN-SUFFIX, beatsbysdrdres.com
+DOMAIN-SUFFIX, beatscasque-france.com
+DOMAIN-SUFFIX, beatscheap-nz.com
+DOMAIN-SUFFIX, beatscheap-uk.com
+DOMAIN-SUFFIX, beatscheapforsale.com
+DOMAIN-SUFFIX, beatscollection2014.com
+DOMAIN-SUFFIX, beatscustomblackfriday.com
+DOMAIN-SUFFIX, beatsdanmark2013.com
+DOMAIN-SUFFIX, beatsdrdre-headphones.com
+DOMAIN-SUFFIX, beatsdrdre-it.com
+DOMAIN-SUFFIX, beatsdrdre-solo.com
+DOMAIN-SUFFIX, beatsdrdre2014.com
+DOMAIN-SUFFIX, beatsdrdrecuffie.net
+DOMAIN-SUFFIX, beatsdrdrekaufenschweiz.net
+DOMAIN-SUFFIX, beatsdrdreneon.com
+DOMAIN-SUFFIX, beatsdre-monster.com
+DOMAIN-SUFFIX, beatsdre.net
+DOMAIN-SUFFIX, beatsdre4cheap.com
+DOMAIN-SUFFIX, beatsdrecheap.com
+DOMAIN-SUFFIX, beatsdredreheadphones.com
+DOMAIN-SUFFIX, beatsdreforsale.com
+DOMAIN-SUFFIX, beatsdreinau.com
+DOMAIN-SUFFIX, beatsdremonster-uk.com
+DOMAIN-SUFFIX, beatsdrenewcolorful4usale.com
+DOMAIN-SUFFIX, beatsdreoutletsale.com
+DOMAIN-SUFFIX, beatsdresale2013.com
+DOMAIN-SUFFIX, beatsdresalestore.com
+DOMAIN-SUFFIX, beatsdresolo2013.com
+DOMAIN-SUFFIX, beatsdreus.com
+DOMAIN-SUFFIX, beatsearbudsheadphoness.com
+DOMAIN-SUFFIX, beatsfacstore.com
+DOMAIN-SUFFIX, beatsfactoroutlets.com
+DOMAIN-SUFFIX, beatsfactorycollection.com
+DOMAIN-SUFFIX, beatsfactoryoutles.com
+DOMAIN-SUFFIX, beatsforcheap-usa.com
+DOMAIN-SUFFIX, beatsforme.com
+DOMAIN-SUFFIX, beatsfranceofficiel.com
+DOMAIN-SUFFIX, beatselectronic.net
+DOMAIN-SUFFIX, beatselectronics.com
+DOMAIN-SUFFIX, beatsep.cn
+DOMAIN-SUFFIX, beatsep.com
+DOMAIN-SUFFIX, beatsep.net
+DOMAIN-SUFFIX, beatsheadphones-discount.com
+DOMAIN-SUFFIX, beatsheadphones1.com
+DOMAIN-SUFFIX, beatsheadphones2u.com
+DOMAIN-SUFFIX, beatsheadphonesale.com
+DOMAIN-SUFFIX, beatsheadphonesdealer.com
+DOMAIN-SUFFIX, beatsheadphonesforcheap.net
+DOMAIN-SUFFIX, beatsheadphonesonline.com
+DOMAIN-SUFFIX, beatsheadphoness.com
+DOMAIN-SUFFIX, beatsheadphonestudio.com
+DOMAIN-SUFFIX, beatsheadphonesusamall.com
+DOMAIN-SUFFIX, bestshoesale2014.net
+DOMAIN-SUFFIX, beatshopuk.com
+DOMAIN-SUFFIX, beatsincanada.com
+DOMAIN-SUFFIX, beatsinsingapore.com
+DOMAIN-SUFFIX, beatsireland.net
+DOMAIN-SUFFIX, beatsjoy.com
+DOMAIN-SUFFIX, beatsmonstersales.com
+DOMAIN-SUFFIX, beatsmusic.com
+DOMAIN-SUFFIX, beatsmusic.wang
+DOMAIN-SUFFIX, beatsneon.com
+DOMAIN-SUFFIX, beatsnzsale.com
+DOMAIN-SUFFIX, beatsodre.com
+DOMAIN-SUFFIX, beatsofdre-usa.com
+DOMAIN-SUFFIX, beatsonblackfriday2013.com
+DOMAIN-SUFFIX, beatsone.net
+DOMAIN-SUFFIX, beatsoutlet.net
+DOMAIN-SUFFIX, beatsoutletanytime.com
+DOMAIN-SUFFIX, beatsoutletonlines.com
+DOMAIN-SUFFIX, beatspascher-bydre.com
+DOMAIN-SUFFIX, beatspascher-fr.net
+DOMAIN-SUFFIX, beatspascher.net
+DOMAIN-SUFFIX, beatspaschers.net
+DOMAIN-SUFFIX, beatspillnewcolor.com
+DOMAIN-SUFFIX, beatspills.com
+DOMAIN-SUFFIX, beatspromonsterjp.com
+DOMAIN-SUFFIX, beatspromotions.com
+DOMAIN-SUFFIX, beatssales.com
+DOMAIN-SUFFIX, beatssaleus.com
+DOMAIN-SUFFIX, beatssaustraliabuy.com
+DOMAIN-SUFFIX, beatssbyaustralia.com
+DOMAIN-SUFFIX, beatssbydredanmark.com
+DOMAIN-SUFFIX, beatsshop-uk.com
+DOMAIN-SUFFIX, beatsshop-usa.com
+DOMAIN-SUFFIX, beatsshopstore.com
+DOMAIN-SUFFIX, beatssingapores.com
+DOMAIN-SUFFIX, beatssingaporeshop.com
+DOMAIN-SUFFIX, beatsstudiohodetelefoner.com
+DOMAIN-SUFFIX, beatsstudiosite.com
+DOMAIN-SUFFIX, beatstoreusa.com
+DOMAIN-SUFFIX, beatsua.com
+DOMAIN-SUFFIX, beatswholesale.us
+DOMAIN-SUFFIX, beatswirelesscheap.com
+DOMAIN-SUFFIX, beatswirelesscuffie.com
+DOMAIN-SUFFIX, begin-trade.com
+DOMAIN-SUFFIX, bestbeats4u.com
+DOMAIN-SUFFIX, biitii.com
+DOMAIN-SUFFIX, blackfridaydrebeatsnew.com
+DOMAIN-SUFFIX, blackfridaydrebeatsshop.com
+DOMAIN-SUFFIX, bloommicroventures.com
+DOMAIN-SUFFIX, bookonsky.net
+DOMAIN-SUFFIX, bossae.com
+DOMAIN-SUFFIX, brandeasygo.com
+DOMAIN-SUFFIX, brandelectronic.com
+DOMAIN-SUFFIX, brandproducts1688.com
+DOMAIN-SUFFIX, brands098.com
+DOMAIN-SUFFIX, businesswebwise.com
+DOMAIN-SUFFIX, buy-from-shanghai.com
+DOMAIN-SUFFIX, buybeatsbydre-uk.com
+DOMAIN-SUFFIX, buybeatsheadphonesbydre.com
+DOMAIN-SUFFIX, buycheapbeatsbus.com
+DOMAIN-SUFFIX, buycheapbeatsbydre.com
+DOMAIN-SUFFIX, buycheapbeatsbydreshop.com
+DOMAIN-SUFFIX, buycheapbeatsdreuk.com
+DOMAIN-SUFFIX, buydrdrebeatbox.com
+DOMAIN-SUFFIX, buyminibeatbox.com
+DOMAIN-SUFFIX, buyonlineheadphones.com
+DOMAIN-SUFFIX, buyshoponly.com
+DOMAIN-SUFFIX, buzzardflapper.com
+DOMAIN-SUFFIX, bybeatsdre.com
+DOMAIN-SUFFIX, bydrebeats.com
+DOMAIN-SUFFIX, canada-beatsbydre.com
+DOMAIN-SUFFIX, casque-fr.com
+DOMAIN-SUFFIX, casquebeatsbydrdresolohd.com
+DOMAIN-SUFFIX, casquebeatsdocteurdre.com
+DOMAIN-SUFFIX, casquebeatsdre2013.com
+DOMAIN-SUFFIX, casquebeatsenligne.com
+DOMAIN-SUFFIX, casquebeatsfracheter.com
+DOMAIN-SUFFIX, casquebeatsmer.net
+DOMAIN-SUFFIX, casquebeatsofficiel-fr.com
+DOMAIN-SUFFIX, casquebeatspascher2013.com
+DOMAIN-SUFFIX, casquebeatssolo.net
+DOMAIN-SUFFIX, casquedrdrebeatssfr.com
+DOMAIN-SUFFIX, casquemonsterbeats.com
+DOMAIN-SUFFIX, casquemonsterbeatsbydre2013.com
+DOMAIN-SUFFIX, casquesbeatsaudio.com
+DOMAIN-SUFFIX, cheap-beats-by-dre.net
+DOMAIN-SUFFIX, cheap-beatsbydre.com
+DOMAIN-SUFFIX, cheapbagshoes.com
+DOMAIN-SUFFIX, cheapbeats.us
+DOMAIN-SUFFIX, cheapbeats365.com
+DOMAIN-SUFFIX, cheapbeats4sale.net
+DOMAIN-SUFFIX, cheapbeatsaustraliasale.com
+DOMAIN-SUFFIX, cheapbeatsbus.com
+DOMAIN-SUFFIX, cheapbeatsbydr.com
+DOMAIN-SUFFIX, cheapbeatsbydrdrepro.com
+DOMAIN-SUFFIX, cheapbeatsbydre-au.com
+DOMAIN-SUFFIX, cheapbeatsbydre99.com
+DOMAIN-SUFFIX, cheapbeatsbydrefau.com
+DOMAIN-SUFFIX, cheapbeatsbydremall.com
+DOMAIN-SUFFIX, cheapbeatsbydremonster.com
+DOMAIN-SUFFIX, cheapbeatsbydrenz.net
+DOMAIN-SUFFIX, cheapbeatsbydreonsale.com
+DOMAIN-SUFFIX, cheapbeatsbydreoutlet-nz.com
+DOMAIN-SUFFIX, cheapbeatsbydreoutlet.com
+DOMAIN-SUFFIX, cheapbeatsbydreoutlets2013.com
+DOMAIN-SUFFIX, cheapbeatsbydresale.com
+DOMAIN-SUFFIX, cheapbeatsbydreshop.com
+DOMAIN-SUFFIX, cheapbeatsdrdresolo.com
+DOMAIN-SUFFIX, cheapbeatsbydrestudioedition.com
+DOMAIN-SUFFIX, cheapbeatsbydrestudioutlet.com
+DOMAIN-SUFFIX, cheapbeatsdrestudios.com
+DOMAIN-SUFFIX, cheapbeatsheadphone2014.com
+DOMAIN-SUFFIX, cheapbeatsheadphones.us
+DOMAIN-SUFFIX, cheapbeatsie.com
+DOMAIN-SUFFIX, cheapbeatsla.com
+DOMAIN-SUFFIX, cheapbeatssale4u.com
+DOMAIN-SUFFIX, cheapbeatsshopbydre.com
+DOMAIN-SUFFIX, cheapcustombeatsbydre.com
+DOMAIN-SUFFIX, cheapdrdrebeats8.com
+DOMAIN-SUFFIX, cheapdrdrebeatsca.com
+DOMAIN-SUFFIX, cheapdrebeats8.net
+DOMAIN-SUFFIX, cheaperbeatsbydresale.com
+DOMAIN-SUFFIX, cheapestbeatsdrdre.com
+DOMAIN-SUFFIX, cheapheadphonesland.com
+DOMAIN-SUFFIX, cheapheadphonessale.com
+DOMAIN-SUFFIX, cheapheadsetmall.com
+DOMAIN-SUFFIX, cheapheadsetshop.com
+DOMAIN-SUFFIX, cheapmonsterbeatsbydrdre.com
+DOMAIN-SUFFIX, cheapmonsterbeatsheadsets.com
+DOMAIN-SUFFIX, cheapmonstersbeatsonsale.com
+DOMAIN-SUFFIX, cheapmonsterbeatssale.com
+DOMAIN-SUFFIX, cheapmonsterbeatsusa.us
+DOMAIN-SUFFIX, cheapnewbeatsbydre.com
+DOMAIN-SUFFIX, cheapsalemonster.com
+DOMAIN-SUFFIX, cheapshoesvip.com
+DOMAIN-SUFFIX, cheapwireless04.com
+DOMAIN-SUFFIX, cheapwirelessbeats.com
+DOMAIN-SUFFIX, cheerwholesale.us
+DOMAIN-SUFFIX, chihair-straightener.com
+DOMAIN-SUFFIX, chinaclothesstore.com
+DOMAIN-SUFFIX, ciattackers.com
+DOMAIN-SUFFIX, cmhalq.com
+DOMAIN-SUFFIX, cnshopin.com
+DOMAIN-SUFFIX, coolmonster.net
+DOMAIN-SUFFIX, cozydrdrebeats.com
+DOMAIN-SUFFIX, cqcorea.com
+DOMAIN-SUFFIX, cuffiesaldi.com
+DOMAIN-SUFFIX, custombeatsbydrebuy.com
+DOMAIN-SUFFIX, custombeatsdeals.com
+DOMAIN-SUFFIX, custombeatsforcheap.com
+DOMAIN-SUFFIX, custombeatsny.com
+DOMAIN-SUFFIX, custombeatssbydreus.com
+DOMAIN-SUFFIX, customdrdrebeats.com
+DOMAIN-SUFFIX, customizedbeatbydre.com
+DOMAIN-SUFFIX, customizedbeatsbydre.com
+DOMAIN-SUFFIX, customizedbeatsdre.com
+DOMAIN-SUFFIX, cybermondaybeats4sale.com
+DOMAIN-SUFFIX, danemarket.com
+DOMAIN-SUFFIX, danmarkbeatsbydrdre.com
+DOMAIN-SUFFIX, dctbeatsbydre.com
+DOMAIN-SUFFIX, dealsbeatsblackfriday.com
+DOMAIN-SUFFIX, detaliczny.com
+DOMAIN-SUFFIX, discountbeatsbydre-us.com
+DOMAIN-SUFFIX, discountbeatsstore.com
+DOMAIN-SUFFIX, dkbeatsbydre.com
+DOMAIN-SUFFIX, drbeatsukmart.com
+DOMAIN-SUFFIX, drdre-beats.com
+DOMAIN-SUFFIX, drdrebeats-chen.com
+DOMAIN-SUFFIX, drdrebeats-headphone.com
+DOMAIN-SUFFIX, drdrebeats-usa.com
+DOMAIN-SUFFIX, drdrebeatsale.com
+DOMAIN-SUFFIX, drdrebeatsbillig.com
+DOMAIN-SUFFIX, drdrebeatsdesale.com
+DOMAIN-SUFFIX, drdrebeatsdiscount.com
+DOMAIN-SUFFIX, drdrebeatsforu.com
+DOMAIN-SUFFIX, drdrebeatsretail2013.com
+DOMAIN-SUFFIX, drdrebeatssale7.com
+DOMAIN-SUFFIX, drdrebeatsuk.com
+DOMAIN-SUFFIX, drdreheadphonebeats.com
+DOMAIN-SUFFIX, drdreheadphonekey.com
+DOMAIN-SUFFIX, drdreheadphonesusstore.com
+DOMAIN-SUFFIX, drdremonster-beats.com
+DOMAIN-SUFFIX, drdremonsterdre.com
+DOMAIN-SUFFIX, drdreprobeatssale.com
+DOMAIN-SUFFIX, drdrefnac.com
+DOMAIN-SUFFIX, drebeats-australia.com
+DOMAIN-SUFFIX, drebeats-france.com
+DOMAIN-SUFFIX, drebeats-monster.com
+DOMAIN-SUFFIX, drebeats-monsteraustralia.com
+DOMAIN-SUFFIX, drebeats-monsterusa.com
+DOMAIN-SUFFIX, drebeats-singapore.com
+DOMAIN-SUFFIX, drebeats-singapore.net
+DOMAIN-SUFFIX, drebeats-singaporecheap.com
+DOMAIN-SUFFIX, drebeats-singaporecheap.net
+DOMAIN-SUFFIX, drebeats-solo.com
+DOMAIN-SUFFIX, drebeats-studio.com
+DOMAIN-SUFFIX, drebeatsaustralia-cheap.com
+DOMAIN-SUFFIX, drebeatsaustralia-cheap.net
+DOMAIN-SUFFIX, drebeatsbuy.com
+DOMAIN-SUFFIX, drebeatsbydreoutlet.com
+DOMAIN-SUFFIX, drebeatscanada.com
+DOMAIN-SUFFIX, drebeatsdeutschland.net
+DOMAIN-SUFFIX, drebeatsforsaleus.com
+DOMAIN-SUFFIX, drebeatsheadphones-nz.com
+DOMAIN-SUFFIX, drebeatshome.com
+DOMAIN-SUFFIX, drebeatsoutletstore.com
+DOMAIN-SUFFIX, drebeatsoldes.com
+DOMAIN-SUFFIX, drebeatspill.com
+DOMAIN-SUFFIX, drebeatssite.com
+DOMAIN-SUFFIX, drebeatssolocybermondaysale.com
+DOMAIN-SUFFIX, drebeatsstudio2013.com
+DOMAIN-SUFFIX, drebeatstudio.com
+DOMAIN-SUFFIX, drebyby.com
+DOMAIN-SUFFIX, dremonsterbeatsoutlets.com
+DOMAIN-SUFFIX, dreprobeats.com
+DOMAIN-SUFFIX, dreprofy.com
+DOMAIN-SUFFIX, dtsell.com
+DOMAIN-SUFFIX, earphonescheapest.com
+DOMAIN-SUFFIX, ebuyheadphones.com
+DOMAIN-SUFFIX, esbeatsbydrebuy.com
+DOMAIN-SUFFIX, etheadphones.com
+DOMAIN-SUFFIX, famosascalvas.com
+DOMAIN-SUFFIX, findmybeats.com
+DOMAIN-SUFFIX, fr-beatsbydrestore.com
+DOMAIN-SUFFIX, francecasquebeatssolde.com
+DOMAIN-SUFFIX, frcasquesbeats.com
+DOMAIN-SUFFIX, free-aa.com
+DOMAIN-SUFFIX, free-sns.com
+DOMAIN-SUFFIX, frishoes.com
+DOMAIN-SUFFIX, gamebeforethegame.com
+DOMAIN-SUFFIX, getdrebeatssale.com
+DOMAIN-SUFFIX, gmnetworks.net
+DOMAIN-SUFFIX, gobeatsye.com
+DOMAIN-SUFFIX, gobuyonlinestore.net
+DOMAIN-SUFFIX, goodsdunk.net
+DOMAIN-SUFFIX, headphonepubs.com
+DOMAIN-SUFFIX, headphones-cool.com
+DOMAIN-SUFFIX, headphones-dre.com
+DOMAIN-SUFFIX, headphones-outlet-online.com
+DOMAIN-SUFFIX, headphonesbeatsaudio.com
+DOMAIN-SUFFIX, headphonesbeatsbydre.com
+DOMAIN-SUFFIX, headphoneses.com
+DOMAIN-SUFFIX, headphoneshome.com
+DOMAIN-SUFFIX, headphoneshotsales.com
+DOMAIN-SUFFIX, headphonesol.com
+DOMAIN-SUFFIX, headphonesretailer.com
+DOMAIN-SUFFIX, headphonessupply.com
+DOMAIN-SUFFIX, headphonezip.com
+DOMAIN-SUFFIX, headset987.com
+DOMAIN-SUFFIX, hellokittybeats.com
+DOMAIN-SUFFIX, highbolt.net
+DOMAIN-SUFFIX, highdefinitionbeatsbydre.com
+DOMAIN-SUFFIX, hipaa6020.com
+DOMAIN-SUFFIX, hipzoom.net
+DOMAIN-SUFFIX, honawalaan.com
+DOMAIN-SUFFIX, hotbeatsonsale.com
+DOMAIN-SUFFIX, hotmonsterbeats.com
+DOMAIN-SUFFIX, hottestheadphonesonline.com
+DOMAIN-SUFFIX, hrsaz.com
+DOMAIN-SUFFIX, ibeats-uk.com
+DOMAIN-SUFFIX, ibeatsbydre.cc
+DOMAIN-SUFFIX, ibeatsbydre.com
+DOMAIN-SUFFIX, igoshopping.net
+DOMAIN-SUFFIX, illianacomputerrecycling.com
+DOMAIN-SUFFIX, imonsterbeats.com
+DOMAIN-SUFFIX, incentivetravelgifts.com
+DOMAIN-SUFFIX, ioffergift.com
+DOMAIN-SUFFIX, islamiccenterofnewlondon.com
+DOMAIN-SUFFIX, italiabeatsbydrdre.com
+DOMAIN-SUFFIX, jkbeats.com
+DOMAIN-SUFFIX, kickshatchannel.com
+DOMAIN-SUFFIX, kobbeatssbydredk.com
+DOMAIN-SUFFIX, kopfhorergunstigshop.com
+DOMAIN-SUFFIX, leecountytimes.com
+DOMAIN-SUFFIX, lexuemei.com
+DOMAIN-SUFFIX, lovebeatsdr.com
+DOMAIN-SUFFIX, lovemarca.com
+DOMAIN-SUFFIX, luckyissue.com
+DOMAIN-SUFFIX, lyzsxx.com
+DOMAIN-SUFFIX, mairbeats.com
+DOMAIN-SUFFIX, makeeu.com
+DOMAIN-SUFFIX, mallheadphone.com
+DOMAIN-SUFFIX, mbeats-tech.com
+DOMAIN-SUFFIX, mbheadphone.com
+DOMAIN-SUFFIX, micstl.com
+DOMAIN-SUFFIX, mmonsterheadphones.net
+DOMAIN-SUFFIX, monbeats2013.com
+DOMAIN-SUFFIX, monster-beats-by-dr-dre.com
+DOMAIN-SUFFIX, monster-beats-headphones.com
+DOMAIN-SUFFIX, monsterbeats-cheap.com
+DOMAIN-SUFFIX, monsterbeats-headphone.com
+DOMAIN-SUFFIX, monsterbeats-onsale.com
+DOMAIN-SUFFIX, monsterbeats-solo.com
+DOMAIN-SUFFIX, monsterbeats-solo.net
+DOMAIN-SUFFIX, monsterbeats365buy.com
+DOMAIN-SUFFIX, monsterbeats8beatsbydre.com
+DOMAIN-SUFFIX, monsterbeatsale.com
+DOMAIN-SUFFIX, monsterbeatsalestore.com
+DOMAIN-SUFFIX, monsterbeatssalg.com
+DOMAIN-SUFFIX, monsterbeatsau.com
+DOMAIN-SUFFIX, monsterbeatsbydrdre-nz.com
+DOMAIN-SUFFIX, monsterbeatsbydrdre-usa.com
+DOMAIN-SUFFIX, monsterbeatsbydrdrecanada.com
+DOMAIN-SUFFIX, monsterbeatsbydrdrestudio.com
+DOMAIN-SUFFIX, monsterbeatsbydre-nz.com
+DOMAIN-SUFFIX, monsterbeatsbydre-usa.com
+DOMAIN-SUFFIX, monsterbeatsbydre2015.com
+DOMAIN-SUFFIX, monsterbeatsbydreaustraliacheap.com
+DOMAIN-SUFFIX, monsterbeatsbydrebilligde.com
+DOMAIN-SUFFIX, monsterbeatsbydrefactory.com
+DOMAIN-SUFFIX, monsterbeatsbydrenew.com
+DOMAIN-SUFFIX, monsterbeatsbydres.com
+DOMAIN-SUFFIX, monsterbeatsbydreshop.com
+DOMAIN-SUFFIX, monsterbeatscasques.com
+DOMAIN-SUFFIX, monsterbeatscommunity.com
+DOMAIN-SUFFIX, monsterbeatsdrdrecheap.com
+DOMAIN-SUFFIX, monsterbeatsfactory.net
+DOMAIN-SUFFIX, monsterbeatsfinland.com
+DOMAIN-SUFFIX, monsterbeatsforsale.com
+DOMAIN-SUFFIX, monsterbeatsheadphone.com
+DOMAIN-SUFFIX, monsterbeatsheadphones.net
+DOMAIN-SUFFIX, monsterbeatshere.com
+DOMAIN-SUFFIX, monsterbeatsitaly.com
+DOMAIN-SUFFIX, monsterbeatsmall.com
+DOMAIN-SUFFIX, monsterbeatsnegozi.net
+DOMAIN-SUFFIX, monsterbeatsok.com
+DOMAIN-SUFFIX, monsterbeatsonlinestoreuk.com
+DOMAIN-SUFFIX, monsterbeatsoutlet.us
+DOMAIN-SUFFIX, monsterbeatspascher.net
+DOMAIN-SUFFIX, monsterbeatsru.com
+DOMAIN-SUFFIX, monsterbeatssales.com
+DOMAIN-SUFFIX, monsterbeatsshops.net
+DOMAIN-SUFFIX, monsterbeatsstore.com
+DOMAIN-SUFFIX, monsterbeatssydneyaustralia.com
+DOMAIN-SUFFIX, monsterbeatstang.com
+DOMAIN-SUFFIX, monsterbeatstienda.com
+DOMAIN-SUFFIX, monsterbeatstudio.com
+DOMAIN-SUFFIX, monsterbydrebeat.com
+DOMAIN-SUFFIX, monstercasquebeatspascher.net
+DOMAIN-SUFFIX, monstercheapbeatss.com
+DOMAIN-SUFFIX, monsterdrebeats-canada.net
+DOMAIN-SUFFIX, monsterdrebeats-usa.com
+DOMAIN-SUFFIX, monsterdrebeats-usa.net
+DOMAIN-SUFFIX, monsterheadphone.net
+DOMAIN-SUFFIX, monsterproduct.net
+DOMAIN-SUFFIX, monstersbeatbydres.com
+DOMAIN-SUFFIX, monstersdebea.com
+DOMAIN-SUFFIX, monstershopcheapbeats.net
+DOMAIN-SUFFIX, moreheadphones.com
+DOMAIN-SUFFIX, ms4dre.com
+DOMAIN-SUFFIX, mybeatsbydrestudio.com
+DOMAIN-SUFFIX, mybeatsbydreuk.com
+DOMAIN-SUFFIX, mybeatscheapbydre.com
+DOMAIN-SUFFIX, myferrariheadphones.com
+DOMAIN-SUFFIX, namemybeats.com
+DOMAIN-SUFFIX, neborder.com
+DOMAIN-SUFFIX, negozimonsterbeats.com
+DOMAIN-SUFFIX, negoziomonsterbeats.com
+DOMAIN-SUFFIX, newbeatsblackfriday.com
+DOMAIN-SUFFIX, newbemany.com
+DOMAIN-SUFFIX, newdrediscount.com
+DOMAIN-SUFFIX, newestbeatsbydre.com
+DOMAIN-SUFFIX, newlysprung.net
+DOMAIN-SUFFIX, newmonst1erbeatsto1re.com
+DOMAIN-SUFFIX, newmonsterbeatsheadphones.com
+DOMAIN-SUFFIX, newschristmasshopping.com
+DOMAIN-SUFFIX, nflhotsalejerseys.com
+DOMAIN-SUFFIX, nicesshop.net
+DOMAIN-SUFFIX, offerairjordanlebron.com
+DOMAIN-SUFFIX, officialbeatsbydreshop.com
+DOMAIN-SUFFIX, officialbeatsbydrestore.com
+DOMAIN-SUFFIX, officialdrdre.com
+DOMAIN-SUFFIX, officialheadphone.com
+DOMAIN-SUFFIX, ogameblog.com
+DOMAIN-SUFFIX, onbeatsbydresale.com
+DOMAIN-SUFFIX, onlinemonsterbeatsonsale.com
+DOMAIN-SUFFIX, onsalekey.com
+DOMAIN-SUFFIX, onsaletrend.com
+DOMAIN-SUFFIX, outletbeatsshop.com
+DOMAIN-SUFFIX, pascherbeatsmonster.com
+DOMAIN-SUFFIX, paulsimon-music.com
+DOMAIN-SUFFIX, perfectkickz.net
+DOMAIN-SUFFIX, personeelsland.com
+DOMAIN-SUFFIX, picknicekicks.net
+DOMAIN-SUFFIX, pickshoesclothes.com
+DOMAIN-SUFFIX, pillbeatsblackfridaysale.com
+DOMAIN-SUFFIX, pocketbiketrader.com
+DOMAIN-SUFFIX, powerbeats2wireless.com
+DOMAIN-SUFFIX, powerbeatsbydrdre.com
+DOMAIN-SUFFIX, powerbeatsbydre.com
+DOMAIN-SUFFIX, promonsterbeatsbydre.com
+DOMAIN-SUFFIX, prostudiobeatscybersale.com
+DOMAIN-SUFFIX, rbsgr.com
+DOMAIN-SUFFIX, repsneakermall.com
+DOMAIN-SUFFIX, repswing.com
+DOMAIN-SUFFIX, salebeatslasteststyle4you.com
+DOMAIN-SUFFIX, saleblackfridaydrebeats.com
+DOMAIN-SUFFIX, salecheaphandbags.com
+DOMAIN-SUFFIX, samebags.com
+DOMAIN-SUFFIX, sanvaras.com
+DOMAIN-SUFFIX, scnshop.cc
+DOMAIN-SUFFIX, shoers.com
+DOMAIN-SUFFIX, shoestop2.com
+DOMAIN-SUFFIX, shop-headphones.net
+DOMAIN-SUFFIX, shopbeatsdre.com
+DOMAIN-SUFFIX, shopbydre.com
+DOMAIN-SUFFIX, shopcustomizedbeats.com
+DOMAIN-SUFFIX, shopdrebeats.com
+DOMAIN-SUFFIX, shopmonsterbeats.com
+DOMAIN-SUFFIX, shopping-days.net
+DOMAIN-SUFFIX, shoppinguheadphones.com
+DOMAIN-SUFFIX, sneaker666.com
+DOMAIN-SUFFIX, sneakerpage.net
+DOMAIN-SUFFIX, sneakerskick.com
+DOMAIN-SUFFIX, solostudioksale.com
+DOMAIN-SUFFIX, soso7778.com
+DOMAIN-SUFFIX, specialtyheadphones.com
+DOMAIN-SUFFIX, spiritclubs.com
+DOMAIN-SUFFIX, straightouttasomewhere.com
+DOMAIN-SUFFIX, studiobeatsbydrdre.com
+DOMAIN-SUFFIX, sulwerphoto.com
+DOMAIN-SUFFIX, sunglassessale2014.com
+DOMAIN-SUFFIX, superearsenjoy.com
+DOMAIN-SUFFIX, supplybestjerseys.com
+DOMAIN-SUFFIX, sustainthesound.com
+DOMAIN-SUFFIX, sverigebeatsbydrdre.com
+DOMAIN-SUFFIX, szcheapmonsterheadphones.com
+DOMAIN-SUFFIX, szwinnertechnology.com
+DOMAIN-SUFFIX, takegoto.com
+DOMAIN-SUFFIX, the-monster-beats.com
+DOMAIN-SUFFIX, thebeatsbydre.com
+DOMAIN-SUFFIX, thebeatsbydre.net
+DOMAIN-SUFFIX, thebeatsheadphonesale.com
+DOMAIN-SUFFIX, theuab.net
+DOMAIN-SUFFIX, topbeatsbydrdreoutlet.com
+DOMAIN-SUFFIX, topbeatsdealer.com
+DOMAIN-SUFFIX, topbeatsforsale.com
+DOMAIN-SUFFIX, tradevip1.com
+DOMAIN-SUFFIX, tteshop.com
+DOMAIN-SUFFIX, ubnw.net
+DOMAIN-SUFFIX, unstyle.us
+DOMAIN-SUFFIX, usa-beatsbydreheadphonesonsale.net
+DOMAIN-SUFFIX, v-has.com
+DOMAIN-SUFFIX, vip-beats.com
+DOMAIN-SUFFIX, vipbeatsbydre.com
+DOMAIN-SUFFIX, vipheadphones.com
+DOMAIN-SUFFIX, vipshoes2.com
+DOMAIN-SUFFIX, wasdj.com
+DOMAIN-SUFFIX, wholesale-exporter1.com
+DOMAIN-SUFFIX, wholesalediscountpurses.com
+DOMAIN-SUFFIX, wholesalefine.com
+DOMAIN-SUFFIX, wholesaleonlinemart.com
+DOMAIN-SUFFIX, worldcoinpay.com
+DOMAIN-SUFFIX, yourmonsterbeats.com
+
+DOMAIN, beatselectronicsllc.tt.omtrdc.net
+
+DOMAIN-SUFFIX, mask-h2.icloud.com
+DOMAIN-SUFFIX, mask.icloud.com
+
+
+DOMAIN-SUFFIX, apple-icloud.cn
+DOMAIN-SUFFIX, appleicloud.cn
+DOMAIN-SUFFIX, applemx-icloud.com
+DOMAIN-SUFFIX, icloud-apple.cn
+DOMAIN-SUFFIX, icloud-content.com
+DOMAIN-SUFFIX, icloud-isupport.com
+DOMAIN-SUFFIX, icloud.ch
+DOMAIN-SUFFIX, icloud.com
+DOMAIN-SUFFIX, icloud.com.cn
+DOMAIN-SUFFIX, icloud.de
+DOMAIN-SUFFIX, icloud.ee
+DOMAIN-SUFFIX, icloud.fi
+DOMAIN-SUFFIX, icloud.fr
+DOMAIN-SUFFIX, icloud.hu
+DOMAIN-SUFFIX, icloud.ie
+DOMAIN-SUFFIX, icloud.is
+DOMAIN-SUFFIX, icloud.jp
+DOMAIN-SUFFIX, icloud.lv
+DOMAIN-SUFFIX, icloud.net.cn
+DOMAIN-SUFFIX, icloud.om
+DOMAIN-SUFFIX, icloud.org
+DOMAIN-SUFFIX, icloud.pt
+DOMAIN-SUFFIX, icloud.ro
+DOMAIN-SUFFIX, icloud.se
+DOMAIN-SUFFIX, icloud.si
+DOMAIN-SUFFIX, icloud.sk
+DOMAIN-SUFFIX, icloud.vn
+DOMAIN-SUFFIX, icloudads.net
+DOMAIN-SUFFIX, icloudapple.cn
+DOMAIN-SUFFIX, icloudbox.net
+DOMAIN-SUFFIX, icloudbrowser.net
+DOMAIN-SUFFIX, icloude.com
+DOMAIN-SUFFIX, icloudhome.com
+DOMAIN-SUFFIX, icloudmail.net
+DOMAIN-SUFFIX, icloudmusic.net
+DOMAIN-SUFFIX, icloudnet.net
+DOMAIN-SUFFIX, icloudpay.net
+DOMAIN-SUFFIX, icloudo.com
+DOMAIN-SUFFIX, icloudo.de
+DOMAIN-SUFFIX, icloudo.net
+DOMAIN-SUFFIX, icloudos.de
+DOMAIN-SUFFIX, icloudos.net
+DOMAIN-SUFFIX, icloudsecure.net
+DOMAIN-SUFFIX, icloudsetup.com
+DOMAIN-SUFFIX, ios-icloud.com
+DOMAIN-SUFFIX, me.com
+DOMAIN-SUFFIX, myicloud.net
+DOMAIN-SUFFIX, mylcloud.net
+DOMAIN-SUFFIX, wwwicloud.com
+
+DOMAIN, www-cdn.icloud.com.akadns.net
+
+DOMAIN-SUFFIX, 12diasdepresentesdeitunes.com
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.cl
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.co
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.co.cr
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.co.ni
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.co.ve
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.com
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.com.co
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.com.hn
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.com.ni
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.com.ve
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.cr
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.gt
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.hn
+DOMAIN-SUFFIX, 12diasderegalosdeitunes.pe
+DOMAIN-SUFFIX, 12joursdecadeauxdeitunes.com
+DOMAIN-SUFFIX, apple-itunes.cn
+DOMAIN-SUFFIX, itun.es
+DOMAIN-SUFFIX, itunbes.com
+DOMAIN-SUFFIX, ituneas.com
+DOMAIN-SUFFIX, itunes-apple.cn
+DOMAIN-SUFFIX, itunes-apple.com.akadns.net
+DOMAIN-SUFFIX, itunes-radio.net
+DOMAIN-SUFFIX, itunes.ca
+DOMAIN-SUFFIX, itunes.co
+DOMAIN-SUFFIX, itunes.co.th
+DOMAIN-SUFFIX, itunes.com
+DOMAIN-SUFFIX, itunes.hk
+DOMAIN-SUFFIX, itunes.mx
+DOMAIN-SUFFIX, itunes.org
+DOMAIN-SUFFIX, itunes.rio
+DOMAIN-SUFFIX, itunes.us
+DOMAIN-SUFFIX, itunes12days.com
+DOMAIN-SUFFIX, itunesapple.cn
+DOMAIN-SUFFIX, itunesessentials.com
+DOMAIN-SUFFIX, itunesfestivals.com
+DOMAIN-SUFFIX, itunesiradio.com
+DOMAIN-SUFFIX, ituneslatino.com
+DOMAIN-SUFFIX, ituneslogin.net
+DOMAIN-SUFFIX, itunesmatch.com
+DOMAIN-SUFFIX, itunesparty.com
+DOMAIN-SUFFIX, itunesradio.cn
+DOMAIN-SUFFIX, itunesradio.com
+DOMAIN-SUFFIX, itunesradio.com.cn
+DOMAIN-SUFFIX, itunesradio.rio
+DOMAIN-SUFFIX, itunesradio.tv
+DOMAIN-SUFFIX, itunesradio.tw
+DOMAIN-SUFFIX, itunesstore.co
+DOMAIN-SUFFIX, itunesu.com
+DOMAIN-SUFFIX, itunesu.net
+DOMAIN-SUFFIX, iutunes.com
+DOMAIN-SUFFIX, wwwitunes.com
+
+DOMAIN-SUFFIX, appleswift.com
+DOMAIN-SUFFIX, swift.org
+DOMAIN-SUFFIX, swiftui.cn
+DOMAIN-SUFFIX, swiftui.com.cn
+
+
 # All .apple domains
+DOMAIN-SUFFIX, apple
+
 DOMAIN-SUFFIX, apple.ae
 DOMAIN-SUFFIX, apple.at
 DOMAIN-SUFFIX, apple.be
@@ -8,7 +941,7 @@ DOMAIN-SUFFIX, apple.ca
 DOMAIN-SUFFIX, apple.ch
 DOMAIN-SUFFIX, apple.cl
 DOMAIN-SUFFIX, apple.cm
-DOMAIN-SUFFIX, apple.cn @cn
+DOMAIN-SUFFIX, apple.cn
 DOMAIN-SUFFIX, apple.co
 DOMAIN-SUFFIX, apple.co.cr
 DOMAIN-SUFFIX, apple.co.hu
@@ -23,7 +956,7 @@ DOMAIN-SUFFIX, apple.com.af
 DOMAIN-SUFFIX, apple.com.au
 DOMAIN-SUFFIX, apple.com.bo
 DOMAIN-SUFFIX, apple.com.br
-DOMAIN-SUFFIX, apple.com.cn @cn
+DOMAIN-SUFFIX, apple.com.cn
 DOMAIN-SUFFIX, apple.com.co
 DOMAIN-SUFFIX, apple.com.de
 DOMAIN-SUFFIX, apple.com.do
@@ -92,9 +1025,10 @@ DOMAIN-SUFFIX, apple.us
 DOMAIN-SUFFIX, apple.xn--czr694b # apple.商标
 DOMAIN-SUFFIX, apple.xn--fiqs8s # apple.中国
 DOMAIN-SUFFIX, apple.xyz
+
 # Apple Store
 DOMAIN-SUFFIX, aplestore.com
-DOMAIN-SUFFIX, apple-store.cn @cn
+DOMAIN-SUFFIX, apple-store.cn
 DOMAIN-SUFFIX, apple-store.net
 DOMAIN-SUFFIX, apple-store.wang
 DOMAIN-SUFFIX, applestor.com
@@ -102,7 +1036,7 @@ DOMAIN-SUFFIX, applestore.bg
 DOMAIN-SUFFIX, applestore.cc
 DOMAIN-SUFFIX, applestore.ch
 DOMAIN-SUFFIX, applestore.cm
-DOMAIN-SUFFIX, applestore.cn @cn
+DOMAIN-SUFFIX, applestore.cn
 DOMAIN-SUFFIX, applestore.co.hu
 DOMAIN-SUFFIX, applestore.co.jp
 DOMAIN-SUFFIX, applestore.co.ug
@@ -110,7 +1044,7 @@ DOMAIN-SUFFIX, applestore.co.uk
 DOMAIN-SUFFIX, applestore.com
 DOMAIN-SUFFIX, applestore.com.au
 DOMAIN-SUFFIX, applestore.com.bn
-DOMAIN-SUFFIX, applestore.com.cn @cn
+DOMAIN-SUFFIX, applestore.com.cn
 DOMAIN-SUFFIX, applestore.com.ee
 DOMAIN-SUFFIX, applestore.com.eg
 DOMAIN-SUFFIX, applestore.com.gr
@@ -138,11 +1072,12 @@ DOMAIN-SUFFIX, applestore.wang
 DOMAIN-SUFFIX, applestoreonline.com
 DOMAIN-SUFFIX, applestorepro.eu
 DOMAIN-SUFFIX, onlineapplestore.com
+
 # App Store
 DOMAIN-SUFFIX, app-store.wang
 DOMAIN-SUFFIX, appe-store.com
-DOMAIN-SUFFIX, apple-appstore.cn @cn
-DOMAIN-SUFFIX, appleappstore.cn @cn
+DOMAIN-SUFFIX, apple-appstore.cn
+DOMAIN-SUFFIX, appleappstore.cn
 DOMAIN-SUFFIX, appleappstore.net
 DOMAIN-SUFFIX, appleappstore.tv
 DOMAIN-SUFFIX, appsto.re
@@ -150,9 +1085,10 @@ DOMAIN-SUFFIX, appstore.co.id
 DOMAIN-SUFFIX, appstore.hk
 DOMAIN-SUFFIX, appstore.my
 DOMAIN-SUFFIX, appstore.ph
-DOMAIN-SUFFIX, appstoreapple.cn @cn
+DOMAIN-SUFFIX, appstoreapple.cn
 DOMAIN-SUFFIX, asto.re
 DOMAIN-SUFFIX, tvappstore.net
+
 # iMac
 DOMAIN-SUFFIX, apple-imac.com
 DOMAIN-SUFFIX, appleimac.com
@@ -167,6 +1103,7 @@ DOMAIN-SUFFIX, imac.one
 DOMAIN-SUFFIX, imac.rs
 DOMAIN-SUFFIX, imacapple.com
 DOMAIN-SUFFIX, imacapplecomputer.com
+
 # iPad
 DOMAIN-SUFFIX, ebookforipad.com
 DOMAIN-SUFFIX, euroipad.com
@@ -192,6 +1129,7 @@ DOMAIN-SUFFIX, ipadmini.com.lk
 DOMAIN-SUFFIX, ipadmini.lk
 DOMAIN-SUFFIX, ipadpro.buzz
 DOMAIN-SUFFIX, ukipad.com
+
 # iPhone
 DOMAIN-SUFFIX, appleiphone.hu
 DOMAIN-SUFFIX, appleiphone.net
@@ -205,7 +1143,7 @@ DOMAIN-SUFFIX, fundaiphone5s.com
 DOMAIN-SUFFIX, hebiphone.com
 DOMAIN-SUFFIX, hf-iphone.com
 DOMAIN-SUFFIX, iphine.com
-DOMAIN-SUFFIX, iphone-8.com.cn @cn
+DOMAIN-SUFFIX, iphone-8.com.cn
 DOMAIN-SUFFIX, iphone-cd.com
 DOMAIN-SUFFIX, iphone-cn.com
 DOMAIN-SUFFIX, iphone-sh.com
@@ -251,6 +1189,7 @@ DOMAIN-SUFFIX, iphonese.tv
 DOMAIN-SUFFIX, iphoneunlockimei.com
 DOMAIN-SUFFIX, iphonexs.tv
 DOMAIN-SUFFIX, onlyiphone5case.com
+
 # iPod
 DOMAIN-SUFFIX, aplleipods.com
 DOMAIN-SUFFIX, appleclassicipod.com
@@ -264,7 +1203,7 @@ DOMAIN-SUFFIX, ipod.co.uk
 DOMAIN-SUFFIX, ipod.co.za
 DOMAIN-SUFFIX, ipod.com
 DOMAIN-SUFFIX, ipod.com.au
-DOMAIN-SUFFIX, ipod.com.cn @cn
+DOMAIN-SUFFIX, ipod.com.cn
 DOMAIN-SUFFIX, ipod.com.fr
 DOMAIN-SUFFIX, ipod.com.hk
 DOMAIN-SUFFIX, ipod.com.sg
@@ -298,6 +1237,7 @@ DOMAIN-SUFFIX, myipod.net
 DOMAIN-SUFFIX, offrezdesipods.com
 DOMAIN-SUFFIX, simplyipod.com
 DOMAIN-SUFFIX, wwwipodlounge.com
+
 # MacBook
 DOMAIN-SUFFIX, imacsources.com
 DOMAIN-SUFFIX, launchpad.wang
@@ -306,12 +1246,12 @@ DOMAIN-SUFFIX, macbook.co
 DOMAIN-SUFFIX, macbook.hk
 DOMAIN-SUFFIX, macbook.tw
 DOMAIN-SUFFIX, macbook.wang
-DOMAIN-SUFFIX, macbookair.cn @cn
+DOMAIN-SUFFIX, macbookair.cn
 DOMAIN-SUFFIX, macbookair.co.kr
 DOMAIN-SUFFIX, macbookair.co.uk
 DOMAIN-SUFFIX, macbookair.com
 DOMAIN-SUFFIX, macbookair.com.au
-DOMAIN-SUFFIX, macbookair.com.cn @cn
+DOMAIN-SUFFIX, macbookair.com.cn
 DOMAIN-SUFFIX, macbookair.com.es
 DOMAIN-SUFFIX, macbookair.es
 DOMAIN-SUFFIX, macbookair.hk
@@ -326,6 +1266,7 @@ DOMAIN-SUFFIX, macbookpro.us
 DOMAIN-SUFFIX, macbookpros.com
 DOMAIN-SUFFIX, macbooksale.com
 DOMAIN-SUFFIX, wwwmacbookair.com
+
 # Apple Watch
 DOMAIN-SUFFIX, apple-watch.com.ru
 DOMAIN-SUFFIX, applewatch.hk
@@ -335,6 +1276,7 @@ DOMAIN-SUFFIX, applewatch.wang
 DOMAIN-SUFFIX, applewatchedition.com
 DOMAIN-SUFFIX, applewatchseries3.net
 DOMAIN-SUFFIX, applewatchsport.com
+
 # Apple Music
 DOMAIN-SUFFIX, applemusic.berlin
 DOMAIN-SUFFIX, applemusic.co
@@ -346,6 +1288,7 @@ DOMAIN-SUFFIX, applemusicconnect.com
 DOMAIN-SUFFIX, applemusicfestival.com
 DOMAIN-SUFFIX, musickit.net
 DOMAIN-SUFFIX, wwwapplemusic.com
+
 # Apple News
 DOMAIN-SUFFIX, apple.comscoreresearch.com
 DOMAIN-SUFFIX, apple.news
@@ -354,6 +1297,7 @@ DOMAIN-SUFFIX, applenews.berlin
 DOMAIN-SUFFIX, applenews.hamburg
 DOMAIN-SUFFIX, applenews.tv
 DOMAIN-SUFFIX, applenewsformat.com
+
 # Apple Pay
 DOMAIN-SUFFIX, apple-pay.com
 DOMAIN-SUFFIX, apple-pay.rs
@@ -367,20 +1311,21 @@ DOMAIN-SUFFIX, applepay.info
 DOMAIN-SUFFIX, applepay.jp
 DOMAIN-SUFFIX, applepay.rs
 DOMAIN-SUFFIX, applepay.tv
-DOMAIN-SUFFIX, applepaycash.cn @cn
-DOMAIN-SUFFIX, applepaycash.com.cn @cn
+DOMAIN-SUFFIX, applepaycash.cn
+DOMAIN-SUFFIX, applepaycash.com.cn
 DOMAIN-SUFFIX, applepaycash.net
 DOMAIN-SUFFIX, applepaycash.tv
 DOMAIN-SUFFIX, applepaymerchantsupplies.info
 DOMAIN-SUFFIX, applepaysupplies.berlin
-DOMAIN-SUFFIX, applepaysupplies.cn @cn
+DOMAIN-SUFFIX, applepaysupplies.cn
 DOMAIN-SUFFIX, applepaysupplies.com
-DOMAIN-SUFFIX, applepaysupplies.com.cn @cn
+DOMAIN-SUFFIX, applepaysupplies.com.cn
 DOMAIN-SUFFIX, applepaysupplies.info
 DOMAIN-SUFFIX, applepaysupplies.net
 DOMAIN-SUFFIX, applepaysupplies.tv
 DOMAIN-SUFFIX, applewallet.com
 DOMAIN-SUFFIX, applewallet.tv
+
 # iBook
 DOMAIN-SUFFIX, i-book.com
 DOMAIN-SUFFIX, i-book.net
@@ -390,27 +1335,32 @@ DOMAIN-SUFFIX, ibook.eu
 DOMAIN-SUFFIX, ibook.net
 DOMAIN-SUFFIX, ibookpartner.com
 DOMAIN-SUFFIX, ibooksauthor.com
+
 # iPhoto
 DOMAIN-SUFFIX, iphoto.eu
 DOMAIN-SUFFIX, iphoto.no
 DOMAIN-SUFFIX, iphoto.se
 DOMAIN-SUFFIX, iphoto.wang
+
 # iMovie
 DOMAIN-SUFFIX, imovie.eu
 DOMAIN-SUFFIX, imoviegallery.com
 DOMAIN-SUFFIX, imoviestage.com
+
 # Apple Care
 DOMAIN-SUFFIX, applecare.berlin
 DOMAIN-SUFFIX, applecare.cc
 DOMAIN-SUFFIX, applecare.eu
 DOMAIN-SUFFIX, applecare.hamburg
 DOMAIN-SUFFIX, applecare.wang
+
 # macOS
 DOMAIN-SUFFIX, appledarwin.com
 DOMAIN-SUFFIX, appledarwin.net
 DOMAIN-SUFFIX, darwinsource.com
 DOMAIN-SUFFIX, darwinsource.org
 DOMAIN-SUFFIX, darwinsourcecode.com
+
 # Apple ID
 DOMAIN-SUFFIX, appleaccount.net
 DOMAIN-SUFFIX, appleid-applemx.com
@@ -423,13 +1373,15 @@ DOMAIN-SUFFIX, appleid.hamburg
 DOMAIN-SUFFIX, appleid.hk
 DOMAIN-SUFFIX, ids-apple.com
 DOMAIN-SUFFIX, myappleid.com
+
 # Apple TV
 DOMAIN-SUFFIX, appletv.com
 DOMAIN-SUFFIX, appletv.fr
 DOMAIN-SUFFIX, appletv.wang
-DOMAIN-SUFFIX, appletv4.cn @cn
-DOMAIN-SUFFIX, appletv4.com.cn @cn
+DOMAIN-SUFFIX, appletv4.cn
+DOMAIN-SUFFIX, appletv4.com.cn
 DOMAIN-SUFFIX, appletvapp.apple
+
 # Apple One
 DOMAIN-SUFFIX, appleone.audio
 DOMAIN-SUFFIX, appleone.blog
@@ -443,8 +1395,10 @@ DOMAIN-SUFFIX, appleone.host
 DOMAIN-SUFFIX, appleone.space
 DOMAIN-SUFFIX, appleone.tech
 DOMAIN-SUFFIX, appleone.website
+
 # Shazam
 DOMAIN-SUFFIX, shazam.com
+
 # Others
 DOMAIN-SUFFIX, 1to1computing.com.au
 DOMAIN-SUFFIX, 1to1conference.com.au
@@ -471,18 +1425,18 @@ DOMAIN-SUFFIX, appla.com
 DOMAIN-SUFFIX, apple-darwin.com
 DOMAIN-SUFFIX, apple-darwin.net
 DOMAIN-SUFFIX, apple-darwin.org
-DOMAIN-SUFFIX, apple-dns.cn @cn
+DOMAIN-SUFFIX, apple-dns.cn
 DOMAIN-SUFFIX, apple-dns.com
-DOMAIN-SUFFIX, apple-dns.com.cn @cn
+DOMAIN-SUFFIX, apple-dns.com.cn
 DOMAIN-SUFFIX, apple-dns.net
 DOMAIN-SUFFIX, apple-enews.com
 DOMAIN-SUFFIX, apple-expo.com
 DOMAIN-SUFFIX, apple-expo.eu
 DOMAIN-SUFFIX, apple-hk.com
-DOMAIN-SUFFIX, apple-ibooks.cn @cn
+DOMAIN-SUFFIX, apple-ibooks.cn
 DOMAIN-SUFFIX, apple-inc.net
 DOMAIN-SUFFIX, apple-livephotoskit.com
-DOMAIN-SUFFIX, apple-maps.cn @cn
+DOMAIN-SUFFIX, apple-maps.cn
 DOMAIN-SUFFIX, apple-online.com
 DOMAIN-SUFFIX, apple-usa.net
 DOMAIN-SUFFIX, appleafrica.com
@@ -495,18 +1449,18 @@ DOMAIN-SUFFIX, applecarbon.com
 DOMAIN-SUFFIX, applecard.tv
 DOMAIN-SUFFIX, applecentar.co.rs
 DOMAIN-SUFFIX, applecentar.rs
-DOMAIN-SUFFIX, applecenter.cn @cn
-DOMAIN-SUFFIX, applecenter.com.cn @cn
+DOMAIN-SUFFIX, applecenter.cn
+DOMAIN-SUFFIX, applecenter.com.cn
 DOMAIN-SUFFIX, applecentre.com.au
 DOMAIN-SUFFIX, applecentre.info
 DOMAIN-SUFFIX, appleclub.com.hk
 DOMAIN-SUFFIX, applecom.com
 DOMAIN-SUFFIX, applecomputer-imac.com
-DOMAIN-SUFFIX, applecomputer.cn @cn
+DOMAIN-SUFFIX, applecomputer.cn
 DOMAIN-SUFFIX, applecomputer.co.in
 DOMAIN-SUFFIX, applecomputer.co.nz
 DOMAIN-SUFFIX, applecomputer.com
-DOMAIN-SUFFIX, applecomputer.com.cn @cn
+DOMAIN-SUFFIX, applecomputer.com.cn
 DOMAIN-SUFFIX, applecomputer.com.hk
 DOMAIN-SUFFIX, applecomputer.com.tw
 DOMAIN-SUFFIX, applecomputer.hu
@@ -515,8 +1469,8 @@ DOMAIN-SUFFIX, applecomputerimac.com
 DOMAIN-SUFFIX, applecomputerinc.info
 DOMAIN-SUFFIX, applecomputers.co.nz
 DOMAIN-SUFFIX, applecoronavirus.com
-DOMAIN-SUFFIX, appledns.cn @cn
-DOMAIN-SUFFIX, appledns.com.cn @cn
+DOMAIN-SUFFIX, appledns.cn
+DOMAIN-SUFFIX, appledns.com.cn
 DOMAIN-SUFFIX, appleexpo.eu
 DOMAIN-SUFFIX, appleexpo.info
 DOMAIN-SUFFIX, applefilmaker.com
@@ -548,7 +1502,7 @@ DOMAIN-SUFFIX, applescreensavers.com
 DOMAIN-SUFFIX, applescript.info
 DOMAIN-SUFFIX, appleshare.info
 DOMAIN-SUFFIX, appleshop.co.uk
-DOMAIN-SUFFIX, applesiri.cn @cn
+DOMAIN-SUFFIX, applesiri.cn
 DOMAIN-SUFFIX, applesurveys.com
 DOMAIN-SUFFIX, appletaiwan.com
 DOMAIN-SUFFIX, appletips.net
@@ -596,7 +1550,7 @@ DOMAIN-SUFFIX, dvdstudiopro.net
 DOMAIN-SUFFIX, dvdstudiopro.org
 DOMAIN-SUFFIX, dvdstudiopro.us
 DOMAIN-SUFFIX, earpod.net
-DOMAIN-SUFFIX, ecgapp.com.cn @cn
+DOMAIN-SUFFIX, ecgapp.com.cn
 DOMAIN-SUFFIX, ecgapp.net
 DOMAIN-SUFFIX, edu-research.org
 DOMAIN-SUFFIX, emac.co.in
@@ -606,14 +1560,14 @@ DOMAIN-SUFFIX, eworld.com
 DOMAIN-SUFFIX, faceid99.com
 DOMAIN-SUFFIX, faceid99.net
 DOMAIN-SUFFIX, faceidglobal.com
-DOMAIN-SUFFIX, faceshift.cn @cn
+DOMAIN-SUFFIX, faceshift.cn
 DOMAIN-SUFFIX, facetime.net
 DOMAIN-SUFFIX, finalcutpro.com
 DOMAIN-SUFFIX, find-apple.com
 DOMAIN-SUFFIX, firewire.cl
 DOMAIN-SUFFIX, firewire.eu
 DOMAIN-SUFFIX, geoport.com
-DOMAIN-SUFFIX, homepod.cn @cn
+DOMAIN-SUFFIX, homepod.cn
 DOMAIN-SUFFIX, hopstop.tv
 DOMAIN-SUFFIX, ichat.co.in
 DOMAIN-SUFFIX, idvd.eu
@@ -623,7 +1577,7 @@ DOMAIN-SUFFIX, ilife.eu
 DOMAIN-SUFFIX, ilife.gr
 DOMAIN-SUFFIX, ilife.wang
 DOMAIN-SUFFIX, imessage.tv
-DOMAIN-SUFFIX, insidear.cn @cn
+DOMAIN-SUFFIX, insidear.cn
 DOMAIN-SUFFIX, insidemacintosh.com
 DOMAIN-SUFFIX, iosinthecar.com
 DOMAIN-SUFFIX, ipa-iphone.net
@@ -636,8 +1590,8 @@ DOMAIN-SUFFIX, iwork.wang
 DOMAIN-SUFFIX, jetfuelapp.com
 DOMAIN-SUFFIX, jetfuelapps.com
 DOMAIN-SUFFIX, latticedata.com
-DOMAIN-SUFFIX, livephotos.cn @cn
-DOMAIN-SUFFIX, livephotos.com.cn @cn
+DOMAIN-SUFFIX, livephotos.cn
+DOMAIN-SUFFIX, livephotos.com.cn
 DOMAIN-SUFFIX, livephotos.tv
 DOMAIN-SUFFIX, lojaiphone.com.br
 DOMAIN-SUFFIX, mac-mini.com
@@ -696,234 +1650,238 @@ DOMAIN-SUFFIX, www-sms-apple.com
 DOMAIN-SUFFIX, wwwapple.com
 DOMAIN-SUFFIX, wwwapple.net
 DOMAIN-SUFFIX, wwwlapple.com
-DOMAIN-SUFFIX, xn--czrs0t4phtr3a.cn @cn # 苹果商店.cn
-DOMAIN-SUFFIX, xn--fiqs8sxootzz.cn @cn # 苹果中国.cn
+DOMAIN-SUFFIX, xn--czrs0t4phtr3a.cn
+DOMAIN-SUFFIX, xn--fiqs8sxootzz.cn
 DOMAIN-SUFFIX, xn--fiqs8sxootzz.xn--hxt814e # 苹果中国.网店
 DOMAIN-SUFFIX, xn--gtvq61aiijy0b.xn--hxt814e # 苹果电脑.网店
 DOMAIN-SUFFIX, xn--gtvz22d.wang # 苹果.wang
 DOMAIN-SUFFIX, xn--gtvz22d.xn--hxt814e # 苹果.网店
 DOMAIN-SUFFIX, xn--hxtr4rozx.xn--czr694b # 苹果店.商标
 DOMAIN-SUFFIX, xn--kput3imi374g.xn--hxt814e # 苹果手机.网店
-DOMAIN-SUFFIX, xn--ohq11k7pl25iyo8a.cn @cn # 苹果专卖店.cn
+DOMAIN-SUFFIX, xn--ohq11k7pl25iyo8a.cn
 DOMAIN-SUFFIX, xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
-DOMAIN-SUFFIX, full:apple.com.akadns.net
-DOMAIN-SUFFIX, full:courier-push-apple.com.akadns.net
-DOMAIN-SUFFIX, full:push-apple.com.akadns.net
+
+DOMAIN, apple.com.akadns.net
+DOMAIN, courier-push-apple.com.akadns.net
+DOMAIN, push-apple.com.akadns.net
+
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:apple@cn"
-DOMAIN-SUFFIX, full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:amp-api-edge-lb.itunes-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:amp-api-edge.apps.apple.com @cn
-DOMAIN-SUFFIX, full:amp-api-search-edge.apps.apple.com @cn
-DOMAIN-SUFFIX, full:amp-api.apps.apple.com @cn
-DOMAIN-SUFFIX, full:aod.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:api-edge.apps.apple.com @cn
-DOMAIN-SUFFIX, full:apptrailers.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:bag.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:bookkeeper.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:client-api.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:cma.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:communities.apple.com @cn
-DOMAIN-SUFFIX, full:discussionschinese.apple.com @cn
-DOMAIN-SUFFIX, full:downloaddispatch.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:fides-pol.apple.com @cn
-DOMAIN-SUFFIX, full:gspe11-2-cn-ssl.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gspe12-cn-ssl.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gspe85-cn-ssl.ls.apple.com @cn
-DOMAIN-SUFFIX, full:inappcheck-cn.itunes-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:inappcheck-lb.itunes-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:inappcheck.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:init.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:init.gc-lb.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:init.gc.apple.com @cn
-DOMAIN-SUFFIX, full:iosapps.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:js-cdn.music.apple.com @cn
-DOMAIN-SUFFIX, full:km.support.apple.com @cn
-DOMAIN-SUFFIX, full:maps.apple.com @cn
-DOMAIN-SUFFIX, full:osxapps.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:pd.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:play.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:se-edge.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:se2.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:search.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:sf-api-token-service.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:sp.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:streamingaudio.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:su.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:sync.itunes.apple.com @cn
-DOMAIN-SUFFIX, full:upp.itunes.apple.com @cn
-DOMAIN-SUFFIX, regexp:^a[1-5]\.mzstatic\.com$ @cn
-DOMAIN-SUFFIX, regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
-DOMAIN-SUFFIX, regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$ @cn
-DOMAIN-SUFFIX, regexp:^cl[1-5]\.apple\.com$ @cn
-DOMAIN-SUFFIX, regexp:^is[1-5](-ssl)?\.mzstatic\.com$ @cn
-DOMAIN-SUFFIX, regexp:^s[1-5]?\.mzstatic\.com$ @cn
+DOMAIN, amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+DOMAIN, amp-api-edge-lb.itunes-apple.com.akadns.net
+DOMAIN, amp-api-edge.apps.apple.com
+DOMAIN, amp-api-search-edge.apps.apple.com
+DOMAIN, amp-api.apps.apple.com
+DOMAIN, aod.itunes.apple.com
+DOMAIN, api-edge.apps.apple.com
+DOMAIN, apptrailers.itunes.apple.com
+DOMAIN, bag.itunes.apple.com
+DOMAIN, bookkeeper.itunes.apple.com
+DOMAIN, client-api.itunes.apple.com
+DOMAIN, cma.itunes.apple.com
+DOMAIN, communities.apple.com
+DOMAIN, discussionschinese.apple.com
+DOMAIN, downloaddispatch.itunes.apple.com
+DOMAIN, fides-pol.apple.com
+DOMAIN, gspe11-2-cn-ssl.ls.apple.com
+DOMAIN, gspe12-cn-ssl.ls.apple.com
+DOMAIN, gspe85-cn-ssl.ls.apple.com
+DOMAIN, inappcheck-cn.itunes-apple.com.akadns.net
+DOMAIN, inappcheck-lb.itunes-apple.com.akadns.net
+DOMAIN, inappcheck.itunes.apple.com
+DOMAIN, init.itunes.apple.com
+DOMAIN, init.gc-lb.apple.com.akadns.net
+DOMAIN, init.gc.apple.com
+DOMAIN, iosapps.itunes.apple.com
+DOMAIN, js-cdn.music.apple.com
+DOMAIN, km.support.apple.com
+DOMAIN, maps.apple.com
+DOMAIN, osxapps.itunes.apple.com
+DOMAIN, pd.itunes.apple.com
+DOMAIN, play.itunes.apple.com
+DOMAIN, se-edge.itunes.apple.com
+DOMAIN, se2.itunes.apple.com
+DOMAIN, search.itunes.apple.com
+DOMAIN, sf-api-token-service.itunes.apple.com
+DOMAIN, sp.itunes.apple.com
+DOMAIN, streamingaudio.itunes.apple.com
+DOMAIN, su.itunes.apple.com
+DOMAIN, sync.itunes.apple.com
+DOMAIN, upp.itunes.apple.com
+
+URL-REGEX, ^a[1-5]\.mzstatic\.com$
+URL-REGEX, ^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
+URL-REGEX, ^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
+URL-REGEX, ^cl[1-5]\.apple\.com$
+URL-REGEX, ^is[1-5](-ssl)?\.mzstatic\.com$
+URL-REGEX, ^s[1-5]?\.mzstatic\.com$
+
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
 # Revision: 8def8312efc8b0c22ca35658614fd63388ff56c7
 # Use in config file like this: "geosite:apple@cn"
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
-DOMAIN-SUFFIX, full:a1.mzstatic.com @cn
-DOMAIN-SUFFIX, full:a2.mzstatic.com @cn
-DOMAIN-SUFFIX, full:a3.mzstatic.com @cn
-DOMAIN-SUFFIX, full:a4.mzstatic.com @cn
-DOMAIN-SUFFIX, full:a5.mzstatic.com @cn
-DOMAIN-SUFFIX, full:adcdownload.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:adcdownload.apple.com @cn
-DOMAIN-SUFFIX, full:amp-api.media.apple.com @cn
-DOMAIN-SUFFIX, full:api-p-ap-c.smoot.apple.com @cn
-DOMAIN-SUFFIX, full:api-p-ap-d.smoot.apple.com @cn
-DOMAIN-SUFFIX, full:api-p-ap-e.smoot.apple.com @cn
-DOMAIN-SUFFIX, full:app-site-association.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:appldnld.apple.com @cn
-DOMAIN-SUFFIX, full:appldnld.g.aaplimg.com @cn
-DOMAIN-SUFFIX, full:appleid.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:apps.mzstatic.com @cn
-DOMAIN-SUFFIX, full:cdn-cn1.apple-mapkit.com @cn
-DOMAIN-SUFFIX, full:cdn-cn2.apple-mapkit.com @cn
-DOMAIN-SUFFIX, full:cdn-cn3.apple-mapkit.com @cn
-DOMAIN-SUFFIX, full:cdn-cn4.apple-mapkit.com @cn
-DOMAIN-SUFFIX, full:cdn.apple-mapkit.com @cn
-DOMAIN-SUFFIX, full:cdn1.apple-mapkit.com @cn
-DOMAIN-SUFFIX, full:cdn2.apple-mapkit.com @cn
-DOMAIN-SUFFIX, full:cdn3.apple-mapkit.com @cn
-DOMAIN-SUFFIX, full:cdn4.apple-mapkit.com @cn
-DOMAIN-SUFFIX, full:cds-cdn.v.aaplimg.com @cn
-DOMAIN-SUFFIX, full:cds.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:cds.apple.com @cn
-DOMAIN-SUFFIX, full:cdsassets.apple.com @cn
-DOMAIN-SUFFIX, full:cl1-cdn.origin-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:cl1.apple.com @cn
-DOMAIN-SUFFIX, full:cl2-cn.apple.com @cn
-DOMAIN-SUFFIX, full:cl2.apple.com @cn
-DOMAIN-SUFFIX, full:cl3-cdn.origin-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:cl3.apple.com @cn
-DOMAIN-SUFFIX, full:cl4-cdn.origin-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:cl4-cn.apple.com @cn
-DOMAIN-SUFFIX, full:cl4.apple.com @cn
-DOMAIN-SUFFIX, full:cl5-cdn.origin-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:cl5.apple.com @cn
-DOMAIN-SUFFIX, full:clientflow.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:clientflow.apple.com @cn
-DOMAIN-SUFFIX, full:cn-smp-paymentservices.apple.com @cn
-DOMAIN-SUFFIX, full:configuration.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:configuration.apple.com @cn
-DOMAIN-SUFFIX, full:cstat.apple.com @cn
-DOMAIN-SUFFIX, full:cstat.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:dd-cdn.origin-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:dejavu.apple.com @cn
-DOMAIN-SUFFIX, full:download.developer.apple.com @cn
-DOMAIN-SUFFIX, full:experiments.apple.com @cn
-DOMAIN-SUFFIX, full:gs-loc-cn.apple.com @cn
-DOMAIN-SUFFIX, full:gs-loc.apple.com @cn
-DOMAIN-SUFFIX, full:gsp10-ssl-cn.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gsp12-cn.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gsp13-cn.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net @cn
-DOMAIN-SUFFIX, full:gsp4-cn.ls.apple.com.edgekey.net @cn
-DOMAIN-SUFFIX, full:gsp4-cn.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gsp5-cn.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gsp85-cn-ssl.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gspe19-2-cn-ssl.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gspe19-cn-ssl.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gspe19-cn.ls-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:gspe19-cn.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gspe21-ssl.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gspe21.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gspe35-ssl.ls.apple.com @cn
-DOMAIN-SUFFIX, full:gspe79-cn-ssl.ls.apple.com @cn
-DOMAIN-SUFFIX, full:guzzoni-apple-com.v.aaplimg.com @cn
-DOMAIN-SUFFIX, full:guzzoni.apple.com @cn
-DOMAIN-SUFFIX, full:guzzoni.smoot.apple.com @cn
-DOMAIN-SUFFIX, full:iadsdk.apple.com @cn
-DOMAIN-SUFFIX, full:icloud-cdn.icloud.com.akadns.net @cn
-DOMAIN-SUFFIX, full:icloud.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:images.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:images.apple.com.edgekey.net.globalredir.akadns.net @cn
-DOMAIN-SUFFIX, full:images.apple.com @cn
-DOMAIN-SUFFIX, full:init-kt.apple.com @cn
-DOMAIN-SUFFIX, full:init-p01md-lb.push-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:init-p01md.apple.com @cn
-DOMAIN-SUFFIX, full:init-p01st-lb.push-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:init-p01st.push.apple.com @cn
-DOMAIN-SUFFIX, full:init-s01st-lb.push-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:init-s01st.push.apple.com @cn
-DOMAIN-SUFFIX, full:init.ess.apple.com @cn
-DOMAIN-SUFFIX, full:iosapps.itunes.g.aaplimg.com @cn
-DOMAIN-SUFFIX, full:ipcdn.apple.com @cn
-DOMAIN-SUFFIX, full:iphone-ld.apple.com @cn
-DOMAIN-SUFFIX, full:iphone-ld.origin-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:is1-ssl.mzstatic.com @cn
-DOMAIN-SUFFIX, full:is1.mzstatic.com @cn
-DOMAIN-SUFFIX, full:is2-ssl.mzstatic.com @cn
-DOMAIN-SUFFIX, full:is2.mzstatic.com @cn
-DOMAIN-SUFFIX, full:is3-ssl.mzstatic.com @cn
-DOMAIN-SUFFIX, full:is3.mzstatic.com @cn
-DOMAIN-SUFFIX, full:is4-ssl.mzstatic.com @cn
-DOMAIN-SUFFIX, full:is4.mzstatic.com @cn
-DOMAIN-SUFFIX, full:is5-ssl.mzstatic.com @cn
-DOMAIN-SUFFIX, full:is5.mzstatic.com @cn
-DOMAIN-SUFFIX, full:itunes-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:itunes.apple.com @cn
-DOMAIN-SUFFIX, full:itunesconnect.apple.com @cn
-DOMAIN-SUFFIX, full:mesu-cdn.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:mesu-china.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:mesu.apple.com @cn
-DOMAIN-SUFFIX, full:ml.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:music.apple.com @cn
-DOMAIN-SUFFIX, full:ocsp-lb.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:ocsp.apple.com @cn
-DOMAIN-SUFFIX, full:ocsp2.apple.com @cn
-DOMAIN-SUFFIX, full:oscdn.apple.com @cn
-DOMAIN-SUFFIX, full:oscdn.origin-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:osxapps.itunes.g.aaplimg.com @cn
-DOMAIN-SUFFIX, full:pancake.apple.com @cn
-DOMAIN-SUFFIX, full:pancake.cdn-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:pba0.apple.com @cn
-DOMAIN-SUFFIX, full:probe.siri.apple.com @cn
-DOMAIN-SUFFIX, full:prod-support.apple-support.akadns.net @cn
-DOMAIN-SUFFIX, full:publicassets.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:reserve-prime.apple.com @cn
-DOMAIN-SUFFIX, full:s.mzstatic.com @cn
-DOMAIN-SUFFIX, full:seed-sequoia.siri.apple.com @cn
-DOMAIN-SUFFIX, full:seed-swallow.siri.apple.com @cn
-DOMAIN-SUFFIX, full:seed.siri.apple.com @cn
-DOMAIN-SUFFIX, full:sequoia.apple.com @cn
-DOMAIN-SUFFIX, full:sh-pod2-smp-device.apple.com @cn
-DOMAIN-SUFFIX, full:shazam-insights.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:smp-device-content.apple.com @cn
-DOMAIN-SUFFIX, full:static.gc.apple.com @cn
-DOMAIN-SUFFIX, full:stocks-sparkline-lb.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:stocks-sparkline.apple.com @cn
-DOMAIN-SUFFIX, full:store.apple.com.edgekey.net.globalredir.akadns.net @cn
-DOMAIN-SUFFIX, full:store.apple.com.edgekey.net @cn
-DOMAIN-SUFFIX, full:store.apple.com @cn
-DOMAIN-SUFFIX, full:store.storeimages.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:store.storeimages.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:support-china.apple-support.akadns.net @cn
-DOMAIN-SUFFIX, full:support.apple.com @cn
-DOMAIN-SUFFIX, full:swallow-apple-com.v.aaplimg.com @cn
-DOMAIN-SUFFIX, full:swallow.apple.com @cn
-DOMAIN-SUFFIX, full:swcatalog-cdn.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:swcatalog.apple.com @cn
-DOMAIN-SUFFIX, full:swcdn.apple.com @cn
-DOMAIN-SUFFIX, full:swcdn.g.aaplimg.com @cn
-DOMAIN-SUFFIX, full:swdist.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:swdist.apple.com @cn
-DOMAIN-SUFFIX, full:swscan-cdn.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:swscan.apple.com @cn
-DOMAIN-SUFFIX, full:sylvan.apple.com @cn
-DOMAIN-SUFFIX, full:tj-pod1-smp-device.apple.com @cn
-DOMAIN-SUFFIX, full:updates-http.cdn-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:updates-http.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:updates.cdn-apple.com @cn
-DOMAIN-SUFFIX, full:valid.apple.com @cn
-DOMAIN-SUFFIX, full:valid.origin-apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:weather-data.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:weather-data.apple.com @cn
-DOMAIN-SUFFIX, full:weather-map.apple.com @cn
-DOMAIN-SUFFIX, full:weather-map2.apple.com @cn
-DOMAIN-SUFFIX, full:weatherkit.apple.com @cn
-DOMAIN-SUFFIX, full:www.apple.com.edgekey.net.globalredir.akadns.net @cn
-DOMAIN-SUFFIX, full:www.apple.com.edgekey.net @cn
-DOMAIN-SUFFIX, full:www.apple.com @cn
-DOMAIN-SUFFIX, full:xp.apple.com @cn
+DOMAIN, a1.mzstatic.com
+DOMAIN, a2.mzstatic.com
+DOMAIN, a3.mzstatic.com
+DOMAIN, a4.mzstatic.com
+DOMAIN, a5.mzstatic.com
+DOMAIN, adcdownload.apple.com.akadns.net
+DOMAIN, adcdownload.apple.com
+DOMAIN, amp-api.media.apple.com
+DOMAIN, api-p-ap-c.smoot.apple.com
+DOMAIN, api-p-ap-d.smoot.apple.com
+DOMAIN, api-p-ap-e.smoot.apple.com
+DOMAIN, app-site-association.cdn-apple.com
+DOMAIN, appldnld.apple.com
+DOMAIN, appldnld.g.aaplimg.com
+DOMAIN, appleid.cdn-apple.com
+DOMAIN, apps.mzstatic.com
+DOMAIN, cdn-cn1.apple-mapkit.com
+DOMAIN, cdn-cn2.apple-mapkit.com
+DOMAIN, cdn-cn3.apple-mapkit.com
+DOMAIN, cdn-cn4.apple-mapkit.com
+DOMAIN, cdn.apple-mapkit.com
+DOMAIN, cdn1.apple-mapkit.com
+DOMAIN, cdn2.apple-mapkit.com
+DOMAIN, cdn3.apple-mapkit.com
+DOMAIN, cdn4.apple-mapkit.com
+DOMAIN, cds-cdn.v.aaplimg.com
+DOMAIN, cds.apple.com.akadns.net
+DOMAIN, cds.apple.com
+DOMAIN, cdsassets.apple.com
+DOMAIN, cl1-cdn.origin-apple.com.akadns.net
+DOMAIN, cl1.apple.com
+DOMAIN, cl2-cn.apple.com
+DOMAIN, cl2.apple.com
+DOMAIN, cl3-cdn.origin-apple.com.akadns.net
+DOMAIN, cl3.apple.com
+DOMAIN, cl4-cdn.origin-apple.com.akadns.net
+DOMAIN, cl4-cn.apple.com
+DOMAIN, cl4.apple.com
+DOMAIN, cl5-cdn.origin-apple.com.akadns.net
+DOMAIN, cl5.apple.com
+DOMAIN, clientflow.apple.com.akadns.net
+DOMAIN, clientflow.apple.com
+DOMAIN, cn-smp-paymentservices.apple.com
+DOMAIN, configuration.apple.com.akadns.net
+DOMAIN, configuration.apple.com
+DOMAIN, cstat.apple.com
+DOMAIN, cstat.cdn-apple.com
+DOMAIN, dd-cdn.origin-apple.com.akadns.net
+DOMAIN, dejavu.apple.com
+DOMAIN, download.developer.apple.com
+DOMAIN, experiments.apple.com
+DOMAIN, gs-loc-cn.apple.com
+DOMAIN, gs-loc.apple.com
+DOMAIN, gsp10-ssl-cn.ls.apple.com
+DOMAIN, gsp12-cn.ls.apple.com
+DOMAIN, gsp13-cn.ls.apple.com
+DOMAIN, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN, gsp4-cn.ls.apple.com.edgekey.net
+DOMAIN, gsp4-cn.ls.apple.com
+DOMAIN, gsp5-cn.ls.apple.com
+DOMAIN, gsp85-cn-ssl.ls.apple.com
+DOMAIN, gspe19-2-cn-ssl.ls.apple.com
+DOMAIN, gspe19-cn-ssl.ls.apple.com
+DOMAIN, gspe19-cn.ls-apple.com.akadns.net
+DOMAIN, gspe19-cn.ls.apple.com
+DOMAIN, gspe21-ssl.ls.apple.com
+DOMAIN, gspe21.ls.apple.com
+DOMAIN, gspe35-ssl.ls.apple.com
+DOMAIN, gspe79-cn-ssl.ls.apple.com
+DOMAIN, guzzoni-apple-com.v.aaplimg.com
+DOMAIN, guzzoni.apple.com
+DOMAIN, guzzoni.smoot.apple.com
+DOMAIN, iadsdk.apple.com
+DOMAIN, icloud-cdn.icloud.com.akadns.net
+DOMAIN, icloud.cdn-apple.com
+DOMAIN, images.apple.com.akadns.net
+DOMAIN, images.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN, images.apple.com
+DOMAIN, init-kt.apple.com
+DOMAIN, init-p01md-lb.push-apple.com.akadns.net
+DOMAIN, init-p01md.apple.com
+DOMAIN, init-p01st-lb.push-apple.com.akadns.net
+DOMAIN, init-p01st.push.apple.com
+DOMAIN, init-s01st-lb.push-apple.com.akadns.net
+DOMAIN, init-s01st.push.apple.com
+DOMAIN, init.ess.apple.com
+DOMAIN, iosapps.itunes.g.aaplimg.com
+DOMAIN, ipcdn.apple.com
+DOMAIN, iphone-ld.apple.com
+DOMAIN, iphone-ld.origin-apple.com.akadns.net
+DOMAIN, is1-ssl.mzstatic.com
+DOMAIN, is1.mzstatic.com
+DOMAIN, is2-ssl.mzstatic.com
+DOMAIN, is2.mzstatic.com
+DOMAIN, is3-ssl.mzstatic.com
+DOMAIN, is3.mzstatic.com
+DOMAIN, is4-ssl.mzstatic.com
+DOMAIN, is4.mzstatic.com
+DOMAIN, is5-ssl.mzstatic.com
+DOMAIN, is5.mzstatic.com
+DOMAIN, itunes-apple.com.akadns.net
+DOMAIN, itunes.apple.com
+DOMAIN, itunesconnect.apple.com
+DOMAIN, mesu-cdn.apple.com.akadns.net
+DOMAIN, mesu-china.apple.com.akadns.net
+DOMAIN, mesu.apple.com
+DOMAIN, ml.cdn-apple.com
+DOMAIN, music.apple.com
+DOMAIN, ocsp-lb.apple.com.akadns.net
+DOMAIN, ocsp.apple.com
+DOMAIN, ocsp2.apple.com
+DOMAIN, oscdn.apple.com
+DOMAIN, oscdn.origin-apple.com.akadns.net
+DOMAIN, osxapps.itunes.g.aaplimg.com
+DOMAIN, pancake.apple.com
+DOMAIN, pancake.cdn-apple.com.akadns.net
+DOMAIN, pba0.apple.com
+DOMAIN, probe.siri.apple.com
+DOMAIN, prod-support.apple-support.akadns.net
+DOMAIN, publicassets.cdn-apple.com
+DOMAIN, reserve-prime.apple.com
+DOMAIN, s.mzstatic.com
+DOMAIN, seed-sequoia.siri.apple.com
+DOMAIN, seed-swallow.siri.apple.com
+DOMAIN, seed.siri.apple.com
+DOMAIN, sequoia.apple.com
+DOMAIN, sh-pod2-smp-device.apple.com
+DOMAIN, shazam-insights.cdn-apple.com
+DOMAIN, smp-device-content.apple.com
+DOMAIN, static.gc.apple.com
+DOMAIN, stocks-sparkline-lb.apple.com.akadns.net
+DOMAIN, stocks-sparkline.apple.com
+DOMAIN, store.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN, store.apple.com.edgekey.net
+DOMAIN, store.apple.com
+DOMAIN, store.storeimages.apple.com.akadns.net
+DOMAIN, store.storeimages.cdn-apple.com
+DOMAIN, support-china.apple-support.akadns.net
+DOMAIN, support.apple.com
+DOMAIN, swallow-apple-com.v.aaplimg.com
+DOMAIN, swallow.apple.com
+DOMAIN, swcatalog-cdn.apple.com.akadns.net
+DOMAIN, swcatalog.apple.com
+DOMAIN, swcdn.apple.com
+DOMAIN, swcdn.g.aaplimg.com
+DOMAIN, swdist.apple.com.akadns.net
+DOMAIN, swdist.apple.com
+DOMAIN, swscan-cdn.apple.com.akadns.net
+DOMAIN, swscan.apple.com
+DOMAIN, sylvan.apple.com
+DOMAIN, tj-pod1-smp-device.apple.com
+DOMAIN, updates-http.cdn-apple.com.akadns.net
+DOMAIN, updates-http.cdn-apple.com
+DOMAIN, updates.cdn-apple.com
+DOMAIN, valid.apple.com
+DOMAIN, valid.origin-apple.com.akadns.net
+DOMAIN, weather-data.apple.com.akadns.net
+DOMAIN, weather-data.apple.com
+DOMAIN, weather-map.apple.com
+DOMAIN, weather-map2.apple.com
+DOMAIN, weatherkit.apple.com
+DOMAIN, www.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN, www.apple.com.edgekey.net
+DOMAIN, www.apple.com
+DOMAIN, xp.apple.com

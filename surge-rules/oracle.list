@@ -1,4 +1,6 @@
 # All .oracle domains
+DOMAIN-SUFFIX, oracle
+
 DOMAIN-SUFFIX, ateam-oracle.com
 DOMAIN-SUFFIX, bronto.com
 DOMAIN-SUFFIX, covid19-rx.org
@@ -10,3 +12,14 @@ DOMAIN-SUFFIX, oracleimg.com
 DOMAIN-SUFFIX, oracleinfinity.io
 DOMAIN-SUFFIX, sun.com
 DOMAIN-SUFFIX, virtualbox.org
+
+DOMAIN-SUFFIX, addthis.com
+DOMAIN-SUFFIX, addthiscdn.com
+DOMAIN-SUFFIX, addthisedge.com
+
+# All .java domains
+DOMAIN-SUFFIX, java
+
+DOMAIN-SUFFIX, java.com
+DOMAIN-SUFFIX, java.net
+

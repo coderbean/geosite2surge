@@ -26,14 +26,16 @@ DOMAIN-SUFFIX, qznovel.com
 DOMAIN-SUFFIX, qznovelpic.com
 DOMAIN-SUFFIX, qznovelstatic.com
 DOMAIN-SUFFIX, qznovelvod.com
-DOMAIN-SUFFIX, full:p3-novel.byteimg.com
-DOMAIN-SUFFIX, full:p6-novel.byteimg.com
-DOMAIN-SUFFIX, full:ads3-normal-hl.zijieapi.com @ads
-DOMAIN-SUFFIX, full:ads5-normal-hl.zijieapi.com @ads
-DOMAIN-SUFFIX, full:log3-applog-hl.fqnovel.com @ads
-DOMAIN-SUFFIX, full:log5-applog-hl.fqnovel.com @ads
-DOMAIN-SUFFIX, full:p3-ad-sign.byteimg.com @ads
-DOMAIN-SUFFIX, full:p6-ad-sign.byteimg.com @ads
-DOMAIN-SUFFIX, full:p9-ad-sign.byteimg.com @ads
-DOMAIN-SUFFIX, full:rtlog3-applog-hl.fqnovel.com @ads
-DOMAIN-SUFFIX, full:rtlog5-applog-hl.fqnovel.com @ads
+
+DOMAIN, p3-novel.byteimg.com
+DOMAIN, p6-novel.byteimg.com
+
+DOMAIN, ads3-normal-hl.zijieapi.com
+DOMAIN, ads5-normal-hl.zijieapi.com
+DOMAIN, log3-applog-hl.fqnovel.com
+DOMAIN, log5-applog-hl.fqnovel.com
+DOMAIN, p3-ad-sign.byteimg.com
+DOMAIN, p6-ad-sign.byteimg.com
+DOMAIN, p9-ad-sign.byteimg.com
+DOMAIN, rtlog3-applog-hl.fqnovel.com
+DOMAIN, rtlog5-applog-hl.fqnovel.com

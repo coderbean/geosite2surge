@@ -14,4 +14,5 @@ DOMAIN-SUFFIX, vimeogoods.com
 DOMAIN-SUFFIX, vimeoondemand.com
 DOMAIN-SUFFIX, vimeostatus.com
 DOMAIN-SUFFIX, livestream.com
-DOMAIN-SUFFIX, regexp:^[0-9]+vod-adaptive\.akamaized\.net$
+
+URL-REGEX, ^[0-9]+vod-adaptive\.akamaized\.net$

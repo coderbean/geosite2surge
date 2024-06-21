@@ -1,6 +1,45 @@
+DOMAIN-SUFFIX, cmcm.com
+DOMAIN-SUFFIX, cmcmcdn.com
+DOMAIN-SUFFIX, liebao.cn
+
+# Antivirus
+DOMAIN-SUFFIX, duba.com
+DOMAIN-SUFFIX, duba.net
+DOMAIN-SUFFIX, ijinshan.com
+
+DOMAIN-SUFFIX, seasungames.com
+DOMAIN-SUFFIX, xishanju.com
+DOMAIN-SUFFIX, xoyo.com
+
+# Testplus
+DOMAIN-SUFFIX, testplus.cn
+
+DOMAIN-SUFFIX, wps.cn
+DOMAIN-SUFFIX, wps.com
+
+# Dazitong
+DOMAIN-SUFFIX, 51dzt.com
+
+# Dictionary
+DOMAIN-SUFFIX, iciba.com
+
+# Docer
+DOMAIN-SUFFIX, docer.com
+
+# Documents
+DOMAIN-SUFFIX, kdocs.cn
+
+# PAPocket
+DOMAIN-SUFFIX, papocket.com
+
+# PDF
+DOMAIN-SUFFIX, wpspdf.cn
+
+
 DOMAIN-SUFFIX, kimg.cn
 DOMAIN-SUFFIX, kingsoft.com
 DOMAIN-SUFFIX, ksmobile.com
+
 # Kingsoft Cloud
 DOMAIN-SUFFIX, ks-cdn.com
 DOMAIN-SUFFIX, ks-cdn1.com

@@ -1,4 +1,5 @@
 # Kakao Corp
+
 DOMAIN-SUFFIX, daum.net
 DOMAIN-SUFFIX, daumcdn.net
 DOMAIN-SUFFIX, daumkakao.io
@@ -9,21 +10,29 @@ DOMAIN-SUFFIX, kakaocorp.com
 DOMAIN-SUFFIX, kakaotalk.jp
 DOMAIN-SUFFIX, kgslb.com
 DOMAIN-SUFFIX, onkakao.net
+
 # Subsidiaries
+
 DOMAIN-SUFFIX, kakao.vc
 DOMAIN-SUFFIX, kakaobrain.com
 DOMAIN-SUFFIX, kakaoinvestment.com
 DOMAIN-SUFFIX, kakaomobility.com
 DOMAIN-SUFFIX, kakaopiccoma.com
+
 # KakaoBank
+
 DOMAIN-SUFFIX, kakaobank.com
 DOMAIN-SUFFIX, kakaobank.io
 DOMAIN-SUFFIX, kakaobankcontent.com
+
 # Kakao Enterprise
+
 DOMAIN-SUFFIX, kakaoenterprise.com
 DOMAIN-SUFFIX, kakaocloud.com
 DOMAIN-SUFFIX, kakaoilaas.com
+
 # Kakao Entertainment
+
 DOMAIN-SUFFIX, 1thek.com
 DOMAIN-SUFFIX, antenna.co.kr
 DOMAIN-SUFFIX, awesomeent.co.kr
@@ -44,22 +53,30 @@ DOMAIN-SUFFIX, starship-ent.com
 DOMAIN-SUFFIX, stuidok110.com
 DOMAIN-SUFFIX, vastenm.com
 DOMAIN-SUFFIX, zipcine.com
+
 # KakaoGames
+
 DOMAIN-SUFFIX, daumpcbang.com
 DOMAIN-SUFFIX, kakaogamescorp.com
 DOMAIN-SUFFIX, kakaovx.com
 DOMAIN-SUFFIX, lionhearts.co.kr
 DOMAIN-SUFFIX, metabora.io
 DOMAIN-SUFFIX, sena.co.kr
+
 # Kakao HealthCare
+
 DOMAIN-SUFFIX, kakaohealthcare.com
 DOMAIN-SUFFIX, karechat.ai
 DOMAIN-SUFFIX, pastahealth.com
+
 # Kakao Pay
+
 DOMAIN-SUFFIX, kakaopay.com
 DOMAIN-SUFFIX, kakaopaysec.com
 DOMAIN-SUFFIX, kpinsurances.com
+
 # KakaoStyle
+
 DOMAIN-SUFFIX, fashionbykakao.com
 DOMAIN-SUFFIX, kakaostyle.com
 DOMAIN-SUFFIX, posty.kr

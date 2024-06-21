@@ -1,11 +1,22 @@
 # References:
 # https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml
 # https://unix.stackexchange.com/questions/92441/whats-the-difference-between-local-home-and-lan
+DOMAIN-SUFFIX, lan
+DOMAIN-SUFFIX, localdomain
+
 # https://tools.ietf.org/html/rfc2606
 # https://tools.ietf.org/html/rfc6761
+DOMAIN-SUFFIX, example
+DOMAIN-SUFFIX, invalid
+DOMAIN-SUFFIX, localhost
+DOMAIN-SUFFIX, test
+
 # https://tools.ietf.org/html/rfc6762
+DOMAIN-SUFFIX, local
+
 # https://tools.ietf.org/html/rfc8375
 DOMAIN-SUFFIX, home.arpa
+
 # References: https://www.iana.org/assignments/locally-served-dns-zones/locally-served-dns-zones.xhtml
 # https://www.rfc-editor.org/rfc/rfc6303.html
 DOMAIN-SUFFIX, 10.in-addr.arpa
@@ -106,32 +117,44 @@ DOMAIN-SUFFIX, 124.100.in-addr.arpa
 DOMAIN-SUFFIX, 125.100.in-addr.arpa
 DOMAIN-SUFFIX, 126.100.in-addr.arpa
 DOMAIN-SUFFIX, 127.100.in-addr.arpa
+
 # Dotless domains
+URL-REGEX, ^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$
+
 # Aruba router
-DOMAIN-SUFFIX, full:instant.arubanetworks.com
-DOMAIN-SUFFIX, full:setmeup.arubanetworks.com
+DOMAIN, instant.arubanetworks.com
+DOMAIN, setmeup.arubanetworks.com
+
 # Apple
 DOMAIN-SUFFIX, captive.apple.com
+
 # Android
 DOMAIN-SUFFIX, connectivitycheck.gstatic.com
+
 # ASUS router
 # Reference: https://www.asus.com/support/FAQ/1005263/
-DOMAIN-SUFFIX, full:asusrouter.com
-DOMAIN-SUFFIX, full:router.asus.com
-DOMAIN-SUFFIX, full:www.asusrouter.com
+DOMAIN, asusrouter.com
+DOMAIN, router.asus.com
+DOMAIN, www.asusrouter.com
+
 # Cloudflare
-DOMAIN-SUFFIX, full:cp.cloudflare.com
+DOMAIN, cp.cloudflare.com
+
 # Firefox
-DOMAIN-SUFFIX, full:detectportal.firefox.com
+DOMAIN, detectportal.firefox.com
+
 # KDE
 DOMAIN-SUFFIX, networkcheck.kde.org
+
 # Mozilla Location Service
 DOMAIN-SUFFIX, location.services.mozilla.com
+
 # Netgear router
 # Reference: https://kb.netgear.com/27199/I-can-t-access-my-router-what-do-I-do
 # https://www.netgear.com/business/services/aplogincom/
-DOMAIN-SUFFIX, full:routerlogin.com
-DOMAIN-SUFFIX, full:www.routerlogin.com
+DOMAIN, routerlogin.com
+DOMAIN, www.routerlogin.com
+
 # Other router
 DOMAIN-SUFFIX, hiwifi.com
 DOMAIN-SUFFIX, leike.cc
@@ -139,29 +162,39 @@ DOMAIN-SUFFIX, my.router
 DOMAIN-SUFFIX, peiluyou.com
 DOMAIN-SUFFIX, phicomm.me
 DOMAIN-SUFFIX, router.ctc
+
 # Plex Media Server
 # Reference: https://support.plex.tv/articles/206225077-how-to-use-secure-server-connections/
 DOMAIN-SUFFIX, plex.direct
+
 # QQ SSO for quick login
 DOMAIN-SUFFIX, localhost.sec.qq.com
 DOMAIN-SUFFIX, localhost.ptlogin2.qq.com
+
 # Steam Deck Game mode
 DOMAIN-SUFFIX, test.steampowered.com
+
 # Tenda router
 DOMAIN-SUFFIX, tendawifi.com
+
 # TP-Link router
 # Reference: https://resource.tp-link.com.cn/m/productClass/product_document?id=1655112502304621
 DOMAIN-SUFFIX, tplinkwifi.net
-DOMAIN-SUFFIX, full:tplogin.cn
+DOMAIN, tplogin.cn
+
 # Windows
 DOMAIN-SUFFIX, msftconnecttest.com
 DOMAIN-SUFFIX, msftncsi.com
+
 # Xiaomi router
 # Reference: https://www1.miwifi.com/miwifi_faq.html
-DOMAIN-SUFFIX, full:miwifi.com
-DOMAIN-SUFFIX, full:www.miwifi.com
+DOMAIN, miwifi.com
+DOMAIN, www.miwifi.com
+
 # ZTE router
 DOMAIN-SUFFIX, zte.home
+
+
 # Tailscale Magic DNS
 # Reference: https://tailscale.com/kb/1081/magicdns/#fully-qualified-domain-names-vs-machine-names
 DOMAIN-SUFFIX, ts.net

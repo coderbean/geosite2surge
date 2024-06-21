@@ -19,4 +19,5 @@ DOMAIN-SUFFIX, zee.com
 DOMAIN-SUFFIX, zeebiz.com
 DOMAIN-SUFFIX, zeeentertainment.com
 DOMAIN-SUFFIX, zeenews.com
-DOMAIN-SUFFIX, full:zeenews-fonts.s3.amazonaws.com
+
+DOMAIN, zeenews-fonts.s3.amazonaws.com

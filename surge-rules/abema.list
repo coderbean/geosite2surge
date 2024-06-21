@@ -13,9 +13,10 @@ DOMAIN-SUFFIX, hayabusa.dev
 DOMAIN-SUFFIX, hayabusa.io
 DOMAIN-SUFFIX, hayabusa.media
 DOMAIN-SUFFIX, winticket.jp
+
 # Abema TV CDN FQDN
-DOMAIN-SUFFIX, full:abematv.akamaized.net
-DOMAIN-SUFFIX, full:ds-linear-abematv.akamaized.net
-DOMAIN-SUFFIX, full:ds-vod-abematv.akamaized.net
-DOMAIN-SUFFIX, full:linear-abematv.akamaized.net
-DOMAIN-SUFFIX, full:vod-abematv.akamaized.net
+DOMAIN, abematv.akamaized.net
+DOMAIN, ds-linear-abematv.akamaized.net
+DOMAIN, ds-vod-abematv.akamaized.net
+DOMAIN, linear-abematv.akamaized.net
+DOMAIN, vod-abematv.akamaized.net

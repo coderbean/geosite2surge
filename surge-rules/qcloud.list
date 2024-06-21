@@ -1,3 +1,23 @@
+DOMAIN-SUFFIX, comsenz.com
+DOMAIN-SUFFIX, discuz.net
+DOMAIN-SUFFIX, discuz.org
+
+DOMAIN-SUFFIX, dns.pub
+DOMAIN-SUFFIX, dnsapi.cn
+DOMAIN-SUFFIX, dnspod.cn
+DOMAIN-SUFFIX, dnspod.com
+DOMAIN-SUFFIX, dnspod.com.cn
+DOMAIN-SUFFIX, dnspod.mobi
+DOMAIN-SUFFIX, dnspod.net
+DOMAIN-SUFFIX, dnspod.org
+DOMAIN-SUFFIX, dnsv2.com
+DOMAIN-SUFFIX, dnsv3.com
+DOMAIN-SUFFIX, dnsv4.com
+DOMAIN-SUFFIX, dnsv5.com
+DOMAIN-SUFFIX, doh.pub
+DOMAIN-SUFFIX, dot.pub
+
+
 DOMAIN-SUFFIX, acctdns.com
 DOMAIN-SUFFIX, acctdns.net
 DOMAIN-SUFFIX, aitransfy.com
@@ -45,7 +65,7 @@ DOMAIN-SUFFIX, hr-welink.com
 DOMAIN-SUFFIX, idcgcloudcs.com
 DOMAIN-SUFFIX, iemiq.com
 DOMAIN-SUFFIX, igtm.pub
-DOMAIN-SUFFIX, intltencentcos.com @!cn
+DOMAIN-SUFFIX, intltencentcos.com
 DOMAIN-SUFFIX, isd.com
 DOMAIN-SUFFIX, ispqcloud.com
 DOMAIN-SUFFIX, itopsdk.com
@@ -190,78 +210,87 @@ DOMAIN-SUFFIX, yufuid.com
 DOMAIN-SUFFIX, yufuid.com.cn
 DOMAIN-SUFFIX, yufuid.net
 DOMAIN-SUFFIX, yunjitele.com
-DOMAIN-SUFFIX, regexp:.+\.dnse[0-5]\.(cn|com)$
-DOMAIN-SUFFIX, regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
+
+URL-REGEX, .+\.dnse[0-5]\.(cn|com)$
+URL-REGEX, .+\.tdnsv([1-9]|1[0-5])\.(com|net)$
+
 # myqcloud inside mainland China
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$             #北京
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$             #南京
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$            #上海
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$           #广州
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$             #成都
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$           #重庆
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$            #深圳
+URL-REGEX, \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$             #北京
+URL-REGEX, \.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$             #南京
+URL-REGEX, \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$            #上海
+URL-REGEX, \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$           #广州
+URL-REGEX, \.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$             #成都
+URL-REGEX, \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$           #重庆
+URL-REGEX, \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$            #深圳
+
 # COS 使用到的非中国大陆的地域与可用区，参见 https://cloud.tencent.com/document/product/436/6224
-DOMAIN-SUFFIX, ap-hongkong.myqcloud.com @!cn       #中国香港
-DOMAIN-SUFFIX, ap-singapore.myqcloud.com @!cn      #新加坡
-DOMAIN-SUFFIX, ap-mumbai.myqcloud.com @!cn         #孟买
-DOMAIN-SUFFIX, ap-jakarta.myqcloud.com @!cn        #雅加达
-DOMAIN-SUFFIX, ap-seoul.myqcloud.com @!cn          #首尔
-DOMAIN-SUFFIX, ap-bangkok.myqcloud.com @!cn        #曼谷
-DOMAIN-SUFFIX, ap-tokyo.myqcloud.com @!cn          #东京
-DOMAIN-SUFFIX, na-siliconvalley.myqcloud.com @!cn  #硅谷（美西）
-DOMAIN-SUFFIX, na-ashburn.myqcloud.com @!cn        #弗吉尼亚（美东）
-DOMAIN-SUFFIX, na-toronto.myqcloud.com @!cn        #多伦多
-DOMAIN-SUFFIX, sa-saopaulo.myqcloud.com @!cn       #圣保罗
-DOMAIN-SUFFIX, eu-frankfurt.myqcloud.com @!cn      #法兰克福
-DOMAIN-SUFFIX, eu-moscow.myqcloud.com @!cn         #莫斯科
+DOMAIN-SUFFIX, ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX, ap-singapore.myqcloud.com
+DOMAIN-SUFFIX, ap-mumbai.myqcloud.com
+DOMAIN-SUFFIX, ap-jakarta.myqcloud.com
+DOMAIN-SUFFIX, ap-seoul.myqcloud.com
+DOMAIN-SUFFIX, ap-bangkok.myqcloud.com
+DOMAIN-SUFFIX, ap-tokyo.myqcloud.com
+DOMAIN-SUFFIX, na-siliconvalley.myqcloud.com
+DOMAIN-SUFFIX, na-ashburn.myqcloud.com
+DOMAIN-SUFFIX, na-toronto.myqcloud.com
+DOMAIN-SUFFIX, sa-saopaulo.myqcloud.com
+DOMAIN-SUFFIX, eu-frankfurt.myqcloud.com
+DOMAIN-SUFFIX, eu-moscow.myqcloud.com
+
 # tencentcos inside mainland China
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #北京
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #南京
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #上海
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #广州
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #成都
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #重庆
-DOMAIN-SUFFIX, regexp:\.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #深圳
+URL-REGEX, \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #北京
+URL-REGEX, \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #南京
+URL-REGEX, \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #上海
+URL-REGEX, \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #广州
+URL-REGEX, \.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #成都
+URL-REGEX, \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #重庆
+URL-REGEX, \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #深圳
+
 # tencentcos outside mainland China
-DOMAIN-SUFFIX, regexp:.+\.ap-hongkong\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #中国香港
-DOMAIN-SUFFIX, regexp:.+\.ap-singapore\.tencentcos\.(cn|com(\.cn)?)$ @!cn      #新加坡
-DOMAIN-SUFFIX, regexp:.+\.ap-mumbai\.tencentcos\.(cn|com(\.cn)?)$ @!cn         #孟买
-DOMAIN-SUFFIX, regexp:.+\.ap-jakarta\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #雅加达
-DOMAIN-SUFFIX, regexp:.+\.ap-seoul\.tencentcos\.(cn|com(\.cn)?)$ @!cn          #首尔
-DOMAIN-SUFFIX, regexp:.+\.ap-bangkok\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #曼谷
-DOMAIN-SUFFIX, regexp:.+\.ap-tokyo\.tencentcos\.(cn|com(\.cn)?)$ @!cn          #东京
-DOMAIN-SUFFIX, regexp:.+\.na-siliconvalley\.tencentcos\.(cn|com(\.cn)?)$ @!cn  #硅谷（美西）
-DOMAIN-SUFFIX, regexp:.+\.na-ashburn\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #弗吉尼亚（美东）
-DOMAIN-SUFFIX, regexp:.+\.na-toronto\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #多伦多
-DOMAIN-SUFFIX, regexp:.+\.sa-saopaulo\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #圣保罗
-DOMAIN-SUFFIX, regexp:.+\.eu-frankfurt\.tencentcos\.(cn|com(\.cn)?)$ @!cn      #法兰克福
-DOMAIN-SUFFIX, regexp:.+\.eu-moscow\.tencentcos\.(cn|com(\.cn)?)$ @!cn         #莫斯科
+URL-REGEX, .+\.ap-hongkong\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.ap-singapore\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.ap-mumbai\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.ap-jakarta\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.ap-seoul\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.ap-bangkok\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.ap-tokyo\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.na-siliconvalley\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.na-ashburn\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.na-toronto\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.sa-saopaulo\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.eu-frankfurt\.tencentcos\.(cn|com(\.cn)?)$
+URL-REGEX, .+\.eu-moscow\.tencentcos\.(cn|com(\.cn)?)$
+
 # Formerly COS Download Domain
 DOMAIN-SUFFIX, costj.myqcloud.com                  #北京一区（华北）
 DOMAIN-SUFFIX, cosbj.myqcloud.com                  #北京
 DOMAIN-SUFFIX, cossh.myqcloud.com                  #上海（华东）
 DOMAIN-SUFFIX, cosgz.myqcloud.com                  #广州（华南）
 DOMAIN-SUFFIX, coscd.myqcloud.com                  #成都（西南）
-DOMAIN-SUFFIX, coshk.myqcloud.com @!cn             #中国香港
-DOMAIN-SUFFIX, cossgp.myqcloud.com @!cn            #新加坡
-DOMAIN-SUFFIX, cosca.myqcloud.com @!cn             #多伦多
-DOMAIN-SUFFIX, cosger.myqcloud.com @!cn            #法兰克福
+DOMAIN-SUFFIX, coshk.myqcloud.com
+DOMAIN-SUFFIX, cossgp.myqcloud.com
+DOMAIN-SUFFIX, cosca.myqcloud.com
+DOMAIN-SUFFIX, cosger.myqcloud.com
+
 # Formerly COS Upload Domain
 DOMAIN-SUFFIX, tj.file.myqcloud.com                #北京一区（华北）
 DOMAIN-SUFFIX, bj.file.myqcloud.com                #北京
 DOMAIN-SUFFIX, sh.file.myqcloud.com                #上海（华东）
 DOMAIN-SUFFIX, gz.file.myqcloud.com                #广州（华南）
 DOMAIN-SUFFIX, cd.file.myqcloud.com                #成都（西南）
-DOMAIN-SUFFIX, hk.file.myqcloud.com @!cn           #中国香港
-DOMAIN-SUFFIX, sgp.file.myqcloud.com @!cn          #新加坡
-DOMAIN-SUFFIX, ca.file.myqcloud.com @!cn           #多伦多
-DOMAIN-SUFFIX, ger.file.myqcloud.com @!cn          #法兰克福
+DOMAIN-SUFFIX, hk.file.myqcloud.com
+DOMAIN-SUFFIX, sgp.file.myqcloud.com
+DOMAIN-SUFFIX, ca.file.myqcloud.com
+DOMAIN-SUFFIX, ger.file.myqcloud.com
+
 # Oracle
 DOMAIN-SUFFIX, oracle-tencent.cn
 DOMAIN-SUFFIX, oracle-tencent.com
 DOMAIN-SUFFIX, oracle-tencent.com.cn
 DOMAIN-SUFFIX, oracle-tencent.net
 DOMAIN-SUFFIX, oracle-tencent.net.cn
+
 # 腾讯优码
 DOMAIN-SUFFIX, m1.run
 DOMAIN-SUFFIX, m6.run

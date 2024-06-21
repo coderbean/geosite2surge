@@ -1,3 +1,15 @@
+DOMAIN-SUFFIX, dawngate.com
+DOMAIN-SUFFIX, eastore.com
+DOMAIN-SUFFIX, lordofultima.com
+DOMAIN-SUFFIX, origin.com
+DOMAIN-SUFFIX, origin.tv
+
+DOMAIN, cloudsync-prod.s3.amazonaws.com
+DOMAIN, origin-a.akamaihd.net
+DOMAIN, rtm.tnt-ea.com
+DOMAIN, ssl-lvlt.cdn.ea.com
+
+
 DOMAIN-SUFFIX, awayoutgame.com
 DOMAIN-SUFFIX, battlefieldbadcompany2.com
 DOMAIN-SUFFIX, battlefront2.com
@@ -65,12 +77,15 @@ DOMAIN-SUFFIX, unravel2.com
 DOMAIN-SUFFIX, unraveltwo.com
 DOMAIN-SUFFIX, visceralgames.com
 DOMAIN-SUFFIX, yogify.com
+
 # Anthem
 DOMAIN-SUFFIX, anthemgame.com
 DOMAIN-SUFFIX, anthemthegame.com
+
 # Apex Legends
 DOMAIN-SUFFIX, apexlegends.com
 DOMAIN-SUFFIX, projectapex.com
+
 # Battle Log / Battlefield
 DOMAIN-SUFFIX, battlefield.com
 DOMAIN-SUFFIX, battlefield1943.com
@@ -80,16 +95,20 @@ DOMAIN-SUFFIX, battlefield5.com
 DOMAIN-SUFFIX, battlefieldheroes.com
 DOMAIN-SUFFIX, battlefieldv.com
 DOMAIN-SUFFIX, battlelog.com
+
 # Bioware
 DOMAIN-SUFFIX, bioware.com
 DOMAIN-SUFFIX, biowarestore.com
+
 # Broadsword
 DOMAIN-SUFFIX, eamythic.com
 DOMAIN-SUFFIX, eamythic.net
+
 # Command and Conquer
 DOMAIN-SUFFIX, cncrivals.com
 DOMAIN-SUFFIX, commandandconquer.com
 DOMAIN-SUFFIX, tiberiumalliances.com
+
 # Dark Age of Camelot
 DOMAIN-SUFFIX, camelot-europe.com
 DOMAIN-SUFFIX, camelotherald.com
@@ -97,30 +116,39 @@ DOMAIN-SUFFIX, camelotherald.net
 DOMAIN-SUFFIX, daoc.net
 DOMAIN-SUFFIX, darkageofcamelot.com
 DOMAIN-SUFFIX, darkness-risen.com
+
 # Dead Space
 DOMAIN-SUFFIX, deadspacegame.com
+
 # DICE
 DOMAIN-SUFFIX, dice.se
+
 # Dragon Age
 DOMAIN-SUFFIX, dragonage.com
 DOMAIN-SUFFIX, dragonagekeep.com
 DOMAIN-SUFFIX, dragonagemovie.com
 DOMAIN-SUFFIX, thedreadwolfrises.com
+
 # dungeonkeeper
 DOMAIN-SUFFIX, dungeonkeeper.cn
 DOMAIN-SUFFIX, dungeonkeeper.com
 DOMAIN-SUFFIX, dungeonkeeper.com.cn
+
 # FIFA
 DOMAIN-SUFFIX, eafootballworld.com
 DOMAIN-SUFFIX, fifastreet.com
 DOMAIN-SUFFIX, fifastreet3.com
+
 # Frost Bite
 DOMAIN-SUFFIX, frostbite.com
+
 # Industrial Toys
 DOMAIN-SUFFIX, industrialtoys.com
+
 # Mass Effect
 DOMAIN-SUFFIX, masseffect.com
 DOMAIN-SUFFIX, masseffectarchives.com
+
 # Mirror's Edge
 DOMAIN-SUFFIX, eamirrorsedge.com
 DOMAIN-SUFFIX, mirrorsedge.com
@@ -128,6 +156,7 @@ DOMAIN-SUFFIX, mirrorsedge.jp
 DOMAIN-SUFFIX, mirrorsedge.net
 DOMAIN-SUFFIX, mirrorsedge2.com
 DOMAIN-SUFFIX, mirrorsedge2d.com
+
 # Need For Speed
 DOMAIN-SUFFIX, blackboxgames.com
 DOMAIN-SUFFIX, eablackbox.com
@@ -147,19 +176,25 @@ DOMAIN-SUFFIX, needforspeedtimeattack.com
 DOMAIN-SUFFIX, needforspeedundergroundeast.com
 DOMAIN-SUFFIX, nfsworld.com
 DOMAIN-SUFFIX, teamneedforspeed.com
+
 # Plants VS Zombies
 DOMAIN-SUFFIX, plantsvszombies2.com
 DOMAIN-SUFFIX, pvzgw2.com
 DOMAIN-SUFFIX, pvzheroes.com
+
 # Sea of Solitude
 DOMAIN-SUFFIX, seaofsolitude.com
+
 # Simcity
 DOMAIN-SUFFIX, simcity-buildit.com
 DOMAIN-SUFFIX, simcity.com
+
 # Skate
 DOMAIN-SUFFIX, skate2.com
+
 # SPEARHEAD
 DOMAIN-SUFFIX, spearhead.kr
+
 # Star Wars
 DOMAIN-SUFFIX, starwarsfallenorder.com
 DOMAIN-SUFFIX, starwarsjedifallenorder.com
@@ -168,14 +203,17 @@ DOMAIN-SUFFIX, swjedifallenorder.com
 DOMAIN-SUFFIX, swjfo.com
 DOMAIN-SUFFIX, swtor.com
 DOMAIN-SUFFIX, swtor.net
+
 # The Sims
 DOMAIN-SUFFIX, mysims.com
 DOMAIN-SUFFIX, thesims.com
 DOMAIN-SUFFIX, thesims3.com
 DOMAIN-SUFFIX, thesims4.com
 DOMAIN-SUFFIX, thesimssocial.com
+
 # Titan Fall
 DOMAIN-SUFFIX, titanfall.com
+
 # Ultima Online
 DOMAIN-SUFFIX, mythicentertainment.com
 DOMAIN-SUFFIX, mythicentertainment.net
@@ -183,7 +221,9 @@ DOMAIN-SUFFIX, mythicgames.com
 DOMAIN-SUFFIX, ultimaonline.com
 DOMAIN-SUFFIX, uo.com
 DOMAIN-SUFFIX, uoherald.com
+
 # XDS
 DOMAIN-SUFFIX, xdsummit.com
-DOMAIN-SUFFIX, full:ea.tt.omtrdc.net
-DOMAIN-SUFFIX, full:eaassets-a.akamaihd.net
+
+DOMAIN, ea.tt.omtrdc.net
+DOMAIN, eaassets-a.akamaihd.net

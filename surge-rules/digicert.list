@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX, dcocsp.cn @cn
+DOMAIN-SUFFIX, dcocsp.cn
 DOMAIN-SUFFIX, digicert-cn.com # Not in Chinese Mainland
 DOMAIN-SUFFIX, digicert-validation.com
-DOMAIN-SUFFIX, digicert.cn @cn
+DOMAIN-SUFFIX, digicert.cn
 DOMAIN-SUFFIX, digicert.com
 DOMAIN-SUFFIX, digitalcertvalidation.com
 DOMAIN-SUFFIX, freessl.com
@@ -10,7 +10,9 @@ DOMAIN-SUFFIX, rapidssl.com
 DOMAIN-SUFFIX, thawte.com
 DOMAIN-SUFFIX, thawte.de
 DOMAIN-SUFFIX, thawte.fr
+
 # Quovadis
 DOMAIN-SUFFIX, quovadisglobal.com
+
 # Public Trust
 DOMAIN-SUFFIX, public-trust.com

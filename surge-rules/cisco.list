@@ -1,4 +1,24 @@
+DOMAIN-SUFFIX, webex.ca
+DOMAIN-SUFFIX, webex.co.in
+DOMAIN-SUFFIX, webex.co.it
+DOMAIN-SUFFIX, webex.co.jp
+DOMAIN-SUFFIX, webex.co.kr
+DOMAIN-SUFFIX, webex.co.nz
+DOMAIN-SUFFIX, webex.co.uk
+DOMAIN-SUFFIX, webex.com
+DOMAIN-SUFFIX, webex.com.au
+DOMAIN-SUFFIX, webex.com.br
+DOMAIN-SUFFIX, webex.com.cn
+DOMAIN-SUFFIX, webex.com.hk
+DOMAIN-SUFFIX, webex.com.mx
+DOMAIN-SUFFIX, webex.de
+DOMAIN-SUFFIX, webex.es
+DOMAIN-SUFFIX, webex.fr
+
+
 # All .cisco domains
+DOMAIN-SUFFIX, cisco
+
 DOMAIN-SUFFIX, academynetriders.com
 DOMAIN-SUFFIX, cciernslabs.com
 DOMAIN-SUFFIX, cciesecuritylabs.com
@@ -6,9 +26,9 @@ DOMAIN-SUFFIX, ccievoicelabs.com
 DOMAIN-SUFFIX, ccna5.net
 DOMAIN-SUFFIX, cisco-returns.com
 DOMAIN-SUFFIX, cisco-warrantyfinder.com
-DOMAIN-SUFFIX, cisco.cn @cn
+DOMAIN-SUFFIX, cisco.cn
 DOMAIN-SUFFIX, cisco.com
-DOMAIN-SUFFIX, cisco.com.cn @cn
+DOMAIN-SUFFIX, cisco.com.cn
 DOMAIN-SUFFIX, cisco.mobi
 DOMAIN-SUFFIX, ciscoccservice.com
 DOMAIN-SUFFIX, ciscoconnectcloud.com
@@ -67,7 +87,7 @@ DOMAIN-SUFFIX, mysdn.info
 DOMAIN-SUFFIX, mysdn.net
 DOMAIN-SUFFIX, netacad.com
 DOMAIN-SUFFIX, netacad.net
-DOMAIN-SUFFIX, network-auth.cn @cn
+DOMAIN-SUFFIX, network-auth.cn
 DOMAIN-SUFFIX, observable.net
 DOMAIN-SUFFIX, obsrvbl.com
 DOMAIN-SUFFIX, parstream.com
@@ -84,6 +104,7 @@ DOMAIN-SUFFIX, wballiance.com
 DOMAIN-SUFFIX, whyiwantciscotelepresence.com
 DOMAIN-SUFFIX, wifi-mx.com
 DOMAIN-SUFFIX, youtubecisco.com
+
 # App Dynamic
 DOMAIN-SUFFIX, app-dynamics.com
 DOMAIN-SUFFIX, appdynamics.co.uk
@@ -93,13 +114,16 @@ DOMAIN-SUFFIX, appdynamics.fr
 DOMAIN-SUFFIX, appdynamics.info
 DOMAIN-SUFFIX, appdynamics.jp
 DOMAIN-SUFFIX, appdynamics.org
+
 # Meraki Go
 DOMAIN-SUFFIX, mearki.com
 DOMAIN-SUFFIX, meraki-go.com
 DOMAIN-SUFFIX, meraki.hk
 DOMAIN-SUFFIX, merakigo.com
+
 # Tail-f
 DOMAIN-SUFFIX, tail-f.com
 DOMAIN-SUFFIX, tailf.com
-DOMAIN-SUFFIX, full:cisco.evergage.com
-DOMAIN-SUFFIX, full:ciscolivehls-i.akamaihd.net
+
+DOMAIN, cisco.evergage.com
+DOMAIN, ciscolivehls-i.akamaihd.net

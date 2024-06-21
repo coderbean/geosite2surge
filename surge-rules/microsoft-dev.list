@@ -15,8 +15,8 @@ DOMAIN-SUFFIX, microbit.org
 DOMAIN-SUFFIX, microsoftadc.com
 DOMAIN-SUFFIX, microsoftgamestack.com
 DOMAIN-SUFFIX, microsoftiotinsiderlabs.com
-DOMAIN-SUFFIX, microsoftreactor.cn @cn
-DOMAIN-SUFFIX, microsoftreactor.com.cn @cn
+DOMAIN-SUFFIX, microsoftreactor.cn
+DOMAIN-SUFFIX, microsoftreactor.com.cn
 DOMAIN-SUFFIX, microsoftreactor.info
 DOMAIN-SUFFIX, microsoftreactor.net
 DOMAIN-SUFFIX, microsoftreactor.org
@@ -35,7 +35,7 @@ DOMAIN-SUFFIX, nugettest.org
 DOMAIN-SUFFIX, opentranslatorstothings.org
 DOMAIN-SUFFIX, poshtestgallery.com
 DOMAIN-SUFFIX, pwabuilder.com
-DOMAIN-SUFFIX, reactorms.com.cn @cn
+DOMAIN-SUFFIX, reactorms.com.cn
 DOMAIN-SUFFIX, sankie.net
 DOMAIN-SUFFIX, sqlserveronlinux.com
 DOMAIN-SUFFIX, timelinestoryteller.com
@@ -53,18 +53,19 @@ DOMAIN-SUFFIX, vscode.dev
 DOMAIN-SUFFIX, vscode-cdn.net
 DOMAIN-SUFFIX, vscode-unpkg.net
 DOMAIN-SUFFIX, xamarin.com
-DOMAIN-SUFFIX, full:az764295.vo.msecnd.net
-DOMAIN-SUFFIX, full:bingsettingssearch.trafficmanager.net
-DOMAIN-SUFFIX, full:default.exp-tas.com
-DOMAIN-SUFFIX, full:developer.microsoft.com
-DOMAIN-SUFFIX, full:download.visualstudio.microsoft.com
-DOMAIN-SUFFIX, full:dtlgalleryint.cloudapp.net
-DOMAIN-SUFFIX, full:poshtestgallery.cloudapp.net
-DOMAIN-SUFFIX, full:psg-int-centralus.cloudapp.net
-DOMAIN-SUFFIX, full:psg-int-eastus.cloudapp.net
-DOMAIN-SUFFIX, full:rink.hockeyapp.net
-DOMAIN-SUFFIX, full:vscode-sync-insiders.trafficmanager.net
-DOMAIN-SUFFIX, full:vscode-sync.trafficmanager.net
-DOMAIN-SUFFIX, full:vscode.blob.core.windows.net
-DOMAIN-SUFFIX, full:vscode.search.windows.net
-DOMAIN-SUFFIX, full:vsmarketplacebadge.apphb.com
+
+DOMAIN, az764295.vo.msecnd.net
+DOMAIN, bingsettingssearch.trafficmanager.net
+DOMAIN, default.exp-tas.com
+DOMAIN, developer.microsoft.com
+DOMAIN, download.visualstudio.microsoft.com
+DOMAIN, dtlgalleryint.cloudapp.net
+DOMAIN, poshtestgallery.cloudapp.net
+DOMAIN, psg-int-centralus.cloudapp.net
+DOMAIN, psg-int-eastus.cloudapp.net
+DOMAIN, rink.hockeyapp.net
+DOMAIN, vscode-sync-insiders.trafficmanager.net
+DOMAIN, vscode-sync.trafficmanager.net
+DOMAIN, vscode.blob.core.windows.net
+DOMAIN, vscode.search.windows.net
+DOMAIN, vsmarketplacebadge.apphb.com

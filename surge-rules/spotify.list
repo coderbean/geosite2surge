@@ -11,11 +11,12 @@ DOMAIN-SUFFIX, spotifycharts.com
 DOMAIN-SUFFIX, spotifycodes.com
 DOMAIN-SUFFIX, spotifyforbrands.com
 DOMAIN-SUFFIX, spotifyjobs.com
-DOMAIN-SUFFIX, full:audio-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX, full:audio4-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX, full:cdn-spotify-experiments.conductrics.com
-DOMAIN-SUFFIX, full:heads-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX, full:heads4-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX, full:spotify.com.edgesuite.net
-DOMAIN-SUFFIX, full:spotify.map.fastly.net
-DOMAIN-SUFFIX, full:spotify.map.fastlylb.net
+
+DOMAIN, audio-ak-spotify-com.akamaized.net
+DOMAIN, audio4-ak-spotify-com.akamaized.net
+DOMAIN, cdn-spotify-experiments.conductrics.com
+DOMAIN, heads-ak-spotify-com.akamaized.net
+DOMAIN, heads4-ak-spotify-com.akamaized.net
+DOMAIN, spotify.com.edgesuite.net
+DOMAIN, spotify.map.fastly.net
+DOMAIN, spotify.map.fastlylb.net

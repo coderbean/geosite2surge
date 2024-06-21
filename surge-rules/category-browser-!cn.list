@@ -1,6 +1,18 @@
+DOMAIN-SUFFIX, censorship.no
+
+DOMAIN-SUFFIX, epicbrowser.com
+
+DOMAIN-SUFFIX, firefox.com
+DOMAIN-SUFFIX, firefoxusercontent.com
+
+DOMAIN-SUFFIX, torproject.org
+
+
 # chromium
+DOMAIN-SUFFIX, chrome
 DOMAIN-SUFFIX, chrome.com
 DOMAIN-SUFFIX, chromium.org
+
 DOMAIN-SUFFIX, basilisk-browser.org
 DOMAIN-SUFFIX, brave.com
 DOMAIN-SUFFIX, bromite.org

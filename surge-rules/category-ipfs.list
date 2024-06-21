@@ -1,4 +1,9 @@
 # Reference: https://ipfs.github.io/public-gateway-checker/
+
+DOMAIN-SUFFIX, cf-ipfs.com
+DOMAIN-SUFFIX, cloudflare-ipfs.com
+
+
 DOMAIN-SUFFIX, 4everland.io
 DOMAIN-SUFFIX, c4rex.co
 DOMAIN-SUFFIX, crustwebsites.net

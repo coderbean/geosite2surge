@@ -2,5 +2,6 @@ DOMAIN-SUFFIX, mypikpak.com
 DOMAIN-SUFFIX, mypikpak.net
 DOMAIN-SUFFIX, pikpak.me
 DOMAIN-SUFFIX, pikpakdrive.com
+
 # tracking
-DOMAIN-SUFFIX, full:o4504926511693824.ingest.sentry.io @ads
+DOMAIN, o4504926511693824.ingest.sentry.io

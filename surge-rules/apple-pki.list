@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX, full:certs-lb.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:certs.apple.com @cn
-DOMAIN-SUFFIX, full:crl-lb.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:crl.apple.com @cn
-DOMAIN-SUFFIX, full:ocsp-lb.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:ocsp.apple.com @cn
-DOMAIN-SUFFIX, full:ocsp2-lb.apple.com.akadns.net @cn
-DOMAIN-SUFFIX, full:ocsp2.apple.com @cn
+DOMAIN, certs-lb.apple.com.akadns.net
+DOMAIN, certs.apple.com
+DOMAIN, crl-lb.apple.com.akadns.net
+DOMAIN, crl.apple.com
+DOMAIN, ocsp-lb.apple.com.akadns.net
+DOMAIN, ocsp.apple.com
+DOMAIN, ocsp2-lb.apple.com.akadns.net
+DOMAIN, ocsp2.apple.com

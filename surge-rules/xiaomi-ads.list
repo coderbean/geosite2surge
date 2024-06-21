@@ -1,15 +1,15 @@
-DOMAIN-SUFFIX, a.market.xiaomi.com @ads
-DOMAIN-SUFFIX, ad.intl.xiaomi.com @ads
-DOMAIN-SUFFIX, ad.mi.com @ads
-DOMAIN-SUFFIX, ad.xiaomi.com @ads
-DOMAIN-SUFFIX, ad1.xiaomi.com @ads
-DOMAIN-SUFFIX, admob.xiaomi.com @ads
-DOMAIN-SUFFIX, adv.sec.intl.miui.com @ads
-DOMAIN-SUFFIX, adv.sec.miui.com @ads
-DOMAIN-SUFFIX, misc.in.duokanbox.com @ads
-DOMAIN-SUFFIX, mistat.xiaomi.com @ads
-DOMAIN-SUFFIX, sentry.d.mi.com @ads
-DOMAIN-SUFFIX, sentry.d.xiaomi.net @ads
-DOMAIN-SUFFIX, tjqonline.cn @ads
-DOMAIN-SUFFIX, tracker.ai.xiaomi.com @ads
-DOMAIN-SUFFIX, tracking.miui.com @ads
+DOMAIN-SUFFIX, a.market.xiaomi.com
+DOMAIN-SUFFIX, ad.intl.xiaomi.com
+DOMAIN-SUFFIX, ad.mi.com
+DOMAIN-SUFFIX, ad.xiaomi.com
+DOMAIN-SUFFIX, ad1.xiaomi.com
+DOMAIN-SUFFIX, admob.xiaomi.com
+DOMAIN-SUFFIX, adv.sec.intl.miui.com
+DOMAIN-SUFFIX, adv.sec.miui.com
+DOMAIN-SUFFIX, misc.in.duokanbox.com
+DOMAIN-SUFFIX, mistat.xiaomi.com
+DOMAIN-SUFFIX, sentry.d.mi.com
+DOMAIN-SUFFIX, sentry.d.xiaomi.net
+DOMAIN-SUFFIX, tjqonline.cn
+DOMAIN-SUFFIX, tracker.ai.xiaomi.com
+DOMAIN-SUFFIX, tracking.miui.com

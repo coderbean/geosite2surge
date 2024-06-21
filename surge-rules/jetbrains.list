@@ -7,6 +7,6 @@ DOMAIN-SUFFIX, jetbrains.space
 DOMAIN-SUFFIX, jetbrains.team
 DOMAIN-SUFFIX, datalore.io
 DOMAIN-SUFFIX, kotlinlang.org
-DOMAIN-SUFFIX, cdn.jetbrains.com @cn
-DOMAIN-SUFFIX, download-cdn.jetbrains.com.cn @cn
+DOMAIN-SUFFIX, cdn.jetbrains.com
+DOMAIN-SUFFIX, download-cdn.jetbrains.com.cn
 DOMAIN-SUFFIX, jb.gg

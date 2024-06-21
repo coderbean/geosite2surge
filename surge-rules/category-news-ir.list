@@ -1,4 +1,5 @@
-# Iranian news websites 
+# Iranian news websites
+
 # News
 DOMAIN-SUFFIX, aftabnews.ir
 DOMAIN-SUFFIX, alef.ir
@@ -36,6 +37,7 @@ DOMAIN-SUFFIX, tabnak.ir
 DOMAIN-SUFFIX, tasnimnews.com
 DOMAIN-SUFFIX, tejaratnews.com
 DOMAIN-SUFFIX, yjc.ir
+
 # Newspapers
 DOMAIN-SUFFIX, 7sobh.com
 DOMAIN-SUFFIX, abrarnews.com

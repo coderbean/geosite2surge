@@ -1,96 +1,107 @@
-DOMAIN-SUFFIX, battlecare.net @cn
-DOMAIN-SUFFIX, gameitop.com @cn
-DOMAIN-SUFFIX, gameloop.com @cn
-DOMAIN-SUFFIX, gcloudcs.com @cn
-DOMAIN-SUFFIX, gcloudcstest.com @cn
-DOMAIN-SUFFIX, gcloudcstestonly.com @cn
-DOMAIN-SUFFIX, gclouddolphin.com @cn
-DOMAIN-SUFFIX, gcloudsdk.com @cn
-DOMAIN-SUFFIX, gdtimg.com @cn
-DOMAIN-SUFFIX, goto-game.com @cn
-DOMAIN-SUFFIX, goto-game.mobi @cn
-DOMAIN-SUFFIX, goto-game.net.cn @cn
-DOMAIN-SUFFIX, goto-game.org @cn
-DOMAIN-SUFFIX, happyhlddz.com @cn
-DOMAIN-SUFFIX, hdyxgame.com @cn
-DOMAIN-SUFFIX, hkgcloudcs.com @cn
-DOMAIN-SUFFIX, ihappystudio.cn @cn
-DOMAIN-SUFFIX, ihappystudio.com @cn
-DOMAIN-SUFFIX, in.th @cn
-DOMAIN-SUFFIX, ludosuperstar.cn @cn
-DOMAIN-SUFFIX, ludoworld.net @cn
-DOMAIN-SUFFIX, mahjongai.net @cn
-DOMAIN-SUFFIX, mahjongcup.cn @cn
-DOMAIN-SUFFIX, mahjongcup.com @cn
-DOMAIN-SUFFIX, mahjongcup.net @cn
-DOMAIN-SUFFIX, metalrevolution.com @cn
-DOMAIN-SUFFIX, midasbuy.com @cn
-DOMAIN-SUFFIX, nagcloudcs.com @cn
-DOMAIN-SUFFIX, proximabeta.com @cn
-DOMAIN-SUFFIX, pubghelper.com @cn
-DOMAIN-SUFFIX, pubgno1.cn @cn
-DOMAIN-SUFFIX, pubgtool.com @cn
-DOMAIN-SUFFIX, qqgameapp.com @cn
-DOMAIN-SUFFIX, rmwxgame.com @cn
-DOMAIN-SUFFIX, skydweller.cn @cn
-DOMAIN-SUFFIX, syxlgame.com @cn
-DOMAIN-SUFFIX, tencent-gcloud.com @cn
-DOMAIN-SUFFIX, tencentstart.com @cn
-DOMAIN-SUFFIX, texasholdemcup.cn @cn
-DOMAIN-SUFFIX, texasholdemcup.com @cn
-DOMAIN-SUFFIX, texasholdemcup.net @cn
-DOMAIN-SUFFIX, timibase.com @cn
-DOMAIN-SUFFIX, videoxiaoyouxi.com @cn
-DOMAIN-SUFFIX, wcbygame.com @cn
-DOMAIN-SUFFIX, yxdmgame.com @cn
-DOMAIN-SUFFIX, yximg.cn @cn
-DOMAIN-SUFFIX, yxwsgame.com @cn
-DOMAIN-SUFFIX, yzyxgame.com @cn
-DOMAIN-SUFFIX, zcjbgame.com @cn
-DOMAIN-SUFFIX, zhuoyuegame.com @cn
-DOMAIN-SUFFIX, xn--owtw8cc49ajfl.cn @cn #碧蓝幻想.cn
+DOMAIN-SUFFIX, battlecare.net
+DOMAIN-SUFFIX, gameitop.com
+DOMAIN-SUFFIX, gameloop.com
+DOMAIN-SUFFIX, gcloudcs.com
+DOMAIN-SUFFIX, gcloudcstest.com
+DOMAIN-SUFFIX, gcloudcstestonly.com
+DOMAIN-SUFFIX, gclouddolphin.com
+DOMAIN-SUFFIX, gcloudsdk.com
+DOMAIN-SUFFIX, gdtimg.com
+DOMAIN-SUFFIX, goto-game.com
+DOMAIN-SUFFIX, goto-game.mobi
+DOMAIN-SUFFIX, goto-game.net.cn
+DOMAIN-SUFFIX, goto-game.org
+DOMAIN-SUFFIX, happyhlddz.com
+DOMAIN-SUFFIX, hdyxgame.com
+DOMAIN-SUFFIX, hkgcloudcs.com
+DOMAIN-SUFFIX, ihappystudio.cn
+DOMAIN-SUFFIX, ihappystudio.com
+DOMAIN-SUFFIX, in.th
+DOMAIN-SUFFIX, ludosuperstar.cn
+DOMAIN-SUFFIX, ludoworld.net
+DOMAIN-SUFFIX, mahjongai.net
+DOMAIN-SUFFIX, mahjongcup.cn
+DOMAIN-SUFFIX, mahjongcup.com
+DOMAIN-SUFFIX, mahjongcup.net
+DOMAIN-SUFFIX, metalrevolution.com
+DOMAIN-SUFFIX, midasbuy.com
+DOMAIN-SUFFIX, nagcloudcs.com
+DOMAIN-SUFFIX, proximabeta.com
+DOMAIN-SUFFIX, pubghelper.com
+DOMAIN-SUFFIX, pubgno1.cn
+DOMAIN-SUFFIX, pubgtool.com
+DOMAIN-SUFFIX, qqgameapp.com
+DOMAIN-SUFFIX, rmwxgame.com
+DOMAIN-SUFFIX, skydweller.cn
+DOMAIN-SUFFIX, syxlgame.com
+DOMAIN-SUFFIX, tencent-gcloud.com
+DOMAIN-SUFFIX, tencentstart.com
+DOMAIN-SUFFIX, texasholdemcup.cn
+DOMAIN-SUFFIX, texasholdemcup.com
+DOMAIN-SUFFIX, texasholdemcup.net
+DOMAIN-SUFFIX, timibase.com
+DOMAIN-SUFFIX, videoxiaoyouxi.com
+DOMAIN-SUFFIX, wcbygame.com
+DOMAIN-SUFFIX, yxdmgame.com
+DOMAIN-SUFFIX, yximg.cn
+DOMAIN-SUFFIX, yxwsgame.com
+DOMAIN-SUFFIX, yzyxgame.com
+DOMAIN-SUFFIX, zcjbgame.com
+DOMAIN-SUFFIX, zhuoyuegame.com
+
+DOMAIN-SUFFIX, xn--owtw8cc49ajfl.cn
+
 # Roblox
-DOMAIN-SUFFIX, roblox.cn @cn
-DOMAIN-SUFFIX, roblox.qq.com @cn
-DOMAIN-SUFFIX, robloxdev.cn @cn
+DOMAIN-SUFFIX, roblox.cn
+DOMAIN-SUFFIX, roblox.qq.com
+DOMAIN-SUFFIX, robloxdev.cn
+
 # NExT Studios
-DOMAIN-SUFFIX, nextstudios.com @cn
-DOMAIN-SUFFIX, nextworkshop.net @cn
+DOMAIN-SUFFIX, nextstudios.com
+DOMAIN-SUFFIX, nextworkshop.net
+
 # 迷失之地
-DOMAIN-SUFFIX, mszdld.cn @cn
-DOMAIN-SUFFIX, mszdld.com @cn
-DOMAIN-SUFFIX, mszdld.net @cn
+DOMAIN-SUFFIX, mszdld.cn
+DOMAIN-SUFFIX, mszdld.com
+DOMAIN-SUFFIX, mszdld.net
+
 # 篝火营地
-DOMAIN-SUFFIX, gamebonfire.com @cn
-DOMAIN-SUFFIX, gouhuo.qq.com @cn
+DOMAIN-SUFFIX, gamebonfire.com
+DOMAIN-SUFFIX, gouhuo.qq.com
+
 # WeGame
-DOMAIN-SUFFIX, ffbuddy.com @cn
-DOMAIN-SUFFIX, gotolink.net @cn
-DOMAIN-SUFFIX, gtgres.com @cn
-DOMAIN-SUFFIX, realcybertron.com @cn
-DOMAIN-SUFFIX, wegame.com @cn
-DOMAIN-SUFFIX, wegame.com.cn @cn
-DOMAIN-SUFFIX, wegameplus.com @cn
-DOMAIN-SUFFIX, werepository.com.cn @cn
+DOMAIN-SUFFIX, ffbuddy.com
+DOMAIN-SUFFIX, gotolink.net
+DOMAIN-SUFFIX, gtgres.com
+DOMAIN-SUFFIX, realcybertron.com
+DOMAIN-SUFFIX, wegame.com
+DOMAIN-SUFFIX, wegame.com.cn
+DOMAIN-SUFFIX, wegameplus.com
+DOMAIN-SUFFIX, werepository.com.cn
+
 # Supercell
-DOMAIN-SUFFIX, brawlstars.cn @cn
-DOMAIN-SUFFIX, haydaypop.cn @cn
-DOMAIN-SUFFIX, labycore.cn @cn
-DOMAIN-SUFFIX, sccreator.cn @cn
-DOMAIN-SUFFIX, sccreators.cn @cn
-DOMAIN-SUFFIX, scescdn.cn @cn
-DOMAIN-SUFFIX, scid.cn @cn
-DOMAIN-SUFFIX, scsentry.cn @cn
-DOMAIN-SUFFIX, supercell.com @!cn
-DOMAIN-SUFFIX, supercellcommunity.cn @cn
-DOMAIN-SUFFIX, supercellsupport.cn @cn
+DOMAIN-SUFFIX, brawlstars.cn
+DOMAIN-SUFFIX, haydaypop.cn
+DOMAIN-SUFFIX, labycore.cn
+DOMAIN-SUFFIX, sccreator.cn
+DOMAIN-SUFFIX, sccreators.cn
+DOMAIN-SUFFIX, scescdn.cn
+DOMAIN-SUFFIX, scid.cn
+DOMAIN-SUFFIX, scsentry.cn
+DOMAIN-SUFFIX, supercell.com
+DOMAIN-SUFFIX, supercellcommunity.cn
+DOMAIN-SUFFIX, supercellsupport.cn
+
 # 使命召唤
-DOMAIN-SUFFIX, codm.com @cn
+DOMAIN-SUFFIX, codm.com
+
 # 穿越火线
-DOMAIN-SUFFIX, bcfmglobal.com @cn
-DOMAIN-SUFFIX, tcfmglobal.com @cn
+DOMAIN-SUFFIX, bcfmglobal.com
+DOMAIN-SUFFIX, tcfmglobal.com
+
 # 腾讯游戏安全专家
-DOMAIN-SUFFIX, anticheatexpert.com @cn
+DOMAIN-SUFFIX, anticheatexpert.com
+
 # 洛克王国
-DOMAIN-SUFFIX, 17roco.com @cn
-DOMAIN-SUFFIX, roco.qq.com @cn
+DOMAIN-SUFFIX, 17roco.com
+DOMAIN-SUFFIX, roco.qq.com

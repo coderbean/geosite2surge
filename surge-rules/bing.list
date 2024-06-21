@@ -1,6 +1,8 @@
 # All .bing domains
+DOMAIN-SUFFIX, bing
+
 DOMAIN-SUFFIX, bing.com
-DOMAIN-SUFFIX, bing.com.cn @cn
+DOMAIN-SUFFIX, bing.com.cn
 DOMAIN-SUFFIX, bing.net
 DOMAIN-SUFFIX, bing123.com
 DOMAIN-SUFFIX, bingads.com
@@ -26,10 +28,12 @@ DOMAIN-SUFFIX, office365love.com
 DOMAIN-SUFFIX, office365tw.com
 DOMAIN-SUFFIX, renovacionoffice.com
 DOMAIN-SUFFIX, sprinklesapp.com
-DOMAIN-SUFFIX, full:location.microsoft.com
-DOMAIN-SUFFIX, cn.bing.com @cn
-DOMAIN-SUFFIX, cn.bing.net @cn
-DOMAIN-SUFFIX, cn.mm.bing.net @cn
-DOMAIN-SUFFIX, ditu.live.com @cn
-DOMAIN-SUFFIX, full:bj1.api.bing.com @cn
-DOMAIN-SUFFIX, full:emoi-cncdn.bing.com @cn
+
+DOMAIN, location.microsoft.com
+
+DOMAIN-SUFFIX, cn.bing.com
+DOMAIN-SUFFIX, cn.bing.net
+DOMAIN-SUFFIX, cn.mm.bing.net
+DOMAIN-SUFFIX, ditu.live.com
+DOMAIN, bj1.api.bing.com
+DOMAIN, emoi-cncdn.bing.com

@@ -15,4 +15,5 @@ DOMAIN-SUFFIX, dropboxpartners.com
 DOMAIN-SUFFIX, dropboxstatic.com
 DOMAIN-SUFFIX, dropboxusercontent.com
 DOMAIN-SUFFIX, getdropbox.com
-DOMAIN-SUFFIX, full:paper-attachments.s3.amazonaws.com
+
+DOMAIN, paper-attachments.s3.amazonaws.com

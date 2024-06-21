@@ -5,9 +5,11 @@ DOMAIN-SUFFIX, licdn.com
 DOMAIN-SUFFIX, linkedin.at
 DOMAIN-SUFFIX, linkedin.com
 DOMAIN-SUFFIX, lnkd.in
-DOMAIN-SUFFIX, licdn.cn @cn
-DOMAIN-SUFFIX, linkedin.cn @cn
+
+DOMAIN-SUFFIX, licdn.cn
+DOMAIN-SUFFIX, linkedin.cn
+
 # platform domain
-DOMAIN-SUFFIX, full:e122475.dscg.akamaiedge.net
-DOMAIN-SUFFIX, full:licdn.cn.cdn20.com
-DOMAIN-SUFFIX, full:linkedin.sc.omtrdc.net
+DOMAIN, e122475.dscg.akamaiedge.net
+DOMAIN, licdn.cn.cdn20.com
+DOMAIN, linkedin.sc.omtrdc.net

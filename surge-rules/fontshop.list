@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX, fontbook.com
 DOMAIN-SUFFIX, fontshop.com
 DOMAIN-SUFFIX, fstopimages.com
-DOMAIN-SUFFIX, full:fontshop-prod-responsive-images.s3.amazonaws.com
+
+DOMAIN, fontshop-prod-responsive-images.s3.amazonaws.com

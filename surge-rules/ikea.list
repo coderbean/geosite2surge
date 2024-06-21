@@ -8,7 +8,7 @@ DOMAIN-SUFFIX, ikea.bh
 DOMAIN-SUFFIX, ikea.ca
 DOMAIN-SUFFIX, ikea.ch
 DOMAIN-SUFFIX, ikea.cl
-DOMAIN-SUFFIX, ikea.cn @cn
+DOMAIN-SUFFIX, ikea.cn
 DOMAIN-SUFFIX, ikea.co.at
 DOMAIN-SUFFIX, ikea.co.ca
 DOMAIN-SUFFIX, ikea.co.de
@@ -86,11 +86,12 @@ DOMAIN-SUFFIX, ikea.si
 DOMAIN-SUFFIX, ikea.sk
 DOMAIN-SUFFIX, ikea.ua
 DOMAIN-SUFFIX, ikea.us
+
 DOMAIN-SUFFIX, ikea.com
 DOMAIN-SUFFIX, ikea.net
-DOMAIN-SUFFIX, ingka-dt.cn @cn
-DOMAIN-SUFFIX, ingka-internal.cn @cn
-DOMAIN-SUFFIX, ingka-system.cn @cn
+DOMAIN-SUFFIX, ingka-dt.cn
+DOMAIN-SUFFIX, ingka-internal.cn
+DOMAIN-SUFFIX, ingka-system.cn
 DOMAIN-SUFFIX, ingka.com
 DOMAIN-SUFFIX, ingka.dev
 DOMAIN-SUFFIX, ingkacentres.com

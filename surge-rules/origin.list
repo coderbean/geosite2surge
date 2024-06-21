@@ -3,7 +3,8 @@ DOMAIN-SUFFIX, eastore.com
 DOMAIN-SUFFIX, lordofultima.com
 DOMAIN-SUFFIX, origin.com
 DOMAIN-SUFFIX, origin.tv
-DOMAIN-SUFFIX, full:cloudsync-prod.s3.amazonaws.com
-DOMAIN-SUFFIX, full:origin-a.akamaihd.net
-DOMAIN-SUFFIX, full:rtm.tnt-ea.com
-DOMAIN-SUFFIX, full:ssl-lvlt.cdn.ea.com
+
+DOMAIN, cloudsync-prod.s3.amazonaws.com
+DOMAIN, origin-a.akamaihd.net
+DOMAIN, rtm.tnt-ea.com
+DOMAIN, ssl-lvlt.cdn.ea.com

@@ -1,13 +1,13 @@
 DOMAIN-SUFFIX, nurofen.at
 DOMAIN-SUFFIX, nurofen.bg
-DOMAIN-SUFFIX, nurofen.cn @cn
+DOMAIN-SUFFIX, nurofen.cn
 DOMAIN-SUFFIX, nurofen.co.il
 DOMAIN-SUFFIX, nurofen.co.nz
 DOMAIN-SUFFIX, nurofen.co.uk
 DOMAIN-SUFFIX, nurofen.co.za
 DOMAIN-SUFFIX, nurofen.com
 DOMAIN-SUFFIX, nurofen.com.au
-DOMAIN-SUFFIX, nurofen.com.cn @cn
+DOMAIN-SUFFIX, nurofen.com.cn
 DOMAIN-SUFFIX, nurofen.com.sg
 DOMAIN-SUFFIX, nurofen.cz
 DOMAIN-SUFFIX, nurofen.de
@@ -25,4 +25,5 @@ DOMAIN-SUFFIX, nurofen.ro
 DOMAIN-SUFFIX, nurofen.sk
 DOMAIN-SUFFIX, nurofen.ru
 DOMAIN-SUFFIX, nurofengel.com
-DOMAIN-SUFFIX, full:nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
+
+DOMAIN, nurofensk-prod-env.eu-west-1.elasticbeanstalk.com

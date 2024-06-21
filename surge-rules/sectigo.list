@@ -1,16 +1,17 @@
 DOMAIN-SUFFIX, enterprisessl.com
 DOMAIN-SUFFIX, hackerguardian.com
 DOMAIN-SUFFIX, instantssl.com
-DOMAIN-SUFFIX, oemssl.cn @cn
-DOMAIN-SUFFIX, oemssl.cn.cdn.cloudflare.net @cn
+DOMAIN-SUFFIX, oemssl.cn
+DOMAIN-SUFFIX, oemssl.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX, optimumssl.com
 DOMAIN-SUFFIX, positivessl.com
 DOMAIN-SUFFIX, sectigo.com
-DOMAIN-SUFFIX, sectigochina.com @cn
-DOMAIN-SUFFIX, sectigochina.com.cdn.cloudflare.net @cn
-DOMAIN-SUFFIX, trust-provider.cn @cn
+DOMAIN-SUFFIX, sectigochina.com
+DOMAIN-SUFFIX, sectigochina.com.cdn.cloudflare.net
+DOMAIN-SUFFIX, trust-provider.cn
 DOMAIN-SUFFIX, trust-provider.com
 DOMAIN-SUFFIX, usertrust.com
+
 # Sub brand
 DOMAIN-SUFFIX, aoc.cat
 DOMAIN-SUFFIX, catcert.cat

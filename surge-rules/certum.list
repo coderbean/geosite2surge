@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX, certum.pl
 DOMAIN-SUFFIX, ocsp-certum.com
+
 # Sub brand
 DOMAIN-SUFFIX, ocsp-responder.com # Yandex

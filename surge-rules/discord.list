@@ -19,12 +19,15 @@ DOMAIN-SUFFIX, discordmerch.com
 DOMAIN-SUFFIX, discordpartygames.com
 DOMAIN-SUFFIX, discordsays.com
 DOMAIN-SUFFIX, discordstatus.com
+
 # Other
 DOMAIN-SUFFIX, airhorn.solutions
 DOMAIN-SUFFIX, airhornbot.com
 DOMAIN-SUFFIX, bigbeans.solutions
 DOMAIN-SUFFIX, watchanimeattheoffice.com
+
 # Unused
 DOMAIN-SUFFIX, discordapp.io
 DOMAIN-SUFFIX, discordcdn.com
-DOMAIN-SUFFIX, full:hammerandchisel.ssl.zendesk.com
+
+DOMAIN, hammerandchisel.ssl.zendesk.com

@@ -1,4 +1,6 @@
 # All .volvo domains
+DOMAIN-SUFFIX, volvo
+
 DOMAIN-SUFFIX, dynafleetonline.com
 DOMAIN-SUFFIX, escandinavia-arg.com
 DOMAIN-SUFFIX, independentoperatorcn.com
@@ -15,7 +17,7 @@ DOMAIN-SUFFIX, vfsco.co.za
 DOMAIN-SUFFIX, vfsco.com
 DOMAIN-SUFFIX, vfsco.com.au
 DOMAIN-SUFFIX, vfsco.com.br
-DOMAIN-SUFFIX, vfsco.com.cn @cn
+DOMAIN-SUFFIX, vfsco.com.cn
 DOMAIN-SUFFIX, vfsco.com.tr
 DOMAIN-SUFFIX, vfsco.cz
 DOMAIN-SUFFIX, vfsco.de
@@ -45,9 +47,9 @@ DOMAIN-SUFFIX, vfsco.us
 DOMAIN-SUFFIX, vgcareers.net
 DOMAIN-SUFFIX, volvo-truck.nl
 DOMAIN-SUFFIX, volvo.ca
-DOMAIN-SUFFIX, volvo.cn @cn
+DOMAIN-SUFFIX, volvo.cn
 DOMAIN-SUFFIX, volvo.com
-DOMAIN-SUFFIX, volvo.com.cn @cn
+DOMAIN-SUFFIX, volvo.com.cn
 DOMAIN-SUFFIX, volvo.se
 DOMAIN-SUFFIX, volvobrandshop.com
 DOMAIN-SUFFIX, volvobuses.at
@@ -92,10 +94,10 @@ DOMAIN-SUFFIX, volvobuses.us
 DOMAIN-SUFFIX, volvoce.com
 DOMAIN-SUFFIX, volvodefense.com
 DOMAIN-SUFFIX, volvogroup.be
-DOMAIN-SUFFIX, volvogroup.cn @cn
+DOMAIN-SUFFIX, volvogroup.cn
 DOMAIN-SUFFIX, volvogroup.com
 DOMAIN-SUFFIX, volvogroup.com.br
-DOMAIN-SUFFIX, volvogroup.com.cn @cn
+DOMAIN-SUFFIX, volvogroup.com.cn
 DOMAIN-SUFFIX, volvogroup.de
 DOMAIN-SUFFIX, volvogroup.fr
 DOMAIN-SUFFIX, volvogroup.jp
@@ -145,7 +147,7 @@ DOMAIN-SUFFIX, volvotrucks.com.ar
 DOMAIN-SUFFIX, volvotrucks.com.au
 DOMAIN-SUFFIX, volvotrucks.com.bn
 DOMAIN-SUFFIX, volvotrucks.com.br
-DOMAIN-SUFFIX, volvotrucks.com.cn @cn
+DOMAIN-SUFFIX, volvotrucks.com.cn
 DOMAIN-SUFFIX, volvotrucks.com.co
 DOMAIN-SUFFIX, volvotrucks.com.kw
 DOMAIN-SUFFIX, volvotrucks.com.pt
@@ -208,5 +210,6 @@ DOMAIN-SUFFIX, volvotruckcenter.nl
 DOMAIN-SUFFIX, volvotruckcenter.no
 DOMAIN-SUFFIX, volvotruckcenter.se
 DOMAIN-SUFFIX, volvotruckrental.be
+
 # UD Trucks
 DOMAIN-SUFFIX, udtrucksmeena.com

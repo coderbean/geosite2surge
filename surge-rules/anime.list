@@ -3,23 +3,32 @@ DOMAIN-SUFFIX, 9anime.cz
 DOMAIN-SUFFIX, 9anime.id
 DOMAIN-SUFFIX, 9anime.to
 DOMAIN-SUFFIX, 9anime.ws
+
 # animedao
 DOMAIN-SUFFIX, animedao-tv.com
+
 # crunchyroll
 DOMAIN-SUFFIX, crunchyroll.com
+
 # funimation
 DOMAIN-SUFFIX, funimation.com
+
 # Gogoanime related site
 DOMAIN-SUFFIX, gogo-load.com
+
 # Gogoanime official sites
 DOMAIN-SUFFIX, gogoanime.vc
 DOMAIN-SUFFIX, gogoanime.wiki
+
 # Gogoanime image hosting  site
 DOMAIN-SUFFIX, gogocdn.net
+
 # hidive
 DOMAIN-SUFFIX, hidive.com
+
 # vrv
 DOMAIN-SUFFIX, vrv.co
+
 # agefans
 DOMAIN-SUFFIX, age.tv
 DOMAIN-SUFFIX, agedm.org

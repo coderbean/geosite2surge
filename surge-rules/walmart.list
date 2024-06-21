@@ -1,9 +1,11 @@
 # All .walmart domains
+DOMAIN-SUFFIX, walmart
+
 DOMAIN-SUFFIX, w-mt.co
 DOMAIN-SUFFIX, wal-mart.com
 DOMAIN-SUFFIX, wal.co
 DOMAIN-SUFFIX, walmart-content.com
-DOMAIN-SUFFIX, walmart.cn @cn
+DOMAIN-SUFFIX, walmart.cn
 DOMAIN-SUFFIX, walmart.com
 DOMAIN-SUFFIX, walmart.pharmacy
 DOMAIN-SUFFIX, walmartimages.com

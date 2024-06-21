@@ -12,6 +12,7 @@ DOMAIN-SUFFIX, wikivoyage.org
 DOMAIN-SUFFIX, wiktionary.org
 DOMAIN-SUFFIX, wmfusercontent.org
 DOMAIN-SUFFIX, w.wiki
+
 # Wikimedia Cloud Services
 DOMAIN-SUFFIX, toolforge.org
 DOMAIN-SUFFIX, wikimediacloud.org

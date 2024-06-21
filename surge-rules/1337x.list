@@ -1,5 +1,6 @@
 # Main domain
 DOMAIN-SUFFIX, 1337x.to
+
 # Mirror domains
 # Reference: https://1337x.to/about
 DOMAIN-SUFFIX, 1337x.gd

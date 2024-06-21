@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX, onekey-asset.com
 DOMAIN-SUFFIX, onekey.so
 DOMAIN-SUFFIX, onekeycn.com
-DOMAIN-SUFFIX, full:onekey.zendesk.com
+
+DOMAIN, onekey.zendesk.com

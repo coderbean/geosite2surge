@@ -1,10 +1,12 @@
 # 本项目不对金融机构提供任何保证或担保
 # The project does not provide any guarantees or warranties to financial institutions.
+
 # Stock Exchange 证券交易所
 DOMAIN-SUFFIX, sse.com.cn
 DOMAIN-SUFFIX, sseinfo.com
 DOMAIN-SUFFIX, szse.cn
 DOMAIN-SUFFIX, cninfo.com.cn
+
 # Securities Company 证券公司
 DOMAIN-SUFFIX, ajzq.com
 DOMAIN-SUFFIX, avicsec.com
@@ -104,6 +106,7 @@ DOMAIN-SUFFIX, zdzq.com.cn
 DOMAIN-SUFFIX, zszq.com
 DOMAIN-SUFFIX, ztfsec.com
 DOMAIN-SUFFIX, zts.com.cn
+
 # Public Fund Company 公募基金公司
 DOMAIN-SUFFIX, 99fund.com
 DOMAIN-SUFFIX, abc-ca.com
@@ -160,6 +163,7 @@ DOMAIN-SUFFIX, ydamc.com
 DOMAIN-SUFFIX, yhfund.com.cn
 DOMAIN-SUFFIX, zhfund.com
 DOMAIN-SUFFIX, zofund.com
+
 # Fund Sales 基金销售公司
 DOMAIN-SUFFIX, 5ifund.com
 DOMAIN-SUFFIX, fund123.cn

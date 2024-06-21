@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX, geetest.com
-DOMAIN-SUFFIX, full:geetest.datasink.sensorsdata.cn
+
+DOMAIN, geetest.datasink.sensorsdata.cn

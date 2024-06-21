@@ -18,4 +18,5 @@ DOMAIN-SUFFIX, rexcha.com
 DOMAIN-SUFFIX, rolfoundation.org
 DOMAIN-SUFFIX, rolsociety.org
 DOMAIN-SUFFIX, yiqiedoushiganggangkaishi.org
-DOMAIN-SUFFIX, full:himalaya-exchange.zendesk.com
+
+DOMAIN, himalaya-exchange.zendesk.com
