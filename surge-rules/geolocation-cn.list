@@ -4262,6 +4262,9 @@ DOMAIN-SUFFIX, testplus.cn
 DOMAIN-SUFFIX, wps.cn
 DOMAIN-SUFFIX, wps.com
 
+# Big Data Platform
+DOMAIN-SUFFIX, kscord.com
+
 # Dazitong
 DOMAIN-SUFFIX, 51dzt.com
 

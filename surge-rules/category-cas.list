@@ -103,13 +103,24 @@ DOMAIN-SUFFIX, godaddy
 
 DOMAIN-SUFFIX, pki.goog
 
+DOMAIN, pki-goog.l.google.com
+
+DOMAIN, c.pki.goog
+DOMAIN, i.pki.goog
+DOMAIN, o.pki.goog
+
+# Google Public CA API Endpoint
+DOMAIN, publicca.googleapis.com
+DOMAIN, preprod-publicca.googleapis.com
+
+# Deprecated earlier
 DOMAIN, clients1.google.com
 DOMAIN, pki.google.com
 
+# Deprecated recently
 DOMAIN, crl.pki.goog
 DOMAIN, crls.pki.goog
 DOMAIN, ocsp.pki.goog
-DOMAIN, pki-goog.l.google.com
 
 DOMAIN-SUFFIX, eca.hinet.net
 DOMAIN-SUFFIX, gtlsca.nat.gov.tw
