@@ -3380,6 +3380,12 @@ DOMAIN-SUFFIX, collabora.com
 DOMAIN-SUFFIX, collabora.org
 DOMAIN-SUFFIX, collaboraoffice.com
 
+DOMAIN-SUFFIX, corel.com
+DOMAIN-SUFFIX, corel.net
+DOMAIN-SUFFIX, coreldraw.app
+DOMAIN-SUFFIX, coreldraw.com
+DOMAIN-SUFFIX, corelstore.com
+
 DOMAIN-SUFFIX, cfblob.com
 DOMAIN-SUFFIX, cloudchoose.com
 DOMAIN-SUFFIX, cloudvolumes.com
@@ -4367,6 +4373,7 @@ DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, devsitetest.how
 DOMAIN-SUFFIX, dialogflow.com
 DOMAIN-SUFFIX, digitalassetlinks.org
+DOMAIN-SUFFIX, docs.new
 DOMAIN-SUFFIX, episodic.com
 DOMAIN-SUFFIX, feedburner.com
 DOMAIN-SUFFIX, fflick.com
@@ -4521,6 +4528,8 @@ DOMAIN-SUFFIX, saynow.com
 DOMAIN-SUFFIX, schemer.com
 DOMAIN-SUFFIX, screenwisetrends.com
 DOMAIN-SUFFIX, screenwisetrendspanel.com
+DOMAIN-SUFFIX, sheets.new
+DOMAIN-SUFFIX, slides.new
 DOMAIN-SUFFIX, snapseed.com
 DOMAIN-SUFFIX, solveforx.com
 DOMAIN-SUFFIX, stadia.dev
@@ -4564,6 +4573,7 @@ DOMAIN-SUFFIX, webpkgcache.com
 DOMAIN-SUFFIX, webrtc.org
 DOMAIN-SUFFIX, weltweitwachsen.de
 DOMAIN-SUFFIX, whatbrowser.org
+DOMAIN-SUFFIX, whats.new
 DOMAIN-SUFFIX, widevine.com
 DOMAIN-SUFFIX, withgoogle.com
 DOMAIN-SUFFIX, womenwill.com
@@ -6911,7 +6921,7 @@ DOMAIN, openaiapi-site.azureedge.net
 DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN, openaicomproductionae4b.blob.core.windows.net
 DOMAIN, production-openaicom-storage.azureedge.net
-URL-REGEX, ^chatgpt-async-webps-prod-eastus-\d+\.webpubsub\.azure\.com$
+URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 
 # tracking
 DOMAIN, o33249.ingest.sentry.io
@@ -7049,6 +7059,7 @@ DOMAIN-SUFFIX, uplinq.com
 DOMAIN-SUFFIX, wipower.com
 DOMAIN-SUFFIX, wirelessreach.com
 DOMAIN-SUFFIX, xtracloud.cn
+DOMAIN-SUFFIX, xtracloud.net
 
 # brew
 DOMAIN-SUFFIX, brewmp.com
@@ -7127,6 +7138,25 @@ DOMAIN-SUFFIX, samsungeshop.com.cn
 DOMAIN-SUFFIX, samsunggalaxyfriends.com
 DOMAIN-SUFFIX, samsungknox.com
 DOMAIN-SUFFIX, samsungqbe.com
+
+# SKY Perfect JSAT Holdings Inc.
+DOMAIN-SUFFIX, skyperfectjsat.space
+
+# SKY Perfect Broadcasting Corporation
+DOMAIN-SUFFIX, sptvbroadcast.com
+
+# SKY Perfect Costomer-relations Corporation
+DOMAIN-SUFFIX, spcc-sp.com
+
+# SKY Perfect Entertainment Corporation.
+DOMAIN-SUFFIX, skyperfectv.co.jp
+DOMAIN-SUFFIX, hominis.media
+
+# JSAT International Inc.
+DOMAIN-SUFFIX, jsati.com
+
+# JSAT MOBILE Communications Inc.
+DOMAIN-SUFFIX, jsatmobile.com
 
 DOMAIN-SUFFIX, barkadahansasmartone.com
 DOMAIN-SUFFIX, healthreach.hk

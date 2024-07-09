@@ -498,6 +498,9 @@ DOMAIN-SUFFIX, themisweeps.com
 # 原神
 DOMAIN-SUFFIX, yuanshen.com
 
+#绝区零
+DOMAIN-SUFFIX, juequling.com
+
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
 
@@ -1018,6 +1021,7 @@ DOMAIN-SUFFIX, ynoproject.net
 
 DOMAIN-SUFFIX, dodi-repacks.download
 DOMAIN-SUFFIX, dodi-repacks.site
+DOMAIN-SUFFIX, fabricmc.net
 DOMAIN-SUFFIX, fanatical.com
 DOMAIN-SUFFIX, fitgirl-repacks.site
 DOMAIN-SUFFIX, game-repack.site
@@ -1028,7 +1032,9 @@ DOMAIN-SUFFIX, modrinth.com
 DOMAIN-SUFFIX, nexusmods.com
 DOMAIN-SUFFIX, papermc.io
 DOMAIN-SUFFIX, planetminecraft.com
+DOMAIN-SUFFIX, prismlauncher.org
 DOMAIN-SUFFIX, protondb.com
+DOMAIN-SUFFIX, quiltmc.org
 DOMAIN-SUFFIX, speedrun.com
 DOMAIN-SUFFIX, steamdb.info
 
@@ -1420,6 +1426,9 @@ DOMAIN-SUFFIX, themisweeps.com
 
 # 原神
 DOMAIN-SUFFIX, yuanshen.com
+
+#绝区零
+DOMAIN-SUFFIX, juequling.com
 
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$

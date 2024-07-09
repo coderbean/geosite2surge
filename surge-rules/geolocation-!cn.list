@@ -4584,6 +4584,7 @@ DOMAIN-SUFFIX, libgen.life
 
 # Official site
 DOMAIN-SUFFIX, libgen.fun
+DOMAIN-SUFFIX, library.lol
 
 # Unofficial sites (forked from the official site)
 DOMAIN-SUFFIX, gen.lib.rus.ec
@@ -5222,6 +5223,9 @@ DOMAIN-SUFFIX, themisweeps.com
 # 原神
 DOMAIN-SUFFIX, yuanshen.com
 
+#绝区零
+DOMAIN-SUFFIX, juequling.com
+
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
 
@@ -5742,6 +5746,7 @@ DOMAIN-SUFFIX, ynoproject.net
 
 DOMAIN-SUFFIX, dodi-repacks.download
 DOMAIN-SUFFIX, dodi-repacks.site
+DOMAIN-SUFFIX, fabricmc.net
 DOMAIN-SUFFIX, fanatical.com
 DOMAIN-SUFFIX, fitgirl-repacks.site
 DOMAIN-SUFFIX, game-repack.site
@@ -5752,7 +5757,9 @@ DOMAIN-SUFFIX, modrinth.com
 DOMAIN-SUFFIX, nexusmods.com
 DOMAIN-SUFFIX, papermc.io
 DOMAIN-SUFFIX, planetminecraft.com
+DOMAIN-SUFFIX, prismlauncher.org
 DOMAIN-SUFFIX, protondb.com
+DOMAIN-SUFFIX, quiltmc.org
 DOMAIN-SUFFIX, speedrun.com
 DOMAIN-SUFFIX, steamdb.info
 
@@ -6144,6 +6151,9 @@ DOMAIN-SUFFIX, themisweeps.com
 
 # 原神
 DOMAIN-SUFFIX, yuanshen.com
+
+#绝区零
+DOMAIN-SUFFIX, juequling.com
 
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
@@ -6752,11 +6762,14 @@ DOMAIN-SUFFIX, quoracdn.net
 DOMAIN-SUFFIX, redd.it
 DOMAIN-SUFFIX, reddit.app.link
 DOMAIN-SUFFIX, reddit.com
+DOMAIN-SUFFIX, redditblog.com
 DOMAIN-SUFFIX, reddithelp.com
+DOMAIN-SUFFIX, redditinc.com
 DOMAIN-SUFFIX, redditmail.com
 DOMAIN-SUFFIX, redditmedia.com
+DOMAIN-SUFFIX, redditspace.com
 DOMAIN-SUFFIX, redditstatic.com
-DOMAIN-SUFFIX, redd.it
+DOMAIN-SUFFIX, redditstatus.com
 
 DOMAIN, reddit.map.fastly.net
 
@@ -11249,12 +11262,14 @@ DOMAIN-SUFFIX, fap666.com
 DOMAIN-SUFFIX, fapality.com
 DOMAIN-SUFFIX, fapcat.com
 DOMAIN-SUFFIX, fapdude.com
+DOMAIN-SUFFIX, fapello.com
 DOMAIN-SUFFIX, faperoni.com
 DOMAIN-SUFFIX, fapforfun.net
 DOMAIN-SUFFIX, faphdporn.com
 DOMAIN-SUFFIX, faphouse.com
 DOMAIN-SUFFIX, fapmovz.com
 DOMAIN-SUFFIX, fapnado.com
+DOMAIN-SUFFIX, fapomania.com
 DOMAIN-SUFFIX, fapopedia.net
 DOMAIN-SUFFIX, fappcelebs.com
 DOMAIN-SUFFIX, fappeningbook.com
@@ -12574,6 +12589,7 @@ DOMAIN-SUFFIX, lbfmaddiction.com
 DOMAIN-SUFFIX, lbtube.com
 DOMAIN-SUFFIX, lcgirls.com
 DOMAIN-SUFFIX, leakedmeat.com
+DOMAIN-SUFFIX, leakedzone.com
 DOMAIN-SUFFIX, leaksmodels.com
 DOMAIN-SUFFIX, leakxxx.com
 DOMAIN-SUFFIX, leliao1.com
@@ -13183,6 +13199,7 @@ DOMAIN-SUFFIX, nudistsexvideos.com
 DOMAIN-SUFFIX, nudistvoyeurbeach.com
 DOMAIN-SUFFIX, nudity911.com
 DOMAIN-SUFFIX, nudography.com
+DOMAIN-SUFFIX, nudostar.tv
 DOMAIN-SUFFIX, nuespournous.com
 DOMAIN-SUFFIX, nuita.net
 DOMAIN-SUFFIX, nukemanga.com
@@ -15922,6 +15939,10 @@ DOMAIN-SUFFIX, time.windows.com
 # Aliyun
 URL-REGEX, ^ntp([1-7])?\.aliyun\.com$
 
+# Qualcomm
+DOMAIN, time.izatcloud.net
+DOMAIN, time.xtracloud.net
+
 # Tencent
 URL-REGEX, ^ntp([1-5])?\.tencent\.com$
 
@@ -16893,7 +16914,7 @@ DOMAIN, openaiapi-site.azureedge.net
 DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN, openaicomproductionae4b.blob.core.windows.net
 DOMAIN, production-openaicom-storage.azureedge.net
-URL-REGEX, ^chatgpt-async-webps-prod-eastus-\d+\.webpubsub\.azure\.com$
+URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 
 # tracking
 DOMAIN, o33249.ingest.sentry.io
@@ -16984,7 +17005,10 @@ DOMAIN-SUFFIX, strikinglycdn.com
 DOMAIN-SUFFIX, openmidas.com
 DOMAIN-SUFFIX, qq.design
 DOMAIN-SUFFIX, qqgamedesign.com
+DOMAIN-SUFFIX, tencent-cloud.cn
+DOMAIN-SUFFIX, tencent-cloud.com
 DOMAIN-SUFFIX, tencent.design
+DOMAIN-SUFFIX, tencentcloud.com
 DOMAIN-SUFFIX, tjstats.com
 DOMAIN-SUFFIX, wegamedeveloper.com
 DOMAIN-SUFFIX, weixinbridge.com
@@ -20527,6 +20551,12 @@ DOMAIN-SUFFIX, collabora.com
 DOMAIN-SUFFIX, collabora.org
 DOMAIN-SUFFIX, collaboraoffice.com
 
+DOMAIN-SUFFIX, corel.com
+DOMAIN-SUFFIX, corel.net
+DOMAIN-SUFFIX, coreldraw.app
+DOMAIN-SUFFIX, coreldraw.com
+DOMAIN-SUFFIX, corelstore.com
+
 DOMAIN-SUFFIX, cfblob.com
 DOMAIN-SUFFIX, cloudchoose.com
 DOMAIN-SUFFIX, cloudvolumes.com
@@ -21514,6 +21544,7 @@ DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, devsitetest.how
 DOMAIN-SUFFIX, dialogflow.com
 DOMAIN-SUFFIX, digitalassetlinks.org
+DOMAIN-SUFFIX, docs.new
 DOMAIN-SUFFIX, episodic.com
 DOMAIN-SUFFIX, feedburner.com
 DOMAIN-SUFFIX, fflick.com
@@ -21668,6 +21699,8 @@ DOMAIN-SUFFIX, saynow.com
 DOMAIN-SUFFIX, schemer.com
 DOMAIN-SUFFIX, screenwisetrends.com
 DOMAIN-SUFFIX, screenwisetrendspanel.com
+DOMAIN-SUFFIX, sheets.new
+DOMAIN-SUFFIX, slides.new
 DOMAIN-SUFFIX, snapseed.com
 DOMAIN-SUFFIX, solveforx.com
 DOMAIN-SUFFIX, stadia.dev
@@ -21711,6 +21744,7 @@ DOMAIN-SUFFIX, webpkgcache.com
 DOMAIN-SUFFIX, webrtc.org
 DOMAIN-SUFFIX, weltweitwachsen.de
 DOMAIN-SUFFIX, whatbrowser.org
+DOMAIN-SUFFIX, whats.new
 DOMAIN-SUFFIX, widevine.com
 DOMAIN-SUFFIX, withgoogle.com
 DOMAIN-SUFFIX, womenwill.com
@@ -24058,7 +24092,7 @@ DOMAIN, openaiapi-site.azureedge.net
 DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN, openaicomproductionae4b.blob.core.windows.net
 DOMAIN, production-openaicom-storage.azureedge.net
-URL-REGEX, ^chatgpt-async-webps-prod-eastus-\d+\.webpubsub\.azure\.com$
+URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 
 # tracking
 DOMAIN, o33249.ingest.sentry.io
@@ -24196,6 +24230,7 @@ DOMAIN-SUFFIX, uplinq.com
 DOMAIN-SUFFIX, wipower.com
 DOMAIN-SUFFIX, wirelessreach.com
 DOMAIN-SUFFIX, xtracloud.cn
+DOMAIN-SUFFIX, xtracloud.net
 
 # brew
 DOMAIN-SUFFIX, brewmp.com
@@ -24274,6 +24309,25 @@ DOMAIN-SUFFIX, samsungeshop.com.cn
 DOMAIN-SUFFIX, samsunggalaxyfriends.com
 DOMAIN-SUFFIX, samsungknox.com
 DOMAIN-SUFFIX, samsungqbe.com
+
+# SKY Perfect JSAT Holdings Inc.
+DOMAIN-SUFFIX, skyperfectjsat.space
+
+# SKY Perfect Broadcasting Corporation
+DOMAIN-SUFFIX, sptvbroadcast.com
+
+# SKY Perfect Costomer-relations Corporation
+DOMAIN-SUFFIX, spcc-sp.com
+
+# SKY Perfect Entertainment Corporation.
+DOMAIN-SUFFIX, skyperfectv.co.jp
+DOMAIN-SUFFIX, hominis.media
+
+# JSAT International Inc.
+DOMAIN-SUFFIX, jsati.com
+
+# JSAT MOBILE Communications Inc.
+DOMAIN-SUFFIX, jsatmobile.com
 
 DOMAIN-SUFFIX, barkadahansasmartone.com
 DOMAIN-SUFFIX, healthreach.hk

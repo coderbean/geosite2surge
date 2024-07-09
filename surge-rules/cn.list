@@ -1406,6 +1406,9 @@ DOMAIN-SUFFIX, themisweeps.com
 # 原神
 DOMAIN-SUFFIX, yuanshen.com
 
+#绝区零
+DOMAIN-SUFFIX, juequling.com
+
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
 
@@ -2177,6 +2180,10 @@ DOMAIN-SUFFIX, douding.cn
 # Aliyun
 URL-REGEX, ^ntp([1-7])?\.aliyun\.com$
 
+# Qualcomm
+DOMAIN, time.izatcloud.net
+DOMAIN, time.xtracloud.net
+
 # Tencent
 URL-REGEX, ^ntp([1-5])?\.tencent\.com$
 
@@ -2769,7 +2776,9 @@ DOMAIN-SUFFIX, teambition.net
 DOMAIN-SUFFIX, teambitionapis.com
 
 DOMAIN-SUFFIX, uc.cn
+DOMAIN-SUFFIX, uc123.com
 DOMAIN-SUFFIX, ucweb.com
+DOMAIN-SUFFIX, uczzd.cn
 
 DOMAIN-SUFFIX, mobmore.com
 DOMAIN-SUFFIX, umeng.com
@@ -3146,6 +3155,7 @@ DOMAIN-SUFFIX, apollo.auto
 DOMAIN-SUFFIX, baidu.cn
 DOMAIN-SUFFIX, baidu.com
 DOMAIN-SUFFIX, baidu.com.cn
+DOMAIN-SUFFIX, baiduapp.com
 DOMAIN-SUFFIX, baidubce.com
 DOMAIN-SUFFIX, baiducontent.com
 DOMAIN-SUFFIX, baidupcs.com
@@ -3180,6 +3190,20 @@ DOMAIN-SUFFIX, tieba.com
 DOMAIN-SUFFIX, tiebaimg.com
 DOMAIN-SUFFIX, xianfae.com
 DOMAIN-SUFFIX, xiaodutv.com
+
+# duxiaoman
+DOMAIN-SUFFIX, duxiaoman-int.com
+DOMAIN-SUFFIX, duxiaoman.com
+DOMAIN-SUFFIX, duxiaomanfintech.com
+DOMAIN-SUFFIX, duxiaomantech.com
+DOMAIN-SUFFIX, dxm-cdn.com
+DOMAIN-SUFFIX, dxm-int.com
+DOMAIN-SUFFIX, dxmlcf.com
+DOMAIN-SUFFIX, dxmlcfintech.com
+DOMAIN-SUFFIX, dxmpay.com
+DOMAIN-SUFFIX, dxmstatic.com
+DOMAIN-SUFFIX, dxmyqh.com
+DOMAIN-SUFFIX, paydxm.com
 
 # From reverse 1999
 DOMAIN-SUFFIX, sl916.com
@@ -4306,6 +4330,8 @@ DOMAIN-SUFFIX, testplus.cn
 
 DOMAIN-SUFFIX, wps.cn
 DOMAIN-SUFFIX, wps.com
+DOMAIN-SUFFIX, wpscdn.cn
+DOMAIN-SUFFIX, wpscdn.com
 
 # Big Data Platform
 DOMAIN-SUFFIX, kscord.com
@@ -4999,7 +5025,10 @@ DOMAIN-SUFFIX, ugdtimg.com
 DOMAIN-SUFFIX, openmidas.com
 DOMAIN-SUFFIX, qq.design
 DOMAIN-SUFFIX, qqgamedesign.com
+DOMAIN-SUFFIX, tencent-cloud.cn
+DOMAIN-SUFFIX, tencent-cloud.com
 DOMAIN-SUFFIX, tencent.design
+DOMAIN-SUFFIX, tencentcloud.com
 DOMAIN-SUFFIX, tjstats.com
 DOMAIN-SUFFIX, wegamedeveloper.com
 DOMAIN-SUFFIX, weixinbridge.com
@@ -5133,6 +5162,7 @@ DOMAIN-SUFFIX, qq.xn--fiqs8s
 DOMAIN-SUFFIX, xn--r70as2s.xn--fiqs8s
 
 DOMAIN-SUFFIX, apcdns.net
+DOMAIN-SUFFIX, cdn-go.cn
 DOMAIN-SUFFIX, foxmail.com
 DOMAIN-SUFFIX, foxmail.com.cn
 DOMAIN-SUFFIX, gtimg.cn
@@ -5161,11 +5191,14 @@ DOMAIN-SUFFIX, tencent.net.cn
 DOMAIN-SUFFIX, tencentmusic.com
 DOMAIN-SUFFIX, tenpay.com
 DOMAIN-SUFFIX, tfogc.com
+DOMAIN-SUFFIX, tlivepush.com
+DOMAIN-SUFFIX, txlivecdn.com
 DOMAIN-SUFFIX, wechat.com
 DOMAIN-SUFFIX, wechatpay.cn
 DOMAIN-SUFFIX, weiyun.com
 DOMAIN-SUFFIX, wetv.vip
 DOMAIN-SUFFIX, wetvinfo.com
+DOMAIN-SUFFIX, wxlivecdn.com
 
 DOMAIN, wetv.qq.com
 
@@ -5228,6 +5261,7 @@ DOMAIN-SUFFIX, tracking.miui.com
 DOMAIN-SUFFIX, mi-img.com
 DOMAIN-SUFFIX, mi.com
 DOMAIN-SUFFIX, mifile.cn
+DOMAIN-SUFFIX, mijia.tech
 DOMAIN-SUFFIX, miui.com
 DOMAIN-SUFFIX, miwifi.com
 DOMAIN-SUFFIX, xiaomi.cn
@@ -5235,6 +5269,7 @@ DOMAIN-SUFFIX, xiaomi.com
 DOMAIN-SUFFIX, xiaomi.net
 DOMAIN-SUFFIX, xiaomiev.com
 DOMAIN-SUFFIX, xiaomimobile.com
+DOMAIN-SUFFIX, xiaomixiaoai.com
 
 # Xiaomi YouPin
 DOMAIN-SUFFIX, xiaomiyoupin.com
@@ -5320,13 +5355,13 @@ DOMAIN-SUFFIX, ctexcel.fr
 DOMAIN-SUFFIX, ctexcel.us
 
 
-
 DOMAIN-SUFFIX, 189.cn
 DOMAIN-SUFFIX, chinatelecom-h.com
 DOMAIN-SUFFIX, chinatelecom.com.cn
 DOMAIN-SUFFIX, chinatelecomglobal.com
 DOMAIN-SUFFIX, chntel.com
 
+DOMAIN-SUFFIX, chinatelecomhk.com
 
 DOMAIN-SUFFIX, 10010.com
 DOMAIN-SUFFIX, 10010.com.cn
@@ -5339,6 +5374,8 @@ DOMAIN-SUFFIX, mychinaunicom.com
 DOMAIN-SUFFIX, wo.cn
 DOMAIN-SUFFIX, wo.com.cn
 DOMAIN-SUFFIX, wo116114.com
+
+DOMAIN-SUFFIX, cuniq.com
 
 
 # Wiki
@@ -6262,7 +6299,6 @@ DOMAIN-SUFFIX, qunar.com
 DOMAIN-SUFFIX, qunarzz.com
 DOMAIN-SUFFIX, qunjielong.com # 桂ICP备14006138号-2
 DOMAIN-SUFFIX, qyer.com
-DOMAIN-SUFFIX, rfchost.com
 DOMAIN-SUFFIX, rockyenglish.com
 DOMAIN-SUFFIX, rong360.com
 DOMAIN-SUFFIX, rtbasia.com

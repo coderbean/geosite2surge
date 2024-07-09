@@ -24,5 +24,8 @@ DOMAIN-SUFFIX, themisweeps.com
 # 原神
 DOMAIN-SUFFIX, yuanshen.com
 
+#绝区零
+DOMAIN-SUFFIX, juequling.com
+
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$

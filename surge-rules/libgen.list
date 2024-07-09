@@ -3,6 +3,7 @@ DOMAIN-SUFFIX, libgen.life
 
 # Official site
 DOMAIN-SUFFIX, libgen.fun
+DOMAIN-SUFFIX, library.lol
 
 # Unofficial sites (forked from the official site)
 DOMAIN-SUFFIX, gen.lib.rus.ec

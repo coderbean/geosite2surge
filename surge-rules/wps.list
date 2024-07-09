@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX, wps.cn
 DOMAIN-SUFFIX, wps.com
+DOMAIN-SUFFIX, wpscdn.cn
+DOMAIN-SUFFIX, wpscdn.com
 
 # Big Data Platform
 DOMAIN-SUFFIX, kscord.com

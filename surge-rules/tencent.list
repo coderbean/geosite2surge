@@ -328,7 +328,10 @@ DOMAIN-SUFFIX, ugdtimg.com
 DOMAIN-SUFFIX, openmidas.com
 DOMAIN-SUFFIX, qq.design
 DOMAIN-SUFFIX, qqgamedesign.com
+DOMAIN-SUFFIX, tencent-cloud.cn
+DOMAIN-SUFFIX, tencent-cloud.com
 DOMAIN-SUFFIX, tencent.design
+DOMAIN-SUFFIX, tencentcloud.com
 DOMAIN-SUFFIX, tjstats.com
 DOMAIN-SUFFIX, wegamedeveloper.com
 DOMAIN-SUFFIX, weixinbridge.com
@@ -462,6 +465,7 @@ DOMAIN-SUFFIX, qq.xn--fiqs8s
 DOMAIN-SUFFIX, xn--r70as2s.xn--fiqs8s
 
 DOMAIN-SUFFIX, apcdns.net
+DOMAIN-SUFFIX, cdn-go.cn
 DOMAIN-SUFFIX, foxmail.com
 DOMAIN-SUFFIX, foxmail.com.cn
 DOMAIN-SUFFIX, gtimg.cn
@@ -490,11 +494,14 @@ DOMAIN-SUFFIX, tencent.net.cn
 DOMAIN-SUFFIX, tencentmusic.com
 DOMAIN-SUFFIX, tenpay.com
 DOMAIN-SUFFIX, tfogc.com
+DOMAIN-SUFFIX, tlivepush.com
+DOMAIN-SUFFIX, txlivecdn.com
 DOMAIN-SUFFIX, wechat.com
 DOMAIN-SUFFIX, wechatpay.cn
 DOMAIN-SUFFIX, weiyun.com
 DOMAIN-SUFFIX, wetv.vip
 DOMAIN-SUFFIX, wetvinfo.com
+DOMAIN-SUFFIX, wxlivecdn.com
 
 DOMAIN, wetv.qq.com
 

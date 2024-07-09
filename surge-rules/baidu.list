@@ -155,6 +155,7 @@ DOMAIN-SUFFIX, apollo.auto
 DOMAIN-SUFFIX, baidu.cn
 DOMAIN-SUFFIX, baidu.com
 DOMAIN-SUFFIX, baidu.com.cn
+DOMAIN-SUFFIX, baiduapp.com
 DOMAIN-SUFFIX, baidubce.com
 DOMAIN-SUFFIX, baiducontent.com
 DOMAIN-SUFFIX, baidupcs.com
@@ -189,3 +190,17 @@ DOMAIN-SUFFIX, tieba.com
 DOMAIN-SUFFIX, tiebaimg.com
 DOMAIN-SUFFIX, xianfae.com
 DOMAIN-SUFFIX, xiaodutv.com
+
+# duxiaoman
+DOMAIN-SUFFIX, duxiaoman-int.com
+DOMAIN-SUFFIX, duxiaoman.com
+DOMAIN-SUFFIX, duxiaomanfintech.com
+DOMAIN-SUFFIX, duxiaomantech.com
+DOMAIN-SUFFIX, dxm-cdn.com
+DOMAIN-SUFFIX, dxm-int.com
+DOMAIN-SUFFIX, dxmlcf.com
+DOMAIN-SUFFIX, dxmlcfintech.com
+DOMAIN-SUFFIX, dxmpay.com
+DOMAIN-SUFFIX, dxmstatic.com
+DOMAIN-SUFFIX, dxmyqh.com
+DOMAIN-SUFFIX, paydxm.com

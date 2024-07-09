@@ -1,6 +1,10 @@
 # Aliyun
 URL-REGEX, ^ntp([1-7])?\.aliyun\.com$
 
+# Qualcomm
+DOMAIN, time.izatcloud.net
+DOMAIN, time.xtracloud.net
+
 # Tencent
 URL-REGEX, ^ntp([1-5])?\.tencent\.com$
 

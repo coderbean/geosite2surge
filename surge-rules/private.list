@@ -19,6 +19,8 @@ DOMAIN-SUFFIX, home.arpa
 
 # References: https://www.iana.org/assignments/locally-served-dns-zones/locally-served-dns-zones.xhtml
 # https://www.rfc-editor.org/rfc/rfc6303.html
+DOMAIN-SUFFIX, 0.in-addr.arpa
+DOMAIN-SUFFIX, 2.0.192.in-addr.arpa
 DOMAIN-SUFFIX, 10.in-addr.arpa
 DOMAIN-SUFFIX, 16.172.in-addr.arpa
 DOMAIN-SUFFIX, 17.172.in-addr.arpa
@@ -36,22 +38,21 @@ DOMAIN-SUFFIX, 28.172.in-addr.arpa
 DOMAIN-SUFFIX, 29.172.in-addr.arpa
 DOMAIN-SUFFIX, 30.172.in-addr.arpa
 DOMAIN-SUFFIX, 31.172.in-addr.arpa
-DOMAIN-SUFFIX, 168.192.in-addr.arpa
-DOMAIN-SUFFIX, 0.in-addr.arpa
-DOMAIN-SUFFIX, 127.in-addr.arpa
-DOMAIN-SUFFIX, 254.169.in-addr.arpa
-DOMAIN-SUFFIX, 2.0.192.in-addr.arpa
 DOMAIN-SUFFIX, 100.51.198.in-addr.arpa
 DOMAIN-SUFFIX, 113.0.203.in-addr.arpa
+DOMAIN-SUFFIX, 127.in-addr.arpa
+DOMAIN-SUFFIX, 168.192.in-addr.arpa
+DOMAIN-SUFFIX, 254.169.in-addr.arpa
 DOMAIN-SUFFIX, 255.255.255.255.in-addr.arpa
 DOMAIN-SUFFIX, 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX, 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
-DOMAIN-SUFFIX, d.f.ip6.arpa
+DOMAIN-SUFFIX, 8.b.d.0.1.0.0.2.ip6.arpa
 DOMAIN-SUFFIX, 8.e.f.ip6.arpa
 DOMAIN-SUFFIX, 9.e.f.ip6.arpa
 DOMAIN-SUFFIX, a.e.f.ip6.arpa
 DOMAIN-SUFFIX, b.e.f.ip6.arpa
-DOMAIN-SUFFIX, 8.b.d.0.1.0.0.2.ip6.arpa
+DOMAIN-SUFFIX, d.f.ip6.arpa
+
 # https://www.rfc-editor.org/rfc/rfc7793.html
 DOMAIN-SUFFIX, 64.100.in-addr.arpa
 DOMAIN-SUFFIX, 65.100.in-addr.arpa
@@ -121,6 +122,9 @@ DOMAIN-SUFFIX, 127.100.in-addr.arpa
 # Dotless domains
 URL-REGEX, ^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$
 
+# ArchLinux
+DOMAIN-SUFFIX, ping.archlinux.org
+
 # Aruba router
 DOMAIN, instant.arubanetworks.com
 DOMAIN, setmeup.arubanetworks.com
@@ -138,16 +142,26 @@ DOMAIN, router.asus.com
 DOMAIN, www.asusrouter.com
 
 # Cloudflare
-DOMAIN, cp.cloudflare.com
+DOMAIN-SUFFIX, cp.cloudflare.com
 
 # Firefox
-DOMAIN, detectportal.firefox.com
+DOMAIN-SUFFIX, detectportal.firefox.com
+
+# H3C
+# https://wwwsg.h3c.com/cn/d_202007/1316557_30005_0.htm#_Toc46214911
+DOMAIN, oasisauth.h3c.com
 
 # KDE
 DOMAIN-SUFFIX, networkcheck.kde.org
 
+# MIUI
+DOMAIN, connect.rom.miui.com
+
 # Mozilla Location Service
 DOMAIN-SUFFIX, location.services.mozilla.com
+
+# Mozilla Push Service
+DOMAIN-SUFFIX, push.services.mozilla.com
 
 # Netgear router
 # Reference: https://kb.netgear.com/27199/I-can-t-access-my-router-what-do-I-do
@@ -193,7 +207,6 @@ DOMAIN, www.miwifi.com
 
 # ZTE router
 DOMAIN-SUFFIX, zte.home
-
 
 # Tailscale Magic DNS
 # Reference: https://tailscale.com/kb/1081/magicdns/#fully-qualified-domain-names-vs-machine-names
