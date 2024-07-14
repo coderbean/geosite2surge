@@ -4324,6 +4324,10 @@ DOMAIN-SUFFIX, ijinshan.com
 DOMAIN-SUFFIX, seasungames.com
 DOMAIN-SUFFIX, xishanju.com
 DOMAIN-SUFFIX, xoyo.com
+DOMAIN-SUFFIX, xoyocdn.com
+
+# 尘白禁区
+DOMAIN-SUFFIX, cbjq.com
 
 # Testplus
 DOMAIN-SUFFIX, testplus.cn
@@ -4474,6 +4478,7 @@ DOMAIN-SUFFIX, crashlytics.163.com
 DOMAIN-SUFFIX, g.163.com
 
 
+DOMAIN-SUFFIX, allawntech.com
 DOMAIN-SUFFIX, coloros.com
 DOMAIN-SUFFIX, finzfin.com
 DOMAIN-SUFFIX, heytap.com

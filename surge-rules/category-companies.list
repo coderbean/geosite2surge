@@ -2442,6 +2442,8 @@ DOMAIN, xp.apple.com
 
 DOMAIN-SUFFIX, asus.com
 DOMAIN-SUFFIX, asus.com.cn
+DOMAIN-SUFFIX, asuscloud.com
+DOMAIN-SUFFIX, asuswebstorage.com
 
 DOMAIN-SUFFIX, atlassian.com
 DOMAIN-SUFFIX, atlassian.net

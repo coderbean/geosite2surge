@@ -4,31 +4,29 @@ DOMAIN-SUFFIX, 9anime.id
 DOMAIN-SUFFIX, 9anime.to
 DOMAIN-SUFFIX, 9anime.ws
 
+# agefans: https://github.com/agefanscom/website
+DOMAIN-SUFFIX, age.tv
+DOMAIN-SUFFIX, agedm.org
+DOMAIN-SUFFIX, agedm.tv
+DOMAIN-SUFFIX, agefans.com
+DOMAIN-SUFFIX, agemys.org
+DOMAIN-SUFFIX, agedm.app # app
+
 # animedao
 DOMAIN-SUFFIX, animedao-tv.com
 
-# crunchyroll
+# Crunchyroll
 DOMAIN-SUFFIX, crunchyroll.com
+DOMAIN-SUFFIX, funimation.com # funimation
+DOMAIN-SUFFIX, vrv.co # vrv
 
-# funimation
-DOMAIN-SUFFIX, funimation.com
-
-# Gogoanime related site
-DOMAIN-SUFFIX, gogo-load.com
-
-# Gogoanime official sites
+# Gogoanime
 DOMAIN-SUFFIX, gogoanime.vc
 DOMAIN-SUFFIX, gogoanime.wiki
-
-# Gogoanime image hosting  site
-DOMAIN-SUFFIX, gogocdn.net
+DOMAIN-SUFFIX, gogoanime3.co
+DOMAIN-SUFFIX, gogotaku.info
+DOMAIN-SUFFIX, gogo-load.com
+DOMAIN-SUFFIX, gogocdn.net # image hosting site
 
 # hidive
 DOMAIN-SUFFIX, hidive.com
-
-# vrv
-DOMAIN-SUFFIX, vrv.co
-
-# agefans
-DOMAIN-SUFFIX, age.tv
-DOMAIN-SUFFIX, agedm.org

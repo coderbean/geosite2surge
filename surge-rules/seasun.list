@@ -1,6 +1,10 @@
 DOMAIN-SUFFIX, seasungames.com
 DOMAIN-SUFFIX, xishanju.com
 DOMAIN-SUFFIX, xoyo.com
+DOMAIN-SUFFIX, xoyocdn.com
+
+# 尘白禁区
+DOMAIN-SUFFIX, cbjq.com
 
 # Testplus
 DOMAIN-SUFFIX, testplus.cn
