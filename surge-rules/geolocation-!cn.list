@@ -16742,30 +16742,6 @@ DOMAIN-SUFFIX, brew.sh
 
 DOMAIN, homebrew.bintray.com
 
-DOMAIN-SUFFIX, bisheng.cn
-DOMAIN-SUFFIX, bishengcompiler.cn
-DOMAIN-SUFFIX, devui.design
-DOMAIN-SUFFIX, gneec.com
-DOMAIN-SUFFIX, gneec.com.cn
-DOMAIN-SUFFIX, gneec3.com
-DOMAIN-SUFFIX, gneec4.com
-DOMAIN-SUFFIX, gneec7.com
-DOMAIN-SUFFIX, harmonyos.com
-DOMAIN-SUFFIX, hiascend.cn
-DOMAIN-SUFFIX, hiascend.com
-DOMAIN-SUFFIX, hiclc.com
-DOMAIN-SUFFIX, hikunpeng.cn
-DOMAIN-SUFFIX, hikunpeng.com
-DOMAIN-SUFFIX, hikunpeng.com.cn
-DOMAIN-SUFFIX, hikunpeng.net
-DOMAIN-SUFFIX, hisilicon.com
-DOMAIN-SUFFIX, hisilicon.com.cn
-DOMAIN-SUFFIX, huaweiapaas.com
-DOMAIN-SUFFIX, mindspore.cn
-DOMAIN-SUFFIX, owsgo.com
-DOMAIN-SUFFIX, teleows.com
-DOMAIN-SUFFIX, saasops.tech
-
 DOMAIN-SUFFIX, 01.org
 DOMAIN-SUFFIX, hyperscan.io
 DOMAIN-SUFFIX, intellinuxgraphics.com
@@ -17000,18 +16976,6 @@ DOMAIN-SUFFIX, thesffblog.com
 DOMAIN-SUFFIX, mystrikingly.com
 DOMAIN-SUFFIX, strikingly.com
 DOMAIN-SUFFIX, strikinglycdn.com
-
-DOMAIN-SUFFIX, openmidas.com
-DOMAIN-SUFFIX, qq.design
-DOMAIN-SUFFIX, qqgamedesign.com
-DOMAIN-SUFFIX, tencent-cloud.cn
-DOMAIN-SUFFIX, tencent-cloud.com
-DOMAIN-SUFFIX, tencent.design
-DOMAIN-SUFFIX, tencentcloud.com
-DOMAIN-SUFFIX, tjstats.com
-DOMAIN-SUFFIX, wegamedeveloper.com
-DOMAIN-SUFFIX, weixinbridge.com
-DOMAIN-SUFFIX, weui.io
 
 DOMAIN-SUFFIX, termux.com
 DOMAIN-SUFFIX, termux.dev
