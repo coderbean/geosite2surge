@@ -1,1 +1,7 @@
+DOMAIN-SUFFIX, cnet.co.kr
 DOMAIN-SUFFIX, cnet.com
+DOMAIN-SUFFIX, cnet.de
+DOMAIN-SUFFIX, cnetfrance.fr
+
+# CNET Download
+DOMAIN-SUFFIX, download.com

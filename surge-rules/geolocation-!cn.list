@@ -1374,6 +1374,102 @@ DOMAIN-SUFFIX, udtrucksmeena.com
 
 
 # Bank & Finance
+# TLD
+DOMAIN-SUFFIX, hsbc
+
+# General
+DOMAIN-SUFFIX, hsbc.com
+DOMAIN-SUFFIX, hsbc.net
+DOMAIN-SUFFIX, hsbcinnovationbanking.com
+DOMAIN-SUFFIX, hsbcnet.com
+DOMAIN-SUFFIX, hsbcprivatebank.com
+
+# Active Branches
+DOMAIN-SUFFIX, hsbc.ae
+DOMAIN-SUFFIX, hsbc.am
+DOMAIN-SUFFIX, hsbc.bm
+DOMAIN-SUFFIX, hsbc.co.id
+DOMAIN-SUFFIX, hsbc.co.in
+DOMAIN-SUFFIX, hsbc.co.kr
+DOMAIN-SUFFIX, hsbc.co.mu
+DOMAIN-SUFFIX, hsbc.co.nz
+DOMAIN-SUFFIX, hsbc.co.th
+
+## HSBC UK
+DOMAIN-SUFFIX, hsbc.co.uk
+DOMAIN-SUFFIX, hsbc.uk
+
+DOMAIN-SUFFIX, hsbc.com.ar
+DOMAIN-SUFFIX, hsbc.com.au
+DOMAIN-SUFFIX, hsbc.com.bd
+DOMAIN-SUFFIX, hsbc.com.bh
+DOMAIN-SUFFIX, hsbc.com.br
+DOMAIN-SUFFIX, hsbc.com.cn
+DOMAIN-SUFFIX, hsbc.com.eg
+DOMAIN-SUFFIX, hsbc.com.hk
+DOMAIN-SUFFIX, hsbc.com.mo
+DOMAIN-SUFFIX, hsbc.com.mt
+DOMAIN-SUFFIX, hsbc.com.mx
+
+## HSBC MY
+DOMAIN-SUFFIX, hsbc.com.my
+DOMAIN-SUFFIX, hsbcamanah.com.my
+
+DOMAIN-SUFFIX, hsbc.com.ph
+DOMAIN-SUFFIX, hsbc.com.sg
+DOMAIN-SUFFIX, hsbc.com.tr
+DOMAIN-SUFFIX, hsbc.com.tw
+DOMAIN-SUFFIX, hsbc.com.uy
+DOMAIN-SUFFIX, hsbc.com.vn
+
+## HSBC DE
+DOMAIN-SUFFIX, hsbc.de
+DOMAIN-SUFFIX, hsbc-alternatives.de
+DOMAIN-SUFFIX, hsbc-transactionservices.de
+DOMAIN-SUFFIX, hsbc-zertifikate.de
+
+DOMAIN-SUFFIX, hsbc.lk
+
+# Inactive Branches
+DOMAIN-SUFFIX, hsbc.ca
+DOMAIN-SUFFIX, hsbc.co.jp
+DOMAIN-SUFFIX, hsbc.fr
+DOMAIN-SUFFIX, hsbctrinkaus.de
+
+DOMAIN-SUFFIX, fsmone.com
+DOMAIN-SUFFIX, fsmone.com.hk
+DOMAIN-SUFFIX, fsmone.com.my
+DOMAIN-SUFFIX, fundsupermart.com
+DOMAIN-SUFFIX, ifastcapital.com.my
+DOMAIN-SUFFIX, ifastcorp.com
+DOMAIN-SUFFIX, ifastfinancial.com.hk
+DOMAIN-SUFFIX, ifastfinancial.co.in
+DOMAIN-SUFFIX, ifastgb.com
+DOMAIN-SUFFIX, ifastgp.com
+DOMAIN-SUFFIX, ifastgp.com.hk
+DOMAIN-SUFFIX, ifastnetwork.com
+DOMAIN-SUFFIX, ifastps.com.cn
+DOMAIN-SUFFIX, ifasttv.com
+
+DOMAIN-SUFFIX, longbridge.cloud
+DOMAIN-SUFFIX, longbridge.global
+DOMAIN-SUFFIX, longbridge.hk
+DOMAIN-SUFFIX, longbridge.sg
+DOMAIN-SUFFIX, longbridgeapp.com
+DOMAIN-SUFFIX, longportapp.com
+
+# Site Assets
+DOMAIN-SUFFIX, lbkrs.com
+DOMAIN-SUFFIX, wbrks.com
+
+DOMAIN-SUFFIX, transferwise.com
+DOMAIN-SUFFIX, wise.com
+
+
+DOMAIN-SUFFIX, fxcorporate.com
+DOMAIN-SUFFIX, mql5.com
+DOMAIN-SUFFIX, tradingview.com
+
 DOMAIN-SUFFIX, djreprints.com
 DOMAIN-SUFFIX, dowjones.com
 DOMAIN-SUFFIX, dowjones.io
@@ -2228,6 +2324,11 @@ DOMAIN-SUFFIX, cloudimg.io
 DOMAIN-SUFFIX, stackpath.com
 DOMAIN-SUFFIX, stackpath.dev
 
+# https://support.wistia.com/en/articles/8233530-firewall-and-network-allowlist-settings
+DOMAIN-SUFFIX, embedwistia-a.akamaihd.net
+DOMAIN-SUFFIX, wistia.com
+DOMAIN-SUFFIX, wistia.net
+
 
 # Certificate authorities
 # This list contains well-known Certificate Authorities (CA) outside China mainland.
@@ -2985,6 +3086,9 @@ DOMAIN-SUFFIX, zb.app
 DOMAIN-SUFFIX, zb.com
 DOMAIN-SUFFIX, zb.io
 DOMAIN-SUFFIX, zb.live
+
+DOMAIN-SUFFIX, kucoin.com
+DOMAIN-SUFFIX, kucoin.plus
 
 
 DOMAIN-SUFFIX, 1inch.io
@@ -4539,7 +4643,13 @@ DOMAIN-SUFFIX, linearcollider.org
 
 DOMAIN, chinapower.csis.org
 
+DOMAIN-SUFFIX, cnet.co.kr
 DOMAIN-SUFFIX, cnet.com
+DOMAIN-SUFFIX, cnet.de
+DOMAIN-SUFFIX, cnetfrance.fr
+
+# CNET Download
+DOMAIN-SUFFIX, download.com
 
 DOMAIN-SUFFIX, code.org
 
@@ -5413,6 +5523,12 @@ DOMAIN-SUFFIX, sonyentertainmentnetwork.com
 
 DOMAIN-SUFFIX, sekai.colorfulpalette.org
 
+# `purikone` is for `purinsesukonekuto` (プリンセスコネクト)
+
+# Home page
+DOMAIN-SUFFIX, priconne-redive.jp
+
+# API, resources, etc.
 DOMAIN-SUFFIX, api-priconne-redive.cygames.jp
 DOMAIN-SUFFIX, omotenashi.cygames.jp
 DOMAIN, prd-priconne-redive.akamaized.net
@@ -13197,6 +13313,7 @@ DOMAIN-SUFFIX, nudistlog.com
 DOMAIN-SUFFIX, nudistsexvideos.com
 DOMAIN-SUFFIX, nudistvoyeurbeach.com
 DOMAIN-SUFFIX, nudity911.com
+DOMAIN-SUFFIX, nudogram.com
 DOMAIN-SUFFIX, nudography.com
 DOMAIN-SUFFIX, nudostar.tv
 DOMAIN-SUFFIX, nuespournous.com
@@ -14755,7 +14872,9 @@ DOMAIN-SUFFIX, tw985.com
 DOMAIN-SUFFIX, twavking.com
 DOMAIN-SUFFIX, twcomix.com
 DOMAIN-SUFFIX, twhentai.com
+DOMAIN-SUFFIX, twi-videos.net
 DOMAIN-SUFFIX, twidouga.net
+DOMAIN-SUFFIX, twidouga.tv
 DOMAIN-SUFFIX, twifuli.com
 DOMAIN-SUFFIX, twinkboyfriends.tv
 DOMAIN-SUFFIX, twinkspornos.com
@@ -15926,7 +16045,6 @@ DOMAIN-SUFFIX, clock.isc.org
 DOMAIN-SUFFIX, ntp.fiord.ru
 DOMAIN-SUFFIX, ntp.nat.ms
 DOMAIN-SUFFIX, ntp.nic.cz
-DOMAIN-SUFFIX, ntp.nict.jp
 DOMAIN-SUFFIX, ntp.ripe.net
 DOMAIN-SUFFIX, ntp.se
 DOMAIN-SUFFIX, ntp.ufe.cz
@@ -15949,6 +16067,56 @@ DOMAIN-SUFFIX, cn.pool.ntp.org
 DOMAIN-SUFFIX, ntp.neu.edu.cn
 DOMAIN-SUFFIX, ntp.ntsc.ac.cn
 DOMAIN-SUFFIX, ntp.org.cn
+
+# アマノセキュアジャパン(e-timing): https://www.e-timing.ne.jp/product/timestamp/open-server/
+DOMAIN-SUFFIX, ats1.e-timing.ne.jp
+
+# INTERNET MULTIFEED: https://www.mfeed.ad.jp/ntp/detail.html
+DOMAIN-SUFFIX, ntp.jst.mfeed.ad.jp
+DOMAIN-SUFFIX, ntp1.jst.mfeed.ad.jp
+DOMAIN-SUFFIX, ntp2.jst.mfeed.ad.jp
+DOMAIN-SUFFIX, ntp3.jst.mfeed.ad.jp
+DOMAIN-SUFFIX, ntp1.v6.mfeed.ad.jp
+DOMAIN-SUFFIX, ntp2.v6.mfeed.ad.jp
+DOMAIN-SUFFIX, ntp3.v6.mfeed.ad.jp
+
+# 国立天文台水沢 https://www.miz.nao.ac.jp/vlbi/ntp.html
+DOMAIN-SUFFIX, s2csntp.miz.nao.ac.jp
+
+# 情報通信研究機構(NICT): https://jjy.nict.go.jp/tsp/PubNtp/index.html
+DOMAIN-SUFFIX, ntp.nict.jp
+
+# OCN: https://www.ntt.com/business/services/network/internet-connect/ocn-business/ocn/customer/set_up/tech_1.html
+DOMAIN-SUFFIX, ntp-tk01.ocn.ad.jp
+DOMAIN-SUFFIX, ntp-tk02.ocn.ad.jp
+DOMAIN-SUFFIX, ntp-os01.ocn.ad.jp
+
+# plala: https://mainte.plala.or.jp/support/manual/internet/setup/
+DOMAIN-SUFFIX, ntp1.plala.or.jp
+DOMAIN-SUFFIX, ntp2.plala.or.jp
+
+# Ring Server Project: http://www.ring.gr.jp/ring/ntp.html.ja
+DOMAIN-SUFFIX, ntp.ring.gr.jp
+DOMAIN-SUFFIX, ntp0.ring.gr.jp
+DOMAIN-SUFFIX, ntp1.ring.gr.jp
+DOMAIN-SUFFIX, ntp2.ring.gr.jp
+DOMAIN-SUFFIX, ntp.t.ring.gr.jp
+DOMAIN-SUFFIX, ntp.dnsbalance.ring.gr.jp
+
+# 東京大学(The University of Tokyo)
+DOMAIN-SUFFIX, ntp.nc.u-tokyo.ac.jp
+
+# 東北大学(TOHOKU UNIVERSITY): https://www.tains.tohoku.ac.jp/contents/information/server-info.html
+DOMAIN-SUFFIX, ntp.tohoku.ac.jp
+DOMAIN-SUFFIX, ntp1.tohoku.ac.jp
+DOMAIN-SUFFIX, ntp2.tohoku.ac.jp
+
+# 豊橋技術科学大学(Toyohashi University of Technology): https://imc.tut.ac.jp/misc/
+DOMAIN-SUFFIX, ntp.tut.ac.jp
+
+# WAKWAK: https://www.wakwak.com/prl/support/g_internet/server_wakwak.html
+DOMAIN-SUFFIX, ntp1.wakwak.com
+DOMAIN-SUFFIX, ntp2.wakwak.com
 
 
 DOMAIN-SUFFIX, decrypt.day
@@ -16565,6 +16733,9 @@ DOMAIN-SUFFIX, registry.k8s.io
 
 URL-REGEX, .+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 
+DOMAIN-SUFFIX, codeberg.org
+DOMAIN-SUFFIX, codeberg.page
+
 DOMAIN-SUFFIX, dart.dev
 DOMAIN-SUFFIX, dartlang.org
 DOMAIN-SUFFIX, dartpad.dev
@@ -17049,7 +17220,6 @@ DOMAIN-SUFFIX, centos.org
 DOMAIN-SUFFIX, chocolatey.org
 DOMAIN-SUFFIX, clojure.org
 DOMAIN-SUFFIX, cnpmjs.org
-DOMAIN-SUFFIX, codeberg.org
 DOMAIN-SUFFIX, cygwin.com
 DOMAIN-SUFFIX, cython.org
 DOMAIN-SUFFIX, deno.land
@@ -17462,6 +17632,7 @@ DOMAIN-SUFFIX, route53.cn
 DOMAIN-SUFFIX, sagemaker.com.cn
 
 # AWS CN DNS
+URL-REGEX, .+\.amzndns-cn\.(biz|cn|com|net)$
 URL-REGEX, .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX, .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 
@@ -17474,8 +17645,12 @@ DOMAIN-SUFFIX, acmvalidations.com
 DOMAIN-SUFFIX, acmvalidationsaws.com
 DOMAIN-SUFFIX, aesworkshops.com
 DOMAIN-SUFFIX, amazonaws-china.com
+DOMAIN-SUFFIX, amazonaws.biz
 DOMAIN-SUFFIX, amazonaws.co.uk
 DOMAIN-SUFFIX, amazonaws.com
+DOMAIN-SUFFIX, amazonaws.info
+DOMAIN-SUFFIX, amazonaws.net
+DOMAIN-SUFFIX, amazonaws.org
 DOMAIN-SUFFIX, amazonaws.tv
 DOMAIN-SUFFIX, amazonses.com
 DOMAIN-SUFFIX, amazonworkdocs.com
@@ -17505,6 +17680,7 @@ DOMAIN-SUFFIX, elasticbeanstalk.com
 DOMAIN-SUFFIX, thinkboxsoftware.com
 
 # AWS DNS
+URL-REGEX, .+\.amzndns\.(co\.uk|com|net|org)$
 URL-REGEX, .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 
 # All .imdb domains
@@ -21514,6 +21690,7 @@ DOMAIN-SUFFIX, episodic.com
 DOMAIN-SUFFIX, feedburner.com
 DOMAIN-SUFFIX, fflick.com
 DOMAIN-SUFFIX, financeleadsonline.com
+DOMAIN-SUFFIX, fitbit.com
 DOMAIN-SUFFIX, foofle.com
 DOMAIN-SUFFIX, froogle.com
 DOMAIN-SUFFIX, fuchsia.dev
@@ -21818,8 +21995,6 @@ DOMAIN, goto.google.com
 DOMAIN, gstatic-cn.com
 DOMAIN, gstaticadssl.l.google.com
 DOMAIN, gtm.oasisfeng.com
-DOMAIN, gvt1-cn.com
-DOMAIN, gvt2-cn.com
 DOMAIN, imasdk.googleapis.com
 DOMAIN, monitoring.qatp1.net
 DOMAIN, monitoring.qcpp1.net
@@ -21926,6 +22101,9 @@ DOMAIN, uberproxy-with-cn.l.google.com
 DOMAIN, uberproxy-with-cn4.l.google.com
 DOMAIN, uberproxy-with-cn6.l.google.com
 DOMAIN, qiao-cn.com
+
+DOMAIN-SUFFIX, gvt1-cn.com
+DOMAIN-SUFFIX, gvt2-cn.com
 
 DOMAIN-SUFFIX, hetzner.cloud
 DOMAIN-SUFFIX, hetzner.com
@@ -24346,6 +24524,15 @@ DOMAIN-SUFFIX, yourfantasybeginsnow.com
 # All .sony domains
 DOMAIN-SUFFIX, sony
 
+# Sony Network Communications Inc.
+DOMAIN-SUFFIX, sonynetwork.co.jp
+DOMAIN-SUFFIX, nuro.jp
+DOMAIN-SUFFIX, so-net.ne.jp
+
+# Sony Semiconductor Solutions Corporation
+DOMAIN-SUFFIX, sony-semicon.co.jp
+DOMAIN-SUFFIX, sony-semicon.com
+
 DOMAIN-SUFFIX, ginzasonypark.jp
 DOMAIN-SUFFIX, sony-africa.com
 DOMAIN-SUFFIX, sony-asia.com
@@ -24355,11 +24542,11 @@ DOMAIN-SUFFIX, sony-latin.com
 DOMAIN-SUFFIX, sony-mea.com
 DOMAIN-SUFFIX, sony-olympus-medical.com
 DOMAIN-SUFFIX, sony-promotion.eu
-DOMAIN-SUFFIX, sony-semicon.co.jp
 DOMAIN-SUFFIX, sony.at
 DOMAIN-SUFFIX, sony.ba
 DOMAIN-SUFFIX, sony.be
 DOMAIN-SUFFIX, sony.bg
+DOMAIN-SUFFIX, sony.biz
 DOMAIN-SUFFIX, sony.ca
 DOMAIN-SUFFIX, sony.ch
 DOMAIN-SUFFIX, sony.cl
@@ -24427,15 +24614,16 @@ DOMAIN-SUFFIX, sonybo.co.jp
 DOMAIN-SUFFIX, sonybsc.com
 DOMAIN-SUFFIX, sonybuilding.jp
 DOMAIN-SUFFIX, sonydesign.com
-DOMAIN-SUFFIX, sonydna.com
+DOMAIN-SUFFIX, sonydna.com # Sony Digital Network Applications Inc.
 DOMAIN-SUFFIX, sonyglobalsolutions.jp
 DOMAIN-SUFFIX, sonykigyo.jp
 DOMAIN-SUFFIX, sonylatvija.com
 DOMAIN-SUFFIX, sonypcl.jp
 DOMAIN-SUFFIX, sonyprotechnosupport.co.jp
-DOMAIN-SUFFIX, sonystoragemedia.co.jp
+DOMAIN-SUFFIX, sonystoragemedia.co.jp # Sony Storage Media Solutions Corporation
 DOMAIN-SUFFIX, sonytc.co.jp
 DOMAIN-SUFFIX, sovec.net
+DOMAIN-SUFFIX, so-net.net.tw
 
 DOMAIN-SUFFIX, spacex.com
 

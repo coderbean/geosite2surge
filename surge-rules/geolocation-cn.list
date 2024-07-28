@@ -535,6 +535,7 @@ DOMAIN-SUFFIX, route53.cn
 DOMAIN-SUFFIX, sagemaker.com.cn
 
 # AWS CN DNS
+URL-REGEX, .+\.amzndns-cn\.(biz|cn|com|net)$
 URL-REGEX, .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX, .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 
@@ -4498,6 +4499,8 @@ DOMAIN-SUFFIX, opstatics.com
 DOMAIN-SUFFIX, oneplusbbs.com
 DOMAIN-SUFFIX, h2os.com
 
+DOMAIN, community.oneplus.com
+
 DOMAIN-SUFFIX, 75.team
 DOMAIN-SUFFIX, 75team.com
 
@@ -5450,6 +5453,11 @@ DOMAIN-SUFFIX, tianyancha.com
 DOMAIN-SUFFIX, x315.com
 
 
+DOMAIN-SUFFIX, ehaier.com
+DOMAIN-SUFFIX, haier.com
+DOMAIN-SUFFIX, haier.net
+DOMAIN-SUFFIX, haiersmarthomes.com
+
 
 DOMAIN-SUFFIX, winos.me # WINOS 精简社区
 DOMAIN-SUFFIX, upe.net # 优启通官网
@@ -5543,6 +5551,13 @@ DOMAIN-SUFFIX, learnywhere.cn
 DOMAIN-SUFFIX, learnywhere.com.cn
 DOMAIN-SUFFIX, qlisten.cn
 DOMAIN-SUFFIX, qtyy.cn
+
+# 上海圆贝信息科技有限公司
+DOMAIN-SUFFIX, i2oo.cn
+DOMAIN-SUFFIX, laoban100.com
+DOMAIN-SUFFIX, shengyi.ai
+DOMAIN-SUFFIX, shengyizhuanjia.com
+DOMAIN-SUFFIX, yuanbei.biz
 
 
 

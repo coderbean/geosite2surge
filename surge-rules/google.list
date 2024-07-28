@@ -791,6 +791,7 @@ DOMAIN-SUFFIX, episodic.com
 DOMAIN-SUFFIX, feedburner.com
 DOMAIN-SUFFIX, fflick.com
 DOMAIN-SUFFIX, financeleadsonline.com
+DOMAIN-SUFFIX, fitbit.com
 DOMAIN-SUFFIX, foofle.com
 DOMAIN-SUFFIX, froogle.com
 DOMAIN-SUFFIX, fuchsia.dev
@@ -1095,8 +1096,6 @@ DOMAIN, goto.google.com
 DOMAIN, gstatic-cn.com
 DOMAIN, gstaticadssl.l.google.com
 DOMAIN, gtm.oasisfeng.com
-DOMAIN, gvt1-cn.com
-DOMAIN, gvt2-cn.com
 DOMAIN, imasdk.googleapis.com
 DOMAIN, monitoring.qatp1.net
 DOMAIN, monitoring.qcpp1.net
@@ -1203,3 +1202,6 @@ DOMAIN, uberproxy-with-cn.l.google.com
 DOMAIN, uberproxy-with-cn4.l.google.com
 DOMAIN, uberproxy-with-cn6.l.google.com
 DOMAIN, qiao-cn.com
+
+DOMAIN-SUFFIX, gvt1-cn.com
+DOMAIN-SUFFIX, gvt2-cn.com
