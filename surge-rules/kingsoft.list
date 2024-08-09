@@ -38,6 +38,9 @@ DOMAIN-SUFFIX, docer.com
 # Documents
 DOMAIN-SUFFIX, kdocs.cn
 
+# Mail
+DOMAIN-SUFFIX, wpsmail.net
+
 # PAPocket
 DOMAIN-SUFFIX, papocket.com
 

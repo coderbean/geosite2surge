@@ -64,6 +64,10 @@ DOMAIN-SUFFIX, cmfchina.com
 DOMAIN-SUFFIX, cmfunds.cn
 DOMAIN-SUFFIX, test-cignacmb.com
 
+DOMAIN-SUFFIX, hsbc.com.cn
+DOMAIN-SUFFIX, hsbcqh.com.cn
+DOMAIN-SUFFIX, hsbcinsurance.com.cn
+
 # All .icbc domains
 DOMAIN-SUFFIX, icbc
 
@@ -151,7 +155,6 @@ DOMAIN-SUFFIX, cgbchina.com.cn
 DOMAIN-SUFFIX, cib.com.cn
 DOMAIN-SUFFIX, citibank.com.cn
 DOMAIN-SUFFIX, cmbc.com.cn
-DOMAIN-SUFFIX, hsbc.com.cn
 DOMAIN-SUFFIX, hxb.com.cn
 DOMAIN-SUFFIX, njcb.com.cn
 DOMAIN-SUFFIX, psbc.com

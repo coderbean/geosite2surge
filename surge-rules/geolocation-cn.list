@@ -130,6 +130,10 @@ DOMAIN-SUFFIX, cmfchina.com
 DOMAIN-SUFFIX, cmfunds.cn
 DOMAIN-SUFFIX, test-cignacmb.com
 
+DOMAIN-SUFFIX, hsbc.com.cn
+DOMAIN-SUFFIX, hsbcqh.com.cn
+DOMAIN-SUFFIX, hsbcinsurance.com.cn
+
 # All .icbc domains
 DOMAIN-SUFFIX, icbc
 
@@ -217,7 +221,6 @@ DOMAIN-SUFFIX, cgbchina.com.cn
 DOMAIN-SUFFIX, cib.com.cn
 DOMAIN-SUFFIX, citibank.com.cn
 DOMAIN-SUFFIX, cmbc.com.cn
-DOMAIN-SUFFIX, hsbc.com.cn
 DOMAIN-SUFFIX, hxb.com.cn
 DOMAIN-SUFFIX, njcb.com.cn
 DOMAIN-SUFFIX, psbc.com
@@ -497,6 +500,12 @@ DOMAIN-SUFFIX, tkhealthcare.com
 # List of all blog domains that have access point in China mainland
 
 DOMAIN-SUFFIX, huangyuhui.net # 粤ICP备18071565号-1
+
+DOMAIN-SUFFIX, 114blog.com
+DOMAIN-SUFFIX, mryys.com
+DOMAIN-SUFFIX, mryys.cn
+DOMAIN-SUFFIX, 4thworkshop.com
+DOMAIN-SUFFIX, 4thworkshop.cn
 
 
 # 餐饮类
@@ -1058,7 +1067,9 @@ DOMAIN-SUFFIX, pinduoduo.net
 DOMAIN-SUFFIX, yangkeduo.com
 
 DOMAIN-SUFFIX, smzdm.com
+DOMAIN-SUFFIX, smzdmimg.com
 DOMAIN-SUFFIX, zdmimg.com
+DOMAIN-SUFFIX, zhidemai.com
 
 DOMAIN-SUFFIX, cnsuning.com
 DOMAIN-SUFFIX, suning.com
@@ -1309,11 +1320,13 @@ DOMAIN-SUFFIX, kuaikanmanhua.com
 # Beijing Kuaishou Technology Co., Ltd.
 
 DOMAIN-SUFFIX, gifshow.com
+DOMAIN-SUFFIX, inkwai.com
 DOMAIN-SUFFIX, ksapisrv.com
 DOMAIN-SUFFIX, kuaishou.com
-DOMAIN-SUFFIX, yximgs.com
 DOMAIN-SUFFIX, kwaizt.com
 DOMAIN-SUFFIX, kuaishouzt.com
+DOMAIN-SUFFIX, kwimgs.com
+DOMAIN-SUFFIX, yximgs.com
 
 DOMAIN, log-sdk.gifshow.com
 DOMAIN, wlog.kuaishou.com
@@ -1862,6 +1875,9 @@ DOMAIN-SUFFIX, puh3.net.cn
 DOMAIN, hospital.pku.edu.cn
 DOMAIN, ss.bjmu.edu.cn
 
+# 运城同德医院 晋ICP备15008538号-1
+DOMAIN-SUFFIX, yctdyy.com
+
 
 # 瑞幸咖啡
 DOMAIN-SUFFIX, lkcoffee.com
@@ -2231,6 +2247,11 @@ DOMAIN-SUFFIX, nowcoder.org
 
 DOMAIN-SUFFIX, polyv.net
 DOMAIN-SUFFIX, videocc.net
+
+DOMAIN-SUFFIX, hecdn.net
+DOMAIN-SUFFIX, heweather.net
+DOMAIN-SUFFIX, qweather.com
+DOMAIN-SUFFIX, qweather.net
 
 DOMAIN-SUFFIX, renren.com
 DOMAIN-SUFFIX, renren-inc.com
@@ -4344,6 +4365,9 @@ DOMAIN-SUFFIX, docer.com
 # Documents
 DOMAIN-SUFFIX, kdocs.cn
 
+# Mail
+DOMAIN-SUFFIX, wpsmail.net
+
 # PAPocket
 DOMAIN-SUFFIX, papocket.com
 
@@ -5473,6 +5497,15 @@ DOMAIN-SUFFIX, jikeiot.cloud
 
 DOMAIN-SUFFIX, zyh365.com # 志愿汇
 
+# 中国气象局政府门户网站
+DOMAIN-SUFFIX, cma.gov.cn
+# 中国气象局
+DOMAIN-SUFFIX, cma.cn
+# 中央气象台
+DOMAIN-SUFFIX, nmc.cn
+# 央广网
+DOMAIN-SUFFIX, cnr.cn
+
 # 青年大学习
 ## 北京中青在线网络信息技术有限公司 (京ICP备16062000号)
 DOMAIN-SUFFIX, cyol.com
@@ -6319,6 +6352,7 @@ DOMAIN-SUFFIX, rzrc114.com
 DOMAIN-SUFFIX, saibo.com
 DOMAIN-SUFFIX, sanguosha.com
 DOMAIN-SUFFIX, sanwen.net
+DOMAIN-SUFFIX, sast.fun
 DOMAIN-SUFFIX, scdng.com
 DOMAIN-SUFFIX, scoregg.com
 DOMAIN-SUFFIX, sczsxx.com
@@ -6357,6 +6391,7 @@ DOMAIN-SUFFIX, simei8.com
 DOMAIN-SUFFIX, simuwang.com
 DOMAIN-SUFFIX, sinesafe.com
 DOMAIN-SUFFIX, sjwyx.com
+DOMAIN-SUFFIX, skimit.net
 DOMAIN-SUFFIX, skycn.com
 DOMAIN-SUFFIX, sllssrq.com
 DOMAIN-SUFFIX, snimay.com
@@ -6679,7 +6714,7 @@ DOMAIN-SUFFIX, wss.zone
 
 DOMAIN-SUFFIX, hisensehitachi.com #海信日立官网
 
-#仟寻招聘
+#  仟寻招聘
 DOMAIN-SUFFIX, moseeker.com
 
 # 东郊到家
@@ -6688,3 +6723,26 @@ DOMAIN-SUFFIX, djdjapp.com
 DOMAIN-SUFFIX, dongjiao.cc
 DOMAIN-SUFFIX, dongjiaoapp.com
 
+
+# 建始网 鄂ICP备05004864号-1
+DOMAIN-SUFFIX, jsw118.com
+
+# 陕西城乡劳动就业网 陕ICP备19016945号-1
+DOMAIN-SUFFIX, sxcxldjy.com
+
+# 陕西建筑资质代办 陕ICP备17011269号
+DOMAIN-SUFFIX, shanxijianzhuzizhi.com
+
+# 晋中广播电视台视听网 晋ICP备08003098号-3
+DOMAIN-SUFFIX, jztvnews.com
+
+# 纬横数据 鲁ICP备17051601号-1
+DOMAIN-SUFFIX, vhengdata.com
+
+# 南岳新闻网 湘ICP备2022008426号-2
+DOMAIN-SUFFIX, nanyuenews.com
+
+# 湖南智擎科技有限公司
+DOMAIN-SUFFIX, educoder.net
+DOMAIN-SUFFIX, tokcoder.com
+DOMAIN-SUFFIX, trustie.net

@@ -153,12 +153,10 @@ DOMAIN-SUFFIX, acgfbw.com
 DOMAIN-SUFFIX, acgvipss.com
 DOMAIN-SUFFIX, acgwr.com
 DOMAIN-SUFFIX, aishegw.com
-DOMAIN-SUFFIX, clincha.cn
 DOMAIN-SUFFIX, fabuyemian.com
 DOMAIN-SUFFIX, illusion111.com
 DOMAIN-SUFFIX, illusionas.com
 DOMAIN-SUFFIX, illusionchn.com
-DOMAIN-SUFFIX, illusionfb.cn
 DOMAIN-SUFFIX, illusiongw.com
 DOMAIN-SUFFIX, illusionh.com
 DOMAIN-SUFFIX, illusionl.com
@@ -175,7 +173,6 @@ DOMAIN-SUFFIX, isheppc.com
 DOMAIN-SUFFIX, lliusno.com
 DOMAIN-SUFFIX, noisullifb.com
 DOMAIN-SUFFIX, wnoaissulli1.com
-DOMAIN-SUFFIX, yiqilai99.cn
 DOMAIN-SUFFIX, zzycdz.com
 
 DOMAIN-SUFFIX, cdnlab.live
@@ -645,7 +642,6 @@ DOMAIN-SUFFIX, 21hub.com
 DOMAIN-SUFFIX, 21naturals.com
 DOMAIN-SUFFIX, 21vv.cc
 DOMAIN-SUFFIX, 2371tom.com
-DOMAIN-SUFFIX, 249dw7.cn
 DOMAIN-SUFFIX, 24hjav.com
 DOMAIN-SUFFIX, 24porn.com
 DOMAIN-SUFFIX, 24porn.pro
@@ -2203,7 +2199,6 @@ DOMAIN-SUFFIX, fetishshrine.com
 DOMAIN-SUFFIX, fetlife.com
 DOMAIN-SUFFIX, fffucked.com
 DOMAIN-SUFFIX, fgirl.ch
-DOMAIN-SUFFIX, fi11.cn
 DOMAIN-SUFFIX, fi11.com
 DOMAIN-SUFFIX, fi11av1.com
 DOMAIN-SUFFIX, fi11tv1.com
@@ -6121,7 +6116,6 @@ DOMAIN-SUFFIX, xvirtual.com
 DOMAIN-SUFFIX, xvxx.stream
 DOMAIN-SUFFIX, xvxxtube.com
 DOMAIN-SUFFIX, xx-map.com
-DOMAIN-SUFFIX, xx159.com.cn
 DOMAIN-SUFFIX, xx9.app
 DOMAIN-SUFFIX, xxbook.cc
 DOMAIN-SUFFIX, xxbrits.com
@@ -6357,7 +6351,6 @@ DOMAIN-SUFFIX, yy55.tv
 DOMAIN-SUFFIX, yy7y.com
 DOMAIN-SUFFIX, yy8y.com
 DOMAIN-SUFFIX, yyfb.cyou
-DOMAIN-SUFFIX, yyyzgdl.cn
 DOMAIN-SUFFIX, yzld188.top
 DOMAIN-SUFFIX, z00.world
 DOMAIN-SUFFIX, z676869.com
@@ -6573,7 +6566,6 @@ URL-REGEX, (^|\.)xg[0-9]{2}\.vip$
 URL-REGEX, (^|\.)xgyy([0-9]{2})?\.vip$
 URL-REGEX, (^|\.)xingdh([0-9]{3})?\.xyz$
 URL-REGEX, (^|\.)xlywz[1-9]?\.cc$
-URL-REGEX, (^|\.)xnkl[3-8]\.cn$
 URL-REGEX, (^|\.)xomfsp[1-9]?\.buzz$
 URL-REGEX, (^|\.)xv[0-9]{4}\.top$
 URL-REGEX, (^|\.)xxxyaom[0-9]{2}\.buzz$
