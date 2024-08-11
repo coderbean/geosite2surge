@@ -167,6 +167,14 @@ DOMAIN, analytics.google.com
 
 URL-REGEX, ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
 
+# A list of domains for Google Gemini(or Google AI).
+
+DOMAIN-SUFFIX, gemini.google.com
+DOMAIN-SUFFIX, ai.google.dev
+DOMAIN-SUFFIX, aistudio.google.com
+DOMAIN-SUFFIX, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, alkalimakersuite-pa.clients6.google.com
+
 DOMAIN-SUFFIX, charlestonroadregistry.com
 DOMAIN-SUFFIX, crr.com
 DOMAIN-SUFFIX, registry.google
