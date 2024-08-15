@@ -21,14 +21,6 @@ DOMAIN-SUFFIX, ninemsn.com.au
 DOMAIN-SUFFIX, static9.net.au
 DOMAIN-SUFFIX, yourtv.com.au
 
-DOMAIN-SUFFIX, 9to5google.com
-DOMAIN-SUFFIX, 9to5mac.com
-DOMAIN-SUFFIX, 9to5terminal.com
-DOMAIN-SUFFIX, 9to5toys.com
-DOMAIN-SUFFIX, dronedj.com
-DOMAIN-SUFFIX, electrek.co
-DOMAIN-SUFFIX, spaceexplored.com
-
 DOMAIN-SUFFIX, afp.com
 DOMAIN-SUFFIX, afpforum.com
 
@@ -1272,10 +1264,6 @@ DOMAIN-SUFFIX, theguardiandns.com
 DOMAIN-SUFFIX, theinitium.com
 DOMAIN-SUFFIX, init.shop
 
-DOMAIN-SUFFIX, thetype.cloud
-DOMAIN-SUFFIX, thetype.com
-DOMAIN-SUFFIX, typeisbeautiful.com
-
 DOMAIN-SUFFIX, reut.rs
 DOMAIN-SUFFIX, reuters.com
 DOMAIN-SUFFIX, reuters.tv
@@ -1441,9 +1429,6 @@ DOMAIN-SUFFIX, superstation.com.tw
 DOMAIN-SUFFIX, watchout.tw
 DOMAIN-SUFFIX, waa.tw
 
-DOMAIN-SUFFIX, startupschool.org
-DOMAIN-SUFFIX, ycombinator.com
-
 DOMAIN-SUFFIX, chuokoron.jp
 DOMAIN-SUFFIX, fujinkoron.jp
 DOMAIN-SUFFIX, hochi.news
@@ -1488,11 +1473,43 @@ DOMAIN-SUFFIX, zeenews.com
 DOMAIN, zeenews-fonts.s3.amazonaws.com
 
 
+DOMAIN-SUFFIX, 9to5google.com
+DOMAIN-SUFFIX, 9to5mac.com
+DOMAIN-SUFFIX, 9to5terminal.com
+DOMAIN-SUFFIX, 9to5toys.com
+DOMAIN-SUFFIX, dronedj.com
+DOMAIN-SUFFIX, electrek.co
+DOMAIN-SUFFIX, spaceexplored.com
+
+DOMAIN-SUFFIX, thetype.cloud
+DOMAIN-SUFFIX, thetype.com
+DOMAIN-SUFFIX, typeisbeautiful.com
+
+DOMAIN-SUFFIX, startupschool.org
+DOMAIN-SUFFIX, ycombinator.com
+
+
+DOMAIN-SUFFIX, androidauthority.com
+DOMAIN-SUFFIX, androidpolice.com
+DOMAIN-SUFFIX, appleinsider.com
+DOMAIN-SUFFIX, digitaltrends.com
+DOMAIN-SUFFIX, engadget.com
+DOMAIN-SUFFIX, macrumors.com
+DOMAIN-SUFFIX, slashdot.org
+DOMAIN-SUFFIX, technews.tw
+DOMAIN-SUFFIX, techradar.com
+DOMAIN-SUFFIX, theverge.com
+DOMAIN-SUFFIX, tomsguide.com
+
+# zdnet
+DOMAIN-SUFFIX, zdnet.com
+DOMAIN-SUFFIX, zdnet.redvideo.io
+
+
 
 DOMAIN-SUFFIX, 881903.com
 DOMAIN-SUFFIX, am730.com.hk
 DOMAIN-SUFFIX, americasvoice.news
-DOMAIN-SUFFIX, appleinsider.com
 DOMAIN-SUFFIX, axios.com
 DOMAIN-SUFFIX, bbgwatch.com
 DOMAIN-SUFFIX, bnext.com.tw
@@ -1531,7 +1548,6 @@ DOMAIN-SUFFIX, landofhope.tv
 DOMAIN-SUFFIX, limedia.tw
 DOMAIN-SUFFIX, localpresshk.com
 DOMAIN-SUFFIX, ltsports.com.tw
-DOMAIN-SUFFIX, macrumors.com
 DOMAIN-SUFFIX, mdnkids.com
 DOMAIN-SUFFIX, mirrormedia.com.tw
 DOMAIN-SUFFIX, mirrormedia.mg
@@ -1556,12 +1572,10 @@ DOMAIN-SUFFIX, rtings.com
 DOMAIN-SUFFIX, shuziyimin.org
 DOMAIN-SUFFIX, singpao.com.hk
 DOMAIN-SUFFIX, sinoinsider.com
-DOMAIN-SUFFIX, slashdot.org
 DOMAIN-SUFFIX, socrec.org
 DOMAIN-SUFFIX, storm.mg
 DOMAIN-SUFFIX, taipeitimes.com
 DOMAIN-SUFFIX, taiwannews.com.tw
-DOMAIN-SUFFIX, technews.tw
 DOMAIN-SUFFIX, theaffairs.com
 DOMAIN-SUFFIX, theatlantic.com
 DOMAIN-SUFFIX, thegatewaypundit.com
