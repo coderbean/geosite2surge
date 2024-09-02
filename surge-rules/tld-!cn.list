@@ -2,6 +2,21 @@
 # https://icannwiki.org/Country_code_top-level_domain
 # https://www.101domain.com/branded_domains.htm
 
+## DO NOT RE-INTRODUCE!
+## refer to: https://domain.miit.gov.cn/managerdns/index
+## credit to
+# asia  # Asia-Pacific region
+# baby  # Baby
+# chase  # JPMorgan Chase & Co.
+# chat  # Chat
+# hk  # Hong Kong
+# jpmorgan  # JPMorgan Chase & Co.
+# poker  # Poker
+# quest  # Quest ION Limited
+# saxo  # Saxo Bank A/S
+# tv  # Tuvalu
+# xn--j6w193g  # 香港 Hong Kong SAR, People's Republic of China
+
 # Reference: https://www.registry.google/for-partners/
 # For convenience, please do NOT sort this file.
 
@@ -124,7 +139,6 @@ DOMAIN-SUFFIX, gt # Guatemala
 DOMAIN-SUFFIX, gu # Guam
 DOMAIN-SUFFIX, gw # Guinea-Bissau
 DOMAIN-SUFFIX, gy # Guyana
-DOMAIN-SUFFIX, hk # Hong Kong
 DOMAIN-SUFFIX, hm # Heard Island and McDonald Islands
 DOMAIN-SUFFIX, hn # Honduras
 DOMAIN-SUFFIX, hr # Croatia
@@ -256,7 +270,6 @@ DOMAIN-SUFFIX, tn # Tunisia
 DOMAIN-SUFFIX, to # Tonga
 DOMAIN-SUFFIX, tr # Turkey
 DOMAIN-SUFFIX, tt # Trinidad & Tobago
-DOMAIN-SUFFIX, tv # Tuvalu
 DOMAIN-SUFFIX, tw # Taiwan (Republic of China)
 DOMAIN-SUFFIX, tz # Tanzania
 DOMAIN-SUFFIX, ua # Ukraine
@@ -331,7 +344,6 @@ DOMAIN-SUFFIX, joburg     # Johannesburg, South Africa
 ## Asia
 DOMAIN-SUFFIX, abudhabi   # Abu Dhabi
 DOMAIN-SUFFIX, arab       # Leagueof Arab States
-DOMAIN-SUFFIX, asia       # Asia-Pacific region
 DOMAIN-SUFFIX, dubai      # Dubai
 DOMAIN-SUFFIX, krd        # Kurdistan
 DOMAIN-SUFFIX, kyoto      # Kyoto, Japan
@@ -456,13 +468,11 @@ DOMAIN-SUFFIX, zara # Inditex, SA
 DOMAIN-SUFFIX, africamagic # Electronic Media Network Limited
 DOMAIN-SUFFIX, agakhan # Aga Khan Foundation
 DOMAIN-SUFFIX, akdn # Aga Khan Foundation
-DOMAIN-SUFFIX, baby # Baby
 DOMAIN-SUFFIX, bar # A place which provide liquor
 DOMAIN-SUFFIX, bharti # Bharti Enterprises
 DOMAIN-SUFFIX, bingo # Bingo
 DOMAIN-SUFFIX, casa # Casa (Home)
 DOMAIN-SUFFIX, casino # Online Casino
-DOMAIN-SUFFIX, chat # Chat
 DOMAIN-SUFFIX, dating # Dating
 DOMAIN-SUFFIX, domains # Domain Name Register
 DOMAIN-SUFFIX, extraspace # Extra Space Storage LLC
@@ -475,7 +485,6 @@ DOMAIN-SUFFIX, lgbt # Lesbian, Gay, Bisexual, Transgender
 DOMAIN-SUFFIX, maif # Mutuelle Assurance Instituteur France (MAIF)
 DOMAIN-SUFFIX, mattel # Mattel Sites, Inc.
 DOMAIN-SUFFIX, moe # Japanese slang
-DOMAIN-SUFFIX, poker # Poker
 DOMAIN-SUFFIX, sas # SAS institute
 DOMAIN-SUFFIX, shell # Shell Information Technology International Inc
 DOMAIN-SUFFIX, shia # Shia Muslim community
@@ -536,7 +545,6 @@ DOMAIN-SUFFIX, xn--e1a4c  #  ею European Union
 DOMAIN-SUFFIX, xn--qxa6a  #  ευ European Union
 DOMAIN-SUFFIX, xn--node  #  გე Georgia
 DOMAIN-SUFFIX, xn--qxam  #  ελ Greece
-DOMAIN-SUFFIX, xn--j6w193g  #  香港 Hong Kong SAR, People's Republic of China
 DOMAIN-SUFFIX, xn--4dbrk0ce  #  ישראל Israel
 DOMAIN-SUFFIX, xn--h2brj9c  #  भारत India
 DOMAIN-SUFFIX, xn--mgbbh1a71e  #  بھارت India
@@ -663,7 +671,6 @@ DOMAIN-SUFFIX, bradesco # Banco Bradesco S.A.
 DOMAIN-SUFFIX, capitalone # Capital One Financial Corporation
 DOMAIN-SUFFIX, cba # Commonwealth Bank of Australia
 DOMAIN-SUFFIX, cfa # CFA Institute
-DOMAIN-SUFFIX, chase # JPMorgan Chase & Co.
 DOMAIN-SUFFIX, citadel # Citadel, LLC
 DOMAIN-SUFFIX, citi # Citigroup Inc.
 DOMAIN-SUFFIX, commbank # Commonwealth Bank of Australia
@@ -676,7 +683,6 @@ DOMAIN-SUFFIX, hsbc # HSBC Bank
 DOMAIN-SUFFIX, itau # Itau Unibanco Holding S.A.
 DOMAIN-SUFFIX, jcb # JCB Co., Ltd.
 DOMAIN-SUFFIX, jll # Jones Lang LaSalle Incorporated
-DOMAIN-SUFFIX, jpmorgan # JPMorgan Chase & Co.
 DOMAIN-SUFFIX, kfh # Kuwait Finance House
 DOMAIN-SUFFIX, kpmg # KPMG International Cooperative
 DOMAIN-SUFFIX, lacaixa # La Caixa
@@ -693,7 +699,6 @@ DOMAIN-SUFFIX, pramerica # Prudential Financial, Inc.
 DOMAIN-SUFFIX, prudential # Prudential Financial, Inc.
 DOMAIN-SUFFIX, pru # Prudential Financial, Inc.
 DOMAIN-SUFFIX, pwc # PwC Business Trust
-DOMAIN-SUFFIX, saxo # Saxo Bank A/S
 DOMAIN-SUFFIX, sbi # State Bank of India
 DOMAIN-SUFFIX, scb # The Siam Commercial Bank Public Company Limited
 DOMAIN-SUFFIX, softbank # Softbank Corporation
@@ -820,7 +825,6 @@ DOMAIN-SUFFIX, oracle # Oracle Corporation
 DOMAIN-SUFFIX, orange # Orange Brand Services Limited
 DOMAIN-SUFFIX, ovh # OVH SAS
 DOMAIN-SUFFIX, pccw # PCCW Enterprises Limited
-DOMAIN-SUFFIX, quest # Quest ION Limited
 DOMAIN-SUFFIX, richardli # Pacific Century Asset Management (HK) Limited
 DOMAIN-SUFFIX, ricoh # Ricoh Company, Ltd.
 DOMAIN-SUFFIX, rogers # Rogers Communications Partnership
