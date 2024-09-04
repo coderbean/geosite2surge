@@ -167,20 +167,25 @@ DOMAIN, analytics.google.com
 
 URL-REGEX, ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
 
-# A list of domains for Google Gemini(or Google AI).
-
-# deepmind
+# Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google
 
-DOMAIN-SUFFIX, ai.google.dev
+# Google Generative Language API
+DOMAIN-SUFFIX, geller-pa.googleapis.com
+DOMAIN-SUFFIX, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
+
+# Google AI Studio
+DOMAIN, ai.google.dev
+DOMAIN, alkalicore-pa.clients6.google.com
+DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX, generativeai.google
+DOMAIN-SUFFIX, makersuite.google.com
+
 DOMAIN-SUFFIX, aistudio.google.com
 DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google.com
-DOMAIN-SUFFIX, generativelanguage.googleapis.com
-DOMAIN-SUFFIX, makersuite.google.com
-
-DOMAIN, alkalimakersuite-pa.clients6.google.com
 
 DOMAIN-SUFFIX, charlestonroadregistry.com
 DOMAIN-SUFFIX, crr.com

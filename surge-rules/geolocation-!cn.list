@@ -9,23 +9,29 @@ DOMAIN, servd-anthropic-website.b-cdn.net
 
 # This list is for backward compatibility
 
-# A list of domains for Google Gemini(or Google AI).
-
-# deepmind
+# Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google
 
-DOMAIN-SUFFIX, ai.google.dev
+# Google Generative Language API
+DOMAIN-SUFFIX, geller-pa.googleapis.com
+DOMAIN-SUFFIX, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
+
+# Google AI Studio
+DOMAIN, ai.google.dev
+DOMAIN, alkalicore-pa.clients6.google.com
+DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX, generativeai.google
+DOMAIN-SUFFIX, makersuite.google.com
+
 DOMAIN-SUFFIX, aistudio.google.com
 DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google.com
-DOMAIN-SUFFIX, generativelanguage.googleapis.com
-DOMAIN-SUFFIX, makersuite.google.com
-
-DOMAIN, alkalimakersuite-pa.clients6.google.com
 
 
 # Main domain
+DOMAIN-SUFFIX, ai.com
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
@@ -43,16 +49,24 @@ URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 DOMAIN, o33249.ingest.sentry.io
 DOMAIN, openaicom.imgix.net
 
+DOMAIN-SUFFIX, perplexity.ai
+
 DOMAIN-SUFFIX, poe.com
 DOMAIN-SUFFIX, poecdn.net
 
 DOMAIN-SUFFIX, x.ai
 
 
-# notebooklm
+# Jasper
+DOMAIN-SUFFIX, clipdrop.co
+DOMAIN-SUFFIX, jasper.ai
+
+# NotebookLM
 DOMAIN-SUFFIX, notebooklm.google
 DOMAIN-SUFFIX, notebooklm.google.com
 
+DOMAIN-SUFFIX, dify.ai
+DOMAIN-SUFFIX, gateway.ai.cloudflare.com
 DOMAIN-SUFFIX, meta.ai
 DOMAIN-SUFFIX, openart.ai
 
@@ -4902,6 +4916,7 @@ DOMAIN-SUFFIX, chemequations.com # 线上化学方程式！
 DOMAIN-SUFFIX, abema.io
 DOMAIN-SUFFIX, abema.tv
 DOMAIN-SUFFIX, abema-tv.com
+DOMAIN-SUFFIX, abematv.co.jp
 DOMAIN-SUFFIX, adx.promo
 DOMAIN-SUFFIX, ameba.jp
 DOMAIN-SUFFIX, amebame.com
@@ -21145,20 +21160,25 @@ DOMAIN, analytics.google.com
 
 URL-REGEX, ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
 
-# A list of domains for Google Gemini(or Google AI).
-
-# deepmind
+# Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google
 
-DOMAIN-SUFFIX, ai.google.dev
+# Google Generative Language API
+DOMAIN-SUFFIX, geller-pa.googleapis.com
+DOMAIN-SUFFIX, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
+
+# Google AI Studio
+DOMAIN, ai.google.dev
+DOMAIN, alkalicore-pa.clients6.google.com
+DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX, generativeai.google
+DOMAIN-SUFFIX, makersuite.google.com
+
 DOMAIN-SUFFIX, aistudio.google.com
 DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google.com
-DOMAIN-SUFFIX, generativelanguage.googleapis.com
-DOMAIN-SUFFIX, makersuite.google.com
-
-DOMAIN, alkalimakersuite-pa.clients6.google.com
 
 DOMAIN-SUFFIX, charlestonroadregistry.com
 DOMAIN-SUFFIX, crr.com
@@ -24317,6 +24337,7 @@ DOMAIN-SUFFIX, tegrazone.kr
 DOMAIN, nvidia.tt.omtrdc.net
 
 # Main domain
+DOMAIN-SUFFIX, ai.com
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
