@@ -1,0 +1,41 @@
+# RWKV
+DOMAIN-SUFFIX, rwkv.cn
+DOMAIN-SUFFIX, rwkv.com
+
+# 通义千问
+DOMAIN-SUFFIX, tongyi.aliyun.com
+DOMAIN-SUFFIX, qianwen.aliyun.com
+
+# 文心一言
+DOMAIN-SUFFIX, yiyan.baidu.com
+
+# 天工AI
+DOMAIN-SUFFIX, tiangong.cn
+
+# 豆包
+DOMAIN-SUFFIX, doubao.com
+DOMAIN-SUFFIX, marscode.cn
+
+# 智谱清言
+DOMAIN-SUFFIX, chatglm.cn
+DOMAIN-SUFFIX, zhipuai.cn
+
+# 月之暗面
+DOMAIN-SUFFIX, moonshot.cn
+
+# 讯飞星火
+DOMAIN-SUFFIX, xinghuo.xfyun.cn
+
+# MiniMax
+DOMAIN-SUFFIX, hailuoai.com
+DOMAIN-SUFFIX, minimaxi.com
+DOMAIN-SUFFIX, xingyeai.com
+
+# 腾讯混元
+DOMAIN-SUFFIX, hunyuan.tencent.com
+
+# 百川智能
+DOMAIN-SUFFIX, baichuan-ai.com
+
+DOMAIN-SUFFIX, botvip.cn
+DOMAIN-SUFFIX, liblib.art

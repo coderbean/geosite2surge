@@ -1,2 +1,17 @@
+# Remote Desktop
+## Oray
+DOMAIN-SUFFIX, oray.com
+DOMAIN-SUFFIX, oray.net
+DOMAIN-SUFFIX, orayer.com
+DOMAIN-SUFFIX, orayimg.com
+DOMAIN-SUFFIX, sunlogin.net
+
+## ToDesk
+DOMAIN-SUFFIX, todesk.com
+
+# Tower 团队协作
+DOMAIN-SUFFIX, tower.im
+
+
 DOMAIN-SUFFIX, shimo.im
 DOMAIN-SUFFIX, yuque.com

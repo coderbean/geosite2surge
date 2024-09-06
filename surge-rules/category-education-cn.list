@@ -1,3 +1,17 @@
+DOMAIN-SUFFIX, chinesemooc.org
+DOMAIN-SUFFIX, cnmooc.org
+DOMAIN-SUFFIX, icourse163.org
+DOMAIN-SUFFIX, icourses.cn
+DOMAIN-SUFFIX, icve.com.cn
+DOMAIN-SUFFIX, mooc.cn
+DOMAIN-SUFFIX, openlearning.com
+DOMAIN-SUFFIX, pmphmooc.com
+
+DOMAIN, moocs.unipus.cn
+DOMAIN, opencourse.pku.edu.cn
+DOMAIN, study.163.com
+
+
 DOMAIN-SUFFIX, 17zuoye.cn
 DOMAIN-SUFFIX, 17zuoye.com
 DOMAIN-SUFFIX, 17zuoye.net
@@ -32,7 +46,6 @@ DOMAIN-SUFFIX, yuantiku.com
 DOMAIN-SUFFIX, zhihuishu.com
 
 
-
 # 雨课堂
 DOMAIN-SUFFIX, rainclassroom.com
 DOMAIN-SUFFIX, yuketang.cn
@@ -50,6 +63,28 @@ DOMAIN-SUFFIX, xuetangx.com
 # 时代行云
 DOMAIN-SUFFIX, x-cloud.cc
 
+
+# 快对作业
+DOMAIN-SUFFIX, kuaiduizuoye.com
+
+# 流利说
+DOMAIN-SUFFIX, liulishuo.com
+DOMAIN-SUFFIX, llsapp.com
+DOMAIN-SUFFIX, llscdn.com
+DOMAIN-SUFFIX, llsserver.com
+
+# 百词斩
+DOMAIN-SUFFIX, baicizhan.com
+DOMAIN-SUFFIX, baicizhan.org
+DOMAIN-SUFFIX, bczcdn.com
+DOMAIN-SUFFIX, bczeducation.cn
+
+# 小站教育
+DOMAIN-SUFFIX, zhan.com
+
+# Burning Vocabulary
+DOMAIN-SUFFIX, burningvocabulary.cn
+DOMAIN-SUFFIX, burningvocabulary.com
 
 # 莞教通
 DOMAIN-SUFFIX, dgjy.net
@@ -74,3 +109,14 @@ DOMAIN-SUFFIX, pigai.org
 
 # 未来云校
 DOMAIN-SUFFIX, weilaiyunxiao.com
+
+# 马哥教育
+DOMAIN-SUFFIX, magedu.com
+
+# 老男孩教育
+DOMAIN-SUFFIX, oldboyedu.com
+
+# 在职研究生教育信息网
+DOMAIN-SUFFIX, eduei.com
+
+DOMAIN-SUFFIX, edu.cn

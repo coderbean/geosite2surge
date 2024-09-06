@@ -3772,6 +3772,7 @@ DOMAIN-SUFFIX, googletagservices.com
 DOMAIN-SUFFIX, googletraveladservices-cn.com
 DOMAIN-SUFFIX, googletraveladservices.com
 DOMAIN-SUFFIX, googlevads-cn.com
+DOMAIN-SUFFIX, mail-ads.google.com
 DOMAIN-SUFFIX, marketingplatform.google.com
 DOMAIN-SUFFIX, urchin.com
 
@@ -6330,6 +6331,7 @@ DOMAIN-SUFFIX, elderscrolls.com
 
 DOMAIN-SUFFIX, callersbane.com
 DOMAIN-SUFFIX, minecraft.net
+DOMAIN-SUFFIX, minecraftservices.com
 DOMAIN-SUFFIX, minecraftshop.com
 DOMAIN-SUFFIX, mojang.com
 

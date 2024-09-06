@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX, cnki.com.cn
 DOMAIN-SUFFIX, cnki.net
+
+# 国际 DOI 中国注册与服务中心
+DOMAIN-SUFFIX, chndoi.org
