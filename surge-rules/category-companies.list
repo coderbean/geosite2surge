@@ -3800,6 +3800,39 @@ DOMAIN-SUFFIX, aistudio.google.com
 DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google.com
 
+# This list is for backward compatibility
+
+# Google DeepMind
+DOMAIN-SUFFIX, deepmind.com
+DOMAIN-SUFFIX, deepmind.google
+
+# Google Generative Language API
+DOMAIN-SUFFIX, geller-pa.googleapis.com
+DOMAIN-SUFFIX, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
+
+# Google AI Studio
+DOMAIN, ai.google.dev
+DOMAIN, alkalicore-pa.clients6.google.com
+DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX, generativeai.google
+DOMAIN-SUFFIX, makersuite.google.com
+
+DOMAIN-SUFFIX, aistudio.google.com
+DOMAIN-SUFFIX, bard.google.com
+DOMAIN-SUFFIX, gemini.google.com
+
+
+DOMAIN-SUFFIX, googleplay.com
+DOMAIN-SUFFIX, play-fe.googleapis.com
+DOMAIN-SUFFIX, play-games.googleusercontent.com
+DOMAIN-SUFFIX, play-lh.googleusercontent.com
+DOMAIN-SUFFIX, play.google.com
+DOMAIN-SUFFIX, play.googleapis.com
+DOMAIN-SUFFIX, xn--ngstr-lra8j.com
+
+DOMAIN, redirector.c.play.google.com
+
 DOMAIN-SUFFIX, charlestonroadregistry.com
 DOMAIN-SUFFIX, crr.com
 DOMAIN-SUFFIX, registry.google
@@ -3921,7 +3954,10 @@ DOMAIN, alt5-mtalk.google.com
 DOMAIN, alt6-mtalk.google.com
 DOMAIN, alt7-mtalk.google.com
 DOMAIN, alt8-mtalk.google.com
+DOMAIN, mtalk-dev.google.com
+DOMAIN, mtalk-staging.google.com
 DOMAIN, mtalk.google.com
+DOMAIN, mtalk4.google.com
 
 DOMAIN-SUFFIX, kaggle.com
 DOMAIN-SUFFIX, kaggle.io
@@ -4481,7 +4517,6 @@ DOMAIN-SUFFIX, googlemail.com
 DOMAIN-SUFFIX, googlemaps.com
 DOMAIN-SUFFIX, googlepagecreator.com
 DOMAIN-SUFFIX, googlephotos.com
-DOMAIN-SUFFIX, googleplay.com
 DOMAIN-SUFFIX, googleplus.com
 DOMAIN-SUFFIX, googlesource.com
 DOMAIN-SUFFIX, googlestore.com
@@ -4635,7 +4670,6 @@ DOMAIN-SUFFIX, xn--flw351e.com     # 谷歌.com
 DOMAIN-SUFFIX, xn--ggle-55da.com   # gооgle.com
 DOMAIN-SUFFIX, xn--gogl-0nd52e.com # gοoglе.com
 DOMAIN-SUFFIX, xn--gogl-1nd42e.com # goοglе.com
-DOMAIN-SUFFIX, xn--ngstr-lra8j.com # google play 应用下载时涉及
 DOMAIN-SUFFIX, xplr.co
 DOMAIN-SUFFIX, zukunftswerkstatt.de
 
@@ -4759,7 +4793,6 @@ DOMAIN, redirector.bdn.dev
 DOMAIN, redirector.c.chat.google.com
 DOMAIN, redirector.c.mail.google.com
 DOMAIN, redirector.c.pack.google.com
-DOMAIN, redirector.c.play.google.com
 DOMAIN, redirector.c.youtubeeducation.com
 DOMAIN, redirector.gcpcdn.gvt1.com
 DOMAIN, redirector.gvt1.com
@@ -6822,6 +6855,12 @@ DOMAIN-SUFFIX, seamonkey-project.org
 
 # Thunderbird
 DOMAIN-SUFFIX, thunderbird.net
+
+# Mozilla Location Service
+DOMAIN-SUFFIX, location.services.mozilla.com
+
+# Mozilla Push Service
+DOMAIN-SUFFIX, push.services.mozilla.com
 
 DOMAIN-SUFFIX, musixmatch.com
 DOMAIN-SUFFIX, mxmcdn.net

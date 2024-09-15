@@ -38,3 +38,9 @@ DOMAIN-SUFFIX, seamonkey-project.org
 
 # Thunderbird
 DOMAIN-SUFFIX, thunderbird.net
+
+# Mozilla Location Service
+DOMAIN-SUFFIX, location.services.mozilla.com
+
+# Mozilla Push Service
+DOMAIN-SUFFIX, push.services.mozilla.com
