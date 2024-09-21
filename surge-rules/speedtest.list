@@ -12,6 +12,8 @@ DOMAIN-SUFFIX, speedtest.net
 DOMAIN-SUFFIX, speedtestcustom.com
 DOMAIN-SUFFIX, webtest.net
 
+DOMAIN, www.speedtest.net.cdn.cloudflare.net
+
 URL-REGEX, ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 
 
