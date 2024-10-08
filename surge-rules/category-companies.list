@@ -560,6 +560,7 @@ DOMAIN, www.amd.com
 
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claudeusercontent.com
 
 # CDN
 DOMAIN, servd-anthropic-website.b-cdn.net
@@ -4673,6 +4674,10 @@ DOMAIN-SUFFIX, xn--gogl-1nd42e.com # goοglе.com
 DOMAIN-SUFFIX, xplr.co
 DOMAIN-SUFFIX, zukunftswerkstatt.de
 
+# Google safe browsing relay
+# https://www.fastly.com/press/press-releases/google-selects-Fastly-Oblivious-HTTP-Relay-for-Privacy-Sandbox/
+DOMAIN, google-ohttp-relay-safebrowsing.fastly-edge.com
+
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
 DOMAIN, www.recaptcha.net
@@ -6225,6 +6230,7 @@ DOMAIN-SUFFIX, github.dev
 DOMAIN-SUFFIX, github.io
 DOMAIN-SUFFIX, githubapp.com
 DOMAIN-SUFFIX, githubassets.com
+DOMAIN-SUFFIX, githubcopilot.com
 DOMAIN-SUFFIX, githubhackathon.com
 DOMAIN-SUFFIX, githubnext.com
 DOMAIN-SUFFIX, githubpreview.dev
@@ -6649,6 +6655,7 @@ DOMAIN-SUFFIX, sfx.ms
 DOMAIN-SUFFIX, sharepoint.cn
 DOMAIN-SUFFIX, sharepoint.com
 DOMAIN-SUFFIX, sharepointonline.com
+DOMAIN-SUFFIX, signalr.net
 DOMAIN-SUFFIX, skype.com
 DOMAIN-SUFFIX, skype.net
 DOMAIN-SUFFIX, skypeassets.com
@@ -7426,6 +7433,20 @@ DOMAIN-SUFFIX, tonec.com
 DOMAIN-SUFFIX, uber-assets.com
 DOMAIN-SUFFIX, uber.com
 DOMAIN-SUFFIX, ubereats.com
+
+DOMAIN-SUFFIX, amplifi.com
+DOMAIN-SUFFIX, amplifi.com.cn
+DOMAIN-SUFFIX, frontrow.com.cn
+DOMAIN-SUFFIX, frontrow.com
+DOMAIN-SUFFIX, ubncloud.com
+DOMAIN-SUFFIX, ubnt.com
+DOMAIN-SUFFIX, ubnt.com.cn
+DOMAIN-SUFFIX, ui.com
+DOMAIN-SUFFIX, ui.com.cn
+DOMAIN-SUFFIX, uisp.com
+DOMAIN-SUFFIX, uum.com.cn
+DOMAIN-SUFFIX, uwn.com
+DOMAIN-SUFFIX, wifiman.com
 
 # All .flickr domains
 DOMAIN-SUFFIX, flickr

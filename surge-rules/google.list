@@ -1061,6 +1061,10 @@ DOMAIN-SUFFIX, xn--gogl-1nd42e.com # goοglе.com
 DOMAIN-SUFFIX, xplr.co
 DOMAIN-SUFFIX, zukunftswerkstatt.de
 
+# Google safe browsing relay
+# https://www.fastly.com/press/press-releases/google-selects-Fastly-Oblivious-HTTP-Relay-for-Privacy-Sandbox/
+DOMAIN, google-ohttp-relay-safebrowsing.fastly-edge.com
+
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
 DOMAIN, www.recaptcha.net

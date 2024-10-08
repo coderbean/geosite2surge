@@ -174,6 +174,7 @@ DOMAIN-SUFFIX, github.dev
 DOMAIN-SUFFIX, github.io
 DOMAIN-SUFFIX, githubapp.com
 DOMAIN-SUFFIX, githubassets.com
+DOMAIN-SUFFIX, githubcopilot.com
 DOMAIN-SUFFIX, githubhackathon.com
 DOMAIN-SUFFIX, githubnext.com
 DOMAIN-SUFFIX, githubpreview.dev
@@ -598,6 +599,7 @@ DOMAIN-SUFFIX, sfx.ms
 DOMAIN-SUFFIX, sharepoint.cn
 DOMAIN-SUFFIX, sharepoint.com
 DOMAIN-SUFFIX, sharepointonline.com
+DOMAIN-SUFFIX, signalr.net
 DOMAIN-SUFFIX, skype.com
 DOMAIN-SUFFIX, skype.net
 DOMAIN-SUFFIX, skypeassets.com
