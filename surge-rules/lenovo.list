@@ -65,5 +65,11 @@ DOMAIN-SUFFIX, thinkprinter.com.cn
 DOMAIN-SUFFIX, thinkprinter.net
 DOMAIN-SUFFIX, zxsales.cn
 
+# 天津联想协同科技有限公司 津ICP备17010760号
+DOMAIN-SUFFIX, bestrhy.com
+DOMAIN-SUFFIX, filez.com
+DOMAIN-SUFFIX, lenovofile.com
+DOMAIN-SUFFIX, lenovopoc.com
+
 # CDN
 DOMAIN-SUFFIX, lenovo.com.cdn.cloudflare.net

@@ -43,6 +43,14 @@ DOMAIN-SUFFIX, yuanfudao.com
 DOMAIN-SUFFIX, yuansouti.com
 DOMAIN-SUFFIX, yuantiku.com
 
+# 粉笔蓝天
+DOMAIN-SUFFIX, fbstatic.cn
+DOMAIN-SUFFIX, fenbi.com
+DOMAIN-SUFFIX, fenbike.cn
+DOMAIN-SUFFIX, fenbike.com
+DOMAIN-SUFFIX, fenbilantian.cn
+DOMAIN-SUFFIX, fenbilantian.com
+
 DOMAIN-SUFFIX, zhihuishu.com
 
 
@@ -63,6 +71,12 @@ DOMAIN-SUFFIX, xuetangx.com
 # 时代行云
 DOMAIN-SUFFIX, x-cloud.cc
 
+# 学科网
+DOMAIN-SUFFIX, xkw.com
+DOMAIN-SUFFIX, zxxk.com
+
+# 第二教育网
+DOMAIN-SUFFIX, dearedu.com
 
 # 快对作业
 DOMAIN-SUFFIX, kuaiduizuoye.com

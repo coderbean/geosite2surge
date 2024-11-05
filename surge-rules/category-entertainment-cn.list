@@ -165,6 +165,22 @@ DOMAIN-SUFFIX, gcores.com
 DOMAIN-SUFFIX, gitv.cn
 DOMAIN-SUFFIX, gitv.tv
 
+# 湖南广电（芒果TV）
+DOMAIN-SUFFIX, click.hunantv.com
+DOMAIN-SUFFIX, da.hunantv.com
+DOMAIN-SUFFIX, da.mgtv.com
+DOMAIN-SUFFIX, log.hunantv.com
+DOMAIN-SUFFIX, log.v2.hunantv.com
+DOMAIN-SUFFIX, res.hunantv.com
+
+DOMAIN-SUFFIX, hifuntv.com
+DOMAIN-SUFFIX, hitv.com
+DOMAIN-SUFFIX, hnbntv.com
+DOMAIN-SUFFIX, hunaniptv.com
+DOMAIN-SUFFIX, hunantv.com
+DOMAIN-SUFFIX, imgo.tv
+DOMAIN-SUFFIX, mgtv.com
+
 DOMAIN-SUFFIX, huya.com
 DOMAIN-SUFFIX, msstatic.com
 
@@ -226,6 +242,10 @@ DOMAIN, wlog.kuaishou.com
 
 DOMAIN-SUFFIX, kgimg.com
 DOMAIN-SUFFIX, kugou.com
+
+DOMAIN-SUFFIX, koowo.cn
+DOMAIN-SUFFIX, koowo.com
+DOMAIN-SUFFIX, kuwo.cn
 
 DOMAIN-SUFFIX, le.com
 DOMAIN-SUFFIX, lecloud.com
@@ -340,4 +360,5 @@ DOMAIN-SUFFIX, lsplayer.com
 DOMAIN-SUFFIX, yeshen.com
 
 DOMAIN-SUFFIX, ledu.com
+DOMAIN-SUFFIX, pearvideo.com
 DOMAIN-SUFFIX, wo1wan.com

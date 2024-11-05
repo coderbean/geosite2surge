@@ -45,17 +45,14 @@ DOMAIN-SUFFIX, chinanews.com
 DOMAIN-SUFFIX, chinanews.com.cn
 DOMAIN-SUFFIX, cns.com.cn
 DOMAIN-SUFFIX, ecns.cn
+DOMAIN-SUFFIX, inewsweek.cn
 
 DOMAIN-SUFFIX, dgtle.com
 
 DOMAIN-SUFFIX, geekpark.net
 
-DOMAIN-SUFFIX, hoopchina.com.cn
-DOMAIN-SUFFIX, hupu.com
-DOMAIN-SUFFIX, hupucdn.com
-DOMAIN-SUFFIX, shihuo.cn
-
 DOMAIN-SUFFIX, coolbuy.com
+DOMAIN-SUFFIX, ifanr.cn
 DOMAIN-SUFFIX, ifanr.com
 DOMAIN-SUFFIX, ifanr.in
 DOMAIN-SUFFIX, ifanrusercontent.com
@@ -106,9 +103,11 @@ DOMAIN-SUFFIX, saayaa.com
 DOMAIN-SUFFIX, win7china.com
 DOMAIN-SUFFIX, win8china.com
 
+DOMAIN-SUFFIX, focus-img.cn
+DOMAIN-SUFFIX, focus.cn
+DOMAIN-SUFFIX, itc.cn
 DOMAIN-SUFFIX, sohu.com
 DOMAIN-SUFFIX, sohucs.com
-DOMAIN-SUFFIX, itc.cn
 
 DOMAIN-SUFFIX, solidot.org
 
@@ -212,8 +211,40 @@ DOMAIN-SUFFIX, xinhuanet.com
 DOMAIN-SUFFIX, people.cn
 DOMAIN-SUFFIX, people.com.cn
 
+# 环球网
+DOMAIN-SUFFIX, huanqiu.com
+DOMAIN-SUFFIX, huanqiucdn.cn
+
+# 光明网
+DOMAIN-SUFFIX, gmw.com
+
+# 澎湃新闻
+DOMAIN-SUFFIX, thepaper.cn
+
+# 封面新闻
+DOMAIN-SUFFIX, thecover.cn
+
+# 凤凰网
+DOMAIN-SUFFIX, ifeng.com
+DOMAIN-SUFFIX, ifengimg.com
+
 # 超能网
 DOMAIN-SUFFIX, expreview.com
+
+# 虎嗅
+DOMAIN-SUFFIX, huxiu.com
+DOMAIN-SUFFIX, huxiucdn.com
+
+# TechWeb
+DOMAIN-SUFFIX, techweb.com.cn
+
+# PConline - 太平洋科技
+DOMAIN-SUFFIX, 3conline.com
+DOMAIN-SUFFIX, pconline.com.cn
+
+# 中关村在线
+DOMAIN-SUFFIX, zol-img.com.cn
+DOMAIN-SUFFIX, zol.com.cn
 
 # 锋潮科技
 DOMAIN-SUFFIX, anzhuo.cn
