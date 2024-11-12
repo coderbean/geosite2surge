@@ -22432,6 +22432,10 @@ DOMAIN-SUFFIX, cups.org
 DOMAIN-SUFFIX, developer.apple.com
 DOMAIN-SUFFIX, devimages-cdn.apple.com
 DOMAIN-SUFFIX, devstreaming-cdn.apple.com
+DOMAIN-SUFFIX, developerservices2.apple.com
+DOMAIN-SUFFIX, timestamp.apple.com
+DOMAIN, notary-submissions-prod.s3-accelerate.amazonaws.com
+DOMAIN, notary-submissions-prod.s3.us-west-2.amazonaws.com
 
 # FoundationDB
 DOMAIN-SUFFIX, foundationdb.org
@@ -22474,6 +22478,7 @@ DOMAIN-SUFFIX, webobjects.com
 DOMAIN, appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN, appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN, p-events-delivery.akamaized.net
+
 
 DOMAIN-SUFFIX, archlinux.org
 DOMAIN-SUFFIX, archlinuxarm.org
@@ -23671,6 +23676,10 @@ DOMAIN-SUFFIX, cups.org
 DOMAIN-SUFFIX, developer.apple.com
 DOMAIN-SUFFIX, devimages-cdn.apple.com
 DOMAIN-SUFFIX, devstreaming-cdn.apple.com
+DOMAIN-SUFFIX, developerservices2.apple.com
+DOMAIN-SUFFIX, timestamp.apple.com
+DOMAIN, notary-submissions-prod.s3-accelerate.amazonaws.com
+DOMAIN, notary-submissions-prod.s3.us-west-2.amazonaws.com
 
 # FoundationDB
 DOMAIN-SUFFIX, foundationdb.org
@@ -23713,6 +23722,7 @@ DOMAIN-SUFFIX, webobjects.com
 DOMAIN, appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN, appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN, p-events-delivery.akamaized.net
+
 
 DOMAIN, certs-lb.apple.com.akadns.net
 DOMAIN, certs.apple.com
