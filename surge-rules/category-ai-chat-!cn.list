@@ -31,6 +31,7 @@ DOMAIN-SUFFIX, gemini.google.com
 # Main domain
 DOMAIN-SUFFIX, ai.com
 DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, chat.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
