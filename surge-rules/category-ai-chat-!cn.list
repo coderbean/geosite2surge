@@ -35,6 +35,7 @@ DOMAIN-SUFFIX, chat.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, sora.com
 
 # CDN & API
 DOMAIN-SUFFIX, openai.com.cdn.cloudflare.net
