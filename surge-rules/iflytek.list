@@ -4,6 +4,12 @@ DOMAIN-SUFFIX, iflytek.com
 # 科大讯飞官方商城
 DOMAIN-SUFFIX, xunfei.cn
 
+# 讯飞读写
+DOMAIN-SUFFIX, iflyink.com
+
+# 讯飞听见
+DOMAIN-SUFFIX, iflyrec.com
+
 # e听说中学
 DOMAIN-SUFFIX, ets100.com
 

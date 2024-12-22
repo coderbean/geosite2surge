@@ -18,3 +18,9 @@ URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 # tracking
 DOMAIN, o33249.ingest.sentry.io
 DOMAIN, openaicom.imgix.net
+DOMAIN, browser-intake-datadoghq.com
+
+# Advanced Voice
+DOMAIN-SUFFIX, chatgpt.livekit.cloud
+DOMAIN-SUFFIX, host.livekit.cloud
+DOMAIN-SUFFIX, turn.livekit.cloud

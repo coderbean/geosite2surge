@@ -51,6 +51,12 @@ URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 # tracking
 DOMAIN, o33249.ingest.sentry.io
 DOMAIN, openaicom.imgix.net
+DOMAIN, browser-intake-datadoghq.com
+
+# Advanced Voice
+DOMAIN-SUFFIX, chatgpt.livekit.cloud
+DOMAIN-SUFFIX, host.livekit.cloud
+DOMAIN-SUFFIX, turn.livekit.cloud
 
 DOMAIN-SUFFIX, perplexity.ai
 
@@ -58,6 +64,11 @@ DOMAIN-SUFFIX, poe.com
 DOMAIN-SUFFIX, poecdn.net
 
 DOMAIN-SUFFIX, x.ai
+
+DOMAIN-SUFFIX, cursor-cdn.com
+DOMAIN-SUFFIX, cursor.com
+DOMAIN-SUFFIX, cursor.sh
+DOMAIN-SUFFIX, cursorapi.com
 
 
 # Jasper
@@ -10927,6 +10938,7 @@ DOMAIN-SUFFIX, easy.ac
 DOMAIN-SUFFIX, easyanticheat.net
 DOMAIN-SUFFIX, epicgames.com
 DOMAIN-SUFFIX, epicgames.dev
+DOMAIN-SUFFIX, epicgamescdn.com
 DOMAIN-SUFFIX, fortnite.com
 DOMAIN-SUFFIX, paragon.com
 DOMAIN-SUFFIX, playparagon.com
@@ -11305,6 +11317,9 @@ DOMAIN, gamedownloads-rockstargames-com.akamaized.net
 DOMAIN, media-rockstargames-com.akamaized.net
 DOMAIN, videos-rockstargames-com.akamaized.net
 
+DOMAIN-SUFFIX, snk-corp.co.jp
+DOMAIN-SUFFIX, snkplaymore.info
+
 DOMAIN-SUFFIX, playartifact.com
 DOMAIN-SUFFIX, s.team
 DOMAIN-SUFFIX, steam.tv
@@ -11387,6 +11402,10 @@ DOMAIN-SUFFIX, steamchina.com
 # Free Steam Games Pre-installed for PC with direct download links.
 
 DOMAIN-SUFFIX, steamunlocked.net
+
+DOMAIN-SUFFIX, supercell.com
+DOMAIN-SUFFIX, supercell.net
+DOMAIN-SUFFIX, supercell.helpshift.com
 
 DOMAIN-SUFFIX, battlecare.net
 DOMAIN-SUFFIX, gameitop.com
@@ -12153,13 +12172,17 @@ DOMAIN-SUFFIX, muscdn.com
 DOMAIN-SUFFIX, musical.ly
 DOMAIN-SUFFIX, tik-tokapi.com
 DOMAIN-SUFFIX, tiktok.com
+DOMAIN-SUFFIX, tiktokcdn-eu.com
 DOMAIN-SUFFIX, tiktokcdn-us.com
 DOMAIN-SUFFIX, tiktokcdn.com
 DOMAIN-SUFFIX, tiktokd.net
 DOMAIN-SUFFIX, tiktokd.org
 DOMAIN-SUFFIX, tiktokv.com
+DOMAIN-SUFFIX, tiktokv.eu
 DOMAIN-SUFFIX, tiktokv.us
+DOMAIN-SUFFIX, tiktokw.eu
 DOMAIN-SUFFIX, tiktokw.us
+DOMAIN-SUFFIX, ttlivecdn.com
 DOMAIN-SUFFIX, ttwstatic.com
 
 DOMAIN, p16-tiktokcdn-com.akamaized.net
@@ -13142,6 +13165,48 @@ DOMAIN-SUFFIX, linkedin.cn
 DOMAIN, e122475.dscg.akamaiedge.net
 DOMAIN, licdn.cn.cdn20.com
 DOMAIN, linkedin.sc.omtrdc.net
+
+DOMAIN-SUFFIX, misskey.io
+DOMAIN-SUFFIX, misskeyusercontent.jp
+
+# please DO NOT include domains that are only meant to serve static files
+# e.g.
+#    mediaproxy-mi.mashiro.site
+#    misskey-white.s3.ap-northeast-1.amazonaws.com
+
+DOMAIN-SUFFIX, 9ineverse.com
+DOMAIN-SUFFIX, buicha.social
+DOMAIN-SUFFIX, gyutte.site
+DOMAIN-SUFFIX, labo.wovs.tk
+DOMAIN-SUFFIX, maniakey.homes
+DOMAIN-SUFFIX, mfmf.club
+DOMAIN-SUFFIX, mi.kochudaho.me
+DOMAIN-SUFFIX, mi.mashiro.site
+DOMAIN-SUFFIX, mi.nakn.jp
+DOMAIN-SUFFIX, misskey-square.net
+DOMAIN-SUFFIX, misskey.04.si
+DOMAIN-SUFFIX, misskey.always-we-need.games
+DOMAIN-SUFFIX, misskey.art
+DOMAIN-SUFFIX, misskey.cloud
+DOMAIN-SUFFIX, misskey.design
+DOMAIN-SUFFIX, misskey.flowers
+DOMAIN-SUFFIX, misskey.gamelore.fun
+DOMAIN-SUFFIX, misskey.gg
+DOMAIN-SUFFIX, misskey.noellabo.jp
+DOMAIN-SUFFIX, misskey.ranranhome.info
+DOMAIN-SUFFIX, misskey.stream
+DOMAIN-SUFFIX, misskey.yukineko.me
+DOMAIN-SUFFIX, mk.shrimpia.network
+DOMAIN-SUFFIX, mk.yopo.work
+DOMAIN-SUFFIX, mof.kemomi.me
+DOMAIN-SUFFIX, msk.ilnk.info
+DOMAIN-SUFFIX, msk.kitazawa.me
+DOMAIN-SUFFIX, nijimiss.moe
+DOMAIN-SUFFIX, oekakiskey.com
+DOMAIN-SUFFIX, submarin.online
+DOMAIN-SUFFIX, sushi.ski
+DOMAIN-SUFFIX, trpger.us
+
 
 DOMAIN-SUFFIX, threads.net
 
@@ -14463,6 +14528,7 @@ DOMAIN-SUFFIX, sky
 
 DOMAIN-SUFFIX, sky.com
 DOMAIN-SUFFIX, skyassets.com
+DOMAIN-SUFFIX, skymansion.net
 DOMAIN-SUFFIX, skyoceanrescue.com
 DOMAIN-SUFFIX, skyoceanrescue.de
 DOMAIN-SUFFIX, skyoceanrescue.it
@@ -14471,6 +14537,9 @@ DOMAIN-SUFFIX, skysports.fr
 DOMAIN-SUFFIX, skysports.ie
 DOMAIN-SUFFIX, skysportsonline.com
 DOMAIN-SUFFIX, skysportsracing.com
+
+# CDN
+DOMAIN-SUFFIX, cn-cdn1.skymansion.net
 
 # All .theguardian domains
 DOMAIN-SUFFIX, theguardian
@@ -21817,6 +21886,19 @@ DOMAIN-SUFFIX, poi.moe
 
 DOMAIN-SUFFIX, steampp.net
 
+DOMAIN-SUFFIX, borneo.world
+DOMAIN-SUFFIX, borneoasia.com
+DOMAIN-SUFFIX, borneoschematic.com
+DOMAIN-SUFFIX, bosharso.net
+DOMAIN-SUFFIX, hostborneo.org
+
+DOMAIN-SUFFIX, easy-jtag.com
+DOMAIN-SUFFIX, z3x-team.com
+
+
+DOMAIN-SUFFIX, androidfilehost.com
+DOMAIN-SUFFIX, unlocktool.net
+
 # Apple
 URL-REGEX, ^time(.euro)?.apple.com$
 
@@ -26642,6 +26724,9 @@ DOMAIN-SUFFIX, dell
 DOMAIN-SUFFIX, dell-brand.com
 DOMAIN-SUFFIX, dell.com
 DOMAIN-SUFFIX, dellcdn.com
+DOMAIN-SUFFIX, dellsupportcenter.com
+DOMAIN-SUFFIX, delltechnologies.com
+DOMAIN-SUFFIX, emc.com
 
 DOMAIN-SUFFIX, digitalocean.com
 DOMAIN-SUFFIX, digitaloceanspaces.com
@@ -26926,6 +27011,11 @@ DOMAIN-SUFFIX, play-lh.googleusercontent.com
 DOMAIN-SUFFIX, play.google.com
 DOMAIN-SUFFIX, play.googleapis.com
 DOMAIN-SUFFIX, xn--ngstr-lra8j.com
+
+# if connect to services.googleapis.cn directly,
+# then these domains will be used.
+# 北京 (2x3)、上海 (ni5)、广州 (j5o)
+URL-REGEX, ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 
 DOMAIN, redirector.c.play.google.com
 
@@ -28162,6 +28252,25 @@ DOMAIN-SUFFIX, xn--6eup7j.com # 惠普.com
 DOMAIN-SUFFIX, xn--6eup7j.net # 惠普.net
 
 DOMAIN, hpstore.corpmerchandise.com
+
+# Hewlett Packard Enterprise Development, L. P.
+DOMAIN-SUFFIX, greenlakeaas.com
+DOMAIN-SUFFIX, greenlakehybridcloud.com
+DOMAIN-SUFFIX, hewlett-packard.asia
+DOMAIN-SUFFIX, hewlett-packard.ch
+DOMAIN-SUFFIX, hewlett-packard.co.il
+DOMAIN-SUFFIX, hewlett-packard.co.uk
+DOMAIN-SUFFIX, hewlett-packard.co
+DOMAIN-SUFFIX, hewlett-packard.com.cn
+DOMAIN-SUFFIX, hewlett-packard.com.mx
+DOMAIN-SUFFIX, hewlett-packard.com.sg
+DOMAIN-SUFFIX, hewlett-packard.jp
+DOMAIN-SUFFIX, hewlett-packard.mobi
+DOMAIN-SUFFIX, hewlettpackard.enterprises
+DOMAIN-SUFFIX, hpe.com
+DOMAIN-SUFFIX, hpecyber.com
+
+DOMAIN, hpefonts.s3.amazonaws.com
 
 DOMAIN-SUFFIX, hubblephone.com
 DOMAIN-SUFFIX, tsi.ai
@@ -30042,6 +30151,14 @@ DOMAIN-SUFFIX, naverlabs.com
 DOMAIN-SUFFIX, plug.game
 DOMAIN-SUFFIX, prismlive.com
 
+DOMAIN-SUFFIX, customercontrolpanel.de
+DOMAIN-SUFFIX, netcup.com
+DOMAIN-SUFFIX, netcup.de
+DOMAIN-SUFFIX, netcup.eu
+DOMAIN-SUFFIX, netcup.net
+DOMAIN-SUFFIX, netcup-news.de
+DOMAIN-SUFFIX, netcup-sonderangebote.de
+
 DOMAIN-SUFFIX, neuralink.com
 
 DOMAIN-SUFFIX, geforce.cn
@@ -30130,6 +30247,12 @@ URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 # tracking
 DOMAIN, o33249.ingest.sentry.io
 DOMAIN, openaicom.imgix.net
+DOMAIN, browser-intake-datadoghq.com
+
+# Advanced Voice
+DOMAIN-SUFFIX, chatgpt.livekit.cloud
+DOMAIN-SUFFIX, host.livekit.cloud
+DOMAIN-SUFFIX, turn.livekit.cloud
 
 DOMAIN-SUFFIX, openweather.co.uk
 DOMAIN-SUFFIX, openweathermap.org

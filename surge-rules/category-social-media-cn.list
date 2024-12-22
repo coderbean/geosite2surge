@@ -94,7 +94,11 @@ DOMAIN-SUFFIX, zymo.mps.weibo.com
 
 
 DOMAIN-SUFFIX, 97973.com
+DOMAIN-SUFFIX, hk.weibo.com
+DOMAIN-SUFFIX, my.weibo.com
+DOMAIN-SUFFIX, overseas.weibo.com
 DOMAIN-SUFFIX, picself.cn
+DOMAIN-SUFFIX, sg.weibo.com
 DOMAIN-SUFFIX, sina.cn
 DOMAIN-SUFFIX, sina.com
 DOMAIN-SUFFIX, sina.com.cn
@@ -106,6 +110,9 @@ DOMAIN-SUFFIX, sinaimg.com
 DOMAIN-SUFFIX, sinajs.cn
 DOMAIN-SUFFIX, sinajs.com
 DOMAIN-SUFFIX, t.cn
+DOMAIN-SUFFIX, th.weibo.com
+DOMAIN-SUFFIX, tw.weibo.com
+DOMAIN-SUFFIX, us.weibo.com
 DOMAIN-SUFFIX, videoself.cn
 DOMAIN-SUFFIX, wbimg.com
 DOMAIN-SUFFIX, wbimg.cn

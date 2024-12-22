@@ -27,6 +27,7 @@ DOMAIN-SUFFIX, lemonhd.org
 DOMAIN-SUFFIX, lemonhd.club
 DOMAIN-SUFFIX, ilovelemonhd.me
 DOMAIN-SUFFIX, pttime.org
+DOMAIN-SUFFIX, pttime.top
 DOMAIN-SUFFIX, ianon.app
 DOMAIN-SUFFIX, hdatmos.club
 DOMAIN-SUFFIX, ptchina.org
@@ -53,6 +54,13 @@ DOMAIN-SUFFIX, share.ilolicon.com
 DOMAIN-SUFFIX, sharkpt.net
 DOMAIN-SUFFIX, uhdbits.org
 DOMAIN-SUFFIX, zhuque.in
+DOMAIN-SUFFIX, kufei.org
+DOMAIN-SUFFIX, kufei.com
+DOMAIN-SUFFIX, rousi.zip
+DOMAIN-SUFFIX, haidan.video
+DOMAIN-SUFFIX, hhan.club
+DOMAIN-SUFFIX, hdarea.club
+DOMAIN-SUFFIX, 52pt.site
 
 
 # 天雪论坛
@@ -78,8 +86,19 @@ DOMAIN-SUFFIX, byr.pt
 DOMAIN-SUFFIX, tju.pt
 DOMAIN-SUFFIX, tjupt.org
 
-DOMAIN-SUFFIX, bitpt.cn
+# CHD
 DOMAIN-SUFFIX, chdbits.co
+DOMAIN-SUFFIX, chdbits.xyz
+DOMAIN-SUFFIX, ptchdbits.co
+DOMAIN-SUFFIX, chddiy.xyz
+DOMAIN-SUFFIX, rainbowisland.co
+
+# HDKylin
+DOMAIN-SUFFIX, hdkyl.in
+DOMAIN-SUFFIX, hdkylin.top
+DOMAIN-SUFFIX, hdkylin.work
+
+DOMAIN-SUFFIX, bitpt.cn
 DOMAIN-SUFFIX, hdchina.org
 DOMAIN-SUFFIX, hdhome.org
 DOMAIN-SUFFIX, hdsky.me

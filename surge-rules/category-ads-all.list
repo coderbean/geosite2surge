@@ -312,6 +312,7 @@ DOMAIN-SUFFIX, zz.bdstatic.com
 DOMAIN-SUFFIX, zzy1.quyaoya.com
 
 DOMAIN-SUFFIX, bds.snssdk.com
+DOMAIN-SUFFIX, byteadverts.com
 DOMAIN-SUFFIX, ctobsnssdk.com
 DOMAIN-SUFFIX, dig.bdurl.net
 DOMAIN-SUFFIX, extlog.snssdk.com
@@ -455,6 +456,12 @@ DOMAIN-SUFFIX, jzt.jd.com
 DOMAIN-SUFFIX, stat.m.jd.com
 DOMAIN-SUFFIX, img-x.jd.com
 
+DOMAIN-SUFFIX, adbkwai.com
+DOMAIN-SUFFIX, adkwai.com
+DOMAIN-SUFFIX, adukwai.com
+DOMAIN-SUFFIX, e.kuaishou.cn
+DOMAIN-SUFFIX, e.kuaishou.com
+
 DOMAIN, log-sdk.gifshow.com
 DOMAIN, wlog.kuaishou.com
 
@@ -484,10 +491,18 @@ DOMAIN-SUFFIX, mopub.com
 
 DOMAIN-SUFFIX, evt.mxplay.com
 
+DOMAIN-SUFFIX, a.youdao.com
+DOMAIN-SUFFIX, admusicpic.music.126.net
+DOMAIN-SUFFIX, ads.music.126.net
 DOMAIN-SUFFIX, analytics.163.com
 DOMAIN-SUFFIX, crash.163.com
 DOMAIN-SUFFIX, crashlytics.163.com
 DOMAIN-SUFFIX, g.163.com
+DOMAIN-SUFFIX, iadmat.nosdn.127.net
+DOMAIN-SUFFIX, iadmatapk.nosdn.127.net
+DOMAIN-SUFFIX, iadmusicmat.music.126.net
+DOMAIN-SUFFIX, iadmusicmatvideo.music.126.net
+DOMAIN-SUFFIX, sentry.music.163.com
 
 DOMAIN-SUFFIX, js-agent.newrelic.com
 
@@ -601,6 +616,7 @@ DOMAIN-SUFFIX, adv-sv-show.focus.cn
 DOMAIN-SUFFIX, aty.sohu.com
 DOMAIN-SUFFIX, data.vod.itc.cn
 DOMAIN-SUFFIX, epro.sogou.com
+DOMAIN-SUFFIX, fpb.sohu.com
 DOMAIN-SUFFIX, go.sohu.com
 DOMAIN-SUFFIX, golden1.sogou.com
 DOMAIN-SUFFIX, imp.optaim.com
@@ -608,6 +624,8 @@ DOMAIN-SUFFIX, inte.sogou.com
 DOMAIN-SUFFIX, inte.sogoucdn.com
 DOMAIN-SUFFIX, lu.sogoucdn.com
 DOMAIN-SUFFIX, pv.sohu.com
+DOMAIN-SUFFIX, qpb.sohu.com
+DOMAIN-SUFFIX, qpb1.sohu.com
 DOMAIN-SUFFIX, theta.sogoucdn.com
 DOMAIN-SUFFIX, track.sohu.com
 DOMAIN-SUFFIX, uranus.sogou.com
@@ -860,4 +878,6 @@ DOMAIN-SUFFIX, unioncom.cc
 # 数字联盟(device ad id)
 DOMAIN-SUFFIX, shuzilm.cn
 
+# 卓信id
+DOMAIN-SUFFIX, zxid-api.mobileservice.cn
 

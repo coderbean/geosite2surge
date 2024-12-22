@@ -3553,6 +3553,9 @@ DOMAIN-SUFFIX, dell
 DOMAIN-SUFFIX, dell-brand.com
 DOMAIN-SUFFIX, dell.com
 DOMAIN-SUFFIX, dellcdn.com
+DOMAIN-SUFFIX, dellsupportcenter.com
+DOMAIN-SUFFIX, delltechnologies.com
+DOMAIN-SUFFIX, emc.com
 
 DOMAIN-SUFFIX, digitalocean.com
 DOMAIN-SUFFIX, digitaloceanspaces.com
@@ -3837,6 +3840,11 @@ DOMAIN-SUFFIX, play-lh.googleusercontent.com
 DOMAIN-SUFFIX, play.google.com
 DOMAIN-SUFFIX, play.googleapis.com
 DOMAIN-SUFFIX, xn--ngstr-lra8j.com
+
+# if connect to services.googleapis.cn directly,
+# then these domains will be used.
+# 北京 (2x3)、上海 (ni5)、广州 (j5o)
+URL-REGEX, ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 
 DOMAIN, redirector.c.play.google.com
 
@@ -5073,6 +5081,25 @@ DOMAIN-SUFFIX, xn--6eup7j.com # 惠普.com
 DOMAIN-SUFFIX, xn--6eup7j.net # 惠普.net
 
 DOMAIN, hpstore.corpmerchandise.com
+
+# Hewlett Packard Enterprise Development, L. P.
+DOMAIN-SUFFIX, greenlakeaas.com
+DOMAIN-SUFFIX, greenlakehybridcloud.com
+DOMAIN-SUFFIX, hewlett-packard.asia
+DOMAIN-SUFFIX, hewlett-packard.ch
+DOMAIN-SUFFIX, hewlett-packard.co.il
+DOMAIN-SUFFIX, hewlett-packard.co.uk
+DOMAIN-SUFFIX, hewlett-packard.co
+DOMAIN-SUFFIX, hewlett-packard.com.cn
+DOMAIN-SUFFIX, hewlett-packard.com.mx
+DOMAIN-SUFFIX, hewlett-packard.com.sg
+DOMAIN-SUFFIX, hewlett-packard.jp
+DOMAIN-SUFFIX, hewlett-packard.mobi
+DOMAIN-SUFFIX, hewlettpackard.enterprises
+DOMAIN-SUFFIX, hpe.com
+DOMAIN-SUFFIX, hpecyber.com
+
+DOMAIN, hpefonts.s3.amazonaws.com
 
 DOMAIN-SUFFIX, hubblephone.com
 DOMAIN-SUFFIX, tsi.ai
@@ -6953,6 +6980,14 @@ DOMAIN-SUFFIX, naverlabs.com
 DOMAIN-SUFFIX, plug.game
 DOMAIN-SUFFIX, prismlive.com
 
+DOMAIN-SUFFIX, customercontrolpanel.de
+DOMAIN-SUFFIX, netcup.com
+DOMAIN-SUFFIX, netcup.de
+DOMAIN-SUFFIX, netcup.eu
+DOMAIN-SUFFIX, netcup.net
+DOMAIN-SUFFIX, netcup-news.de
+DOMAIN-SUFFIX, netcup-sonderangebote.de
+
 DOMAIN-SUFFIX, neuralink.com
 
 DOMAIN-SUFFIX, geforce.cn
@@ -7041,6 +7076,12 @@ URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 # tracking
 DOMAIN, o33249.ingest.sentry.io
 DOMAIN, openaicom.imgix.net
+DOMAIN, browser-intake-datadoghq.com
+
+# Advanced Voice
+DOMAIN-SUFFIX, chatgpt.livekit.cloud
+DOMAIN-SUFFIX, host.livekit.cloud
+DOMAIN-SUFFIX, turn.livekit.cloud
 
 DOMAIN-SUFFIX, openweather.co.uk
 DOMAIN-SUFFIX, openweathermap.org

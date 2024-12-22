@@ -1239,6 +1239,7 @@ DOMAIN-SUFFIX, sky
 
 DOMAIN-SUFFIX, sky.com
 DOMAIN-SUFFIX, skyassets.com
+DOMAIN-SUFFIX, skymansion.net
 DOMAIN-SUFFIX, skyoceanrescue.com
 DOMAIN-SUFFIX, skyoceanrescue.de
 DOMAIN-SUFFIX, skyoceanrescue.it
@@ -1247,6 +1248,9 @@ DOMAIN-SUFFIX, skysports.fr
 DOMAIN-SUFFIX, skysports.ie
 DOMAIN-SUFFIX, skysportsonline.com
 DOMAIN-SUFFIX, skysportsracing.com
+
+# CDN
+DOMAIN-SUFFIX, cn-cdn1.skymansion.net
 
 # All .theguardian domains
 DOMAIN-SUFFIX, theguardian

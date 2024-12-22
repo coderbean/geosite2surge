@@ -18,6 +18,7 @@ DOMAIN-SUFFIX, tracking.miui.com
 DOMAIN-SUFFIX, mi-img.com
 DOMAIN-SUFFIX, mi.com
 DOMAIN-SUFFIX, mifile.cn
+DOMAIN-SUFFIX, migames.com
 DOMAIN-SUFFIX, mijia.tech
 DOMAIN-SUFFIX, miui.com
 DOMAIN-SUFFIX, miwifi.com
@@ -28,8 +29,16 @@ DOMAIN-SUFFIX, xiaomiev.com
 DOMAIN-SUFFIX, xiaomimobile.com
 DOMAIN-SUFFIX, xiaomixiaoai.com
 
+# 多看
+DOMAIN-SUFFIX, duokan.com
 # Xiaomi YouPin
 DOMAIN-SUFFIX, xiaomiyoupin.com
+# 紫米
+DOMAIN-SUFFIX, zmifi.com
 
 # AppStore CDN
 DOMAIN-SUFFIX, saxyit.com
+
+# Overseas only
+DOMAIN-SUFFIX, c.mi.com
+DOMAIN-SUFFIX, global.market.xiaomi.com

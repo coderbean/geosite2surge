@@ -189,12 +189,15 @@ DOMAIN-SUFFIX, tidaas.com
 DOMAIN-SUFFIX, timatrix.com.cn
 DOMAIN-SUFFIX, timmerse.com
 DOMAIN-SUFFIX, tlivecdn.com
+DOMAIN-SUFFIX, tlivepush.com
+DOMAIN-SUFFIX, tlivesource.com
 DOMAIN-SUFFIX, tourismshow.cn
 DOMAIN-SUFFIX, tourismuser.cn
 DOMAIN-SUFFIX, tsparkling.com
 DOMAIN-SUFFIX, tx-exhibition.com
 DOMAIN-SUFFIX, txbyod.com
 DOMAIN-SUFFIX, txidc.wang
+DOMAIN-SUFFIX, txlivecdn.com
 DOMAIN-SUFFIX, txtyxg.com
 DOMAIN-SUFFIX, txyscdn.com
 DOMAIN-SUFFIX, txyscdn.net
@@ -475,8 +478,8 @@ DOMAIN-SUFFIX, qq.xn--fiqs8s
 # 腾讯.中国
 DOMAIN-SUFFIX, xn--r70as2s.xn--fiqs8s
 
+DOMAIN-SUFFIX, acimg.cn
 DOMAIN-SUFFIX, apcdns.net
-DOMAIN-SUFFIX, cdn-go.cn
 DOMAIN-SUFFIX, foxmail.com
 DOMAIN-SUFFIX, foxmail.com.cn
 DOMAIN-SUFFIX, gtimg.cn
@@ -505,8 +508,6 @@ DOMAIN-SUFFIX, tencent.net.cn
 DOMAIN-SUFFIX, tencentmusic.com
 DOMAIN-SUFFIX, tenpay.com
 DOMAIN-SUFFIX, tfogc.com
-DOMAIN-SUFFIX, tlivepush.com
-DOMAIN-SUFFIX, txlivecdn.com
 DOMAIN-SUFFIX, wechat.com
 DOMAIN-SUFFIX, wechatpay.cn
 DOMAIN-SUFFIX, weiyun.com

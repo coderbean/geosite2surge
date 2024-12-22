@@ -158,18 +158,23 @@ DOMAIN-SUFFIX, muscdn.com
 DOMAIN-SUFFIX, musical.ly
 DOMAIN-SUFFIX, tik-tokapi.com
 DOMAIN-SUFFIX, tiktok.com
+DOMAIN-SUFFIX, tiktokcdn-eu.com
 DOMAIN-SUFFIX, tiktokcdn-us.com
 DOMAIN-SUFFIX, tiktokcdn.com
 DOMAIN-SUFFIX, tiktokd.net
 DOMAIN-SUFFIX, tiktokd.org
 DOMAIN-SUFFIX, tiktokv.com
+DOMAIN-SUFFIX, tiktokv.eu
 DOMAIN-SUFFIX, tiktokv.us
+DOMAIN-SUFFIX, tiktokw.eu
 DOMAIN-SUFFIX, tiktokw.us
+DOMAIN-SUFFIX, ttlivecdn.com
 DOMAIN-SUFFIX, ttwstatic.com
 
 DOMAIN, p16-tiktokcdn-com.akamaized.net
 
 DOMAIN-SUFFIX, bds.snssdk.com
+DOMAIN-SUFFIX, byteadverts.com
 DOMAIN-SUFFIX, ctobsnssdk.com
 DOMAIN-SUFFIX, dig.bdurl.net
 DOMAIN-SUFFIX, extlog.snssdk.com
@@ -405,7 +410,6 @@ DOMAIN-SUFFIX, byteactivity14.com
 DOMAIN-SUFFIX, byteactivity15.com
 DOMAIN-SUFFIX, byteactivity16.com
 DOMAIN-SUFFIX, byteactivity.com
-DOMAIN-SUFFIX, byteadverts.com
 DOMAIN-SUFFIX, byteapi.com
 DOMAIN-SUFFIX, bytecdn.cn
 DOMAIN-SUFFIX, bytecdn.com

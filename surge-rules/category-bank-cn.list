@@ -42,6 +42,25 @@ DOMAIN-SUFFIX, ccbseoul.com
 DOMAIN-SUFFIX, ccbtrust.com.cn
 DOMAIN-SUFFIX, ccbxt.com
 
+# All .citic domains
+DOMAIN-SUFFIX, citic
+
+DOMAIN-SUFFIX, chinaamc.com
+DOMAIN-SUFFIX, citic-prudential.com.cn
+DOMAIN-SUFFIX, citicbank.com
+DOMAIN-SUFFIX, citiccapital.com
+DOMAIN-SUFFIX, citiciam.com
+DOMAIN-SUFFIX, citicifh.com
+DOMAIN-SUFFIX, citicprufunds.com.cn
+DOMAIN-SUFFIX, citics.com.hk
+DOMAIN-SUFFIX, citicsf.com
+DOMAIN-SUFFIX, clsa.com
+DOMAIN-SUFFIX, cncbinternational.com
+DOMAIN-SUFFIX, csc108.com
+DOMAIN-SUFFIX, csci.hk
+DOMAIN-SUFFIX, ecitic.com
+
+
 DOMAIN-SUFFIX, 8008205555.cn
 DOMAIN-SUFFIX, 8008205555.com
 DOMAIN-SUFFIX, cignacmb-ipmi.com
