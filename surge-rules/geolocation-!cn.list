@@ -31,6 +31,8 @@ DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google.com
 
 
+DOMAIN-SUFFIX, groq.com
+
 # Main domain
 DOMAIN-SUFFIX, ai.com
 DOMAIN-SUFFIX, chatgpt.com
@@ -10640,6 +10642,10 @@ DOMAIN, gamer-cds.cdn.hinet.net
 DOMAIN-SUFFIX, bandcamp.com
 DOMAIN-SUFFIX, bcbits.com
 
+DOMAIN-SUFFIX, bangumi.tv
+DOMAIN-SUFFIX, bgm.tv
+DOMAIN-SUFFIX, chii.in
+
 DOMAIN-SUFFIX, boomerang.com
 DOMAIN-SUFFIX, wbdnbo.net
 
@@ -12192,12 +12198,15 @@ DOMAIN-SUFFIX, tiktokcdn-us.com
 DOMAIN-SUFFIX, tiktokcdn.com
 DOMAIN-SUFFIX, tiktokd.net
 DOMAIN-SUFFIX, tiktokd.org
+DOMAIN-SUFFIX, tiktokeu-cdn.com
+DOMAIN-SUFFIX, tiktokrow-cdn.com
 DOMAIN-SUFFIX, tiktokv.com
 DOMAIN-SUFFIX, tiktokv.eu
 DOMAIN-SUFFIX, tiktokv.us
 DOMAIN-SUFFIX, tiktokw.eu
 DOMAIN-SUFFIX, tiktokw.us
 DOMAIN-SUFFIX, ttlivecdn.com
+DOMAIN-SUFFIX, ttoverseaus.net
 DOMAIN-SUFFIX, ttwstatic.com
 
 DOMAIN, p16-tiktokcdn-com.akamaized.net
@@ -13251,25 +13260,36 @@ DOMAIN-SUFFIX, x.com
 
 DOMAIN-SUFFIX, mvk.com
 DOMAIN-SUFFIX, userapi.com
+DOMAIN-SUFFIX, vk-apps.com
+DOMAIN-SUFFIX, vk-apps.ru
 DOMAIN-SUFFIX, vk-cdn.me
 DOMAIN-SUFFIX, vk-cdn.net
 DOMAIN-SUFFIX, vk-portal.net
 DOMAIN-SUFFIX, vk.cc
 DOMAIN-SUFFIX, vk.com
+DOMAIN-SUFFIX, vk.company
 DOMAIN-SUFFIX, vk.design
 DOMAIN-SUFFIX, vk.link
 DOMAIN-SUFFIX, vk.me
 DOMAIN-SUFFIX, vk.ru
+DOMAIN-SUFFIX, vk.team
 DOMAIN-SUFFIX, vkcache.com
 DOMAIN-SUFFIX, vkgo.app
 DOMAIN-SUFFIX, vklive.app
-DOMAIN-SUFFIX, vkmessenger.com
 DOMAIN-SUFFIX, vkmessenger.app
+DOMAIN-SUFFIX, vkmessenger.com
 DOMAIN-SUFFIX, vkontakte.ru
+DOMAIN-SUFFIX, vkuser.net
 DOMAIN-SUFFIX, vkuseraudio.com
+DOMAIN-SUFFIX, vkuseraudio.net
+DOMAIN-SUFFIX, vkuseraudio.ru
+DOMAIN-SUFFIX, vkusercdn.ru
 DOMAIN-SUFFIX, vkuserlive.net
+DOMAIN-SUFFIX, vkuserphoto.ru
 DOMAIN-SUFFIX, vkuservideo.com
 DOMAIN-SUFFIX, vkuservideo.net
+DOMAIN-SUFFIX, vkuservideo.ru
+DOMAIN-SUFFIX, vkvideo.ru
 
 
 
@@ -23190,6 +23210,14 @@ DOMAIN-SUFFIX, acer-group.com
 DOMAIN-SUFFIX, acer.com
 DOMAIN-SUFFIX, acer.com.cn
 
+# https://github.com/v2fly/domain-list-community/issues/2394#issuecomment-2632716166
+# This data source is meant to crack the license-validating of the Adobe software,
+# which is no longer the interest of this project. One of the maintainers (@IceCodeNew)
+# decided that this file should be frozen as an act of showing this project has nothing to do with piracy
+
+# This file is subject to any reasonable deletion request. Till then,
+# this file will be remained to not disturb existing users.
+
 # Adobe online activation domains
 DOMAIN, 3dns-1.adobe.com
 DOMAIN, 3dns-2.adobe.com
@@ -28075,6 +28103,8 @@ DOMAIN, qiao-cn.com
 
 DOMAIN-SUFFIX, gvt1-cn.com
 DOMAIN-SUFFIX, gvt2-cn.com
+
+DOMAIN-SUFFIX, groq.com
 
 DOMAIN-SUFFIX, first-ns.de
 DOMAIN-SUFFIX, hetzner.cloud
