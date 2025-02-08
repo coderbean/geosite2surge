@@ -31277,6 +31277,9 @@ DOMAIN-SUFFIX, rarbgunblocked.org
 DOMAIN-SUFFIX, rarbgway.org
 
 
+# User scripts
+DOMAIN-SUFFIX, greasyfork.org
+
 # VPN services
 # DISCLAIMER:
 # We do NOT endorse or claim that the VPN services below are legal or safe.
