@@ -7067,7 +7067,6 @@ DOMAIN, nvidia.tt.omtrdc.net
 DOMAIN, cn.download.nvidia.com
 
 # Main domain
-DOMAIN-SUFFIX, ai.com
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, chat.com
 DOMAIN-SUFFIX, oaistatic.com
