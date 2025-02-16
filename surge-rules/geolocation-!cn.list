@@ -13247,6 +13247,7 @@ DOMAIN-SUFFIX, twitpic.com
 DOMAIN-SUFFIX, twitter.biz
 DOMAIN-SUFFIX, twitter.com
 DOMAIN-SUFFIX, twitter.jp
+DOMAIN-SUFFIX, twitter.map.fastly.net
 DOMAIN-SUFFIX, twittercommunity.com
 DOMAIN-SUFFIX, twitterflightschool.com
 DOMAIN-SUFFIX, twitterinc.com
@@ -22037,6 +22038,7 @@ DOMAIN-SUFFIX, decrypt.day
 
 DOMAIN-SUFFIX, accuweather.com
 
+DOMAIN-SUFFIX, adblockcdn.com
 DOMAIN-SUFFIX, getadblock.com
 
 DOMAIN-SUFFIX, adblockplus.org
@@ -28121,6 +28123,8 @@ DOMAIN-SUFFIX, second-ns.com
 DOMAIN-SUFFIX, second-ns.de
 DOMAIN-SUFFIX, your-objectstorage.com
 DOMAIN-SUFFIX, your-server.de
+DOMAIN-SUFFIX, your-storagebox.de
+DOMAIN-SUFFIX, your-storageshare.de
 
 # tracking
 DOMAIN, sentry.hetzner.company

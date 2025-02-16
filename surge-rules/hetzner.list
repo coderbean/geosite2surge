@@ -8,6 +8,8 @@ DOMAIN-SUFFIX, second-ns.com
 DOMAIN-SUFFIX, second-ns.de
 DOMAIN-SUFFIX, your-objectstorage.com
 DOMAIN-SUFFIX, your-server.de
+DOMAIN-SUFFIX, your-storagebox.de
+DOMAIN-SUFFIX, your-storageshare.de
 
 # tracking
 DOMAIN, sentry.hetzner.company
