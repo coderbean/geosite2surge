@@ -6922,6 +6922,12 @@ DOMAIN-SUFFIX, push.services.mozilla.com
 DOMAIN-SUFFIX, musixmatch.com
 DOMAIN-SUFFIX, mxmcdn.net
 
+DOMAIN-SUFFIX, mxlogin.com
+DOMAIN-SUFFIX, mxroute.com
+DOMAIN-SUFFIX, mxroutedocs.com
+DOMAIN-SUFFIX, mxroutehelp.com
+DOMAIN-SUFFIX, mxrouting.net
+
 DOMAIN-SUFFIX, gcld-line.com
 DOMAIN-SUFFIX, lin.ee
 DOMAIN-SUFFIX, line-apps-beta.com
