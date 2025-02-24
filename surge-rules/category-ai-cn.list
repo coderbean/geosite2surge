@@ -1,3 +1,8 @@
+# DeepSeek
+# Main domain
+DOMAIN-SUFFIX, deepseek.com
+
+
 # RWKV
 DOMAIN-SUFFIX, rwkv.cn
 DOMAIN-SUFFIX, rwkv.com
@@ -39,3 +44,7 @@ DOMAIN-SUFFIX, baichuan-ai.com
 
 DOMAIN-SUFFIX, botvip.cn
 DOMAIN-SUFFIX, liblib.art
+
+# 夸克 CueMe
+DOMAIN-SUFFIX, cueme.cn
+DOMAIN, cueme-api.quark.cn

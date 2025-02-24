@@ -842,6 +842,9 @@ DOMAIN-SUFFIX, wwads.cn
 # 36Kr
 DOMAIN-SUFFIX, adx.36kr.com
 
+# 12306
+DOMAIN-SUFFIX, ad.12306.cn
+
 # AdHub
 DOMAIN-SUFFIX, hubcloud.com.cn
 
@@ -875,9 +878,14 @@ DOMAIN-SUFFIX, das-rpt-log.ucloud.cn
 DOMAIN-SUFFIX, telecome.cn
 DOMAIN-SUFFIX, unioncom.cc
 
+# 亿帆广告
+DOMAIN-SUFFIX, yfanads.cn
+DOMAIN-SUFFIX, yfanads.com
+
 # 数字联盟(device ad id)
 DOMAIN-SUFFIX, shuzilm.cn
 
 # 卓信id
 DOMAIN-SUFFIX, zxid-api.mobileservice.cn
+DOMAIN-SUFFIX, zxid-m.mobileservice.cn
 

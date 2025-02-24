@@ -72,6 +72,15 @@ DOMAIN-SUFFIX, redditstatus.com
 
 DOMAIN, reddit.map.fastly.net
 
+DOMAIN-SUFFIX, maintracker.org
+DOMAIN-SUFFIX, rutracker.cc
+DOMAIN-SUFFIX, rutracker.cr
+DOMAIN-SUFFIX, rutracker.me
+DOMAIN-SUFFIX, rutracker.nl
+DOMAIN-SUFFIX, rutracker.org
+DOMAIN-SUFFIX, rutrecker.net
+DOMAIN-SUFFIX, rutrk.org
+
 DOMAIN-SUFFIX, yamibo.com
 
 

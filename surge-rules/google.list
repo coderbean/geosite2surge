@@ -223,6 +223,8 @@ DOMAIN-SUFFIX, xn--ngstr-lra8j.com
 # then these domains will be used.
 # 北京 (2x3)、上海 (ni5)、广州 (j5o)
 URL-REGEX, ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+# the same but DNS pollution in China mainland.
+URL-REGEX, ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 
 DOMAIN, redirector.c.play.google.com
 

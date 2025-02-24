@@ -318,6 +318,10 @@ URL-REGEX, ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 URL-REGEX, ^epicgames-download\d\.akamaized\.net$
 URL-REGEX, ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 
+DOMAIN-SUFFIX, tarkov.com
+DOMAIN-SUFFIX, eft-store.com
+DOMAIN-SUFFIX, escapefromtarkov.com
+
 DOMAIN, avatargarenanow-a.akamaihd.net
 DOMAIN, cdngarenanow-a.akamaihd.net
 DOMAIN, dlgarenanow-a.akamaihd.net
@@ -764,6 +768,9 @@ DOMAIN, xz.pphimalayanrt.com
 
 # 蒸汽中国
 DOMAIN-SUFFIX, steamchina.com
+
+# 数云科技
+DOMAIN-SUFFIX, gstore.val.manlaxy.com
 
 # Free Steam Games Pre-installed for PC with direct download links.
 

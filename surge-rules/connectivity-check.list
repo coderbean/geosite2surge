@@ -16,6 +16,12 @@ DOMAIN-SUFFIX, network-test.debian.org
 # Firefox
 DOMAIN-SUFFIX, detectportal.firefox.com
 
+# Honor
+DOMAIN, connectivitycheck.platform.hihonorcloud.com
+
+# Huawei
+DOMAIN, connectivitycheck.platform.hicloud.com
+
 # KDE
 DOMAIN-SUFFIX, networkcheck.kde.org
 

@@ -25,14 +25,40 @@ DOMAIN-SUFFIX, miwifi.com
 DOMAIN-SUFFIX, xiaomi.cn
 DOMAIN-SUFFIX, xiaomi.com
 DOMAIN-SUFFIX, xiaomi.net
+DOMAIN-SUFFIX, xiaomicp.com
+DOMAIN-SUFFIX, xiaomidns.cn
+DOMAIN-SUFFIX, xiaomidns.com
+DOMAIN-SUFFIX, xiaomidns.com.cn
+DOMAIN-SUFFIX, xiaomidns.net
 DOMAIN-SUFFIX, xiaomiev.com
+DOMAIN-SUFFIX, xiaomiev.com
+DOMAIN-SUFFIX, xiaomiinc.cn
+DOMAIN-SUFFIX, xiaomiinc.com
+DOMAIN-SUFFIX, xiaomiinc.com.cn
+DOMAIN-SUFFIX, xiaomiinc.net
 DOMAIN-SUFFIX, xiaomimobile.com
+DOMAIN-SUFFIX, xiaominr.com
+DOMAIN-SUFFIX, xiaomiprint.com
+DOMAIN-SUFFIX, xiaomisa.cn
+DOMAIN-SUFFIX, xiaomisa.com
+DOMAIN-SUFFIX, xiaomisa.net
+DOMAIN-SUFFIX, xiaomisa.org
+DOMAIN-SUFFIX, xiaomiwear.com
 DOMAIN-SUFFIX, xiaomixiaoai.com
+
+# 天星数科
+DOMAIN-SUFFIX, airstarfinance.net
+DOMAIN-SUFFIX, mipay.com
 
 # 多看
 DOMAIN-SUFFIX, duokan.com
-# Xiaomi YouPin
+DOMAIN-SUFFIX, duokanbox.com
+
+# 有品
 DOMAIN-SUFFIX, xiaomiyoupin.com
+DOMAIN-SUFFIX, youpin.cn
+DOMAIN-SUFFIX, youpin.com.cn
+
 # 紫米
 DOMAIN-SUFFIX, zmifi.com
 

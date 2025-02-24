@@ -83,6 +83,11 @@ DOMAIN-SUFFIX, z.gds.cnzz.com
 
 
 # AI
+# DeepSeek
+# Main domain
+DOMAIN-SUFFIX, deepseek.com
+
+
 # RWKV
 DOMAIN-SUFFIX, rwkv.cn
 DOMAIN-SUFFIX, rwkv.com
@@ -124,6 +129,10 @@ DOMAIN-SUFFIX, baichuan-ai.com
 
 DOMAIN-SUFFIX, botvip.cn
 DOMAIN-SUFFIX, liblib.art
+
+# 夸克 CueMe
+DOMAIN-SUFFIX, cueme.cn
+DOMAIN, cueme-api.quark.cn
 
 
 # Aviation
@@ -248,6 +257,9 @@ DOMAIN-SUFFIX, cmf.ltd
 DOMAIN-SUFFIX, cmfchina.com
 DOMAIN-SUFFIX, cmfunds.cn
 DOMAIN-SUFFIX, test-cignacmb.com
+
+# 招赢&玖盈
+DOMAIN-SUFFIX, joying.com
 
 DOMAIN-SUFFIX, hsbc.com.cn
 DOMAIN-SUFFIX, hsbcqh.com.cn
@@ -1309,6 +1321,15 @@ DOMAIN-SUFFIX, dandanplay.com
 
 DOMAIN-SUFFIX, ali213.net
 
+# 百视通
+DOMAIN-SUFFIX, bbtv.cn
+DOMAIN-SUFFIX, bestv.com.cn
+DOMAIN-SUFFIX, bestvcdn.cn
+DOMAIN-SUFFIX, bestvcdn.com
+DOMAIN-SUFFIX, bestvcdn.com.cn
+DOMAIN-SUFFIX, bestvcdn.net
+DOMAIN-SUFFIX, smgbb.cn
+
 DOMAIN-SUFFIX, bilibiligame.cn
 DOMAIN-SUFFIX, bilibiligame.co
 DOMAIN-SUFFIX, bilibiligame.net
@@ -1648,6 +1669,14 @@ DOMAIN-SUFFIX, u17i.com
 DOMAIN-SUFFIX, u17t.com
 
 DOMAIN-SUFFIX, vgtime.com
+
+# 华数传媒
+DOMAIN-SUFFIX, aichongzoo.cn
+DOMAIN-SUFFIX, hzdtv.tv
+DOMAIN-SUFFIX, hzman.net
+DOMAIN-SUFFIX, wasu.cn
+DOMAIN-SUFFIX, wasu.tv
+DOMAIN-SUFFIX, wasumedia.cn
 
 DOMAIN-SUFFIX, tapimg.com
 DOMAIN-SUFFIX, tapimg.net
@@ -2200,6 +2229,12 @@ DOMAIN-SUFFIX, 17zuoye.net
 
 DOMAIN-SUFFIX, applysquare.com
 DOMAIN-SUFFIX, applysquare.net
+
+DOMAIN-SUFFIX, hugecore.net
+DOMAIN-SUFFIX, shareintelli.com
+
+# MOJi辞書
+DOMAIN-SUFFIX, mojidict.com
 
 DOMAIN-SUFFIX, cctalk.com
 DOMAIN-SUFFIX, hjapi.com
@@ -3287,6 +3322,7 @@ DOMAIN-SUFFIX, alikmd.com
 DOMAIN-SUFFIX, alimama.com
 DOMAIN-SUFFIX, alimebot.com
 DOMAIN-SUFFIX, alimei.com
+DOMAIN-SUFFIX, alimmdn.com
 DOMAIN-SUFFIX, alios.cn
 DOMAIN-SUFFIX, alipay.cn
 DOMAIN-SUFFIX, alipay.com
@@ -3417,13 +3453,15 @@ DOMAIN-SUFFIX, taobizhong.com
 DOMAIN-SUFFIX, taopiaopiao.com
 DOMAIN-SUFFIX, tb.cn
 DOMAIN-SUFFIX, tbcache.com
+DOMAIN-SUFFIX, tbcdn.cn
 DOMAIN-SUFFIX, tburl.in
 DOMAIN-SUFFIX, tmall.com
 DOMAIN-SUFFIX, tmall.ru
 DOMAIN-SUFFIX, tmalltv.com
 DOMAIN-SUFFIX, tmjl.ai
 
-# 夸克云盘
+# 夸克
+DOMAIN-SUFFIX, cueme.cn
 DOMAIN-SUFFIX, quark.cn
 
 # 飞猪
@@ -5101,6 +5139,34 @@ DOMAIN-SUFFIX, s.360.cn
 DOMAIN-SUFFIX, s.so.360.cn
 DOMAIN-SUFFIX, s.union.360.cn
 
+# StarWorld Games is a wholly owned subsidiary of Qihoo 360
+
+DOMAIN-SUFFIX, 360-api.cn
+DOMAIN-SUFFIX, 360-g.cn
+DOMAIN-SUFFIX, 360-g.net
+DOMAIN-SUFFIX, 360-game.net
+DOMAIN-SUFFIX, 360pay.cn
+DOMAIN-SUFFIX, 360sjyh.cn
+DOMAIN-SUFFIX, gamepack.cn
+DOMAIN-SUFFIX, qftexpay.cn
+DOMAIN-SUFFIX, qikoo.com
+DOMAIN-SUFFIX, qiku.com
+DOMAIN-SUFFIX, qikucdn.com
+DOMAIN-SUFFIX, starworldgames.com
+DOMAIN-SUFFIX, theworld.cn
+DOMAIN-SUFFIX, warsaga.cn
+DOMAIN-SUFFIX, wggames.cn
+DOMAIN-SUFFIX, worldofship.cn
+DOMAIN-SUFFIX, worldoftank.cn
+DOMAIN-SUFFIX, worldoftanks.cn
+DOMAIN-SUFFIX, worldoftanks.com.cn
+DOMAIN-SUFFIX, wotgame.cn
+DOMAIN-SUFFIX, wowsgame.cn
+DOMAIN-SUFFIX, woxihuan.com
+DOMAIN-SUFFIX, wztsy.cn
+DOMAIN-SUFFIX, wztsy.com
+DOMAIN-SUFFIX, yiwanzhushou.com
+
 
 DOMAIN-SUFFIX, 360.cn
 DOMAIN-SUFFIX, 360.com
@@ -5365,6 +5431,7 @@ DOMAIN-SUFFIX, gtm.pub
 DOMAIN-SUFFIX, hr-welink.com
 DOMAIN-SUFFIX, idcgcloudcs.com
 DOMAIN-SUFFIX, iemiq.com
+DOMAIN-SUFFIX, igtm-meeting-tencent.com
 DOMAIN-SUFFIX, igtm.pub
 DOMAIN-SUFFIX, intltencentcos.com
 DOMAIN-SUFFIX, isd.com
@@ -5853,6 +5920,8 @@ DOMAIN-SUFFIX, tongfangpc.com
 # 机械革命
 DOMAIN-SUFFIX, mechrevo.com
 
+DOMAIN-SUFFIX, iqoo.com
+DOMAIN-SUFFIX, vivo.cn
 DOMAIN-SUFFIX, vivo.com
 DOMAIN-SUFFIX, vivo.com.cn
 DOMAIN-SUFFIX, vivoglobal.com
@@ -5884,14 +5953,40 @@ DOMAIN-SUFFIX, miwifi.com
 DOMAIN-SUFFIX, xiaomi.cn
 DOMAIN-SUFFIX, xiaomi.com
 DOMAIN-SUFFIX, xiaomi.net
+DOMAIN-SUFFIX, xiaomicp.com
+DOMAIN-SUFFIX, xiaomidns.cn
+DOMAIN-SUFFIX, xiaomidns.com
+DOMAIN-SUFFIX, xiaomidns.com.cn
+DOMAIN-SUFFIX, xiaomidns.net
 DOMAIN-SUFFIX, xiaomiev.com
+DOMAIN-SUFFIX, xiaomiev.com
+DOMAIN-SUFFIX, xiaomiinc.cn
+DOMAIN-SUFFIX, xiaomiinc.com
+DOMAIN-SUFFIX, xiaomiinc.com.cn
+DOMAIN-SUFFIX, xiaomiinc.net
 DOMAIN-SUFFIX, xiaomimobile.com
+DOMAIN-SUFFIX, xiaominr.com
+DOMAIN-SUFFIX, xiaomiprint.com
+DOMAIN-SUFFIX, xiaomisa.cn
+DOMAIN-SUFFIX, xiaomisa.com
+DOMAIN-SUFFIX, xiaomisa.net
+DOMAIN-SUFFIX, xiaomisa.org
+DOMAIN-SUFFIX, xiaomiwear.com
 DOMAIN-SUFFIX, xiaomixiaoai.com
+
+# 天星数科
+DOMAIN-SUFFIX, airstarfinance.net
+DOMAIN-SUFFIX, mipay.com
 
 # 多看
 DOMAIN-SUFFIX, duokan.com
-# Xiaomi YouPin
+DOMAIN-SUFFIX, duokanbox.com
+
+# 有品
 DOMAIN-SUFFIX, xiaomiyoupin.com
+DOMAIN-SUFFIX, youpin.cn
+DOMAIN-SUFFIX, youpin.com.cn
+
 # 紫米
 DOMAIN-SUFFIX, zmifi.com
 
@@ -6047,7 +6142,6 @@ DOMAIN-SUFFIX, webmasterhome.cn # 站长之家
 # 在线工具书
 DOMAIN-SUFFIX, guoxuedashi.com
 DOMAIN-SUFFIX, guoxuemi.com
-DOMAIN-SUFFIX, mojidict.com
 
 # 街机
 # 广州市艾美娱乐设备有限公司
@@ -7376,7 +7470,6 @@ DOMAIN-SUFFIX, yunzhuxue.com
 DOMAIN-SUFFIX, bambulab.com
 DOMAIN-SUFFIX, bblmw.com
 
-
 # 号码认证
 # include:category-number-verification-cn
 
@@ -7401,4 +7494,35 @@ DOMAIN-SUFFIX, nanhaicorp.com
 
 # 范明明's Blog 蒙ICP备18004194号
 DOMAIN-SUFFIX, fanmingming.com
+# GUOO国欧物流 粤ICP备2020101377号
+DOMAIN-SUFFIX, guoocang.com
+
+# 跨境巴士 粤ICP备18102556号
+DOMAIN-SUFFIX, kuajing84.com
+
+# ozonbigsell 闽ICP备2023012501号-1
+DOMAIN-SUFFIX, ozonbigsell.com
+
+# 深圳市金易桥科技有限公司 粤ICP备2023069807号
+DOMAIN-SUFFIX, ozonabc.com
+
+# 青萍科技（北京）有限公司深圳分公司 粤ICP备19156805号-1
+DOMAIN-SUFFIX, qingping.co
+DOMAIN-SUFFIX, cleargrass.com
+
+# 岩池科技 黑ICP备2024018807号-1
+DOMAIN-SUFFIX, bdmozon.com
+
+# 无忧易售 粤ICP备18054020号
+DOMAIN-SUFFIX, 51selling.com
+
+# Ru-seer 俄罗斯卖家助手 粤ICP备2023020424号
+DOMAIN-SUFFIX, ruseer.com
+
+# 布丁猫 黑ICP备2024018807号-1
+DOMAIN-SUFFIX, bdmozon.com
+DOMAIN-SUFFIX, bdcat.top
+
+# 宁停车
+DOMAIN-SUFFIX, ningtingche.com
 

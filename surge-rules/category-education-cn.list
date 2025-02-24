@@ -19,6 +19,12 @@ DOMAIN-SUFFIX, 17zuoye.net
 DOMAIN-SUFFIX, applysquare.com
 DOMAIN-SUFFIX, applysquare.net
 
+DOMAIN-SUFFIX, hugecore.net
+DOMAIN-SUFFIX, shareintelli.com
+
+# MOJi辞書
+DOMAIN-SUFFIX, mojidict.com
+
 DOMAIN-SUFFIX, cctalk.com
 DOMAIN-SUFFIX, hjapi.com
 DOMAIN-SUFFIX, hjfile.cn

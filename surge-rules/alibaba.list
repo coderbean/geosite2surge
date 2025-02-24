@@ -252,6 +252,7 @@ DOMAIN-SUFFIX, alikmd.com
 DOMAIN-SUFFIX, alimama.com
 DOMAIN-SUFFIX, alimebot.com
 DOMAIN-SUFFIX, alimei.com
+DOMAIN-SUFFIX, alimmdn.com
 DOMAIN-SUFFIX, alios.cn
 DOMAIN-SUFFIX, alipay.cn
 DOMAIN-SUFFIX, alipay.com
@@ -382,13 +383,15 @@ DOMAIN-SUFFIX, taobizhong.com
 DOMAIN-SUFFIX, taopiaopiao.com
 DOMAIN-SUFFIX, tb.cn
 DOMAIN-SUFFIX, tbcache.com
+DOMAIN-SUFFIX, tbcdn.cn
 DOMAIN-SUFFIX, tburl.in
 DOMAIN-SUFFIX, tmall.com
 DOMAIN-SUFFIX, tmall.ru
 DOMAIN-SUFFIX, tmalltv.com
 DOMAIN-SUFFIX, tmjl.ai
 
-# 夸克云盘
+# 夸克
+DOMAIN-SUFFIX, cueme.cn
 DOMAIN-SUFFIX, quark.cn
 
 # 飞猪
