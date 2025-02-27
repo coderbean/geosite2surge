@@ -1,17 +1,63 @@
 # Apple
-URL-REGEX, ^time(.euro)?.apple.com$
+# regexp:^time(.euro)?.apple.com$
+DOMAIN, time.apple.com
+DOMAIN, time.euro.apple.com
 
 # Facebook
-URL-REGEX, ^time([1-5])?\.facebook\.com$
+# regexp:^time([1-5])?\.facebook\.com$
+DOMAIN, time.facebook.com
+DOMAIN, time1.facebook.com
+DOMAIN, time2.facebook.com
+DOMAIN, time3.facebook.com
+DOMAIN, time4.facebook.com
+DOMAIN, time5.facebook.com
 
 # Google
-URL-REGEX, ^time([1-4])?.google.com$
+# regexp:^time([1-4])?.google.com$
+DOMAIN, time.google.com
+DOMAIN, time1.google.com
+DOMAIN, time2.google.com
+DOMAIN, time3.google.com
+DOMAIN, time4.google.com
 
 # NIST: https://tf.nist.gov/tf-cgi/servers.cgi
-URL-REGEX, ^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$
+# regexp:^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$
+DOMAIN, ut1-wwv.nist.gov
+DOMAIN, ntp-b.nist.gov
+DOMAIN, ntp-d.nist.gov
+DOMAIN, ntp-wwv.nist.gov
+DOMAIN, time.nist.gov
+DOMAIN, time-a-g.nist.gov
+DOMAIN, time-b-g.nist.gov
+DOMAIN, time-c-g.nist.gov
+DOMAIN, time-d-g.nist.gov
+DOMAIN, time-e-g.nist.gov
+DOMAIN, time-a-b.nist.gov
+DOMAIN, time-b-b.nist.gov
+DOMAIN, time-c-b.nist.gov
+DOMAIN, time-d-b.nist.gov
+DOMAIN, time-e-b.nist.gov
+DOMAIN, time-a-wwv.nist.gov
+DOMAIN, time-b-wwv.nist.gov
+DOMAIN, time-c-wwv.nist.gov
+DOMAIN, time-d-wwv.nist.gov
+DOMAIN, time-e-wwv.nist.gov
+DOMAIN, ntp-c.colorado.edu
+DOMAIN, ut1-time.colorado.edu
+DOMAIN, utcnist.colorado.edu
+DOMAIN, utcnist2.colorado.edu
+DOMAIN, utcnist3.colorado.edu
 
 # NTP-servers: https://ntp-servers.net/servers.html
-URL-REGEX, ^ntp[0-7]\.ntp-servers\.net$
+# regexp:^ntp[0-7]\.ntp-servers\.net$
+DOMAIN, ntp0.ntp-servers.net
+DOMAIN, ntp1.ntp-servers.net
+DOMAIN, ntp2.ntp-servers.net
+DOMAIN, ntp3.ntp-servers.net
+DOMAIN, ntp4.ntp-servers.net
+DOMAIN, ntp5.ntp-servers.net
+DOMAIN, ntp6.ntp-servers.net
+DOMAIN, ntp7.ntp-servers.net
 
 DOMAIN-SUFFIX, clock.isc.org
 DOMAIN-SUFFIX, ntp.fiord.ru
@@ -26,14 +72,28 @@ DOMAIN-SUFFIX, time.nrc.ca
 DOMAIN-SUFFIX, time.windows.com
 
 # Aliyun
-URL-REGEX, ^ntp([1-7])?\.aliyun\.com$
+# regexp:^ntp([1-7])?\.aliyun\.com$
+DOMAIN, ntp.aliyun.com
+DOMAIN, ntp1.aliyun.com
+DOMAIN, ntp2.aliyun.com
+DOMAIN, ntp3.aliyun.com
+DOMAIN, ntp4.aliyun.com
+DOMAIN, ntp5.aliyun.com
+DOMAIN, ntp6.aliyun.com
+DOMAIN, ntp7.aliyun.com
 
 # Qualcomm
 DOMAIN, time.izatcloud.net
 DOMAIN, time.xtracloud.net
 
 # Tencent
-URL-REGEX, ^ntp([1-5])?\.tencent\.com$
+# regexp:^ntp([1-5])?\.tencent\.com$
+DOMAIN, ntp.tencent.com
+DOMAIN, ntp1.tencent.com
+DOMAIN, ntp2.tencent.com
+DOMAIN, ntp3.tencent.com
+DOMAIN, ntp4.tencent.com
+DOMAIN, ntp5.tencent.com
 
 DOMAIN-SUFFIX, cn.pool.ntp.org
 DOMAIN-SUFFIX, ntp.neu.edu.cn

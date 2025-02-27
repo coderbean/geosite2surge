@@ -1724,12 +1724,58 @@ DOMAIN, tf-feedback.itunes.apple.com
 DOMAIN, upp.itunes.apple.com
 DOMAIN, www.support.apple.com
 
-URL-REGEX, ^a[1-5]\.mzstatic\.com$
-URL-REGEX, ^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
-URL-REGEX, ^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
-URL-REGEX, ^cl[1-5]\.apple\.com$
-URL-REGEX, ^is[1-5](-ssl)?\.mzstatic\.com$
-URL-REGEX, ^s[1-5]?\.mzstatic\.com$
+# regexp:^a[1-5]\.mzstatic\.com$
+DOMAIN, a1.mzstatic.com
+DOMAIN, a2.mzstatic.com
+DOMAIN, a3.mzstatic.com
+DOMAIN, a4.mzstatic.com
+DOMAIN, a5.mzstatic.com
+
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
+DOMAIN, cdn.apple-mapkit.com
+DOMAIN, cdn1.apple-mapkit.com
+DOMAIN, cdn2.apple-mapkit.com
+DOMAIN, cdn3.apple-mapkit.com
+DOMAIN, cdn4.apple-mapkit.com
+DOMAIN, cdn-cn.apple-mapkit.com
+DOMAIN, cdn-cn1.apple-mapkit.com
+DOMAIN, cdn-cn2.apple-mapkit.com
+DOMAIN, cdn-cn3.apple-mapkit.com
+DOMAIN, cdn-cn4.apple-mapkit.com
+
+# regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
+DOMAIN, cl1-cdn.origin-apple.com.akadns.net
+DOMAIN, cl2-cdn.origin-apple.com.akadns.net
+DOMAIN, cl3-cdn.origin-apple.com.akadns.net
+DOMAIN, cl4-cdn.origin-apple.com.akadns.net
+DOMAIN, cl5-cdn.origin-apple.com.akadns.net
+
+# regexp:^cl[1-5]\.apple\.com$
+DOMAIN, cl1.apple.com
+DOMAIN, cl2.apple.com
+DOMAIN, cl3.apple.com
+DOMAIN, cl4.apple.com
+DOMAIN, cl5.apple.com
+
+# regexp:^is[1-5](-ssl)?\.mzstatic\.com$
+DOMAIN, is1.mzstatic.com
+DOMAIN, is1-ssl.mzstatic.com
+DOMAIN, is2.mzstatic.com
+DOMAIN, is2-ssl.mzstatic.com
+DOMAIN, is3.mzstatic.com
+DOMAIN, is3-ssl.mzstatic.com
+DOMAIN, is4.mzstatic.com
+DOMAIN, is4-ssl.mzstatic.com
+DOMAIN, is5.mzstatic.com
+DOMAIN, is5-ssl.mzstatic.com
+
+# regexp:^s[1-5]?\.mzstatic\.com$
+DOMAIN, s.mzstatic.com
+DOMAIN, s1.mzstatic.com
+DOMAIN, s2.mzstatic.com
+DOMAIN, s3.mzstatic.com
+DOMAIN, s4.mzstatic.com
+DOMAIN, s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
 # Revision: e54aa75ca9c6567ac5b67093e5471eb1c8041e86

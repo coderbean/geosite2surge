@@ -287,7 +287,27 @@ DOMAIN-SUFFIX, 8gcdp.cn
 DOMAIN-SUFFIX, kma1g.cn
 DOMAIN-SUFFIX, 576nt.cn
 
-URL-REGEX, .+\.cdnhwc([1-9]|10)\.(cn|com)$
+# regexp:.+\.cdnhwc([1-9]|10)\.(cn|com)$
+DOMAIN-SUFFIX, cdnhwc1.cn
+DOMAIN-SUFFIX, cdnhwc2.cn
+DOMAIN-SUFFIX, cdnhwc3.cn
+DOMAIN-SUFFIX, cdnhwc4.cn
+DOMAIN-SUFFIX, cdnhwc5.cn
+DOMAIN-SUFFIX, cdnhwc6.cn
+DOMAIN-SUFFIX, cdnhwc7.cn
+DOMAIN-SUFFIX, cdnhwc8.cn
+DOMAIN-SUFFIX, cdnhwc9.cn
+DOMAIN-SUFFIX, cdnhwc10.cn
+DOMAIN-SUFFIX, cdnhwc1.com
+DOMAIN-SUFFIX, cdnhwc2.com
+DOMAIN-SUFFIX, cdnhwc3.com
+DOMAIN-SUFFIX, cdnhwc4.com
+DOMAIN-SUFFIX, cdnhwc5.com
+DOMAIN-SUFFIX, cdnhwc6.com
+DOMAIN-SUFFIX, cdnhwc7.com
+DOMAIN-SUFFIX, cdnhwc8.com
+DOMAIN-SUFFIX, cdnhwc9.com
+DOMAIN-SUFFIX, cdnhwc10.com
 
 
 DOMAIN-SUFFIX, abhouses.com

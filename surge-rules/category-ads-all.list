@@ -856,7 +856,17 @@ DOMAIN-SUFFIX, click.ali213.net
 DOMAIN-SUFFIX, pbmp.ali213.net
 
 # Caixin
-URL-REGEX, ^pinggai\d\.caixin\.com$
+# regexp:^pinggai\d\.caixin\.com$
+DOMAIN, pinggai0.caixin.com
+DOMAIN, pinggai1.caixin.com
+DOMAIN, pinggai2.caixin.com
+DOMAIN, pinggai3.caixin.com
+DOMAIN, pinggai4.caixin.com
+DOMAIN, pinggai5.caixin.com
+DOMAIN, pinggai6.caixin.com
+DOMAIN, pinggai7.caixin.com
+DOMAIN, pinggai8.caixin.com
+DOMAIN, pinggai9.caixin.com
 
 # Chinaso
 DOMAIN-SUFFIX, adq.chinaso.com

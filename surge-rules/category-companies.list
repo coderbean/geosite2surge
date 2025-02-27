@@ -336,7 +336,12 @@ DOMAIN-SUFFIX, route53.cn
 DOMAIN-SUFFIX, sagemaker.com.cn
 
 # AWS CN DNS
-URL-REGEX, .+\.amzndns-cn\.(biz|cn|com|net)$
+# regexp:.+\.amzndns-cn\.(biz|cn|com|net)$
+DOMAIN-SUFFIX, amzndns-cn.biz
+DOMAIN-SUFFIX, amzndns-cn.cn
+DOMAIN-SUFFIX, amzndns-cn.com
+DOMAIN-SUFFIX, amzndns-cn.net
+
 URL-REGEX, .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX, .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
 
@@ -384,7 +389,12 @@ DOMAIN-SUFFIX, elasticbeanstalk.com
 DOMAIN-SUFFIX, thinkboxsoftware.com
 
 # AWS DNS
-URL-REGEX, .+\.amzndns\.(co\.uk|com|net|org)$
+# regexp:.+\.amzndns\.(co\.uk|com|net|org)$
+DOMAIN-SUFFIX, amzndns.co.uk
+DOMAIN-SUFFIX, amzndns.com
+DOMAIN-SUFFIX, amzndns.net
+DOMAIN-SUFFIX, amzndns.org
+
 URL-REGEX, .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 
 # All .imdb domains
@@ -2299,12 +2309,58 @@ DOMAIN, tf-feedback.itunes.apple.com
 DOMAIN, upp.itunes.apple.com
 DOMAIN, www.support.apple.com
 
-URL-REGEX, ^a[1-5]\.mzstatic\.com$
-URL-REGEX, ^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
-URL-REGEX, ^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
-URL-REGEX, ^cl[1-5]\.apple\.com$
-URL-REGEX, ^is[1-5](-ssl)?\.mzstatic\.com$
-URL-REGEX, ^s[1-5]?\.mzstatic\.com$
+# regexp:^a[1-5]\.mzstatic\.com$
+DOMAIN, a1.mzstatic.com
+DOMAIN, a2.mzstatic.com
+DOMAIN, a3.mzstatic.com
+DOMAIN, a4.mzstatic.com
+DOMAIN, a5.mzstatic.com
+
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
+DOMAIN, cdn.apple-mapkit.com
+DOMAIN, cdn1.apple-mapkit.com
+DOMAIN, cdn2.apple-mapkit.com
+DOMAIN, cdn3.apple-mapkit.com
+DOMAIN, cdn4.apple-mapkit.com
+DOMAIN, cdn-cn.apple-mapkit.com
+DOMAIN, cdn-cn1.apple-mapkit.com
+DOMAIN, cdn-cn2.apple-mapkit.com
+DOMAIN, cdn-cn3.apple-mapkit.com
+DOMAIN, cdn-cn4.apple-mapkit.com
+
+# regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
+DOMAIN, cl1-cdn.origin-apple.com.akadns.net
+DOMAIN, cl2-cdn.origin-apple.com.akadns.net
+DOMAIN, cl3-cdn.origin-apple.com.akadns.net
+DOMAIN, cl4-cdn.origin-apple.com.akadns.net
+DOMAIN, cl5-cdn.origin-apple.com.akadns.net
+
+# regexp:^cl[1-5]\.apple\.com$
+DOMAIN, cl1.apple.com
+DOMAIN, cl2.apple.com
+DOMAIN, cl3.apple.com
+DOMAIN, cl4.apple.com
+DOMAIN, cl5.apple.com
+
+# regexp:^is[1-5](-ssl)?\.mzstatic\.com$
+DOMAIN, is1.mzstatic.com
+DOMAIN, is1-ssl.mzstatic.com
+DOMAIN, is2.mzstatic.com
+DOMAIN, is2-ssl.mzstatic.com
+DOMAIN, is3.mzstatic.com
+DOMAIN, is3-ssl.mzstatic.com
+DOMAIN, is4.mzstatic.com
+DOMAIN, is4-ssl.mzstatic.com
+DOMAIN, is5.mzstatic.com
+DOMAIN, is5-ssl.mzstatic.com
+
+# regexp:^s[1-5]?\.mzstatic\.com$
+DOMAIN, s.mzstatic.com
+DOMAIN, s1.mzstatic.com
+DOMAIN, s2.mzstatic.com
+DOMAIN, s3.mzstatic.com
+DOMAIN, s4.mzstatic.com
+DOMAIN, s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
 # Revision: e54aa75ca9c6567ac5b67093e5471eb1c8041e86
@@ -6225,7 +6281,26 @@ DOMAIN-SUFFIX, windowsazure.cn
 DOMAIN-SUFFIX, windowsazure.com
 DOMAIN-SUFFIX, windowsazurestatus.cn
 
-URL-REGEX, .+\.azchcdn[a-s]\.com$
+# regexp:.+\.azchcdn[a-s]\.com$
+DOMAIN-SUFFIX, azchcdna.com
+DOMAIN-SUFFIX, azchcdnb.com
+DOMAIN-SUFFIX, azchcdnc.com
+DOMAIN-SUFFIX, azchcdnd.com
+DOMAIN-SUFFIX, azchcdne.com
+DOMAIN-SUFFIX, azchcdnf.com
+DOMAIN-SUFFIX, azchcdng.com
+DOMAIN-SUFFIX, azchcdnh.com
+DOMAIN-SUFFIX, azchcdni.com
+DOMAIN-SUFFIX, azchcdnj.com
+DOMAIN-SUFFIX, azchcdnk.com
+DOMAIN-SUFFIX, azchcdnl.com
+DOMAIN-SUFFIX, azchcdnm.com
+DOMAIN-SUFFIX, azchcdnn.com
+DOMAIN-SUFFIX, azchcdno.com
+DOMAIN-SUFFIX, azchcdnp.com
+DOMAIN-SUFFIX, azchcdnq.com
+DOMAIN-SUFFIX, azchcdnr.com
+DOMAIN-SUFFIX, azchcdns.com
 
 DOMAIN, azure.microsoft.com
 DOMAIN, azuremarketplace.microsoft.com
@@ -6237,7 +6312,17 @@ DOMAIN-SUFFIX, azure-dns.info
 DOMAIN-SUFFIX, azure-dns.net
 DOMAIN-SUFFIX, azure-dns.org
 
-URL-REGEX, .+\.azure-dns-([1-9]|10)\.cn$
+# regexp:.+\.azure-dns-([1-9]|10)\.cn$
+DOMAIN-SUFFIX, azure-dns-1.cn
+DOMAIN-SUFFIX, azure-dns-2.cn
+DOMAIN-SUFFIX, azure-dns-3.cn
+DOMAIN-SUFFIX, azure-dns-4.cn
+DOMAIN-SUFFIX, azure-dns-5.cn
+DOMAIN-SUFFIX, azure-dns-6.cn
+DOMAIN-SUFFIX, azure-dns-7.cn
+DOMAIN-SUFFIX, azure-dns-8.cn
+DOMAIN-SUFFIX, azure-dns-9.cn
+DOMAIN-SUFFIX, azure-dns-10.cn
 
 # All .bing domains
 DOMAIN-SUFFIX, bing

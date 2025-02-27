@@ -104,7 +104,26 @@ DOMAIN-SUFFIX, windowsazure.cn
 DOMAIN-SUFFIX, windowsazure.com
 DOMAIN-SUFFIX, windowsazurestatus.cn
 
-URL-REGEX, .+\.azchcdn[a-s]\.com$
+# regexp:.+\.azchcdn[a-s]\.com$
+DOMAIN-SUFFIX, azchcdna.com
+DOMAIN-SUFFIX, azchcdnb.com
+DOMAIN-SUFFIX, azchcdnc.com
+DOMAIN-SUFFIX, azchcdnd.com
+DOMAIN-SUFFIX, azchcdne.com
+DOMAIN-SUFFIX, azchcdnf.com
+DOMAIN-SUFFIX, azchcdng.com
+DOMAIN-SUFFIX, azchcdnh.com
+DOMAIN-SUFFIX, azchcdni.com
+DOMAIN-SUFFIX, azchcdnj.com
+DOMAIN-SUFFIX, azchcdnk.com
+DOMAIN-SUFFIX, azchcdnl.com
+DOMAIN-SUFFIX, azchcdnm.com
+DOMAIN-SUFFIX, azchcdnn.com
+DOMAIN-SUFFIX, azchcdno.com
+DOMAIN-SUFFIX, azchcdnp.com
+DOMAIN-SUFFIX, azchcdnq.com
+DOMAIN-SUFFIX, azchcdnr.com
+DOMAIN-SUFFIX, azchcdns.com
 
 DOMAIN, azure.microsoft.com
 DOMAIN, azuremarketplace.microsoft.com
@@ -116,7 +135,17 @@ DOMAIN-SUFFIX, azure-dns.info
 DOMAIN-SUFFIX, azure-dns.net
 DOMAIN-SUFFIX, azure-dns.org
 
-URL-REGEX, .+\.azure-dns-([1-9]|10)\.cn$
+# regexp:.+\.azure-dns-([1-9]|10)\.cn$
+DOMAIN-SUFFIX, azure-dns-1.cn
+DOMAIN-SUFFIX, azure-dns-2.cn
+DOMAIN-SUFFIX, azure-dns-3.cn
+DOMAIN-SUFFIX, azure-dns-4.cn
+DOMAIN-SUFFIX, azure-dns-5.cn
+DOMAIN-SUFFIX, azure-dns-6.cn
+DOMAIN-SUFFIX, azure-dns-7.cn
+DOMAIN-SUFFIX, azure-dns-8.cn
+DOMAIN-SUFFIX, azure-dns-9.cn
+DOMAIN-SUFFIX, azure-dns-10.cn
 
 # All .bing domains
 DOMAIN-SUFFIX, bing
