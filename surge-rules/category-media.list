@@ -409,6 +409,10 @@ DOMAIN-SUFFIX, forbesimg.com
 # All .fox domains
 DOMAIN-SUFFIX, fox
 
+DOMAIN-SUFFIX, tubi.io
+DOMAIN-SUFFIX, tubitv.com
+
+
 DOMAIN-SUFFIX, fox-corporation.com
 DOMAIN-SUFFIX, fox-news.com
 DOMAIN-SUFFIX, fox.com
