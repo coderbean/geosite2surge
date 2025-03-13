@@ -57,6 +57,9 @@ DOMAIN-SUFFIX, host.livekit.cloud
 DOMAIN-SUFFIX, turn.livekit.cloud
 
 DOMAIN-SUFFIX, perplexity.ai
+DOMAIN-SUFFIX, pplx.ai
+
+DOMAIN, pplx-res.cloudinary.com
 
 DOMAIN-SUFFIX, poe.com
 DOMAIN-SUFFIX, poecdn.net

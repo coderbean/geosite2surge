@@ -7296,6 +7296,9 @@ DOMAIN-SUFFIX, pccwsolutions.com
 DOMAIN-SUFFIX, moov.hk
 
 DOMAIN-SUFFIX, perplexity.ai
+DOMAIN-SUFFIX, pplx.ai
+
+DOMAIN, pplx-res.cloudinary.com
 
 # Global
 DOMAIN-SUFFIX, myqnapcloud.com
