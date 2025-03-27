@@ -183,6 +183,12 @@ DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-west-1.aliyuncs.com
 
+DOMAIN-SUFFIX, cainiao-inc.com
+DOMAIN-SUFFIX, cainiao.com
+DOMAIN-SUFFIX, cainiao.com.cn
+DOMAIN-SUFFIX, cainiaoyizhan.com
+DOMAIN-SUFFIX, guoguo-app.com
+
 DOMAIN-SUFFIX, ddurl.to
 DOMAIN-SUFFIX, dingding.xin
 DOMAIN-SUFFIX, dingtalk.cn
@@ -342,11 +348,6 @@ DOMAIN-SUFFIX, alicloudccp.com
 DOMAIN-SUFFIX, alipan.com
 DOMAIN-SUFFIX, aliyundrive.com
 DOMAIN-SUFFIX, aliyundrive.net
-
-# 菜鸟
-DOMAIN-SUFFIX, cainiao.com
-DOMAIN-SUFFIX, cainiao.com.cn
-DOMAIN-SUFFIX, cainiao-inc.com
 
 # 盒马
 DOMAIN-SUFFIX, freshhema.com

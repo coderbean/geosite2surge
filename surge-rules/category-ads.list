@@ -864,6 +864,12 @@ DOMAIN-SUFFIX, yfanads.com
 # 数字联盟(device ad id)
 DOMAIN-SUFFIX, shuzilm.cn
 
+# 中国广告协会CAID
+DOMAIN-SUFFIX, china-caa.org
+DOMAIN-SUFFIX, cnaa123.com
+DOMAIN-SUFFIX, chinaciaf.org
+DOMAIN-SUFFIX, iabchina.cn
+
 # 卓信id
 DOMAIN-SUFFIX, zxid-api.mobileservice.cn
 DOMAIN-SUFFIX, zxid-m.mobileservice.cn

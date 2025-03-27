@@ -127,3 +127,7 @@ DOMAIN-SUFFIX, tailf.com
 
 DOMAIN, cisco.evergage.com
 DOMAIN, ciscolivehls-i.akamaihd.net
+
+# DNS service
+DOMAIN-SUFFIX, umbrella.com
+DOMAIN-SUFFIX, opendns.com

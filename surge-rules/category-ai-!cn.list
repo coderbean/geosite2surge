@@ -1,0 +1,91 @@
+DOMAIN-SUFFIX, anthropic.com
+DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claudeusercontent.com
+
+# CDN
+DOMAIN, servd-anthropic-website.b-cdn.net
+
+# This list is for backward compatibility
+
+# Google DeepMind
+DOMAIN-SUFFIX, deepmind.com
+DOMAIN-SUFFIX, deepmind.google
+
+# Google Generative Language API
+DOMAIN-SUFFIX, geller-pa.googleapis.com
+DOMAIN-SUFFIX, generativelanguage.googleapis.com
+DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
+
+# Google AI Studio
+DOMAIN, ai.google.dev
+DOMAIN, alkalicore-pa.clients6.google.com
+DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX, generativeai.google
+DOMAIN-SUFFIX, makersuite.google.com
+
+DOMAIN-SUFFIX, aistudio.google.com
+DOMAIN-SUFFIX, bard.google.com
+DOMAIN-SUFFIX, gemini.google.com
+
+
+DOMAIN-SUFFIX, groq.com
+
+DOMAIN-SUFFIX, hf.co
+DOMAIN-SUFFIX, huggingface.co
+
+# Main domain
+DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, chat.com
+DOMAIN-SUFFIX, oaistatic.com
+DOMAIN-SUFFIX, oaiusercontent.com
+DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, sora.com
+
+# CDN & API
+DOMAIN-SUFFIX, openai.com.cdn.cloudflare.net
+DOMAIN, openaiapi-site.azureedge.net
+DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN, openaicomproductionae4b.blob.core.windows.net
+DOMAIN, production-openaicom-storage.azureedge.net
+URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+
+# tracking
+DOMAIN, o33249.ingest.sentry.io
+DOMAIN, openaicom.imgix.net
+DOMAIN, browser-intake-datadoghq.com
+
+# Advanced Voice
+DOMAIN-SUFFIX, chatgpt.livekit.cloud
+DOMAIN-SUFFIX, host.livekit.cloud
+DOMAIN-SUFFIX, turn.livekit.cloud
+
+DOMAIN-SUFFIX, perplexity.ai
+DOMAIN-SUFFIX, pplx.ai
+
+DOMAIN, pplx-res.cloudinary.com
+
+DOMAIN-SUFFIX, poe.com
+DOMAIN-SUFFIX, poecdn.net
+
+DOMAIN-SUFFIX, grok.com
+DOMAIN-SUFFIX, x.ai
+
+DOMAIN-SUFFIX, cursor-cdn.com
+DOMAIN-SUFFIX, cursor.com
+DOMAIN-SUFFIX, cursor.sh
+DOMAIN-SUFFIX, cursorapi.com
+
+
+# Jasper
+DOMAIN-SUFFIX, clipdrop.co
+DOMAIN-SUFFIX, jasper.ai
+
+# NotebookLM
+DOMAIN-SUFFIX, notebooklm.google
+DOMAIN-SUFFIX, notebooklm.google.com
+
+DOMAIN-SUFFIX, dify.ai
+DOMAIN-SUFFIX, gateway.ai.cloudflare.com
+DOMAIN-SUFFIX, meta.ai
+DOMAIN-SUFFIX, openart.ai
+DOMAIN-SUFFIX, openrouter.ai

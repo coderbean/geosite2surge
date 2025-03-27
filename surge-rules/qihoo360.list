@@ -58,6 +58,11 @@ DOMAIN-SUFFIX, 360panyun.cn
 DOMAIN-SUFFIX, 360qhcdn.com
 DOMAIN-SUFFIX, 360safe.com
 DOMAIN-SUFFIX, 360shouji.com
+DOMAIN-SUFFIX, 360so.com
+DOMAIN-SUFFIX, 360sou.cn
+DOMAIN-SUFFIX, 360sou.com
+DOMAIN-SUFFIX, 360sou.com.cn
+DOMAIN-SUFFIX, 360sou.net
 DOMAIN-SUFFIX, 360taojin.com
 DOMAIN-SUFFIX, 360totalsecurity.com
 DOMAIN-SUFFIX, 360tpcdn.com
@@ -67,12 +72,15 @@ DOMAIN-SUFFIX, 360zqaq.com
 DOMAIN-SUFFIX, anquanke.com
 DOMAIN-SUFFIX, appjiagu.com
 DOMAIN-SUFFIX, baomitu.com
+DOMAIN-SUFFIX, dhsvc.cn
 DOMAIN-SUFFIX, haoso.com
 DOMAIN-SUFFIX, haosou.com
 DOMAIN-SUFFIX, haosou.com.cn
 DOMAIN-SUFFIX, haosou.net
 DOMAIN-SUFFIX, i360mall.com
 DOMAIN-SUFFIX, ludashi.com
+DOMAIN-SUFFIX, n.cn
+DOMAIN-SUFFIX, namiso.com
 DOMAIN-SUFFIX, nicaifu.com
 DOMAIN-SUFFIX, nzwgs.com
 DOMAIN-SUFFIX, qhcdn.com
@@ -95,6 +103,7 @@ DOMAIN-SUFFIX, qihucdn.com
 DOMAIN-SUFFIX, qiku.com
 DOMAIN-SUFFIX, qikucdn.com
 DOMAIN-SUFFIX, so.com
+DOMAIN-SUFFIX, sou.cn
 DOMAIN-SUFFIX, sou.com
 DOMAIN-SUFFIX, urlqh.cn
 DOMAIN-SUFFIX, xiaoluyouxuan.com
@@ -102,3 +111,8 @@ DOMAIN-SUFFIX, xiaoluzhidian.com
 DOMAIN-SUFFIX, xjietiao.com
 DOMAIN-SUFFIX, youhua.com
 DOMAIN-SUFFIX, yunpan.cn
+
+# 北方矢量
+DOMAIN-SUFFIX, beifangsl.cn
+DOMAIN-SUFFIX, zhaomi.cn
+DOMAIN-SUFFIX, zhaomishijie.com

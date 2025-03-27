@@ -681,6 +681,3 @@ DOMAIN-SUFFIX, x.org
 DOMAIN-SUFFIX, xposed.info
 DOMAIN-SUFFIX, yarnpkg.com
 DOMAIN-SUFFIX, zsh.org
-
-# Hugging Face official website.
-DOMAIN-SUFFIX, huggingface.co

@@ -449,8 +449,15 @@ URL-REGEX, ^cdn-akamai-.+\.gog-services\.com$
 URL-REGEX, ^gog-cdn-.+\.footprint\.net$
 URL-REGEX, ^images(-\d)?\.gog-statics\.com$
 
+# CDN available in China mainland
+DOMAIN, gog-cdn-fastly.gog.com
+DOMAIN, gog-cdn.akamaized.net
+
 DOMAIN-SUFFIX, illusion.co.jp
 DOMAIN-SUFFIX, illusion.jp
+
+DOMAIN-SUFFIX, itch.io
+DOMAIN-SUFFIX, itch.zone
 
 DOMAIN-SUFFIX, kurogames.com
 

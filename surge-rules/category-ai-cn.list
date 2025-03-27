@@ -44,9 +44,17 @@ DOMAIN-SUFFIX, hunyuan.tencent.com
 # 百川智能
 DOMAIN-SUFFIX, baichuan-ai.com
 
+# 深度求索
+DOMAIN-SUFFIX, deepseek.com
+
 DOMAIN-SUFFIX, botvip.cn
 DOMAIN-SUFFIX, liblib.art
 
 # 夸克 CueMe
 DOMAIN-SUFFIX, cueme.cn
 DOMAIN, cueme-api.quark.cn
+
+# 360 纳米AI搜索
+DOMAIN-SUFFIX, n.cn
+DOMAIN-SUFFIX, namiso.com
+DOMAIN, ai.zhaomi.cn

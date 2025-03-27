@@ -290,3 +290,6 @@ DOMAIN-SUFFIX, sign.new
 
 # Adobe Dynamic Media Delivery
 DOMAIN-SUFFIX, scene7.com
+
+# Adobe Stats IO
+DOMAIN-SUFFIX, adobestats.io

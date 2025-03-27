@@ -297,6 +297,9 @@ DOMAIN-SUFFIX, sign.new
 # Adobe Dynamic Media Delivery
 DOMAIN-SUFFIX, scene7.com
 
+# Adobe Stats IO
+DOMAIN-SUFFIX, adobestats.io
+
 DOMAIN-SUFFIX, alibabacloud.co.in
 DOMAIN-SUFFIX, alibabacloud.com
 DOMAIN-SUFFIX, alibabacloud.com.au
@@ -3466,6 +3469,10 @@ DOMAIN-SUFFIX, tailf.com
 DOMAIN, cisco.evergage.com
 DOMAIN, ciscolivehls-i.akamaihd.net
 
+# DNS service
+DOMAIN-SUFFIX, umbrella.com
+DOMAIN-SUFFIX, opendns.com
+
 DOMAIN-SUFFIX, clco.cc
 DOMAIN-SUFFIX, cloudc.one
 DOMAIN-SUFFIX, cloudcone.com
@@ -4762,6 +4769,7 @@ DOMAIN, google-ohttp-relay-safebrowsing.fastly-edge.com
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
 DOMAIN, www.recaptcha.net
+DOMAIN, safebrowsing-cache.google.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
 # Revision: 1cb04ffd38b040ccbe6f903db9d118e78a2d10d8
@@ -6243,6 +6251,7 @@ DOMAIN-SUFFIX, b2clogin.cn
 DOMAIN-SUFFIX, b3itech.cn
 DOMAIN-SUFFIX, blueaggrestore.com
 DOMAIN-SUFFIX, bluecloudprod.com
+DOMAIN-SUFFIX, botframework.com
 DOMAIN-SUFFIX, cegid-cloud.cn
 DOMAIN-SUFFIX, chinacloud-mobile.cn
 DOMAIN-SUFFIX, chinacloudapi.cn
@@ -7109,10 +7118,15 @@ DOMAIN-SUFFIX, naverlabs.com
 DOMAIN-SUFFIX, plug.game
 DOMAIN-SUFFIX, prismlive.com
 
+DOMAIN-SUFFIX, bestsrv.de
 DOMAIN-SUFFIX, customercontrolpanel.de
 DOMAIN-SUFFIX, dnsserver1.de
 DOMAIN-SUFFIX, dnsserver2.de
+DOMAIN-SUFFIX, goodsrv.de
+DOMAIN-SUFFIX, happysrv.de
+DOMAIN-SUFFIX, hotsrv.de
 DOMAIN-SUFFIX, luckysrv.de
+DOMAIN-SUFFIX, megasrv.de
 DOMAIN-SUFFIX, netcup.cafe
 DOMAIN-SUFFIX, netcup.com
 DOMAIN-SUFFIX, netcup.de
@@ -7121,8 +7135,12 @@ DOMAIN-SUFFIX, netcup.net
 DOMAIN-SUFFIX, netcup-news.de
 DOMAIN-SUFFIX, netcup-sonderangebote.de
 DOMAIN-SUFFIX, netcup-wiki.de
+DOMAIN-SUFFIX, nicesrv.de
+DOMAIN-SUFFIX, powersrv.de
+DOMAIN-SUFFIX, quicksrv.de
 DOMAIN-SUFFIX, servercontrolpanel.de
 DOMAIN-SUFFIX, supersrv.de
+DOMAIN-SUFFIX, ultrasrv.de
 DOMAIN-SUFFIX, yourvserver.net
 
 DOMAIN-SUFFIX, neuralink.com
