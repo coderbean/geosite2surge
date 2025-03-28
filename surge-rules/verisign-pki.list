@@ -1,21 +1,3 @@
-DOMAIN-SUFFIX, dcocsp.cn
-DOMAIN-SUFFIX, digicert-cn.com # Not in Chinese Mainland
-DOMAIN-SUFFIX, digicert-validation.com
-DOMAIN-SUFFIX, digicert.cn
-DOMAIN-SUFFIX, digicert.co.jp
-DOMAIN-SUFFIX, digicert.com
-DOMAIN-SUFFIX, digicert.eu
-DOMAIN-SUFFIX, digitalcertvalidation.com
-DOMAIN-SUFFIX, freessl.com
-DOMAIN-SUFFIX, geotrust.com
-DOMAIN-SUFFIX, rapidssl.com
-DOMAIN-SUFFIX, thawte.com
-DOMAIN-SUFFIX, thawte.de
-DOMAIN-SUFFIX, thawte.fr
-
-DOMAIN-SUFFIX, cybertrust.co.jp
-DOMAIN-SUFFIX, cybertrust.ne.jp
-
 # Verisign CA
 DOMAIN-SUFFIX, adobe-crl.verisign.com
 DOMAIN-SUFFIX, certipath-aia.verisign.com
@@ -67,20 +49,3 @@ DOMAIN-SUFFIX, svrsecure-t1-aia.verisign.com
 DOMAIN-SUFFIX, svrsecure-t1-crl.verisign.com
 DOMAIN-SUFFIX, svrtrial-g2-aia.verisign.com
 DOMAIN-SUFFIX, svrtrial-g2-crl.verisign.com
-
-# Symantec CA
-DOMAIN-SUFFIX, pki.symantec.com
-DOMAIN-SUFFIX, symauth.com
-DOMAIN-SUFFIX, symcb.com
-DOMAIN-SUFFIX, symcd.com
-DOMAIN-SUFFIX, ws.symantec.com
-
-
-# Quovadis
-DOMAIN-SUFFIX, quovadisglobal.com
-
-# Public Trust
-DOMAIN-SUFFIX, public-trust.com
-
-# Verizon CA
-DOMAIN-SUFFIX, omniroot.com

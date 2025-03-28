@@ -17,3 +17,9 @@ DOMAIN-SUFFIX, aoc.cat
 DOMAIN-SUFFIX, catcert.cat
 DOMAIN-SUFFIX, incommon-rsa.org
 DOMAIN-SUFFIX, netsolssl.com
+
+# Comodo CA
+DOMAIN-SUFFIX, comodoca.com
+DOMAIN-SUFFIX, comodoca2.com
+DOMAIN-SUFFIX, comodoca3.com
+DOMAIN-SUFFIX, comodoca4.com

@@ -1,5 +1,8 @@
+DOMAIN-SUFFIX, entrust.cn
+DOMAIN-SUFFIX, entrust.com
 DOMAIN-SUFFIX, entrust.net
 DOMAIN-SUFFIX, entrustdatacard.com
+DOMAIN, www.entrust.cn
 
 # Sub brand
 DOMAIN-SUFFIX, affirmtrust.com

@@ -903,6 +903,10 @@ DOMAIN-SUFFIX, xn--74q035i.xn--hxt814e # 耐克.网店
 DOMAIN-SUFFIX, nordstrom.com
 DOMAIN-SUFFIX, nordstrommedia.com
 
+DOMAIN-SUFFIX, ozon.ru
+DOMAIN-SUFFIX, ozone.ru
+DOMAIN-SUFFIX, ozonusercontent.com
+
 DOMAIN-SUFFIX, ecimg.tw
 DOMAIN-SUFFIX, pchome.com.tw
 DOMAIN-SUFFIX, pchomeec.tw
@@ -954,6 +958,15 @@ DOMAIN-SUFFIX, shopee.vn
 DOMAIN-SUFFIX, shopeemobile.com
 DOMAIN-SUFFIX, shopeesz.com
 DOMAIN-SUFFIX, shp.ee
+
+DOMAIN-SUFFIX, myshopify.com
+DOMAIN-SUFFIX, shop.app
+DOMAIN-SUFFIX, shopify.com
+DOMAIN-SUFFIX, shopify.dev
+DOMAIN-SUFFIX, shopifycdn.com
+DOMAIN-SUFFIX, shopifycloud.com
+DOMAIN-SUFFIX, shopifystatus.com
+DOMAIN-SUFFIX, shopifysvc.com
 
 DOMAIN-SUFFIX, suruga-ya.com
 DOMAIN-SUFFIX, suruga-ya.jp

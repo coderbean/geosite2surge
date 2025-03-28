@@ -19,3 +19,4 @@ DOMAIN-SUFFIX, globalsign.nl
 DOMAIN-SUFFIX, globalsigncdn.com
 
 DOMAIN, cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN, crl.globalsign.net

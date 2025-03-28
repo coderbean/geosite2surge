@@ -5,6 +5,7 @@ DOMAIN-SUFFIX, 21vbc.com
 DOMAIN-SUFFIX, 21vbluecloud.com
 DOMAIN-SUFFIX, 21vbluecloud.net
 DOMAIN-SUFFIX, aadrm.cn
+DOMAIN-SUFFIX, aadrm.com
 DOMAIN-SUFFIX, aggresmart.com
 DOMAIN-SUFFIX, apihub-internal.cn
 DOMAIN-SUFFIX, appserviceenvironment.cn
@@ -83,6 +84,7 @@ DOMAIN-SUFFIX, management-azure-devices.cn
 DOMAIN-SUFFIX, management-azure-devices.net
 DOMAIN-SUFFIX, mcchcdn.com
 DOMAIN-SUFFIX, mgmt-azure-api.cn
+DOMAIN-SUFFIX, microsoftazuread-sso.com
 DOMAIN-SUFFIX, microsoftazuresponsorships.com
 DOMAIN-SUFFIX, microsoftazurestatus.cn
 DOMAIN-SUFFIX, microsofteca.com
@@ -95,6 +97,8 @@ DOMAIN-SUFFIX, msftcloudes.cn
 DOMAIN-SUFFIX, msidentity.cn
 DOMAIN-SUFFIX, msidlabpbmc.cn
 DOMAIN-SUFFIX, msn.net
+DOMAIN-SUFFIX, playfab.com
+DOMAIN-SUFFIX, playfabapi.com
 DOMAIN-SUFFIX, serverlesslibrary.net
 DOMAIN-SUFFIX, trafficmanager.cn
 DOMAIN-SUFFIX, trafficmanager.net
