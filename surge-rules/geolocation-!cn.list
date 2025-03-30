@@ -12779,8 +12779,7 @@ DOMAIN-SUFFIX, redditmedia.com
 DOMAIN-SUFFIX, redditspace.com
 DOMAIN-SUFFIX, redditstatic.com
 DOMAIN-SUFFIX, redditstatus.com
-
-DOMAIN, reddit.map.fastly.net
+DOMAIN-SUFFIX, reddit.map.fastly.net
 
 DOMAIN-SUFFIX, maintracker.org
 DOMAIN-SUFFIX, rutracker.cc
