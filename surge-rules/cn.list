@@ -1923,6 +1923,9 @@ DOMAIN-SUFFIX, steampp.net
 DOMAIN-SUFFIX, lsplayer.com
 DOMAIN-SUFFIX, yeshen.com
 
+# 九九互动 粤ICP备19068416号
+DOMAIN-SUFFIX, forevernine.com
+
 DOMAIN-SUFFIX, ledu.com
 DOMAIN-SUFFIX, pearvideo.com
 DOMAIN-SUFFIX, wo1wan.com
@@ -1937,6 +1940,18 @@ DOMAIN-SUFFIX, xunyou.com # 蜀ICP备07504248号-4
 # 薄荷加速器
 DOMAIN-SUFFIX, bohejiasuqi.com
 DOMAIN-SUFFIX, jiasu.bohe.com # 鄂ICP备18023477号-1
+
+# GoLink 加速器 苏ICP备18014251号-2
+DOMAIN-SUFFIX, golink.com
+DOMAIN-SUFFIX, golinkapi.com
+DOMAIN-SUFFIX, golinkcn.com
+
+# Watt Toolkit 苏ICP备2023005487号-1
+DOMAIN-SUFFIX, steampp.net
+DOMAIN-SUFFIX, rmbgame.net
+
+# Steamcommunity 302
+DOMAIN-SUFFIX, steam302.xyz
 
 
 # Forums
@@ -7908,4 +7923,7 @@ DOMAIN-SUFFIX, bdcat.top
 
 # 宁停车
 DOMAIN-SUFFIX, ningtingche.com
+
+# 沉浸式翻译 沪ICP备2023011353号
+DOMAIN-SUFFIX, immersivetranslate.com
 

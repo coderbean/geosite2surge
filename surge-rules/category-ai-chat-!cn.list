@@ -1,3 +1,5 @@
+# This list is for backward compatibility
+
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, claudeusercontent.com
@@ -29,6 +31,9 @@ DOMAIN-SUFFIX, gemini.google.com
 
 
 DOMAIN-SUFFIX, groq.com
+
+DOMAIN-SUFFIX, hf.co
+DOMAIN-SUFFIX, huggingface.co
 
 # Main domain
 DOMAIN-SUFFIX, chatgpt.com
@@ -85,3 +90,5 @@ DOMAIN-SUFFIX, dify.ai
 DOMAIN-SUFFIX, gateway.ai.cloudflare.com
 DOMAIN-SUFFIX, meta.ai
 DOMAIN-SUFFIX, openart.ai
+DOMAIN-SUFFIX, openrouter.ai
+

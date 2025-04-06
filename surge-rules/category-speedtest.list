@@ -1,0 +1,42 @@
+DOMAIN-SUFFIX, cdnst.net
+DOMAIN-SUFFIX, cellmaps.com
+DOMAIN-SUFFIX, ekahau.cloud
+DOMAIN-SUFFIX, ekahau.com
+DOMAIN-SUFFIX, ookla.com
+DOMAIN-SUFFIX, ooklaserver.net
+DOMAIN-SUFFIX, pingtest.net
+DOMAIN-SUFFIX, speedtest.co
+DOMAIN-SUFFIX, speedtest.net
+DOMAIN-SUFFIX, speedtestcustom.com
+DOMAIN-SUFFIX, webtest.net
+
+DOMAIN, www.speedtest.net.cdn.cloudflare.net
+
+URL-REGEX, ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
+
+
+
+DOMAIN-SUFFIX, cnspeedtest.cn
+DOMAIN-SUFFIX, fast.com
+DOMAIN-SUFFIX, measurementlab.net
+DOMAIN-SUFFIX, nperf.com
+DOMAIN-SUFFIX, speed.cloudflare.com
+DOMAIN-SUFFIX, speed.dler.io
+DOMAIN-SUFFIX, speed.hinet.net
+DOMAIN-SUFFIX, speed.nccu.edu.tw
+DOMAIN-SUFFIX, speed.neu6.edu.cn
+DOMAIN-SUFFIX, speed.nuaa.edu.cn
+DOMAIN-SUFFIX, speed2.hinet.net
+DOMAIN-SUFFIX, speed5.ntu.edu.tw
+DOMAIN-SUFFIX, speedtest.cn
+DOMAIN-SUFFIX, speedtest.im
+DOMAIN-SUFFIX, speedtest.mfcyun.com
+DOMAIN-SUFFIX, speedtest.shu.edu.cn
+DOMAIN-SUFFIX, speedtest.xfinity.com
+DOMAIN-SUFFIX, speedtestcustom.com
+DOMAIN-SUFFIX, test.ustc.edu.cn
+DOMAIN-SUFFIX, test.nju.edu.cn
+DOMAIN-SUFFIX, testmy.net
+
+DOMAIN, hk-global-bgp.hkg.speedtest.yecaoyun.com
+
