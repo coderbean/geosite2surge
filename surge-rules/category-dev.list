@@ -344,6 +344,7 @@ DOMAIN-SUFFIX, kotlinlang.org
 DOMAIN-SUFFIX, cdn.jetbrains.com
 DOMAIN-SUFFIX, download-cdn.jetbrains.com.cn
 DOMAIN-SUFFIX, jb.gg
+DOMAIN-SUFFIX, youtrack.cloud
 
 DOMAIN-SUFFIX, grazie.ai
 DOMAIN-SUFFIX, grazie.aws.intellij.net

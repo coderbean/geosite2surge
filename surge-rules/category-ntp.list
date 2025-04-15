@@ -3,6 +3,9 @@
 DOMAIN, time.apple.com
 DOMAIN, time.euro.apple.com
 
+# AWS
+DOMAIN, time.aws.com
+
 # Facebook
 # regexp:^time([1-5])?\.facebook\.com$
 DOMAIN, time.facebook.com
@@ -81,6 +84,9 @@ DOMAIN, ntp4.aliyun.com
 DOMAIN, ntp5.aliyun.com
 DOMAIN, ntp6.aliyun.com
 DOMAIN, ntp7.aliyun.com
+
+# AWS
+DOMAIN, time.amazonaws.cn
 
 # Qualcomm
 DOMAIN, time.izatcloud.net

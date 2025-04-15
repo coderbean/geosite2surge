@@ -9,6 +9,9 @@ DOMAIN, ntp5.aliyun.com
 DOMAIN, ntp6.aliyun.com
 DOMAIN, ntp7.aliyun.com
 
+# AWS
+DOMAIN, time.amazonaws.cn
+
 # Qualcomm
 DOMAIN, time.izatcloud.net
 DOMAIN, time.xtracloud.net
