@@ -76,3 +76,6 @@ DOMAIN-SUFFIX, blogspot.td
 DOMAIN-SUFFIX, blogspot.tw
 DOMAIN-SUFFIX, blogspot.ug
 DOMAIN-SUFFIX, blogspot.vn
+
+# Other related domains:
+DOMAIN-SUFFIX, blogger.googleusercontent.com

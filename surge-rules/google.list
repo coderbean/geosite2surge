@@ -81,6 +81,9 @@ DOMAIN-SUFFIX, blogspot.tw
 DOMAIN-SUFFIX, blogspot.ug
 DOMAIN-SUFFIX, blogspot.vn
 
+# Other related domains:
+DOMAIN-SUFFIX, blogger.googleusercontent.com
+
 DOMAIN-SUFFIX, dart.dev
 DOMAIN-SUFFIX, dartlang.org
 DOMAIN-SUFFIX, dartpad.dev
@@ -186,6 +189,7 @@ DOMAIN-SUFFIX, makersuite.google.com
 
 DOMAIN-SUFFIX, aistudio.google.com
 DOMAIN-SUFFIX, bard.google.com
+DOMAIN-SUFFIX, gemini.google
 DOMAIN-SUFFIX, gemini.google.com
 
 # This list is for backward compatibility
@@ -208,6 +212,7 @@ DOMAIN-SUFFIX, makersuite.google.com
 
 DOMAIN-SUFFIX, aistudio.google.com
 DOMAIN-SUFFIX, bard.google.com
+DOMAIN-SUFFIX, gemini.google
 DOMAIN-SUFFIX, gemini.google.com
 
 
@@ -1078,14 +1083,14 @@ DOMAIN, www.recaptcha.net
 DOMAIN, safebrowsing-cache.google.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
-# Revision: 1cb04ffd38b040ccbe6f903db9d118e78a2d10d8
+# Revision: 1f28a2d5789f411c13de69837bb354f4b21e58ff
 # Use in config file like this: "geosite:google@cn"
 DOMAIN, 265.com
 DOMAIN, 2mdn-cn.net
 DOMAIN, 2mdn.net
 DOMAIN, admob-cn.com
 DOMAIN, adservice.google.com
-DOMAIN, ai.ytimg.com
+DOMAIN, app-analytics-services.com
 DOMAIN, app-measurement-cn.com
 DOMAIN, app-measurement.com
 DOMAIN, apps5.oingo.com
@@ -1094,7 +1099,6 @@ DOMAIN, beacons.gcp.gvt2.com
 DOMAIN, beacons.gvt2.com
 DOMAIN, beacons2.gvt2.com
 DOMAIN, beacons3.gvt2.com
-DOMAIN, borgmon.adz.google.com
 DOMAIN, c.admob.com
 DOMAIN, c.android.clients.google.com
 DOMAIN, cache-management-prod.google.com
@@ -1113,29 +1117,23 @@ DOMAIN, crl.pki.goog
 DOMAIN, csi.gstatic.com
 DOMAIN, dartsearch-cn.net
 DOMAIN, dg-meta.video.google.com
-DOMAIN, distribution.qatp1.net
-DOMAIN, distribution.qcpp1.net
-DOMAIN, distribution.qpdp1.net
 DOMAIN, dl.google.com
 DOMAIN, dl.l.google.com
 DOMAIN, doubleclick-cn.net
 DOMAIN, doubleclick.net
 DOMAIN, download.mlcc.google.com
 DOMAIN, download.qatp1.net
-DOMAIN, download.qcpp1.net
-DOMAIN, download.qpdp1.net
 DOMAIN, download.tensorflow.google.com
 DOMAIN, emmapplecodevice.googleapis.com
 DOMAIN, firebase-settings.crashlytics.com
-DOMAIN, fontfiles.googleadapis.com
 DOMAIN, fontfiles.googleapis.com
-DOMAIN, fonts.googleadapis.com
 DOMAIN, fonts.googleapis.com
 DOMAIN, fonts.gstatic.com
 DOMAIN, g0.gstatic.com
 DOMAIN, g1.gstatic.com
 DOMAIN, g2.gstatic.com
 DOMAIN, g3.gstatic.com
+DOMAIN, go.corp.google.com
 DOMAIN, gonglchuangl.net
 DOMAIN, gongyichuangyi.net
 DOMAIN, google-analytics-cn.com
@@ -1148,7 +1146,6 @@ DOMAIN, googleapps-cn.com
 DOMAIN, googleflights-cn.net
 DOMAIN, googleoptimize-cn.com
 DOMAIN, googleoptimize.com
-DOMAIN, googleplex.com
 DOMAIN, googlesyndication-cn.com
 DOMAIN, googlesyndication.com
 DOMAIN, googletagmanager-cn.com
@@ -1158,115 +1155,76 @@ DOMAIN, googletagservices.com
 DOMAIN, googletraveladservices-cn.com
 DOMAIN, googletraveladservices.com
 DOMAIN, googlevads-cn.com
-DOMAIN, goto.google.com
 DOMAIN, gstatic-cn.com
 DOMAIN, gstaticadssl.l.google.com
 DOMAIN, gtm.oasisfeng.com
 DOMAIN, imasdk.googleapis.com
-DOMAIN, monitoring.qatp1.net
-DOMAIN, monitoring.qcpp1.net
+DOMAIN, l2-uberproxy.corp.google.com
+DOMAIN, logger-dev.corp.google.com
+DOMAIN, logger.corp.google.com
+DOMAIN, login.corp.google.com
 DOMAIN, monitoring.qpdp1.net
 DOMAIN, ocsp.pki.goog
 DOMAIN, pagead-googlehosted.l.google.com
 DOMAIN, performanceparameters.googleapis.com
 DOMAIN, pki-goog.l.google.com
-DOMAIN, play.1ucrs.com
 DOMAIN, prod-controlbe.floonet.goog
 DOMAIN, prod-databe.floonet.goog
 DOMAIN, prod.databe.floonet.goog
+DOMAIN, proxyconfig.corp.google.com
 DOMAIN, qagpublic.qatp1.net
-DOMAIN, qagpublic.qcpp1.net
-DOMAIN, qagpublic.qpdp1.net
-DOMAIN, qgadmin.qatp1.net
 DOMAIN, qgadmin.qcpp1.net
-DOMAIN, qgadmin.qpdp1.net
+DOMAIN, qiao-cn.com
 DOMAIN, qpx.googleflights.net
 DOMAIN, qualysapi.qatp1.net
-DOMAIN, qualysapi.qcpp1.net
-DOMAIN, qualysapi.qpdp1.net
-DOMAIN, qualysguard.qatp1.net
-DOMAIN, qualysguard.qcpp1.net
 DOMAIN, qualysguard.qpdp1.net
-DOMAIN, recaptcha.net
+DOMAIN, r.cert.corp.google.com
+DOMAIN, rapture-prod.corp.google.com
 DOMAIN, recaptcha-cn.net
+DOMAIN, recaptcha.net
 DOMAIN, redirector.bdn.dev
 DOMAIN, redirector.c.chat.google.com
 DOMAIN, redirector.c.mail.google.com
 DOMAIN, redirector.c.pack.google.com
+DOMAIN, redirector.c.play.google.com
 DOMAIN, redirector.c.youtubeeducation.com
 DOMAIN, redirector.gcpcdn.gvt1.com
 DOMAIN, redirector.gvt1.com
 DOMAIN, redirector.offline-maps.gvt1.com
 DOMAIN, redirector.snap.gvt1.com
 DOMAIN, redirector.xn--ngstr-lra8j.com
-DOMAIN, regioninfo-pa.googleapis.com
+DOMAIN, safebrowsing-cache.google.com
 DOMAIN, safebrowsing.googleapis.com
-DOMAIN, scanservice1.qatp1.net
 DOMAIN, scanservice1.qcpp1.net
-DOMAIN, scanservice1.qpdp1.net
 DOMAIN, service.urchin.com
-DOMAIN, settings.xn--9trs65b.com
 DOMAIN, ssl-google-analytics.l.google.com
 DOMAIN, ssl.gstatic.com
+DOMAIN, sslredirect.corp.google.com
 DOMAIN, staging-controlbe.floonet.goog
 DOMAIN, staging-databe.floonet.goog
-DOMAIN, staging-regioninfo-pa.googleapis.com
 DOMAIN, staging.databe.floonet.goog
-DOMAIN, support.1ucrs.com
+DOMAIN, streaming-uberproxy-rotation.corp.google.com
+DOMAIN, streaming-uberproxy.corp.google.com
+DOMAIN, sup-ssh-relay.corp.google.com
+DOMAIN, sup-ssh-relay2.corp.google.com
+DOMAIN, sup.corp.google.com
+DOMAIN, sup.l.google.com
 DOMAIN, tac.googleapis.com
-DOMAIN, test.bugs-qa.chromium.org
 DOMAIN, test.gbugs-qa.chromium.org
 DOMAIN, tools.google.com
 DOMAIN, tools.l.google.com
+DOMAIN, uberproxy-debug4.corp.google.com
+DOMAIN, uberproxy.corp.google.com
+DOMAIN, uberproxy6.corp.google.com
 DOMAIN, update.crashlytics.com
 DOMAIN, update.googleapis.com
 DOMAIN, wear.googleapis.com
 DOMAIN, www-google-analytics.l.google.com
 DOMAIN, www-googletagmanager.l.google.com
 DOMAIN, www.destinationurl.com
-DOMAIN, www.googleadapis.com
 DOMAIN, www.gstatic.com
 DOMAIN, www.pxcc.com
-DOMAIN, xn--9kr7l.com
 DOMAIN, xn--flw351e.com
-DOMAIN, applemdm.corp.google.com
-DOMAIN, dns.corp.google.com
-DOMAIN, g3doc.corp.google.com
-DOMAIN, gmskiosk-ssl.corp.google.com
-DOMAIN, go.corp.google.com
-DOMAIN, gorom.corp.google.com
-DOMAIN, goto.corp.google.com
-DOMAIN, l2-uberproxy.corp.google.com
-DOMAIN, logger.corp.google.com
-DOMAIN, logger-dev.corp.google.com
-DOMAIN, login.corp.google.com
-DOMAIN, proxyconfig.corp.google.com
-DOMAIN, rapture-autopush.corp.google.com
-DOMAIN, rapture.corp.google.com
-DOMAIN, rapture-prod.corp.google.com
-DOMAIN, rapture-test.corp.google.com
-DOMAIN, r.cert.corp.google.com
-DOMAIN, ssh-relay.corp.google.com
-DOMAIN, sslredirect.corp.google.com
-DOMAIN, streaming-uberproxy.corp.google.com
-DOMAIN, streaming-uberproxy-rotation.corp.google.com
-DOMAIN, sup.corp.google.com
-DOMAIN, supportcenter.corp.google.com
-DOMAIN, sup-ssh-relay2.corp.google.com
-DOMAIN, sup-ssh-relay.corp.google.com
-DOMAIN, techstop.corp.google.com
-DOMAIN, uberproxy4.corp.google.com
-DOMAIN, uberproxy6.corp.google.com
-DOMAIN, uberproxy.corp.google.com
-DOMAIN, uberproxy-debug4.corp.google.com
-DOMAIN, uberproxy-debug.corp.google.com
-DOMAIN, uberproxy-pen-redirect.corp.google.com
-DOMAIN, vext.corp.google.com
-DOMAIN, sup.l.google.com
-DOMAIN, uberproxy-with-cn.l.google.com
-DOMAIN, uberproxy-with-cn4.l.google.com
-DOMAIN, uberproxy-with-cn6.l.google.com
-DOMAIN, qiao-cn.com
 
 DOMAIN-SUFFIX, gvt1-cn.com
 DOMAIN-SUFFIX, gvt2-cn.com

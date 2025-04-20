@@ -14,6 +14,8 @@ DOMAIN-SUFFIX, huaweicloud-dns.net
 DOMAIN-SUFFIX, huaweicloud-dns.org
 DOMAIN-SUFFIX, huaweicloud-idme.cn
 DOMAIN-SUFFIX, huaweicloud-idme.com
+DOMAIN-SUFFIX, huaweicloud-koophone.cn
+DOMAIN-SUFFIX, huaweicloud-koophone.com
 DOMAIN-SUFFIX, huaweicloud-smn.cn
 DOMAIN-SUFFIX, huaweicloud-smn.com
 DOMAIN-SUFFIX, huaweicloud-smn.net
@@ -71,6 +73,8 @@ DOMAIN-SUFFIX, kmop-cn-north-4.cn
 DOMAIN-SUFFIX, livehwc3.cn
 DOMAIN-SUFFIX, modelarts-infer.cn
 DOMAIN-SUFFIX, modelarts-infer.com
+DOMAIN-SUFFIX, modelarts-maas.cn
+DOMAIN-SUFFIX, modelarts-maas.com
 DOMAIN-SUFFIX, myhuaweicloud-custom.cn
 DOMAIN-SUFFIX, myhuaweicloud-custom.com
 DOMAIN-SUFFIX, myhuaweicloud-koodrive.cn

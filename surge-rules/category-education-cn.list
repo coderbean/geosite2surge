@@ -60,6 +60,35 @@ DOMAIN-SUFFIX, fenbilantian.com
 DOMAIN-SUFFIX, zhihuishu.com
 
 
+# 教育部学生服务与素质发展中心
+# 京ICP备19004913号
+DOMAIN-SUFFIX, cedf.cn
+DOMAIN-SUFFIX, cedf.org.cn
+DOMAIN-SUFFIX, chdi.com.cn
+DOMAIN-SUFFIX, chei.com.cn
+DOMAIN-SUFFIX, chesicc.cn
+DOMAIN-SUFFIX, chesicc.com
+DOMAIN-SUFFIX, chesicc.com.cn
+DOMAIN-SUFFIX, chesicc.net
+DOMAIN-SUFFIX, chesicc.net.cn
+DOMAIN-SUFFIX, chesicc.org.cn
+DOMAIN-SUFFIX, chinayz.com.cn
+DOMAIN-SUFFIX, chsi.cn
+DOMAIN-SUFFIX, chsi.com.cn
+DOMAIN-SUFFIX, gatzs.com.cn
+DOMAIN-SUFFIX, gfbzb.cn
+DOMAIN-SUFFIX, gfbzb.com
+DOMAIN-SUFFIX, gfbzb.com.cn
+DOMAIN-SUFFIX, gfbzb.gov.cn
+DOMAIN-SUFFIX, gfbzb.net
+DOMAIN-SUFFIX, ncss.cn
+DOMAIN-SUFFIX, ncss.org.cn
+DOMAIN-SUFFIX, qgzb.com.cn
+DOMAIN-SUFFIX, qgzb.gov.cn
+DOMAIN-SUFFIX, qgzb.net
+DOMAIN-SUFFIX, zbbm.gov.cn
+DOMAIN-SUFFIX, zbbm.net
+
 # 雨课堂
 DOMAIN-SUFFIX, rainclassroom.com
 DOMAIN-SUFFIX, yuketang.cn
