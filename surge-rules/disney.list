@@ -108,7 +108,6 @@ DOMAIN-SUFFIX, disney-plus.net
 DOMAIN-SUFFIX, disney-portal.my.onetrust.com
 DOMAIN-SUFFIX, disney-studio.com
 DOMAIN-SUFFIX, disney-studio.net
-DOMAIN-SUFFIX, disney.my.sentry.io
 DOMAIN-SUFFIX, disneyadsales.com
 DOMAIN-SUFFIX, disneyarena.com
 DOMAIN-SUFFIX, disneyaulani.com
@@ -175,3 +174,6 @@ DOMAIN-SUFFIX, streamingdisney.net
 DOMAIN-SUFFIX, thestationbymaker.com
 DOMAIN-SUFFIX, thisispolaris.com
 DOMAIN-SUFFIX, watchdisneyfe.com
+
+# tracking
+DOMAIN, disney.my.sentry.io

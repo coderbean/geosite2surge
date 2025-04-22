@@ -11880,7 +11880,6 @@ DOMAIN-SUFFIX, disney-plus.net
 DOMAIN-SUFFIX, disney-portal.my.onetrust.com
 DOMAIN-SUFFIX, disney-studio.com
 DOMAIN-SUFFIX, disney-studio.net
-DOMAIN-SUFFIX, disney.my.sentry.io
 DOMAIN-SUFFIX, disneyadsales.com
 DOMAIN-SUFFIX, disneyarena.com
 DOMAIN-SUFFIX, disneyaulani.com
@@ -11947,6 +11946,9 @@ DOMAIN-SUFFIX, streamingdisney.net
 DOMAIN-SUFFIX, thestationbymaker.com
 DOMAIN-SUFFIX, thisispolaris.com
 DOMAIN-SUFFIX, watchdisneyfe.com
+
+# tracking
+DOMAIN, disney.my.sentry.io
 
 DOMAIN-SUFFIX, chobit.cc
 DOMAIN-SUFFIX, ci-en.jp
@@ -16089,6 +16091,7 @@ DOMAIN-SUFFIX, 8teenxxx.com
 DOMAIN-SUFFIX, 8thstreetlatinas.com
 DOMAIN-SUFFIX, 8xxx.net
 DOMAIN-SUFFIX, 90seconds.asia
+DOMAIN-SUFFIX, 91-cg.com
 DOMAIN-SUFFIX, 91av.one
 DOMAIN-SUFFIX, 91avfuli.com
 DOMAIN-SUFFIX, 91beiyong.com
@@ -16100,6 +16103,7 @@ DOMAIN-SUFFIX, 91jinman.com
 DOMAIN-SUFFIX, 91md.me
 DOMAIN-SUFFIX, 91moxiong.com
 DOMAIN-SUFFIX, 91oo.xyz
+DOMAIN-SUFFIX, 91porn.best
 DOMAIN-SUFFIX, 91pornplus.com
 DOMAIN-SUFFIX, 91porny.com
 DOMAIN-SUFFIX, 91porny.store
@@ -16112,6 +16116,7 @@ DOMAIN-SUFFIX, 91se.fun
 DOMAIN-SUFFIX, 91sesex.xyz
 DOMAIN-SUFFIX, 91sew.xyz
 DOMAIN-SUFFIX, 91sew40.buzz
+DOMAIN-SUFFIX, 91short.com
 DOMAIN-SUFFIX, 91vhome.com
 DOMAIN-SUFFIX, 920share.com
 DOMAIN-SUFFIX, 921bb.com
@@ -17233,6 +17238,7 @@ DOMAIN-SUFFIX, duoweiweek.com
 DOMAIN-SUFFIX, dutrai.com
 DOMAIN-SUFFIX, dvdtrailertube.com
 DOMAIN-SUFFIX, dx9527.cc
+DOMAIN-SUFFIX, dxk4h.com
 DOMAIN-SUFFIX, dxyav.co
 DOMAIN-SUFFIX, dyfl1.pw
 DOMAIN-SUFFIX, dykycl.com
@@ -17908,6 +17914,7 @@ DOMAIN-SUFFIX, handjobtube4free.com
 DOMAIN-SUFFIX, hanime.me
 DOMAIN-SUFFIX, hanime.tv
 DOMAIN-SUFFIX, hanime.xxx
+DOMAIN-SUFFIX, hanime.xyz
 DOMAIN-SUFFIX, hanime1.me
 DOMAIN-SUFFIX, hanr-bao.mom
 DOMAIN-SUFFIX, hao21.xyz
@@ -19922,6 +19929,7 @@ DOMAIN-SUFFIX, pornvideos.casa
 DOMAIN-SUFFIX, pornvideotop.com
 DOMAIN-SUFFIX, pornvideotube.online
 DOMAIN-SUFFIX, pornvidhd.club
+DOMAIN-SUFFIX, pornvr.me
 DOMAIN-SUFFIX, pornwatchers.com
 DOMAIN-SUFFIX, pornwebmasters.com
 DOMAIN-SUFFIX, pornwhite.com
@@ -21301,6 +21309,8 @@ DOMAIN-SUFFIX, xgtd3.com
 DOMAIN-SUFFIX, xgtdr.buzz
 DOMAIN-SUFFIX, xh-porn.com
 DOMAIN-SUFFIX, xh.video
+DOMAIN-SUFFIX, xhamster.com
+DOMAIN-SUFFIX, xhamster.desi
 DOMAIN-SUFFIX, xhamster2.com
 DOMAIN-SUFFIX, xhot.pro
 DOMAIN-SUFFIX, xhub.tv
@@ -21344,6 +21354,7 @@ DOMAIN-SUFFIX, xnalgas.com
 DOMAIN-SUFFIX, xnertv.shop
 DOMAIN-SUFFIX, xnostars.com
 DOMAIN-SUFFIX, xnxvideos.org
+DOMAIN-SUFFIX, xnxx.com
 DOMAIN-SUFFIX, xnxx-sex-tube.com
 DOMAIN-SUFFIX, xnxx-sex-videos.com
 DOMAIN-SUFFIX, xnxx-teens.com
@@ -21409,6 +21420,7 @@ DOMAIN-SUFFIX, xvideo.com
 DOMAIN-SUFFIX, xvideo.run
 DOMAIN-SUFFIX, xvideo.vlog.br
 DOMAIN-SUFFIX, xvideoporno.tv
+DOMAIN-SUFFIX, xvideos.com
 DOMAIN-SUFFIX, xvideos-dl.top
 DOMAIN-SUFFIX, xvideos-porn-video.com
 DOMAIN-SUFFIX, xvideos-xxxx.com
@@ -21636,6 +21648,7 @@ DOMAIN-SUFFIX, youngsex.sexy
 DOMAIN-SUFFIX, youngsex.video
 DOMAIN-SUFFIX, youngteenhomeporn.com
 DOMAIN-SUFFIX, youngtube.me
+DOMAIN-SUFFIX, youporn.com
 DOMAIN-SUFFIX, youporn-germany.com
 DOMAIN-SUFFIX, youporner.eu
 DOMAIN-SUFFIX, youpornlist.com
@@ -25515,6 +25528,9 @@ DOMAIN-SUFFIX, appleone.website
 
 # Shazam
 DOMAIN-SUFFIX, shazam.com
+
+# Apple Health Studies
+DOMAIN, ingest.apple-studies.com  # 采集心率、运动、听力等传感器数据，以及用户填报的研究问卷，将其加密后上传至 Apple 后端
 
 # Others
 DOMAIN-SUFFIX, 1to1computing.com.au
