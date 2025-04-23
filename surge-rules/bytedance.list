@@ -1,3 +1,25 @@
+DOMAIN-SUFFIX, bds.snssdk.com
+DOMAIN-SUFFIX, byteadverts.com
+DOMAIN-SUFFIX, ctobsnssdk.com
+DOMAIN-SUFFIX, dig.bdurl.net
+DOMAIN-SUFFIX, extlog.snssdk.com
+DOMAIN-SUFFIX, i.snssdk.com
+DOMAIN-SUFFIX, mcs.snssdk.com
+DOMAIN-SUFFIX, pangolin-dsp-toutiao-b.com
+DOMAIN-SUFFIX, pangolin-dsp-toutiao.com
+DOMAIN-SUFFIX, pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX, pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX, pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX, pangolin.snssdk.com
+DOMAIN-SUFFIX, panplayable-toutiao-b.com
+DOMAIN-SUFFIX, panplayable-toutiao.com
+DOMAIN-SUFFIX, pglstatp-sdk-toutiao.com
+DOMAIN-SUFFIX, pglstatp-snssdk-toutiao.com
+DOMAIN-SUFFIX, pglstatp-toutiao-b.com
+DOMAIN-SUFFIX, pglstatp-toutiao.com
+DOMAIN-SUFFIX, sf3-ttcdn-tos.pstatp.com
+
+
 DOMAIN-SUFFIX, bcy.net
 DOMAIN-SUFFIX, bcyimg.com
 DOMAIN-SUFFIX, lf-rc1.yhgfb-cn-static.com
@@ -175,27 +197,6 @@ DOMAIN-SUFFIX, ttoverseaus.net
 DOMAIN-SUFFIX, ttwstatic.com
 
 DOMAIN, p16-tiktokcdn-com.akamaized.net
-
-DOMAIN-SUFFIX, bds.snssdk.com
-DOMAIN-SUFFIX, byteadverts.com
-DOMAIN-SUFFIX, ctobsnssdk.com
-DOMAIN-SUFFIX, dig.bdurl.net
-DOMAIN-SUFFIX, extlog.snssdk.com
-DOMAIN-SUFFIX, i.snssdk.com
-DOMAIN-SUFFIX, mcs.snssdk.com
-DOMAIN-SUFFIX, pangolin-dsp-toutiao-b.com
-DOMAIN-SUFFIX, pangolin-dsp-toutiao.com
-DOMAIN-SUFFIX, pangolin-sdk-toutiao-b.com
-DOMAIN-SUFFIX, pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX, pangolin-sdk-toutiao1.com
-DOMAIN-SUFFIX, pangolin.snssdk.com
-DOMAIN-SUFFIX, panplayable-toutiao-b.com
-DOMAIN-SUFFIX, panplayable-toutiao.com
-DOMAIN-SUFFIX, pglstatp-sdk-toutiao.com
-DOMAIN-SUFFIX, pglstatp-snssdk-toutiao.com
-DOMAIN-SUFFIX, pglstatp-toutiao-b.com
-DOMAIN-SUFFIX, pglstatp-toutiao.com
-DOMAIN-SUFFIX, sf3-ttcdn-tos.pstatp.com
 
 DOMAIN-SUFFIX, aigc-cloud.com
 DOMAIN-SUFFIX, bdegnine.com
@@ -740,7 +741,18 @@ DOMAIN-SUFFIX, gogokid.com.cn
 DOMAIN-SUFFIX, gogokid.com
 
 # 皮皮虾
+DOMAIN-SUFFIX, hapierxia.com
+DOMAIN-SUFFIX, hapipixia.com
+DOMAIN-SUFFIX, hapiyixia.com
+DOMAIN-SUFFIX, kuailepipixia.com
 DOMAIN-SUFFIX, pipix.com
+DOMAIN-SUFFIX, pipixiaha.com
+DOMAIN-SUFFIX, piyipiba.com
+DOMAIN-SUFFIX, ppxhhh.com
+DOMAIN-SUFFIX, ppximg.com
+DOMAIN-SUFFIX, ppxstatic.com
+DOMAIN-SUFFIX, ppxvod.com
+DOMAIN-SUFFIX, xiaoxiaapi.com
 
 # faceu
 DOMAIN-SUFFIX, faceu.com
