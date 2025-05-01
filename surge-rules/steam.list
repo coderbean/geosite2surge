@@ -56,6 +56,9 @@ DOMAIN-SUFFIX, csgo.wmsj.cn
 DOMAIN-SUFFIX, dota2.wmsj.cn
 DOMAIN-SUFFIX, wmsjsteam.com
 
+# Steam更新
+DOMAIN-SUFFIX, client-update.queniuqe.com
+
 # 新流云
 DOMAIN-SUFFIX, dl.steam.clngaa.com
 

@@ -103,6 +103,7 @@ DOMAIN-SUFFIX, tongyi.aliyun.com
 DOMAIN-SUFFIX, qianwen.aliyun.com
 DOMAIN-SUFFIX, qwen.ai
 DOMAIN-SUFFIX, qwenlm.ai
+DOMAIN-SUFFIX, tongyi.com
 
 # 文心一言
 DOMAIN-SUFFIX, yiyan.baidu.com
@@ -2809,8 +2810,10 @@ DOMAIN-SUFFIX, yingjiesheng.com
 DOMAIN-SUFFIX, yingjiesheng.net
 DOMAIN-SUFFIX, zhiding.com.cn
 
+DOMAIN-SUFFIX, afdian.com
 DOMAIN-SUFFIX, afdian.net
 DOMAIN-SUFFIX, afdiancdn.com
+DOMAIN-SUFFIX, ifdian.net
 
 DOMAIN-SUFFIX, agora.io
 DOMAIN-SUFFIX, agoraio.cn
@@ -4866,6 +4869,7 @@ DOMAIN-SUFFIX, xiaojukeji.com
 DOMAIN-SUFFIX, dji.com
 DOMAIN-SUFFIX, dji.net
 DOMAIN-SUFFIX, djicdn.com
+DOMAIN-SUFFIX, djiits.com
 DOMAIN-SUFFIX, djiops.com
 DOMAIN-SUFFIX, djiservice.org
 DOMAIN-SUFFIX, skypixel.com
@@ -6441,6 +6445,7 @@ DOMAIN-SUFFIX, miui.com
 DOMAIN-SUFFIX, miwifi.com
 DOMAIN-SUFFIX, xiaomi.cn
 DOMAIN-SUFFIX, xiaomi.com
+DOMAIN-SUFFIX, xiaomi.eu
 DOMAIN-SUFFIX, xiaomi.net
 DOMAIN-SUFFIX, xiaomicp.com
 DOMAIN-SUFFIX, xiaomidns.cn
@@ -7501,6 +7506,7 @@ DOMAIN-SUFFIX, mokahr.com
 DOMAIN-SUFFIX, moleecel.com
 DOMAIN-SUFFIX, moocollege.com
 DOMAIN-SUFFIX, mop.com
+DOMAIN-SUFFIX, morefreegame.com # 京ICP备20006112号-2
 DOMAIN-SUFFIX, msanjia.com
 DOMAIN-SUFFIX, mscbsc.com
 DOMAIN-SUFFIX, mukewang.com

@@ -89,6 +89,7 @@ DOMAIN-SUFFIX, proxifier.com
 DOMAIN-SUFFIX, psiphon.ca
 DOMAIN-SUFFIX, psiphon3.com
 DOMAIN-SUFFIX, sagernet.org
+DOMAIN-SUFFIX, sing-box.app
 DOMAIN-SUFFIX, shadowsocks.org
 DOMAIN-SUFFIX, sspanel.net
 DOMAIN-SUFFIX, stunnel.org
@@ -104,4 +105,6 @@ DOMAIN-SUFFIX, whonix.org
 DOMAIN-SUFFIX, wikileaks.org
 DOMAIN-SUFFIX, wireguard.com
 DOMAIN-SUFFIX, xtls.github.io
+DOMAIN-SUFFIX, trojan-gfw.github.io
 DOMAIN-SUFFIX, zeronet.io
+DOMAIN-SUFFIX, metacubex.one
