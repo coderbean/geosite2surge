@@ -1522,6 +1522,9 @@ DOMAIN-SUFFIX, juequling.com
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
 
 
+DOMAIN-SUFFIX, mubi.com
+DOMAIN-SUFFIX, mubicdn.net
+
 DOMAIN-SUFFIX, biggggg.com
 DOMAIN-SUFFIX, mudvod.tv
 DOMAIN-SUFFIX, nbys.tv
