@@ -23,10 +23,6 @@ DOMAIN-SUFFIX, hdpt.xyz
 DOMAIN-SUFFIX, iptorrents.com
 DOMAIN-SUFFIX, jpopsuki.eu
 DOMAIN-SUFFIX, jptv.club
-DOMAIN-SUFFIX, lemonhd.org
-DOMAIN-SUFFIX, lemonhd.club
-DOMAIN-SUFFIX, lemonhd.net
-DOMAIN-SUFFIX, ilovelemonhd.me
 DOMAIN-SUFFIX, pttime.org
 DOMAIN-SUFFIX, pttime.top
 DOMAIN-SUFFIX, ianon.app
@@ -102,6 +98,43 @@ DOMAIN-SUFFIX, rainbowisland.co
 DOMAIN-SUFFIX, hdkyl.in
 DOMAIN-SUFFIX, hdkylin.top
 DOMAIN-SUFFIX, hdkylin.work
+
+# 好多油
+DOMAIN-SUFFIX, pt.hdupt.com
+DOMAIN-SUFFIX, pt.upxin.net
+
+# ubits 你堡
+DOMAIN-SUFFIX, ubits.club
+
+# UltraHD
+DOMAIN-SUFFIX, ultrahd.net
+
+# 咖啡
+DOMAIN-SUFFIX, ptcafe.club
+
+# 织匿名
+DOMAIN-SUFFIX, zmpt.cc
+
+# 冬樱
+DOMAIN-SUFFIX, wintersakura.net
+
+# 熊猫
+DOMAIN-SUFFIX, pandapt.net
+
+# 壹PT
+DOMAIN-SUFFIX, 1ptba.com
+
+# 冰激淋
+DOMAIN-SUFFIX, icc2022.com
+
+# 大青虫
+DOMAIN-SUFFIX, cyanbug.net
+
+# 柠檬PT
+DOMAIN-SUFFIX, ilovelemonhd.me
+DOMAIN-SUFFIX, lemonhd.club
+DOMAIN-SUFFIX, lemonhd.net
+DOMAIN-SUFFIX, lemonhd.org
 
 DOMAIN-SUFFIX, bitpt.cn
 DOMAIN-SUFFIX, hdchina.org

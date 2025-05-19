@@ -20,6 +20,18 @@ DOMAIN-SUFFIX, hupu.com
 DOMAIN-SUFFIX, hupucdn.com
 DOMAIN-SUFFIX, shihuo.cn
 
+# 美篇
+DOMAIN-SUFFIX, ivwen.com
+DOMAIN-SUFFIX, meipian.cn
+DOMAIN-SUFFIX, meipian.me
+
+# 即刻 沪ICP备15000478号
+DOMAIN-SUFFIX, jike.city
+DOMAIN-SUFFIX, jikecdn.com
+DOMAIN-SUFFIX, okjike.com
+DOMAIN-SUFFIX, okjk.co
+DOMAIN-SUFFIX, ruguoapp.com
+
 DOMAIN-SUFFIX, 2016.sina.cn
 DOMAIN-SUFFIX, ad.sina.com.cn
 DOMAIN-SUFFIX, adbox.sina.com.cn

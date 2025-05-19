@@ -1,0 +1,73 @@
+# Electronic store/company's website with access point in China
+
+# Analog
+DOMAIN-SUFFIX, analog.com
+
+# 艾睿电子
+DOMAIN-SUFFIX, arrow.cn
+
+# 博流智能
+DOMAIN-SUFFIX, bouffalolab.com
+
+# 乐鑫信息科技
+DOMAIN-SUFFIX, esp8266.cn
+DOMAIN-SUFFIX, esp8266.com
+DOMAIN-SUFFIX, esp8266.com.cn
+DOMAIN-SUFFIX, espressif.cn
+DOMAIN-SUFFIX, espressif.com
+DOMAIN-SUFFIX, espressif.com.cn
+
+# 华秋电子
+DOMAIN-SUFFIX, eda.cn
+DOMAIN-SUFFIX, elecfans.com
+DOMAIN-SUFFIX, hqchip.com
+DOMAIN-SUFFIX, hqdoc.com
+DOMAIN-SUFFIX, hqpcb.com
+
+# 英飞凌
+DOMAIN-SUFFIX, infineon.com
+
+# 嘉立创集团
+DOMAIN-SUFFIX, forface3d.com
+DOMAIN-SUFFIX, jlcfa.com
+DOMAIN-SUFFIX, jlcgroup.cn
+DOMAIN-SUFFIX, jlc-3dp.cn
+DOMAIN-SUFFIX, jlc-bbs.com
+DOMAIN-SUFFIX, jlc-cnc.com
+DOMAIN-SUFFIX, jlc-dfm.com
+DOMAIN-SUFFIX, jlc-drm.com
+DOMAIN-SUFFIX, jlc-fpc.com
+DOMAIN-SUFFIX, jlc-gw.com
+DOMAIN-SUFFIX, jlc-smt.com
+DOMAIN-SUFFIX, jlc-layout.com
+DOMAIN-SUFFIX, jlc-zh.com
+DOMAIN-SUFFIX, oshwhub.com
+DOMAIN-SUFFIX, szlcsc.com
+DOMAIN-SUFFIX, sz-jlc.com
+DOMAIN-SUFFIX, zxhgroup.com
+
+# 移远通信
+DOMAIN-SUFFIX, quecmall.cn
+DOMAIN-SUFFIX, quectel.com.cn
+DOMAIN-SUFFIX, iotronic.tech
+
+# 瑞芯微电子
+DOMAIN-SUFFIX, rock-chips.com
+
+# 矽递科技
+DOMAIN-SUFFIX, seeed.cn
+DOMAIN-SUFFIX, seeed.cc
+DOMAIN-SUFFIX, seeed.com.cn
+DOMAIN-SUFFIX, seeedstudio.com.cn
+
+# 矽速科技
+DOMAIN-SUFFIX, sipeed.com
+DOMAIN-SUFFIX, maixhub.com
+
+# 德州仪器
+DOMAIN-SUFFIX, ti.com
+DOMAIN-SUFFIX, ti.com.cn
+
+# 沁恒微电子
+DOMAIN-SUFFIX, wch.cn
+DOMAIN-SUFFIX, wch-ic.com

@@ -99,6 +99,9 @@ DOMAIN-SUFFIX, huobitoken.com
 DOMAIN-SUFFIX, kraken.com
 DOMAIN-SUFFIX, kraken.onl
 
+DOMAIN-SUFFIX, kucoin.com
+DOMAIN-SUFFIX, kucoin.plus
+
 DOMAIN-SUFFIX, localbitcoins.com
 DOMAIN-SUFFIX, localbitcoinschain.com
 
@@ -120,6 +123,14 @@ DOMAIN-SUFFIX, onekeycn.com
 
 DOMAIN, onekey.zendesk.com
 
+DOMAIN-SUFFIX, redotpay.com
+DOMAIN-SUFFIX, redotpay.zendesk.com
+DOMAIN-SUFFIX, pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX, xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX, rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+
+DOMAIN-SUFFIX, trustwallet.com
+
 DOMAIN-SUFFIX, wisecoin.com
 DOMAIN-SUFFIX, wiseid.com
 DOMAIN-SUFFIX, wisekey.com
@@ -132,15 +143,6 @@ DOMAIN-SUFFIX, zb.app
 DOMAIN-SUFFIX, zb.com
 DOMAIN-SUFFIX, zb.io
 DOMAIN-SUFFIX, zb.live
-
-DOMAIN-SUFFIX, kucoin.com
-DOMAIN-SUFFIX, kucoin.plus
-
-DOMAIN-SUFFIX, redotpay.com
-DOMAIN-SUFFIX, redotpay.zendesk.com
-DOMAIN-SUFFIX, pod-15-sunco-ws.zendesk.com
-DOMAIN-SUFFIX, xhpjc6-cdn-settings.appsflyersdk.com
-DOMAIN-SUFFIX, rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 
 
 DOMAIN-SUFFIX, 1inch.io

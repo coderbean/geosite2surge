@@ -23,6 +23,7 @@ DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
 DOMAIN, ai.google.dev
 DOMAIN, alkalicore-pa.clients6.google.com
 DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN, webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX, generativeai.google
 DOMAIN-SUFFIX, makersuite.google.com
 
@@ -79,6 +80,10 @@ DOMAIN-SUFFIX, cursor.com
 DOMAIN-SUFFIX, cursor.sh
 DOMAIN-SUFFIX, cursorapi.com
 
+
+# CodeRabbit
+DOMAIN-SUFFIX, coderabbit.ai
+DOMAIN-SUFFIX, coderabbit.gallery.vsassets.io
 
 # Jasper
 DOMAIN-SUFFIX, clipdrop.co
@@ -1576,6 +1581,19 @@ DOMAIN-SUFFIX, hsbc.ca
 DOMAIN-SUFFIX, hsbc.co.jp
 DOMAIN-SUFFIX, hsbc.fr
 DOMAIN-SUFFIX, hsbctrinkaus.de
+
+DOMAIN-SUFFIX, ibkr.com
+DOMAIN-SUFFIX, ibllc.com
+DOMAIN-SUFFIX, interactivebrokers.ca
+DOMAIN-SUFFIX, interactivebrokers.co.in
+DOMAIN-SUFFIX, interactivebrokers.co.jp
+DOMAIN-SUFFIX, interactivebrokers.co.uk
+DOMAIN-SUFFIX, interactivebrokers.com
+DOMAIN-SUFFIX, interactivebrokers.com.au
+DOMAIN-SUFFIX, interactivebrokers.com.hk
+DOMAIN-SUFFIX, interactivebrokers.com.sg
+DOMAIN-SUFFIX, interactivebrokers.eu
+DOMAIN-SUFFIX, interactivebrokers.ie
 
 DOMAIN-SUFFIX, fsmone.com
 DOMAIN-SUFFIX, fsmone.com.hk
@@ -3252,6 +3270,9 @@ DOMAIN-SUFFIX, huobitoken.com
 DOMAIN-SUFFIX, kraken.com
 DOMAIN-SUFFIX, kraken.onl
 
+DOMAIN-SUFFIX, kucoin.com
+DOMAIN-SUFFIX, kucoin.plus
+
 DOMAIN-SUFFIX, localbitcoins.com
 DOMAIN-SUFFIX, localbitcoinschain.com
 
@@ -3273,6 +3294,14 @@ DOMAIN-SUFFIX, onekeycn.com
 
 DOMAIN, onekey.zendesk.com
 
+DOMAIN-SUFFIX, redotpay.com
+DOMAIN-SUFFIX, redotpay.zendesk.com
+DOMAIN-SUFFIX, pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX, xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX, rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+
+DOMAIN-SUFFIX, trustwallet.com
+
 DOMAIN-SUFFIX, wisecoin.com
 DOMAIN-SUFFIX, wiseid.com
 DOMAIN-SUFFIX, wisekey.com
@@ -3285,15 +3314,6 @@ DOMAIN-SUFFIX, zb.app
 DOMAIN-SUFFIX, zb.com
 DOMAIN-SUFFIX, zb.io
 DOMAIN-SUFFIX, zb.live
-
-DOMAIN-SUFFIX, kucoin.com
-DOMAIN-SUFFIX, kucoin.plus
-
-DOMAIN-SUFFIX, redotpay.com
-DOMAIN-SUFFIX, redotpay.zendesk.com
-DOMAIN-SUFFIX, pod-15-sunco-ws.zendesk.com
-DOMAIN-SUFFIX, xhpjc6-cdn-settings.appsflyersdk.com
-DOMAIN-SUFFIX, rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 
 
 DOMAIN-SUFFIX, 1inch.io
@@ -10208,6 +10228,7 @@ DOMAIN-SUFFIX, 1lib.education
 DOMAIN-SUFFIX, 1lib.eu
 DOMAIN-SUFFIX, 1lib.limited
 DOMAIN-SUFFIX, 1lib.pl
+DOMAIN-SUFFIX, 1lib.sk
 DOMAIN-SUFFIX, 1lib.to
 DOMAIN-SUFFIX, 1lib.tw
 DOMAIN-SUFFIX, 2lib.org
@@ -10238,7 +10259,11 @@ DOMAIN-SUFFIX, singlelogin.app
 DOMAIN-SUFFIX, singlelogin.me
 DOMAIN-SUFFIX, singlelogin.re
 DOMAIN-SUFFIX, singlelogin.site
+DOMAIN-SUFFIX, z-lib.fm
+DOMAIN-SUFFIX, z-lib.gd
+DOMAIN-SUFFIX, z-lib.gl
 DOMAIN-SUFFIX, z-lib.org
+DOMAIN-SUFFIX, z-library.sk
 DOMAIN-SUFFIX, z-library.se
 DOMAIN-SUFFIX, zlib.life
 DOMAIN-SUFFIX, zlibcdn.com
@@ -22967,6 +22992,10 @@ DOMAIN-SUFFIX, dotdeb.org
 DOMAIN-SUFFIX, compose-spec.io
 DOMAIN-SUFFIX, docker.com
 DOMAIN-SUFFIX, docker.io
+DOMAIN-SUFFIX, dockerstatic.com
+
+DOMAIN, docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+DOMAIN, docker-pinata-support.s3.amazonaws.com
 
 DOMAIN-SUFFIX, embed.ly
 DOMAIN-SUFFIX, embedly.com
@@ -27561,6 +27590,7 @@ DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
 DOMAIN, ai.google.dev
 DOMAIN, alkalicore-pa.clients6.google.com
 DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN, webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX, generativeai.google
 DOMAIN-SUFFIX, makersuite.google.com
 
@@ -27584,6 +27614,7 @@ DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
 DOMAIN, ai.google.dev
 DOMAIN, alkalicore-pa.clients6.google.com
 DOMAIN, alkalimakersuite-pa.clients6.google.com
+DOMAIN, webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX, generativeai.google
 DOMAIN-SUFFIX, makersuite.google.com
 
@@ -28859,6 +28890,7 @@ DOMAIN-SUFFIX, s-bluemix.net
 DOMAIN-SUFFIX, s81c.com
 
 DOMAIN-SUFFIX, ibkr.com
+DOMAIN-SUFFIX, ibllc.com
 DOMAIN-SUFFIX, interactivebrokers.ca
 DOMAIN-SUFFIX, interactivebrokers.co.in
 DOMAIN-SUFFIX, interactivebrokers.co.jp
@@ -30025,6 +30057,8 @@ DOMAIN-SUFFIX, cn.bing.com
 DOMAIN-SUFFIX, cn.bing.net
 DOMAIN-SUFFIX, cn.mm.bing.net
 DOMAIN-SUFFIX, ditu.live.com
+DOMAIN-SUFFIX, r.bing.com
+DOMAIN-SUFFIX, th.bing.com
 DOMAIN, bj1.api.bing.com
 DOMAIN, emoi-cncdn.bing.com
 
@@ -31303,6 +31337,21 @@ DOMAIN-SUFFIX, synologyupdate.com
 
 DOMAIN-SUFFIX, quickconnect.cn
 DOMAIN-SUFFIX, synology.cn
+
+# Synology DDNS
+DOMAIN-SUFFIX, diskstation.me
+DOMAIN-SUFFIX, dscloud.biz
+DOMAIN-SUFFIX, dscloud.me
+DOMAIN-SUFFIX, dscloud.mobi
+DOMAIN-SUFFIX, dsmynas.com
+DOMAIN-SUFFIX, dsmynas.net
+DOMAIN-SUFFIX, dsmynas.org
+DOMAIN-SUFFIX, familyds.com
+DOMAIN-SUFFIX, familyds.net
+DOMAIN-SUFFIX, familyds.org
+DOMAIN-SUFFIX, i234.me
+DOMAIN-SUFFIX, myds.me
+DOMAIN-SUFFIX, synology.me
 
 DOMAIN-SUFFIX, symantec.com
 

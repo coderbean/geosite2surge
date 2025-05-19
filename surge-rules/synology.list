@@ -6,3 +6,18 @@ DOMAIN-SUFFIX, synologyupdate.com
 
 DOMAIN-SUFFIX, quickconnect.cn
 DOMAIN-SUFFIX, synology.cn
+
+# Synology DDNS
+DOMAIN-SUFFIX, diskstation.me
+DOMAIN-SUFFIX, dscloud.biz
+DOMAIN-SUFFIX, dscloud.me
+DOMAIN-SUFFIX, dscloud.mobi
+DOMAIN-SUFFIX, dsmynas.com
+DOMAIN-SUFFIX, dsmynas.net
+DOMAIN-SUFFIX, dsmynas.org
+DOMAIN-SUFFIX, familyds.com
+DOMAIN-SUFFIX, familyds.net
+DOMAIN-SUFFIX, familyds.org
+DOMAIN-SUFFIX, i234.me
+DOMAIN-SUFFIX, myds.me
+DOMAIN-SUFFIX, synology.me
