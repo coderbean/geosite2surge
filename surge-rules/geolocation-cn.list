@@ -1339,11 +1339,13 @@ DOMAIN-SUFFIX, yizhitou.com
 DOMAIN-SUFFIX, duolabao.com
 
 DOMAIN-SUFFIX, ads.union.jd.com
+DOMAIN-SUFFIX, ads-union.jd.com
 DOMAIN-SUFFIX, c-nfa.jd.com
 DOMAIN-SUFFIX, cps.360buy.com
+DOMAIN-SUFFIX, gia.jd.com
+DOMAIN-SUFFIX, img-x.jd.com
 DOMAIN-SUFFIX, jzt.jd.com
 DOMAIN-SUFFIX, stat.m.jd.com
-DOMAIN-SUFFIX, img-x.jd.com
 
 
 DOMAIN-SUFFIX, lianjia.com
@@ -1720,6 +1722,12 @@ DOMAIN, rtlog3-applog-hl.fqnovel.com
 DOMAIN, rtlog5-applog-hl.fqnovel.com
 
 DOMAIN-SUFFIX, gamersky.com
+
+DOMAIN-SUFFIX, click.gamersky.com
+DOMAIN-SUFFIX, ja.gamersky.com
+DOMAIN-SUFFIX, ja1.gamersky.com
+DOMAIN-SUFFIX, ja2.gamersky.com
+DOMAIN-SUFFIX, wmbd.gamersky.com
 
 DOMAIN-SUFFIX, gcores.com
 
@@ -3816,6 +3824,7 @@ DOMAIN-SUFFIX, aliyundrive.net
 
 # 盒马
 DOMAIN-SUFFIX, freshhema.com
+DOMAIN-SUFFIX, freshippo.com
 DOMAIN-SUFFIX, hemamax.com
 DOMAIN-SUFFIX, hemaos.com
 DOMAIN-SUFFIX, hemashare.cn
@@ -6646,6 +6655,8 @@ DOMAIN-SUFFIX, 10086.cn
 DOMAIN-SUFFIX, 139.com
 DOMAIN-SUFFIX, chinamobile.com
 DOMAIN-SUFFIX, chinamobileltd.com
+DOMAIN-SUFFIX, speedtest.hk.chinamobile.com
+DOMAIN-SUFFIX, speedtestbb.hk.chinamobile.com
 
 # Migu
 DOMAIN-SUFFIX, migucloud.com
@@ -6689,8 +6700,6 @@ DOMAIN-SUFFIX, chinaunicom.com.hk
 DOMAIN-SUFFIX, chinaunicomglobal.com
 DOMAIN-SUFFIX, cuniq.com
 DOMAIN-SUFFIX, mychinaunicom.com
-DOMAIN-SUFFIX, speedtest.hk.chinamobile.com
-DOMAIN-SUFFIX, speedtestbb.hk.chinamobile.com
 DOMAIN-SUFFIX, wo.cn
 DOMAIN-SUFFIX, wo.com.cn
 DOMAIN-SUFFIX, wo116114.com

@@ -12803,6 +12803,9 @@ DOMAIN-SUFFIX, hkgolden.media
 DOMAIN-SUFFIX, lih.kg
 DOMAIN-SUFFIX, lihkg.com
 
+DOMAIN-SUFFIX, linux.do
+DOMAIN-SUFFIX, ldstatic.com
+
 DOMAIN-SUFFIX, 5i01.com
 DOMAIN-SUFFIX, mobile01.com
 
@@ -12853,8 +12856,15 @@ DOMAIN-SUFFIX, rutrk.org
 DOMAIN-SUFFIX, soyjak.party
 DOMAIN-SUFFIX, soyjak.st
 
+DOMAIN-SUFFIX, xda-cdn.com
+DOMAIN-SUFFIX, xda-developers.com
+DOMAIN-SUFFIX, xdaforums.com
+DOMAIN-SUFFIX, xdaimages.com
+
 DOMAIN-SUFFIX, yamibo.com
 
+
+DOMAIN, bbs.boingboing.net
 
 DOMAIN-SUFFIX, 18p2p.com
 DOMAIN-SUFFIX, 8chan.moe
@@ -23443,11 +23453,6 @@ DOMAIN-SUFFIX, v8project.org
 
 DOMAIN-SUFFIX, vim.org
 
-DOMAIN-SUFFIX, xda-cdn.com
-DOMAIN-SUFFIX, xda-developers.com
-DOMAIN-SUFFIX, xdaforums.com
-DOMAIN-SUFFIX, xdaimages.com
-
 
 DOMAIN-SUFFIX, adventofcode.com
 DOMAIN-SUFFIX, alpinelinux.org
@@ -30336,6 +30341,7 @@ DOMAIN-SUFFIX, c-msedge.net
 DOMAIN-SUFFIX, centralvalidation.com
 DOMAIN-SUFFIX, ch9.ms
 DOMAIN-SUFFIX, charticulator.com
+DOMAIN-SUFFIX, clarity.ms
 DOMAIN-SUFFIX, cloudapp.net
 DOMAIN-SUFFIX, cloudappsecurity.com
 DOMAIN-SUFFIX, cortanaanalytics.com
@@ -30454,6 +30460,7 @@ DOMAIN-SUFFIX, msft.net
 DOMAIN-SUFFIX, msftauth.cn
 DOMAIN-SUFFIX, msftauth.net
 DOMAIN-SUFFIX, msftauthimages.cn
+DOMAIN-SUFFIX, msftauthimages.net
 DOMAIN-SUFFIX, msftconnecttest.com
 DOMAIN-SUFFIX, msfteducation.ca
 DOMAIN-SUFFIX, msftncsi.com
@@ -31139,6 +31146,7 @@ DOMAIN-SUFFIX, galaxymobile.jp
 DOMAIN-SUFFIX, game-platform.net
 DOMAIN-SUFFIX, knoxemm.com
 DOMAIN-SUFFIX, samsung.com
+DOMAIN-SUFFIX, samsungads.com
 DOMAIN-SUFFIX, samsungapps.com
 DOMAIN-SUFFIX, samsungcloud.com
 DOMAIN-SUFFIX, samsungdm.com

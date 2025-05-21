@@ -422,11 +422,13 @@ DOMAIN-SUFFIX, policy.video.iqiyi.com
 DOMAIN-SUFFIX, yuedu.iqiyi.com
 
 DOMAIN-SUFFIX, ads.union.jd.com
+DOMAIN-SUFFIX, ads-union.jd.com
 DOMAIN-SUFFIX, c-nfa.jd.com
 DOMAIN-SUFFIX, cps.360buy.com
+DOMAIN-SUFFIX, gia.jd.com
+DOMAIN-SUFFIX, img-x.jd.com
 DOMAIN-SUFFIX, jzt.jd.com
 DOMAIN-SUFFIX, stat.m.jd.com
-DOMAIN-SUFFIX, img-x.jd.com
 
 DOMAIN-SUFFIX, adbkwai.com
 DOMAIN-SUFFIX, adkwai.com
@@ -792,7 +794,6 @@ DOMAIN-SUFFIX, img-bss.csdn.net
 DOMAIN-SUFFIX, imglnkc.com
 DOMAIN-SUFFIX, imglnkd.com
 DOMAIN-SUFFIX, innovid.com
-DOMAIN-SUFFIX, ja2.gamersky.com
 DOMAIN-SUFFIX, jads.co
 DOMAIN-SUFFIX, jl3.yjaxa.top
 DOMAIN-SUFFIX, juicyads.com

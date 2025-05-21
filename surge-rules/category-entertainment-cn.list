@@ -221,6 +221,12 @@ DOMAIN, rtlog5-applog-hl.fqnovel.com
 
 DOMAIN-SUFFIX, gamersky.com
 
+DOMAIN-SUFFIX, click.gamersky.com
+DOMAIN-SUFFIX, ja.gamersky.com
+DOMAIN-SUFFIX, ja1.gamersky.com
+DOMAIN-SUFFIX, ja2.gamersky.com
+DOMAIN-SUFFIX, wmbd.gamersky.com
+
 DOMAIN-SUFFIX, gcores.com
 
 DOMAIN-SUFFIX, gitv.cn

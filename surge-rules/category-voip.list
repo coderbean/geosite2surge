@@ -1,0 +1,12 @@
+# imported from https://github.com/mottzz87/crules/blob/3e9cabc9f59c40ef8ac9773dda38dd9985b90dae/rule/talkatone.list
+# credit to
+DOMAIN-SUFFIX, agkn.com
+DOMAIN-SUFFIX, cohere.com
+DOMAIN-SUFFIX, inmobi.com
+DOMAIN-SUFFIX, ip-api.com
+DOMAIN-SUFFIX, kochava.com
+DOMAIN-SUFFIX, mobilefuse.com
+DOMAIN-SUFFIX, talkatone.com
+DOMAIN-SUFFIX, tktn.at
+DOMAIN-SUFFIX, tktn.be
+
