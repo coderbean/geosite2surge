@@ -1937,6 +1937,14 @@ DOMAIN-SUFFIX, u17t.com
 
 DOMAIN-SUFFIX, vgtime.com
 
+# vr中文库
+DOMAIN-SUFFIX, vrzwk.cn
+
+# quest助手文件下载
+DOMAIN-SUFFIX, vrzwk.com
+DOMAIN-SUFFIX, vrzwk.net
+DOMAIN-SUFFIX, vrzwk.top
+
 # 华数传媒
 DOMAIN-SUFFIX, aichongzoo.cn
 DOMAIN-SUFFIX, hzdtv.tv
