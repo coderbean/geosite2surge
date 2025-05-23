@@ -1083,9 +1083,17 @@ DOMAIN-SUFFIX, tieyou.com
 DOMAIN-SUFFIX, toptown.cn
 DOMAIN-SUFFIX, toursbms.com
 DOMAIN-SUFFIX, trip.com
+DOMAIN-SUFFIX, vipdlt.com
+
+DOMAIN-SUFFIX, ak-p.tripcdn.com
+DOMAIN-SUFFIX, ak-s-cw.tripcdn.com
+DOMAIN-SUFFIX, ak-s.tripcdn.com
+DOMAIN-SUFFIX, akatest.tripcdn.com
+DOMAIN-SUFFIX, aw-d.tripcdn.com
+DOMAIN-SUFFIX, aw-p.tripcdn.com
+DOMAIN-SUFFIX, aw-s.tripcdn.com
 DOMAIN-SUFFIX, tripcdn.cn
 DOMAIN-SUFFIX, tripcdn.com
-DOMAIN-SUFFIX, vipdlt.com
 
 # qunar
 DOMAIN-SUFFIX, qunar.com
