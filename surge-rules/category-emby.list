@@ -164,7 +164,7 @@ DOMAIN-SUFFIX, loseremby.org
 DOMAIN, cc.ccemby.tk
 
 # Nebula
-DOMAIN, direct.nebula-emby.com
+DOMAIN-SUFFIX, nebula-emby.com
 
 # 狂热云
 DOMAIN-SUFFIX, feverss.cloud
@@ -179,3 +179,6 @@ DOMAIN-SUFFIX, media-1.co.uk
 DOMAIN-SUFFIX, sptv.ii00.cc
 DOMAIN-SUFFIX, sgtv.ii00.cc
 DOMAIN-SUFFIX, cn-music.mefun.vip
+
+# 红杏云
+DOMAIN-SUFFIX, hongxingyunmovie.vip

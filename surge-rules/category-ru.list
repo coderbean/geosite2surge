@@ -174,8 +174,10 @@ DOMAIN-SUFFIX, ozon.ru
 DOMAIN-SUFFIX, ozone.ru
 DOMAIN-SUFFIX, ozonusercontent.com
 
+DOMAIN-SUFFIX, mradx.net
 DOMAIN-SUFFIX, mvk.com
 DOMAIN-SUFFIX, userapi.com
+DOMAIN-SUFFIX, vk-analytics.ru
 DOMAIN-SUFFIX, vk-apps.com
 DOMAIN-SUFFIX, vk-apps.ru
 DOMAIN-SUFFIX, vk-cdn.me
@@ -214,7 +216,10 @@ DOMAIN-SUFFIX, yandex
 DOMAIN-SUFFIX, xn--d1acpjx3f.xn--p1ai
 
 DOMAIN-SUFFIX, dzen.ru
+DOMAIN-SUFFIX, rostaxi.org
 DOMAIN-SUFFIX, ya.ru
+DOMAIN-SUFFIX, yandex-bank.net
+DOMAIN-SUFFIX, yandex-images.clstorage.net
 DOMAIN-SUFFIX, yandex.aero
 DOMAIN-SUFFIX, yandex.az
 DOMAIN-SUFFIX, yandex.by
@@ -246,6 +251,9 @@ DOMAIN-SUFFIX, yandex.tj
 DOMAIN-SUFFIX, yandex.tm
 DOMAIN-SUFFIX, yandex.ua
 DOMAIN-SUFFIX, yandex.uz
+DOMAIN-SUFFIX, yandexadexchange.net
 DOMAIN-SUFFIX, yandexcloud.net
+DOMAIN-SUFFIX, yandexcom.net
+DOMAIN-SUFFIX, yandexwebcache.org
 DOMAIN-SUFFIX, yastatic.net
 

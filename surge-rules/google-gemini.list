@@ -22,3 +22,11 @@ DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google
 DOMAIN-SUFFIX, gemini.google.com
 
+# NotebookLM
+DOMAIN-SUFFIX, notebooklm.google
+DOMAIN-SUFFIX, notebooklm.google.com
+
+# Jules
+DOMAIN-SUFFIX, jules.google
+DOMAIN-SUFFIX, jules.google.com
+

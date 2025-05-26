@@ -5,8 +5,6 @@ DOMAIN-SUFFIX, claudeusercontent.com
 # CDN
 DOMAIN, servd-anthropic-website.b-cdn.net
 
-# This list is for backward compatibility
-
 # Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google
@@ -29,6 +27,13 @@ DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google
 DOMAIN-SUFFIX, gemini.google.com
 
+# NotebookLM
+DOMAIN-SUFFIX, notebooklm.google
+DOMAIN-SUFFIX, notebooklm.google.com
+
+# Jules
+DOMAIN-SUFFIX, jules.google
+DOMAIN-SUFFIX, jules.google.com
 
 DOMAIN-SUFFIX, groq.com
 
@@ -85,10 +90,6 @@ DOMAIN-SUFFIX, coderabbit.gallery.vsassets.io
 # Jasper
 DOMAIN-SUFFIX, clipdrop.co
 DOMAIN-SUFFIX, jasper.ai
-
-# NotebookLM
-DOMAIN-SUFFIX, notebooklm.google
-DOMAIN-SUFFIX, notebooklm.google.com
 
 DOMAIN-SUFFIX, chutes.ai
 DOMAIN-SUFFIX, dify.ai

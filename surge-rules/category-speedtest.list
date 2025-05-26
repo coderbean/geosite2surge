@@ -15,6 +15,9 @@ DOMAIN, www.speedtest.net.cdn.cloudflare.net
 URL-REGEX, ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 
 
+DOMAIN-SUFFIX, open.cachefly.net
+DOMAIN-SUFFIX, openspeedtest.com
+
 
 DOMAIN-SUFFIX, cnspeedtest.cn
 DOMAIN-SUFFIX, fast.com

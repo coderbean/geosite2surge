@@ -193,6 +193,14 @@ DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google
 DOMAIN-SUFFIX, gemini.google.com
 
+# NotebookLM
+DOMAIN-SUFFIX, notebooklm.google
+DOMAIN-SUFFIX, notebooklm.google.com
+
+# Jules
+DOMAIN-SUFFIX, jules.google
+DOMAIN-SUFFIX, jules.google.com
+
 # This list is for backward compatibility
 
 # Google DeepMind
@@ -216,6 +224,14 @@ DOMAIN-SUFFIX, aistudio.google.com
 DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google
 DOMAIN-SUFFIX, gemini.google.com
+
+# NotebookLM
+DOMAIN-SUFFIX, notebooklm.google
+DOMAIN-SUFFIX, notebooklm.google.com
+
+# Jules
+DOMAIN-SUFFIX, jules.google
+DOMAIN-SUFFIX, jules.google.com
 
 
 DOMAIN-SUFFIX, googleplay.com

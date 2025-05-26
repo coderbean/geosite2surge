@@ -116,6 +116,7 @@ DOMAIN-SUFFIX, doubao.com
 DOMAIN-SUFFIX, marscode.cn
 
 # 智谱清言
+DOMAIN-SUFFIX, bigmodel.cn
 DOMAIN-SUFFIX, chatglm.cn
 DOMAIN-SUFFIX, zhipuai.cn
 
@@ -2054,6 +2055,9 @@ DOMAIN-SUFFIX, forevernine.com
 DOMAIN-SUFFIX, tgpro.top
 DOMAIN-SUFFIX, tgprocs.net
 
+# B站空降助手 鲁ICP备2024098956号-1
+DOMAIN-SUFFIX, bsbsb.top
+
 DOMAIN-SUFFIX, ledu.com
 DOMAIN-SUFFIX, pearvideo.com
 DOMAIN-SUFFIX, wo1wan.com
@@ -2182,10 +2186,10 @@ DOMAIN-SUFFIX, right.com.cn # 恩山论坛
 DOMAIN-SUFFIX, uiwow.com # 魔兽有爱论坛
 DOMAIN-SUFFIX, wuyou.net # 无忧启动论坛
 
-DOMAIN-SUFFIX, upe.net # 优启通官网（IT天空）
-
 DOMAIN-SUFFIX, 423down.com # 423Down
 DOMAIN-SUFFIX, ghxi.com # 果核剥壳
+DOMAIN-SUFFIX, moyubuluo.com # 墨鱼部落格 鲁ICP备16022801号-9
+DOMAIN-SUFFIX, upe.net # 优启通官网（IT天空）
 DOMAIN-SUFFIX, winos.me # WINOS 精简社区
 
 # Media & News & Press
@@ -3014,6 +3018,9 @@ DOMAIN-SUFFIX, ntp.neu.edu.cn
 DOMAIN-SUFFIX, ntp.ntsc.ac.cn
 DOMAIN-SUFFIX, ntp.org.cn
 
+DOMAIN-SUFFIX, mihuashi.com
+
+
 DOMAIN-SUFFIX, capitalonline.net
 DOMAIN-SUFFIX, mirrors.yun-idc.com
 
@@ -3211,8 +3218,6 @@ DOMAIN-SUFFIX, bosszhipin.com
 
 DOMAIN-SUFFIX, zhaopin.cn # 智联招聘
 DOMAIN-SUFFIX, moseeker.com # 仟寻招聘
-
-DOMAIN-SUFFIX, mihuashi.com # 米畫師
 
 
 # Social Media
