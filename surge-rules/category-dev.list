@@ -6,6 +6,8 @@ DOMAIN-SUFFIX, conda.io
 DOMAIN-SUFFIX, android.com
 DOMAIN-SUFFIX, androidify.com
 
+DOMAIN, android.googlesource.com
+
 DOMAIN-SUFFIX, appleswift.com
 DOMAIN-SUFFIX, swift.org
 DOMAIN-SUFFIX, swiftui.cn

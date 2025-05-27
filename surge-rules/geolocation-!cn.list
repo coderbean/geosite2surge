@@ -22891,6 +22891,8 @@ DOMAIN-SUFFIX, conda.io
 DOMAIN-SUFFIX, android.com
 DOMAIN-SUFFIX, androidify.com
 
+DOMAIN, android.googlesource.com
+
 DOMAIN-SUFFIX, appleswift.com
 DOMAIN-SUFFIX, swift.org
 DOMAIN-SUFFIX, swiftui.cn
@@ -27432,6 +27434,8 @@ DOMAIN-SUFFIX, godaddy
 # List of all domains being operated by Google Inc.
 DOMAIN-SUFFIX, android.com
 DOMAIN-SUFFIX, androidify.com
+
+DOMAIN, android.googlesource.com
 
 # Main domain which weblogs are registered in
 DOMAIN-SUFFIX, blogger.com

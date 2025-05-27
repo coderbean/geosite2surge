@@ -3862,6 +3862,8 @@ DOMAIN-SUFFIX, godaddy
 DOMAIN-SUFFIX, android.com
 DOMAIN-SUFFIX, androidify.com
 
+DOMAIN, android.googlesource.com
+
 # Main domain which weblogs are registered in
 DOMAIN-SUFFIX, blogger.com
 DOMAIN-SUFFIX, blogblog.com
