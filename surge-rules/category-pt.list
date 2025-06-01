@@ -137,11 +137,16 @@ DOMAIN-SUFFIX, lemonhd.club
 DOMAIN-SUFFIX, lemonhd.net
 DOMAIN-SUFFIX, lemonhd.org
 
+# 备胎
+DOMAIN-SUFFIX, beitai.pt
+
 DOMAIN-SUFFIX, bitpt.cn
+DOMAIN-SUFFIX, hdarea.club
 DOMAIN-SUFFIX, hdchina.org
 DOMAIN-SUFFIX, hdcmct.org
 DOMAIN-SUFFIX, hdhome.org
 DOMAIN-SUFFIX, hdsky.me
+DOMAIN-SUFFIX, hdzone.me
 DOMAIN-SUFFIX, hitpt.com
 DOMAIN-SUFFIX, hudbt.hust.edu.cn
 DOMAIN-SUFFIX, keepfrds.com

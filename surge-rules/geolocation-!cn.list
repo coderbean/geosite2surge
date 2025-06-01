@@ -1637,6 +1637,10 @@ DOMAIN-SUFFIX, yomabank.com
 DOMAIN-SUFFIX, ysx-mm.com
 
 
+DOMAIN-SUFFIX, fibank.bg
+DOMAIN-SUFFIX, meawallet.app
+DOMAIN-SUFFIX, myfin.bg
+
 # TLD
 DOMAIN-SUFFIX, hsbc
 
