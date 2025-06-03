@@ -1,3 +1,8 @@
+DOMAIN-SUFFIX, asobostudio.com
+DOMAIN-SUFFIX, flightsimulator.com
+
+DOMAIN, flightsimulator.azureedge.net
+
 DOMAIN-SUFFIX, beth.games
 DOMAIN-SUFFIX, bethesda.net
 DOMAIN-SUFFIX, bethesdagamestudios.com
@@ -8,6 +13,13 @@ DOMAIN-SUFFIX, doom.com
 
 # The Elder Scrolls
 DOMAIN-SUFFIX, elderscrolls.com
+
+DOMAIN-SUFFIX, forza.net
+DOMAIN-SUFFIX, forzamotorsport.net
+DOMAIN-SUFFIX, forzaracingchampionship.com
+DOMAIN-SUFFIX, forzarc.com
+
+DOMAIN, prodforza.blob.core.windows.net
 
 DOMAIN-SUFFIX, callersbane.com
 DOMAIN-SUFFIX, minecraft-services.net
@@ -20,9 +32,6 @@ DOMAIN-SUFFIX, mojang.com
 # All .xbox domains
 DOMAIN-SUFFIX, xbox
 
-DOMAIN-SUFFIX, forzamotorsport.net
-DOMAIN-SUFFIX, forzaracingchampionship.com
-DOMAIN-SUFFIX, forzarc.com
 DOMAIN-SUFFIX, gamepass.com
 DOMAIN-SUFFIX, orithegame.com
 DOMAIN-SUFFIX, renovacionxboxlive.com
