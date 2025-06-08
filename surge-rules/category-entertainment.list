@@ -1,122 +1,9 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
-DOMAIN-SUFFIX, abema.io
-DOMAIN-SUFFIX, abema.tv
-DOMAIN-SUFFIX, abema-tv.com
-DOMAIN-SUFFIX, abematv.co.jp
-DOMAIN-SUFFIX, adx.promo
-DOMAIN-SUFFIX, ameba.jp
-DOMAIN-SUFFIX, amebame.com
-DOMAIN-SUFFIX, amebaownd.com
-DOMAIN-SUFFIX, amebaowndme.com
-DOMAIN-SUFFIX, ameblo.jp
-DOMAIN-SUFFIX, bucketeer.jp
-DOMAIN-SUFFIX, dokusho-ojikan.jp
-DOMAIN-SUFFIX, hayabusa.dev
-DOMAIN-SUFFIX, hayabusa.io
-DOMAIN-SUFFIX, hayabusa.media
-DOMAIN-SUFFIX, winticket.jp
-
-# Abema TV CDN FQDN
-DOMAIN, abematv.akamaized.net
-DOMAIN, ds-linear-abematv.akamaized.net
-DOMAIN, ds-vod-abematv.akamaized.net
-DOMAIN, linear-abematv.akamaized.net
-DOMAIN, vod-abematv.akamaized.net
-
-DOMAIN-SUFFIX, amc.com
-DOMAIN-SUFFIX, amcn.com
-DOMAIN-SUFFIX, amcnetworks.com
-DOMAIN-SUFFIX, amcplus.com
-DOMAIN-SUFFIX, e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com
-
-# 9amine
-DOMAIN-SUFFIX, 9anime.cz
-DOMAIN-SUFFIX, 9anime.id
-DOMAIN-SUFFIX, 9anime.to
-DOMAIN-SUFFIX, 9anime.ws
-
-# agefans: https://github.com/agefanscom/website
-DOMAIN-SUFFIX, age.tv
-DOMAIN-SUFFIX, agedm.org
-DOMAIN-SUFFIX, agedm.tv
-DOMAIN-SUFFIX, agefans.com
-DOMAIN-SUFFIX, agemys.org
-DOMAIN-SUFFIX, agedm.app # app
-
-# animedao
-DOMAIN-SUFFIX, animedao-tv.com
-
-# Crunchyroll
-DOMAIN-SUFFIX, crunchyroll.com
-DOMAIN-SUFFIX, funimation.com # funimation
-DOMAIN-SUFFIX, vrv.co # vrv
-
-# Gogoanime
-DOMAIN-SUFFIX, gogoanime.vc
-DOMAIN-SUFFIX, gogoanime.wiki
-DOMAIN-SUFFIX, gogoanime3.co
-DOMAIN-SUFFIX, gogotaku.info
-DOMAIN-SUFFIX, gogo-load.com
-DOMAIN-SUFFIX, gogocdn.net # image hosting site
-
-# hidive
-DOMAIN-SUFFIX, hidive.com
-
-# Apple TV+
-DOMAIN, apple-tv-plus-press.apple.com
-DOMAIN, hls-amt.itunes.apple.com
-DOMAIN, hls.itunes.apple.com
-DOMAIN, np-edge.itunes.apple.com
-DOMAIN, play-edge.itunes.apple.com
-DOMAIN, tv.applemusic.com
-DOMAIN, uts-api.itunes.apple.com
-
-DOMAIN-SUFFIX, tv.apple.com
-
-DOMAIN-SUFFIX, ao3.org
-DOMAIN-SUFFIX, archiveofourown.org
-DOMAIN-SUFFIX, archiveofourown.com
-DOMAIN-SUFFIX, archiveofourown.net
-
-DOMAIN-SUFFIX, att.tv
-DOMAIN-SUFFIX, atttvnow.com
-DOMAIN-SUFFIX, attwatchtv.com
-DOMAIN-SUFFIX, directv.com
-DOMAIN-SUFFIX, dtvce.com
-DOMAIN-SUFFIX, nettyinternet.com
-
-DOMAIN-SUFFIX, bahamut.akamaized.net
-DOMAIN-SUFFIX, bahamut.com.tw
-DOMAIN-SUFFIX, gamer.com.tw
-
-DOMAIN, gamer2-cds.cdn.hinet.net
-DOMAIN, gamer-cds.cdn.hinet.net
-
-DOMAIN-SUFFIX, bandcamp.com
-DOMAIN-SUFFIX, bcbits.com
-
-DOMAIN-SUFFIX, bangumi.tv
-DOMAIN-SUFFIX, bgm.tv
-DOMAIN-SUFFIX, chii.in
-
-DOMAIN-SUFFIX, boomerang.com
-DOMAIN-SUFFIX, wbdnbo.net
-
-DOMAIN-SUFFIX, catchplay.com
-DOMAIN-SUFFIX, tra-ww000-cp.akamaized.net
-
 DOMAIN-SUFFIX, 2k.com
 DOMAIN-SUFFIX, 2kcoretech.online
 DOMAIN-SUFFIX, 2kgames.com
 DOMAIN-SUFFIX, take2games.com
-
-DOMAIN-SUFFIX, bilibiligame.cn
-DOMAIN-SUFFIX, bilibiligame.co
-DOMAIN-SUFFIX, bilibiligame.net
-DOMAIN-SUFFIX, biligame.co
-DOMAIN-SUFFIX, biligame.com
-DOMAIN-SUFFIX, biligame.net
 
 DOMAIN-SUFFIX, blizzard.com
 DOMAIN-SUFFIX, blizzardgearstore.com
@@ -162,9 +49,6 @@ DOMAIN, blznav.akamaized.net
 DOMAIN-SUFFIX, bluearchive.jp
 DOMAIN-SUFFIX, bluearchive.nexon.com
 DOMAIN-SUFFIX, bluearchive-cn.com
-
-# From reverse 1999
-DOMAIN-SUFFIX, sl916.com
 
 DOMAIN-SUFFIX, curseforge.com
 DOMAIN-SUFFIX, forgecdn.net
@@ -476,19 +360,6 @@ URL-REGEX, ^images(-\d)?\.gog-statics\.com$
 DOMAIN, gog-cdn-fastly.gog.com
 DOMAIN, gog-cdn.akamaized.net
 
-DOMAIN-SUFFIX, illusion.co.jp
-DOMAIN-SUFFIX, illusion.jp
-
-DOMAIN-SUFFIX, itch.io
-DOMAIN-SUFFIX, itch.zone
-
-DOMAIN-SUFFIX, kurogames.com
-
-# Wuthering Waves
-DOMAIN-SUFFIX, aki-game.com
-
-DOMAIN-SUFFIX, lowiro.com
-
 # 原神
 DOMAIN-SUFFIX, genshinimpact.com
 
@@ -513,38 +384,13 @@ DOMAIN-SUFFIX, n0vadesktop.com
 # 絕區零(Zenless Zone Zero)
 DOMAIN-SUFFIX, zenlesszonezero.com
 
-# 米哈游
-DOMAIN-SUFFIX, mhystatic.com
-DOMAIN-SUFFIX, mhyurl.cn
-DOMAIN-SUFFIX, mihayo.com
-DOMAIN-SUFFIX, mihayou.com
-DOMAIN-SUFFIX, mihoyo.com
-DOMAIN-SUFFIX, mihoyocg.com
-DOMAIN-SUFFIX, mihoyogift.com
-DOMAIN-SUFFIX, mihoyomall.com
-DOMAIN-SUFFIX, miyoushe.com
+DOMAIN-SUFFIX, illusion.co.jp
+DOMAIN-SUFFIX, illusion.jp
 
-# 崩坏2
-DOMAIN-SUFFIX, benghuai.com
+DOMAIN-SUFFIX, itch.io
+DOMAIN-SUFFIX, itch.zone
 
-# 崩坏3
-DOMAIN-SUFFIX, bh3.com
-
-# 星穹铁道
-DOMAIN-SUFFIX, bhsr.com
-
-# 未定事件簿
-DOMAIN-SUFFIX, themisweeps.com
-
-# 原神
-DOMAIN-SUFFIX, yuanshen.com
-
-#绝区零
-DOMAIN-SUFFIX, juequling.com
-
-# Akamai
-URL-REGEX, ^.+-mihayo\.akamaized\.net$
-
+DOMAIN-SUFFIX, lowiro.com
 
 DOMAIN-SUFFIX, nexon.co.jp
 DOMAIN-SUFFIX, nexon.com
@@ -927,114 +773,6 @@ DOMAIN-SUFFIX, supercellgames.com
 DOMAIN-SUFFIX, supercellid.com
 DOMAIN-SUFFIX, supercellstore.com
 
-DOMAIN-SUFFIX, battlecare.net
-DOMAIN-SUFFIX, gameitop.com
-DOMAIN-SUFFIX, gameloop.com
-DOMAIN-SUFFIX, gcloudcs.com
-DOMAIN-SUFFIX, gcloudcstest.com
-DOMAIN-SUFFIX, gcloudcstestonly.com
-DOMAIN-SUFFIX, gclouddolphin.com
-DOMAIN-SUFFIX, gcloudsdk.com
-DOMAIN-SUFFIX, gdtimg.com
-DOMAIN-SUFFIX, goto-game.com
-DOMAIN-SUFFIX, goto-game.mobi
-DOMAIN-SUFFIX, goto-game.net.cn
-DOMAIN-SUFFIX, goto-game.org
-DOMAIN-SUFFIX, happyhlddz.com
-DOMAIN-SUFFIX, hdyxgame.com
-DOMAIN-SUFFIX, hkgcloudcs.com
-DOMAIN-SUFFIX, ihappystudio.cn
-DOMAIN-SUFFIX, ihappystudio.com
-DOMAIN-SUFFIX, in.th
-DOMAIN-SUFFIX, ludosuperstar.cn
-DOMAIN-SUFFIX, ludoworld.net
-DOMAIN-SUFFIX, mahjongai.net
-DOMAIN-SUFFIX, mahjongcup.cn
-DOMAIN-SUFFIX, mahjongcup.com
-DOMAIN-SUFFIX, mahjongcup.net
-DOMAIN-SUFFIX, metalrevolution.com
-DOMAIN-SUFFIX, midasbuy.com
-DOMAIN-SUFFIX, nagcloudcs.com
-DOMAIN-SUFFIX, proximabeta.com
-DOMAIN-SUFFIX, pubghelper.com
-DOMAIN-SUFFIX, pubgno1.cn
-DOMAIN-SUFFIX, pubgtool.com
-DOMAIN-SUFFIX, qqgameapp.com
-DOMAIN-SUFFIX, rmwxgame.com
-DOMAIN-SUFFIX, skydweller.cn
-DOMAIN-SUFFIX, syxlgame.com
-DOMAIN-SUFFIX, tencent-gcloud.com
-DOMAIN-SUFFIX, tencentstart.com
-DOMAIN-SUFFIX, texasholdemcup.cn
-DOMAIN-SUFFIX, texasholdemcup.com
-DOMAIN-SUFFIX, texasholdemcup.net
-DOMAIN-SUFFIX, timibase.com
-DOMAIN-SUFFIX, videoxiaoyouxi.com
-DOMAIN-SUFFIX, wcbygame.com
-DOMAIN-SUFFIX, yxdmgame.com
-DOMAIN-SUFFIX, yximg.cn
-DOMAIN-SUFFIX, yxwsgame.com
-DOMAIN-SUFFIX, yzyxgame.com
-DOMAIN-SUFFIX, zcjbgame.com
-DOMAIN-SUFFIX, zhuoyuegame.com
-
-DOMAIN-SUFFIX, xn--owtw8cc49ajfl.cn
-
-# Roblox
-DOMAIN-SUFFIX, roblox.cn
-DOMAIN-SUFFIX, roblox.qq.com
-DOMAIN-SUFFIX, robloxdev.cn
-
-# NExT Studios
-DOMAIN-SUFFIX, nextstudios.com
-DOMAIN-SUFFIX, nextworkshop.net
-
-# 迷失之地
-DOMAIN-SUFFIX, mszdld.cn
-DOMAIN-SUFFIX, mszdld.com
-DOMAIN-SUFFIX, mszdld.net
-
-# 篝火营地
-DOMAIN-SUFFIX, gamebonfire.com
-DOMAIN-SUFFIX, gouhuo.qq.com
-
-# WeGame
-DOMAIN-SUFFIX, ffbuddy.com
-DOMAIN-SUFFIX, gotolink.net
-DOMAIN-SUFFIX, gtgres.com
-DOMAIN-SUFFIX, realcybertron.com
-DOMAIN-SUFFIX, wegame.com
-DOMAIN-SUFFIX, wegame.com.cn
-DOMAIN-SUFFIX, wegameplus.com
-DOMAIN-SUFFIX, werepository.com.cn
-
-# Supercell
-DOMAIN-SUFFIX, brawlstars.cn
-DOMAIN-SUFFIX, haydaypop.cn
-DOMAIN-SUFFIX, labycore.cn
-DOMAIN-SUFFIX, sccreator.cn
-DOMAIN-SUFFIX, sccreators.cn
-DOMAIN-SUFFIX, scescdn.cn
-DOMAIN-SUFFIX, scid.cn
-DOMAIN-SUFFIX, scsentry.cn
-DOMAIN-SUFFIX, supercell.com
-DOMAIN-SUFFIX, supercellcommunity.cn
-DOMAIN-SUFFIX, supercellsupport.cn
-
-# 使命召唤
-DOMAIN-SUFFIX, codm.com
-
-# 穿越火线
-DOMAIN-SUFFIX, bcfmglobal.com
-DOMAIN-SUFFIX, tcfmglobal.com
-
-# 腾讯游戏安全专家
-DOMAIN-SUFFIX, anticheatexpert.com
-
-# 洛克王国
-DOMAIN-SUFFIX, 17roco.com
-DOMAIN-SUFFIX, roco.qq.com
-
 DOMAIN-SUFFIX, ubi.com
 DOMAIN-SUFFIX, ubisoft.com
 
@@ -1131,6 +869,113 @@ DOMAIN-SUFFIX, steamdb.info
 DOMAIN-SUFFIX, ptzwx.com
 DOMAIN-SUFFIX, quanben-xiaoshuo.com
 DOMAIN-SUFFIX, quanben.io
+
+
+DOMAIN-SUFFIX, abema.io
+DOMAIN-SUFFIX, abema.tv
+DOMAIN-SUFFIX, abema-tv.com
+DOMAIN-SUFFIX, abematv.co.jp
+DOMAIN-SUFFIX, adx.promo
+DOMAIN-SUFFIX, ameba.jp
+DOMAIN-SUFFIX, amebame.com
+DOMAIN-SUFFIX, amebaownd.com
+DOMAIN-SUFFIX, amebaowndme.com
+DOMAIN-SUFFIX, ameblo.jp
+DOMAIN-SUFFIX, bucketeer.jp
+DOMAIN-SUFFIX, dokusho-ojikan.jp
+DOMAIN-SUFFIX, hayabusa.dev
+DOMAIN-SUFFIX, hayabusa.io
+DOMAIN-SUFFIX, hayabusa.media
+DOMAIN-SUFFIX, winticket.jp
+
+# Abema TV CDN FQDN
+DOMAIN, abematv.akamaized.net
+DOMAIN, ds-linear-abematv.akamaized.net
+DOMAIN, ds-vod-abematv.akamaized.net
+DOMAIN, linear-abematv.akamaized.net
+DOMAIN, vod-abematv.akamaized.net
+
+DOMAIN-SUFFIX, amc.com
+DOMAIN-SUFFIX, amcn.com
+DOMAIN-SUFFIX, amcnetworks.com
+DOMAIN-SUFFIX, amcplus.com
+DOMAIN-SUFFIX, e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com
+
+# 9amine
+DOMAIN-SUFFIX, 9anime.cz
+DOMAIN-SUFFIX, 9anime.id
+DOMAIN-SUFFIX, 9anime.to
+DOMAIN-SUFFIX, 9anime.ws
+
+# agefans: https://github.com/agefanscom/website
+DOMAIN-SUFFIX, age.tv
+DOMAIN-SUFFIX, agedm.org
+DOMAIN-SUFFIX, agedm.tv
+DOMAIN-SUFFIX, agefans.com
+DOMAIN-SUFFIX, agemys.org
+DOMAIN-SUFFIX, agedm.app # app
+
+# animedao
+DOMAIN-SUFFIX, animedao-tv.com
+
+# Crunchyroll
+DOMAIN-SUFFIX, crunchyroll.com
+DOMAIN-SUFFIX, funimation.com # funimation
+DOMAIN-SUFFIX, vrv.co # vrv
+
+# Gogoanime
+DOMAIN-SUFFIX, gogoanime.vc
+DOMAIN-SUFFIX, gogoanime.wiki
+DOMAIN-SUFFIX, gogoanime3.co
+DOMAIN-SUFFIX, gogotaku.info
+DOMAIN-SUFFIX, gogo-load.com
+DOMAIN-SUFFIX, gogocdn.net # image hosting site
+
+# hidive
+DOMAIN-SUFFIX, hidive.com
+
+# Apple TV+
+DOMAIN, apple-tv-plus-press.apple.com
+DOMAIN, hls-amt.itunes.apple.com
+DOMAIN, hls.itunes.apple.com
+DOMAIN, np-edge.itunes.apple.com
+DOMAIN, play-edge.itunes.apple.com
+DOMAIN, tv.applemusic.com
+DOMAIN, uts-api.itunes.apple.com
+
+DOMAIN-SUFFIX, tv.apple.com
+
+DOMAIN-SUFFIX, ao3.org
+DOMAIN-SUFFIX, archiveofourown.org
+DOMAIN-SUFFIX, archiveofourown.com
+DOMAIN-SUFFIX, archiveofourown.net
+
+DOMAIN-SUFFIX, att.tv
+DOMAIN-SUFFIX, atttvnow.com
+DOMAIN-SUFFIX, attwatchtv.com
+DOMAIN-SUFFIX, directv.com
+DOMAIN-SUFFIX, dtvce.com
+DOMAIN-SUFFIX, nettyinternet.com
+
+DOMAIN-SUFFIX, bahamut.akamaized.net
+DOMAIN-SUFFIX, bahamut.com.tw
+DOMAIN-SUFFIX, gamer.com.tw
+
+DOMAIN, gamer2-cds.cdn.hinet.net
+DOMAIN, gamer-cds.cdn.hinet.net
+
+DOMAIN-SUFFIX, bandcamp.com
+DOMAIN-SUFFIX, bcbits.com
+
+DOMAIN-SUFFIX, bangumi.tv
+DOMAIN-SUFFIX, bgm.tv
+DOMAIN-SUFFIX, chii.in
+
+DOMAIN-SUFFIX, boomerang.com
+DOMAIN-SUFFIX, wbdnbo.net
+
+DOMAIN-SUFFIX, catchplay.com
+DOMAIN-SUFFIX, tra-ww000-cp.akamaized.net
 
 DOMAIN-SUFFIX, dailymotion.com
 DOMAIN-SUFFIX, dm-event.net

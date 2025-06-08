@@ -1,14 +1,3 @@
-# Beijing Kuaishou Technology Co., Ltd.
-
-DOMAIN-SUFFIX, gifshow.com
-DOMAIN-SUFFIX, inkwai.com
-DOMAIN-SUFFIX, ksapisrv.com
-DOMAIN-SUFFIX, kuaishou.com
-DOMAIN-SUFFIX, kwaizt.com
-DOMAIN-SUFFIX, kuaishouzt.com
-DOMAIN-SUFFIX, kwimgs.com
-DOMAIN-SUFFIX, yximgs.com
-
 DOMAIN-SUFFIX, adbkwai.com
 DOMAIN-SUFFIX, adkwai.com
 DOMAIN-SUFFIX, adukwai.com
@@ -18,3 +7,18 @@ DOMAIN-SUFFIX, e.kuaishou.com
 DOMAIN, log-sdk.gifshow.com
 DOMAIN, wlog.kuaishou.com
 
+
+DOMAIN-SUFFIX, ecukwai.com
+DOMAIN-SUFFIX, gifshow.com
+DOMAIN-SUFFIX, inkwai.com
+DOMAIN-SUFFIX, ksapisrv.com
+DOMAIN-SUFFIX, kskwai.com
+DOMAIN-SUFFIX, kuaishou.com
+DOMAIN-SUFFIX, kuaishouapps.com
+DOMAIN-SUFFIX, kuaishoupay.com
+DOMAIN-SUFFIX, kuaishouzt.com
+DOMAIN-SUFFIX, kwaicdn.com
+DOMAIN-SUFFIX, kwaizt.com
+DOMAIN-SUFFIX, kwimgs.com
+DOMAIN-SUFFIX, wsukwai.com
+DOMAIN-SUFFIX, yximgs.com
