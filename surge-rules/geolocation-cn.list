@@ -2580,17 +2580,17 @@ DOMAIN-SUFFIX, feng.com
 DOMAIN-SUFFIX, fengimg.com
 DOMAIN-SUFFIX, wfdata.club
 
-# This file includes domains for 北京青年报网际传播技术有限公司 (京ICP证010639号-4)
-
-DOMAIN-SUFFIX, ynet.cn
-DOMAIN-SUFFIX, ynet.com
-DOMAIN-SUFFIX, ynet.com.cn
-
 DOMAIN-SUFFIX, aiganggu.com
 DOMAIN-SUFFIX, danjuanfunds.com
 DOMAIN-SUFFIX, imedao.com
 DOMAIN-SUFFIX, snowballsecurities.com
 DOMAIN-SUFFIX, xueqiu.com
+
+# This file includes domains for 北京青年报网际传播技术有限公司 (京ICP证010639号-4)
+
+DOMAIN-SUFFIX, ynet.cn
+DOMAIN-SUFFIX, ynet.com
+DOMAIN-SUFFIX, ynet.com.cn
 
 
 # 证券时报网
@@ -2675,6 +2675,13 @@ DOMAIN-SUFFIX, thepaper.cn
 
 # 封面新闻
 DOMAIN-SUFFIX, thecover.cn
+
+# 参考消息
+DOMAIN-SUFFIX, cankaoxiaoxi.com
+DOMAIN-SUFFIX, ckxx.net
+
+# 大公网（大公报）
+DOMAIN-SUFFIX, takungpao.com
 
 # 超能网
 DOMAIN-SUFFIX, expreview.com
