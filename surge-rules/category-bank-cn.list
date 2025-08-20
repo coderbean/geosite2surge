@@ -45,6 +45,9 @@ DOMAIN-SUFFIX, ccbxt.com
 # All .citic domains
 DOMAIN-SUFFIX, citic
 
+# All .中信 domains
+DOMAIN-SUFFIX, xn--fiq64b
+
 DOMAIN-SUFFIX, chinaamc.com
 DOMAIN-SUFFIX, citic-prudential.com.cn
 DOMAIN-SUFFIX, citicbank.com
@@ -59,7 +62,6 @@ DOMAIN-SUFFIX, cncbinternational.com
 DOMAIN-SUFFIX, csc108.com
 DOMAIN-SUFFIX, csci.hk
 DOMAIN-SUFFIX, ecitic.com
-
 
 DOMAIN-SUFFIX, 8008205555.cn
 DOMAIN-SUFFIX, 8008205555.com

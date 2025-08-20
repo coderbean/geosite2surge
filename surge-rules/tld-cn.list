@@ -6,12 +6,12 @@ DOMAIN-SUFFIX, baidu
 DOMAIN-SUFFIX, unicom
 DOMAIN-SUFFIX, sohu
 
-# Reference: https://icannwiki.org/.%E6%94%BF%E5%8A%A1
-DOMAIN-SUFFIX, xn--zfr164b # .政务
-
 # Reference: https://domain.miit.gov.cn
+# .香港 is ignored due to not in China mainland
 DOMAIN-SUFFIX, xn--fiqs8s # .中国
 DOMAIN-SUFFIX, xn--fiqz9s # .中國
+DOMAIN-SUFFIX, xn--zfr164b # .政务
+DOMAIN-SUFFIX, xn--55qw42g # .公益
 DOMAIN-SUFFIX, xn--55qx5d # .公司
 DOMAIN-SUFFIX, xn--io0a7i # .网络
 DOMAIN-SUFFIX, xn--ses554g # .网址

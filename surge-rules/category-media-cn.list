@@ -160,6 +160,9 @@ DOMAIN, e8aeb8bbdbbd7.cdn.sohucs.com
 DOMAIN, 643108e7617ef.cdn.sohucs.com
 
 
+# All .sohu domains
+DOMAIN-SUFFIX, sohu
+
 DOMAIN-SUFFIX, focus-img.cn
 DOMAIN-SUFFIX, focus.cn
 DOMAIN-SUFFIX, itc.cn

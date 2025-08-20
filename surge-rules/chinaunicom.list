@@ -1,3 +1,9 @@
+# All .unicom domains
+DOMAIN-SUFFIX, unicom
+
+# All .联通 domains
+DOMAIN-SUFFIX, xn--8y0a063a
+
 DOMAIN-SUFFIX, 10010.com
 DOMAIN-SUFFIX, 10010.com.cn
 DOMAIN-SUFFIX, 114menhu.com

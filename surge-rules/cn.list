@@ -8,12 +8,12 @@ DOMAIN-SUFFIX, baidu
 DOMAIN-SUFFIX, unicom
 DOMAIN-SUFFIX, sohu
 
-# Reference: https://icannwiki.org/.%E6%94%BF%E5%8A%A1
-DOMAIN-SUFFIX, xn--zfr164b # .政务
-
 # Reference: https://domain.miit.gov.cn
+# .香港 is ignored due to not in China mainland
 DOMAIN-SUFFIX, xn--fiqs8s # .中国
 DOMAIN-SUFFIX, xn--fiqz9s # .中國
+DOMAIN-SUFFIX, xn--zfr164b # .政务
+DOMAIN-SUFFIX, xn--55qw42g # .公益
 DOMAIN-SUFFIX, xn--55qx5d # .公司
 DOMAIN-SUFFIX, xn--io0a7i # .网络
 DOMAIN-SUFFIX, xn--ses554g # .网址
@@ -235,6 +235,9 @@ DOMAIN-SUFFIX, ccbxt.com
 # All .citic domains
 DOMAIN-SUFFIX, citic
 
+# All .中信 domains
+DOMAIN-SUFFIX, xn--fiq64b
+
 DOMAIN-SUFFIX, chinaamc.com
 DOMAIN-SUFFIX, citic-prudential.com.cn
 DOMAIN-SUFFIX, citicbank.com
@@ -249,7 +252,6 @@ DOMAIN-SUFFIX, cncbinternational.com
 DOMAIN-SUFFIX, csc108.com
 DOMAIN-SUFFIX, csci.hk
 DOMAIN-SUFFIX, ecitic.com
-
 
 DOMAIN-SUFFIX, 8008205555.cn
 DOMAIN-SUFFIX, 8008205555.com
@@ -591,6 +593,9 @@ DOMAIN-SUFFIX, zlfund.cn
 # All .citic domains
 DOMAIN-SUFFIX, citic
 
+# All .中信 domains
+DOMAIN-SUFFIX, xn--fiq64b
+
 DOMAIN-SUFFIX, chinaamc.com
 DOMAIN-SUFFIX, citic-prudential.com.cn
 DOMAIN-SUFFIX, citicbank.com
@@ -605,7 +610,6 @@ DOMAIN-SUFFIX, cncbinternational.com
 DOMAIN-SUFFIX, csc108.com
 DOMAIN-SUFFIX, csci.hk
 DOMAIN-SUFFIX, ecitic.com
-
 
 DOMAIN-SUFFIX, 1234567.com.cn
 DOMAIN-SUFFIX, 18.cn
@@ -2599,6 +2603,9 @@ DOMAIN-SUFFIX, v2.reachmax.cn
 DOMAIN, e8aeb8bbdbbd7.cdn.sohucs.com
 DOMAIN, 643108e7617ef.cdn.sohucs.com
 
+
+# All .sohu domains
+DOMAIN-SUFFIX, sohu
 
 DOMAIN-SUFFIX, focus-img.cn
 DOMAIN-SUFFIX, focus.cn
@@ -6843,7 +6850,6 @@ DOMAIN-SUFFIX, miui.com
 DOMAIN-SUFFIX, miwifi.com
 DOMAIN-SUFFIX, xiaomi.cn
 DOMAIN-SUFFIX, xiaomi.com
-DOMAIN-SUFFIX, xiaomi.eu
 DOMAIN-SUFFIX, xiaomi.net
 DOMAIN-SUFFIX, xiaomicp.com
 DOMAIN-SUFFIX, xiaomidns.cn
@@ -7007,6 +7013,12 @@ DOMAIN-SUFFIX, chinatelecomglobal.com
 DOMAIN-SUFFIX, chntel.com
 
 DOMAIN-SUFFIX, chinatelecomhk.com
+
+# All .unicom domains
+DOMAIN-SUFFIX, unicom
+
+# All .联通 domains
+DOMAIN-SUFFIX, xn--8y0a063a
 
 DOMAIN-SUFFIX, 10010.com
 DOMAIN-SUFFIX, 10010.com.cn
