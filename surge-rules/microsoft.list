@@ -202,6 +202,7 @@ DOMAIN-SUFFIX, npmjs.org
 
 DOMAIN-SUFFIX, atom.io
 DOMAIN-SUFFIX, dependabot.com
+DOMAIN-SUFFIX, gh.io
 DOMAIN-SUFFIX, ghcr.io
 DOMAIN-SUFFIX, git.io
 DOMAIN-SUFFIX, github.blog
