@@ -7,6 +7,11 @@ DOMAIN-SUFFIX, claudeusercontent.com
 # CDN
 DOMAIN, servd-anthropic-website.b-cdn.net
 
+DOMAIN-SUFFIX, cursor-cdn.com
+DOMAIN-SUFFIX, cursor.com
+DOMAIN-SUFFIX, cursor.sh
+DOMAIN-SUFFIX, cursorapi.com
+
 # Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google
@@ -79,11 +84,6 @@ DOMAIN-SUFFIX, poecdn.net
 DOMAIN-SUFFIX, grok.com
 DOMAIN-SUFFIX, x.ai
 
-DOMAIN-SUFFIX, cursor-cdn.com
-DOMAIN-SUFFIX, cursor.com
-DOMAIN-SUFFIX, cursor.sh
-DOMAIN-SUFFIX, cursorapi.com
-
 
 # CodeRabbit
 DOMAIN-SUFFIX, coderabbit.ai
@@ -94,6 +94,7 @@ DOMAIN-SUFFIX, clipdrop.co
 DOMAIN-SUFFIX, jasper.ai
 
 DOMAIN-SUFFIX, chutes.ai
+DOMAIN-SUFFIX, copilot.microsoft.com
 DOMAIN-SUFFIX, dify.ai
 DOMAIN-SUFFIX, gateway.ai.cloudflare.com
 DOMAIN-SUFFIX, meta.ai
