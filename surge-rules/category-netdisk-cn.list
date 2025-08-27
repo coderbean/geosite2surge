@@ -1,27 +1,3 @@
-DOMAIN-SUFFIX, cloud.189.cn # 天翼云盘
-DOMAIN-SUFFIX, ctfile.com # 城通网盘
-DOMAIN-SUFFIX, feimaoyun.com # 飞猫盘
-DOMAIN-SUFFIX, filez.com # 联想企业网盘
-DOMAIN-SUFFIX, jianguoyun.com # 坚果云
-DOMAIN-SUFFIX, pan.baidu.com # 百度网盘
-DOMAIN-SUFFIX, pan.quark.cn # 夸克网盘
-DOMAIN-SUFFIX, pan.xunlei.com # 迅雷云盘
-DOMAIN-SUFFIX, weiyun.com # 微云
-DOMAIN-SUFFIX, yun.139.com # 中国移动云盘
-DOMAIN-SUFFIX, yunpan.com # 360安全云盘
-
-# 123云盘
-DOMAIN-SUFFIX, 123pan.cn
-DOMAIN-SUFFIX, 123pan.com
-
-# 阿里云盘
-DOMAIN-SUFFIX, alicloudccp.com
-DOMAIN-SUFFIX, alipan.com
-DOMAIN-SUFFIX, aliyundrive.com
-DOMAIN-SUFFIX, aliyundrive.net
-DOMAIN-SUFFIX, yunpan.aliyun.com
-
-# 115网盘
 DOMAIN-SUFFIX, 115.com
 DOMAIN-SUFFIX, 115cdn.com
 DOMAIN-SUFFIX, 115cdn.net
@@ -37,7 +13,13 @@ DOMAIN-SUFFIX, 116cd.net
 DOMAIN-SUFFIX, anxia.com
 DOMAIN-SUFFIX, sq.cc
 
-# 蓝奏云
+DOMAIN-SUFFIX, alicloudccp.com
+DOMAIN-SUFFIX, alipan.com
+DOMAIN-SUFFIX, aliyundrive.cloud
+DOMAIN-SUFFIX, aliyundrive.com
+DOMAIN-SUFFIX, aliyundrive.net
+DOMAIN-SUFFIX, yunpan.aliyun.com
+
 DOMAIN-SUFFIX, baidupan.com
 DOMAIN-SUFFIX, ilanzou.com
 DOMAIN-SUFFIX, lanosso.com
@@ -67,3 +49,19 @@ DOMAIN-SUFFIX, lanzouy.com
 DOMAIN-SUFFIX, lanzov.com
 DOMAIN-SUFFIX, woozooo.com
 
+
+# 123云盘
+DOMAIN-SUFFIX, 123pan.cn
+DOMAIN-SUFFIX, 123pan.com
+
+DOMAIN-SUFFIX, cloud.189.cn # 天翼云盘
+DOMAIN-SUFFIX, ctfile.com # 城通网盘
+DOMAIN-SUFFIX, feimaoyun.com # 飞猫盘
+DOMAIN-SUFFIX, filez.com # 联想企业网盘
+DOMAIN-SUFFIX, jianguoyun.com # 坚果云
+DOMAIN-SUFFIX, pan.baidu.com # 百度网盘
+DOMAIN-SUFFIX, pan.quark.cn # 夸克网盘
+DOMAIN-SUFFIX, pan.xunlei.com # 迅雷云盘
+DOMAIN-SUFFIX, weiyun.com # 微云
+DOMAIN-SUFFIX, yun.139.com # 中国移动云盘
+DOMAIN-SUFFIX, yunpan.com # 360安全云盘

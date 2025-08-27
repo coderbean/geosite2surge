@@ -3,6 +3,7 @@ DOMAIN-SUFFIX, aadcloud.com
 DOMAIN-SUFFIX, ami-alliance.org.cn
 DOMAIN-SUFFIX, b2bgo.com
 DOMAIN-SUFFIX, eduapaashwc.com
+DOMAIN-SUFFIX, functiongraph.run
 DOMAIN-SUFFIX, hc-cdn.cn
 DOMAIN-SUFFIX, hc-cdn.com
 DOMAIN-SUFFIX, hc-sre.com
@@ -82,6 +83,7 @@ DOMAIN-SUFFIX, myhuaweicloud-koodrive.com
 DOMAIN-SUFFIX, myhuaweicloud-obs.cn
 DOMAIN-SUFFIX, myhuaweicloud-obs.com
 DOMAIN-SUFFIX, myhuaweicloud.cn
+DOMAIN-SUFFIX, myhuaweicloud.com
 DOMAIN-SUFFIX, myhwcdn.cn
 DOMAIN-SUFFIX, myhwcdn.com
 DOMAIN-SUFFIX, myhwcloudlive.com
@@ -95,40 +97,47 @@ DOMAIN-SUFFIX, powerapp.io
 
 # Huaweicloud Endpoint, source: https://developer.huaweicloud.com/endpoint
 DOMAIN-SUFFIX, ae-ad-1.myhuaweicloud.com
+DOMAIN-SUFFIX, af-east-201.myhuaweicloud.com
 DOMAIN-SUFFIX, af-north-1.myhuaweicloud.com
 DOMAIN-SUFFIX, af-south-1.myhuaweicloud.com
+DOMAIN-SUFFIX, af-west-202.myhuaweicloud.com
+DOMAIN-SUFFIX, ap-northeast-201.myhuaweicloud.com
 DOMAIN-SUFFIX, ap-southeast-1.myhuaweicloud.com
 DOMAIN-SUFFIX, ap-southeast-2.myhuaweicloud.com
+DOMAIN-SUFFIX, ap-southeast-201.myhuaweicloud.com
+DOMAIN-SUFFIX, ap-southeast-202.myhuaweicloud.com
+DOMAIN-SUFFIX, ap-southeast-203.myhuaweicloud.com
 DOMAIN-SUFFIX, ap-southeast-3.myhuaweicloud.com
 DOMAIN-SUFFIX, ap-southeast-4.myhuaweicloud.com
-DOMAIN-SUFFIX, cn-east-2.myhuaweicloud.com             #华东-上海二
-DOMAIN-SUFFIX, cn-east-3.myhuaweicloud.com             #华东-上海一
-DOMAIN-SUFFIX, cn-east-4.myhuaweicloud.com             #华东二
-DOMAIN-SUFFIX, cn-east-5.myhuaweicloud.com             #华东-青岛
-DOMAIN-SUFFIX, cn-north-1.myhuaweicloud.com            #华北-北京一
-DOMAIN-SUFFIX, cn-north-11.myhuaweicloud.com           #华北-乌兰察布-汽车一
-DOMAIN-SUFFIX, cn-north-2.myhuaweicloud.com            #华北-北京二
-DOMAIN-SUFFIX, cn-north-3.myhuaweicloud.com            #华北-北京三
-DOMAIN-SUFFIX, cn-north-4.myhuaweicloud.com            #华北-北京四
-DOMAIN-SUFFIX, cn-north-5.myhuaweicloud.com            #华北-乌兰察布二零一
-DOMAIN-SUFFIX, cn-north-6.myhuaweicloud.com            #华北-乌兰察布二零二
-DOMAIN-SUFFIX, cn-north-9.myhuaweicloud.com            #华北-乌兰察布一
-DOMAIN-SUFFIX, cn-northeast-1.myhuaweicloud.com        #东北-大连
-DOMAIN-SUFFIX, cn-south-1.myhuaweicloud.com            #华南-广州
-DOMAIN-SUFFIX, cn-south-2.myhuaweicloud.com            #华南-深圳
-DOMAIN-SUFFIX, cn-south-4.myhuaweicloud.com            #华南-广州-友好用户环境
-DOMAIN-SUFFIX, cn-southwest-2.myhuaweicloud.com        #西南-贵阳一
+DOMAIN-SUFFIX, ap-southeast-5.myhuaweicloud.com
+DOMAIN-SUFFIX, as-south-0.myhuaweicloud.com
+DOMAIN-SUFFIX, as-south-201.myhuaweicloud.com
+DOMAIN-SUFFIX, as-south-205.myhuaweicloud.com
+DOMAIN-SUFFIX, as-south-207.myhuaweicloud.com
+DOMAIN-SUFFIX, ca-east-201.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-central-201.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-central-202.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-north-201.myhuaweicloud.com
 DOMAIN-SUFFIX, eu-west-0.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-west-1.myhuaweicloud.com
 DOMAIN-SUFFIX, eu-west-101.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-west-201.myhuaweicloud.com
 DOMAIN-SUFFIX, la-north-2.myhuaweicloud.com
+DOMAIN-SUFFIX, la-north-205.myhuaweicloud.com
 DOMAIN-SUFFIX, la-south-2.myhuaweicloud.com
 DOMAIN-SUFFIX, me-east-1.myhuaweicloud.com
+DOMAIN-SUFFIX, me-east-205.myhuaweicloud.com
+DOMAIN-SUFFIX, me-east-208.myhuaweicloud.com
+DOMAIN-SUFFIX, me-east-209.myhuaweicloud.com
 DOMAIN-SUFFIX, my-kualalumpur-1.myhuaweicloud.com
+DOMAIN-SUFFIX, na-east-0.myhuaweicloud.com
 DOMAIN-SUFFIX, na-mexico-1.myhuaweicloud.com
 DOMAIN-SUFFIX, ru-moscow-1.myhuaweicloud.com
 DOMAIN-SUFFIX, ru-northwest-2.myhuaweicloud.com
+DOMAIN-SUFFIX, ru-northwest-201.myhuaweicloud.com
 DOMAIN-SUFFIX, sa-brazil-1.myhuaweicloud.com
 DOMAIN-SUFFIX, tr-west-1.myhuaweicloud.com
+DOMAIN-SUFFIX, us-east-1.myhuaweicloud.com
 
 # 华为云 CDN CNAME 域名，按 ICP 备案序号排列
 DOMAIN-SUFFIX, cdnhwchcg02.com

@@ -1914,11 +1914,6 @@ DOMAIN-SUFFIX, ciweimao.com
 DOMAIN-SUFFIX, hbooker.com
 DOMAIN-SUFFIX, kuangxiangit.com
 
-DOMAIN-SUFFIX, copy-manga.com
-DOMAIN-SUFFIX, mangacopy.com
-DOMAIN-SUFFIX, mangafuna.xyz
-DOMAIN-SUFFIX, mangafunb.fun
-
 # 得到
 DOMAIN-SUFFIX, biji.com
 DOMAIN-SUFFIX, ddmogo.com
@@ -2722,30 +2717,6 @@ DOMAIN-SUFFIX, admin5.com
 
 
 # Netdisk
-DOMAIN-SUFFIX, cloud.189.cn # 天翼云盘
-DOMAIN-SUFFIX, ctfile.com # 城通网盘
-DOMAIN-SUFFIX, feimaoyun.com # 飞猫盘
-DOMAIN-SUFFIX, filez.com # 联想企业网盘
-DOMAIN-SUFFIX, jianguoyun.com # 坚果云
-DOMAIN-SUFFIX, pan.baidu.com # 百度网盘
-DOMAIN-SUFFIX, pan.quark.cn # 夸克网盘
-DOMAIN-SUFFIX, pan.xunlei.com # 迅雷云盘
-DOMAIN-SUFFIX, weiyun.com # 微云
-DOMAIN-SUFFIX, yun.139.com # 中国移动云盘
-DOMAIN-SUFFIX, yunpan.com # 360安全云盘
-
-# 123云盘
-DOMAIN-SUFFIX, 123pan.cn
-DOMAIN-SUFFIX, 123pan.com
-
-# 阿里云盘
-DOMAIN-SUFFIX, alicloudccp.com
-DOMAIN-SUFFIX, alipan.com
-DOMAIN-SUFFIX, aliyundrive.com
-DOMAIN-SUFFIX, aliyundrive.net
-DOMAIN-SUFFIX, yunpan.aliyun.com
-
-# 115网盘
 DOMAIN-SUFFIX, 115.com
 DOMAIN-SUFFIX, 115cdn.com
 DOMAIN-SUFFIX, 115cdn.net
@@ -2761,7 +2732,13 @@ DOMAIN-SUFFIX, 116cd.net
 DOMAIN-SUFFIX, anxia.com
 DOMAIN-SUFFIX, sq.cc
 
-# 蓝奏云
+DOMAIN-SUFFIX, alicloudccp.com
+DOMAIN-SUFFIX, alipan.com
+DOMAIN-SUFFIX, aliyundrive.cloud
+DOMAIN-SUFFIX, aliyundrive.com
+DOMAIN-SUFFIX, aliyundrive.net
+DOMAIN-SUFFIX, yunpan.aliyun.com
+
 DOMAIN-SUFFIX, baidupan.com
 DOMAIN-SUFFIX, ilanzou.com
 DOMAIN-SUFFIX, lanosso.com
@@ -2791,6 +2768,22 @@ DOMAIN-SUFFIX, lanzouy.com
 DOMAIN-SUFFIX, lanzov.com
 DOMAIN-SUFFIX, woozooo.com
 
+
+# 123云盘
+DOMAIN-SUFFIX, 123pan.cn
+DOMAIN-SUFFIX, 123pan.com
+
+DOMAIN-SUFFIX, cloud.189.cn # 天翼云盘
+DOMAIN-SUFFIX, ctfile.com # 城通网盘
+DOMAIN-SUFFIX, feimaoyun.com # 飞猫盘
+DOMAIN-SUFFIX, filez.com # 联想企业网盘
+DOMAIN-SUFFIX, jianguoyun.com # 坚果云
+DOMAIN-SUFFIX, pan.baidu.com # 百度网盘
+DOMAIN-SUFFIX, pan.quark.cn # 夸克网盘
+DOMAIN-SUFFIX, pan.xunlei.com # 迅雷云盘
+DOMAIN-SUFFIX, weiyun.com # 微云
+DOMAIN-SUFFIX, yun.139.com # 中国移动云盘
+DOMAIN-SUFFIX, yunpan.com # 360安全云盘
 
 
 # Network Security
@@ -3620,9 +3613,6 @@ DOMAIN-SUFFIX, cppblog.com
 DOMAIN-SUFFIX, phpweblog.net
 DOMAIN-SUFFIX, teachblog.net
 
-DOMAIN-SUFFIX, coding.me
-DOMAIN-SUFFIX, coding.net
-
 DOMAIN-SUFFIX, codechina.net
 DOMAIN-SUFFIX, csdn.com
 DOMAIN-SUFFIX, csdn.net
@@ -3728,6 +3718,13 @@ DOMAIN-SUFFIX, sifou.com
 DOMAIN-SUFFIX, mysxl.cn
 DOMAIN-SUFFIX, sxl.cn
 DOMAIN-SUFFIX, sxlcdn.cn
+
+# 腾讯 云原生构建
+DOMAIN-SUFFIX, cnb.cool
+
+DOMAIN-SUFFIX, coding.me
+DOMAIN-SUFFIX, coding.net
+
 
 DOMAIN-SUFFIX, openmidas.com
 DOMAIN-SUFFIX, qq.design
@@ -3936,6 +3933,13 @@ DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-west-1.aliyuncs.com
 
+DOMAIN-SUFFIX, alicloudccp.com
+DOMAIN-SUFFIX, alipan.com
+DOMAIN-SUFFIX, aliyundrive.cloud
+DOMAIN-SUFFIX, aliyundrive.com
+DOMAIN-SUFFIX, aliyundrive.net
+DOMAIN-SUFFIX, yunpan.aliyun.com
+
 DOMAIN-SUFFIX, cainiao-inc.com
 DOMAIN-SUFFIX, cainiao.com
 DOMAIN-SUFFIX, cainiao.com.cn
@@ -4095,12 +4099,6 @@ DOMAIN-SUFFIX, alipay.hk
 
 # AlipayMO
 DOMAIN-SUFFIX, alipaymo.com
-
-# 阿里云盘
-DOMAIN-SUFFIX, alicloudccp.com
-DOMAIN-SUFFIX, alipan.com
-DOMAIN-SUFFIX, aliyundrive.com
-DOMAIN-SUFFIX, aliyundrive.net
 
 # 盒马
 DOMAIN-SUFFIX, freshhema.com
@@ -4751,6 +4749,7 @@ DOMAIN-SUFFIX, volcfake.com
 DOMAIN-SUFFIX, volcfcdnbyte.com
 DOMAIN-SUFFIX, volcfcdn.com
 DOMAIN-SUFFIX, volcfcdndvs.com
+DOMAIN-SUFFIX, volcfcdndvs1.com
 DOMAIN-SUFFIX, volcfcdnplus.com
 DOMAIN-SUFFIX, volcfcdnrd.com
 DOMAIN-SUFFIX, volcfcdnsc.com
@@ -4909,6 +4908,7 @@ DOMAIN-SUFFIX, bytegqpo.net
 DOMAIN-SUFFIX, bytegrowth.com
 DOMAIN-SUFFIX, byte-gslb.com
 DOMAIN-SUFFIX, bytegslb.com
+DOMAIN-SUFFIX, byteglb.com
 DOMAIN-SUFFIX, bytehwm.com
 DOMAIN-SUFFIX, byteics.com
 DOMAIN-SUFFIX, byteics.net
@@ -4925,6 +4925,7 @@ DOMAIN-SUFFIX, bytenewst.com
 DOMAIN-SUFFIX, byteorg.com
 DOMAIN-SUFFIX, byteorge.com
 DOMAIN-SUFFIX, byteoversea.com
+DOMAIN-SUFFIX, byteoversea.net
 DOMAIN-SUFFIX, byteq5k.com
 DOMAIN-SUFFIX, byteq8u.net
 DOMAIN-SUFFIX, bytescm.com
@@ -5116,6 +5117,7 @@ DOMAIN-SUFFIX, zjcdn.com
 DOMAIN-SUFFIX, zjfcdn.com
 DOMAIN-SUFFIX, zjgslb.com
 
+DOMAIN, bytedance.map.fastly.net
 
 # 今日头条
 DOMAIN-SUFFIX, toutiao.com
@@ -5232,6 +5234,7 @@ DOMAIN-SUFFIX, djiits.com
 DOMAIN-SUFFIX, djiops.com
 DOMAIN-SUFFIX, djiservice.org
 DOMAIN-SUFFIX, skypixel.com
+DOMAIN-SUFFIX, robomaster.com
 
 DOMAIN-SUFFIX, hihonor.cn
 DOMAIN-SUFFIX, hihonor.com
@@ -5271,6 +5274,7 @@ DOMAIN-SUFFIX, aadcloud.com
 DOMAIN-SUFFIX, ami-alliance.org.cn
 DOMAIN-SUFFIX, b2bgo.com
 DOMAIN-SUFFIX, eduapaashwc.com
+DOMAIN-SUFFIX, functiongraph.run
 DOMAIN-SUFFIX, hc-cdn.cn
 DOMAIN-SUFFIX, hc-cdn.com
 DOMAIN-SUFFIX, hc-sre.com
@@ -5350,6 +5354,7 @@ DOMAIN-SUFFIX, myhuaweicloud-koodrive.com
 DOMAIN-SUFFIX, myhuaweicloud-obs.cn
 DOMAIN-SUFFIX, myhuaweicloud-obs.com
 DOMAIN-SUFFIX, myhuaweicloud.cn
+DOMAIN-SUFFIX, myhuaweicloud.com
 DOMAIN-SUFFIX, myhwcdn.cn
 DOMAIN-SUFFIX, myhwcdn.com
 DOMAIN-SUFFIX, myhwcloudlive.com
@@ -5363,40 +5368,47 @@ DOMAIN-SUFFIX, powerapp.io
 
 # Huaweicloud Endpoint, source: https://developer.huaweicloud.com/endpoint
 DOMAIN-SUFFIX, ae-ad-1.myhuaweicloud.com
+DOMAIN-SUFFIX, af-east-201.myhuaweicloud.com
 DOMAIN-SUFFIX, af-north-1.myhuaweicloud.com
 DOMAIN-SUFFIX, af-south-1.myhuaweicloud.com
+DOMAIN-SUFFIX, af-west-202.myhuaweicloud.com
+DOMAIN-SUFFIX, ap-northeast-201.myhuaweicloud.com
 DOMAIN-SUFFIX, ap-southeast-1.myhuaweicloud.com
 DOMAIN-SUFFIX, ap-southeast-2.myhuaweicloud.com
+DOMAIN-SUFFIX, ap-southeast-201.myhuaweicloud.com
+DOMAIN-SUFFIX, ap-southeast-202.myhuaweicloud.com
+DOMAIN-SUFFIX, ap-southeast-203.myhuaweicloud.com
 DOMAIN-SUFFIX, ap-southeast-3.myhuaweicloud.com
 DOMAIN-SUFFIX, ap-southeast-4.myhuaweicloud.com
-DOMAIN-SUFFIX, cn-east-2.myhuaweicloud.com             #华东-上海二
-DOMAIN-SUFFIX, cn-east-3.myhuaweicloud.com             #华东-上海一
-DOMAIN-SUFFIX, cn-east-4.myhuaweicloud.com             #华东二
-DOMAIN-SUFFIX, cn-east-5.myhuaweicloud.com             #华东-青岛
-DOMAIN-SUFFIX, cn-north-1.myhuaweicloud.com            #华北-北京一
-DOMAIN-SUFFIX, cn-north-11.myhuaweicloud.com           #华北-乌兰察布-汽车一
-DOMAIN-SUFFIX, cn-north-2.myhuaweicloud.com            #华北-北京二
-DOMAIN-SUFFIX, cn-north-3.myhuaweicloud.com            #华北-北京三
-DOMAIN-SUFFIX, cn-north-4.myhuaweicloud.com            #华北-北京四
-DOMAIN-SUFFIX, cn-north-5.myhuaweicloud.com            #华北-乌兰察布二零一
-DOMAIN-SUFFIX, cn-north-6.myhuaweicloud.com            #华北-乌兰察布二零二
-DOMAIN-SUFFIX, cn-north-9.myhuaweicloud.com            #华北-乌兰察布一
-DOMAIN-SUFFIX, cn-northeast-1.myhuaweicloud.com        #东北-大连
-DOMAIN-SUFFIX, cn-south-1.myhuaweicloud.com            #华南-广州
-DOMAIN-SUFFIX, cn-south-2.myhuaweicloud.com            #华南-深圳
-DOMAIN-SUFFIX, cn-south-4.myhuaweicloud.com            #华南-广州-友好用户环境
-DOMAIN-SUFFIX, cn-southwest-2.myhuaweicloud.com        #西南-贵阳一
+DOMAIN-SUFFIX, ap-southeast-5.myhuaweicloud.com
+DOMAIN-SUFFIX, as-south-0.myhuaweicloud.com
+DOMAIN-SUFFIX, as-south-201.myhuaweicloud.com
+DOMAIN-SUFFIX, as-south-205.myhuaweicloud.com
+DOMAIN-SUFFIX, as-south-207.myhuaweicloud.com
+DOMAIN-SUFFIX, ca-east-201.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-central-201.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-central-202.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-north-201.myhuaweicloud.com
 DOMAIN-SUFFIX, eu-west-0.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-west-1.myhuaweicloud.com
 DOMAIN-SUFFIX, eu-west-101.myhuaweicloud.com
+DOMAIN-SUFFIX, eu-west-201.myhuaweicloud.com
 DOMAIN-SUFFIX, la-north-2.myhuaweicloud.com
+DOMAIN-SUFFIX, la-north-205.myhuaweicloud.com
 DOMAIN-SUFFIX, la-south-2.myhuaweicloud.com
 DOMAIN-SUFFIX, me-east-1.myhuaweicloud.com
+DOMAIN-SUFFIX, me-east-205.myhuaweicloud.com
+DOMAIN-SUFFIX, me-east-208.myhuaweicloud.com
+DOMAIN-SUFFIX, me-east-209.myhuaweicloud.com
 DOMAIN-SUFFIX, my-kualalumpur-1.myhuaweicloud.com
+DOMAIN-SUFFIX, na-east-0.myhuaweicloud.com
 DOMAIN-SUFFIX, na-mexico-1.myhuaweicloud.com
 DOMAIN-SUFFIX, ru-moscow-1.myhuaweicloud.com
 DOMAIN-SUFFIX, ru-northwest-2.myhuaweicloud.com
+DOMAIN-SUFFIX, ru-northwest-201.myhuaweicloud.com
 DOMAIN-SUFFIX, sa-brazil-1.myhuaweicloud.com
 DOMAIN-SUFFIX, tr-west-1.myhuaweicloud.com
+DOMAIN-SUFFIX, us-east-1.myhuaweicloud.com
 
 # 华为云 CDN CNAME 域名，按 ICP 备案序号排列
 DOMAIN-SUFFIX, cdnhwchcg02.com
@@ -6520,6 +6532,13 @@ DOMAIN-SUFFIX, ma.run
 DOMAIN-SUFFIX, um.run
 DOMAIN-SUFFIX, ym.run
 
+# 前端性能监控
+DOMAIN-SUFFIX, aegis.qq.com
+DOMAIN-SUFFIX, tamaegis.com
+DOMAIN-SUFFIX, rumt-zh.com
+DOMAIN-SUFFIX, rumt-sg.com
+DOMAIN-SUFFIX, rumt-us.com
+
 DOMAIN-SUFFIX, ad.qq.com
 DOMAIN-SUFFIX, ad.qun.qq.com
 DOMAIN-SUFFIX, adfilter.imtt.qq.com
@@ -6556,6 +6575,13 @@ DOMAIN-SUFFIX, tcss.qq.com
 DOMAIN-SUFFIX, trace.qq.com
 DOMAIN-SUFFIX, ugdtimg.com
 DOMAIN-SUFFIX, wit.qq.com
+
+# 腾讯 云原生构建
+DOMAIN-SUFFIX, cnb.cool
+
+DOMAIN-SUFFIX, coding.me
+DOMAIN-SUFFIX, coding.net
+
 
 DOMAIN-SUFFIX, openmidas.com
 DOMAIN-SUFFIX, qq.design

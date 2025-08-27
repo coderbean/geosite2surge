@@ -84,6 +84,7 @@ DOMAIN-SUFFIX, ntp2.wakwak.com
 # Apple
 # regexp:^time(.euro)?.apple.com$
 DOMAIN, time.apple.com
+DOMAIN, time.asia.apple.com
 DOMAIN, time.euro.apple.com
 
 # AWS

@@ -183,6 +183,13 @@ DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-west-1.aliyuncs.com
 
+DOMAIN-SUFFIX, alicloudccp.com
+DOMAIN-SUFFIX, alipan.com
+DOMAIN-SUFFIX, aliyundrive.cloud
+DOMAIN-SUFFIX, aliyundrive.com
+DOMAIN-SUFFIX, aliyundrive.net
+DOMAIN-SUFFIX, yunpan.aliyun.com
+
 DOMAIN-SUFFIX, cainiao-inc.com
 DOMAIN-SUFFIX, cainiao.com
 DOMAIN-SUFFIX, cainiao.com.cn
@@ -342,12 +349,6 @@ DOMAIN-SUFFIX, alipay.hk
 
 # AlipayMO
 DOMAIN-SUFFIX, alipaymo.com
-
-# 阿里云盘
-DOMAIN-SUFFIX, alicloudccp.com
-DOMAIN-SUFFIX, alipan.com
-DOMAIN-SUFFIX, aliyundrive.com
-DOMAIN-SUFFIX, aliyundrive.net
 
 # 盒马
 DOMAIN-SUFFIX, freshhema.com

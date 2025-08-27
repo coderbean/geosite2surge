@@ -396,3 +396,10 @@ DOMAIN-SUFFIX, m9.run
 DOMAIN-SUFFIX, ma.run
 DOMAIN-SUFFIX, um.run
 DOMAIN-SUFFIX, ym.run
+
+# 前端性能监控
+DOMAIN-SUFFIX, aegis.qq.com
+DOMAIN-SUFFIX, tamaegis.com
+DOMAIN-SUFFIX, rumt-zh.com
+DOMAIN-SUFFIX, rumt-sg.com
+DOMAIN-SUFFIX, rumt-us.com

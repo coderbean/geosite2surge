@@ -301,6 +301,7 @@ DOMAIN-SUFFIX, volcfake.com
 DOMAIN-SUFFIX, volcfcdnbyte.com
 DOMAIN-SUFFIX, volcfcdn.com
 DOMAIN-SUFFIX, volcfcdndvs.com
+DOMAIN-SUFFIX, volcfcdndvs1.com
 DOMAIN-SUFFIX, volcfcdnplus.com
 DOMAIN-SUFFIX, volcfcdnrd.com
 DOMAIN-SUFFIX, volcfcdnsc.com
@@ -459,6 +460,7 @@ DOMAIN-SUFFIX, bytegqpo.net
 DOMAIN-SUFFIX, bytegrowth.com
 DOMAIN-SUFFIX, byte-gslb.com
 DOMAIN-SUFFIX, bytegslb.com
+DOMAIN-SUFFIX, byteglb.com
 DOMAIN-SUFFIX, bytehwm.com
 DOMAIN-SUFFIX, byteics.com
 DOMAIN-SUFFIX, byteics.net
@@ -475,6 +477,7 @@ DOMAIN-SUFFIX, bytenewst.com
 DOMAIN-SUFFIX, byteorg.com
 DOMAIN-SUFFIX, byteorge.com
 DOMAIN-SUFFIX, byteoversea.com
+DOMAIN-SUFFIX, byteoversea.net
 DOMAIN-SUFFIX, byteq5k.com
 DOMAIN-SUFFIX, byteq8u.net
 DOMAIN-SUFFIX, bytescm.com
@@ -666,6 +669,7 @@ DOMAIN-SUFFIX, zjcdn.com
 DOMAIN-SUFFIX, zjfcdn.com
 DOMAIN-SUFFIX, zjgslb.com
 
+DOMAIN, bytedance.map.fastly.net
 
 # 今日头条
 DOMAIN-SUFFIX, toutiao.com

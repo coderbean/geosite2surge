@@ -43,6 +43,10 @@ DOMAIN-SUFFIX, notebooklm.google.com
 DOMAIN-SUFFIX, jules.google
 DOMAIN-SUFFIX, jules.google.com
 
+# Google AI Labs
+DOMAIN-SUFFIX, labs.google
+DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
+
 DOMAIN-SUFFIX, groq.com
 
 DOMAIN-SUFFIX, hf.co
@@ -75,6 +79,7 @@ DOMAIN-SUFFIX, host.livekit.cloud
 DOMAIN-SUFFIX, turn.livekit.cloud
 
 DOMAIN-SUFFIX, perplexity.ai
+DOMAIN-SUFFIX, perplexity.com
 DOMAIN-SUFFIX, pplx.ai
 
 DOMAIN, pplx-res.cloudinary.com
@@ -1748,6 +1753,7 @@ DOMAIN-SUFFIX, ifastps.com.cn
 DOMAIN-SUFFIX, ifasttv.com
 
 DOMAIN-SUFFIX, longbridge.cloud
+DOMAIN-SUFFIX, longbridge.com
 DOMAIN-SUFFIX, longbridge.global
 DOMAIN-SUFFIX, longbridge.hk
 DOMAIN-SUFFIX, longbridge.sg
@@ -1755,6 +1761,7 @@ DOMAIN-SUFFIX, longbridgeapp.com
 DOMAIN-SUFFIX, longportapp.com
 
 # Site Assets
+DOMAIN-SUFFIX, lbctrl.com
 DOMAIN-SUFFIX, lbkrs.com
 DOMAIN-SUFFIX, wbrks.com
 
@@ -3348,9 +3355,11 @@ DOMAIN-SUFFIX, binanceapi.com
 DOMAIN-SUFFIX, bnbstatic.com
 
 # saas
+DOMAIN-SUFFIX, appsflayer.com
+DOMAIN-SUFFIX, saasexch.cc
+DOMAIN-SUFFIX, saasexch.co
 DOMAIN-SUFFIX, saasexch.com
 DOMAIN-SUFFIX, saasexch.io
-DOMAIN-SUFFIX, appsflayer.com
 
 DOMAIN-SUFFIX, bitflyer.com
 DOMAIN-SUFFIX, bitflyer.jp
@@ -11482,6 +11491,9 @@ DOMAIN-SUFFIX, valvesoftware.com
 # edgecast
 DOMAIN-SUFFIX, edge.steam-dns.top.comcast.net
 
+# edgesuite
+DOMAIN, steamcommunity-a.akamaihd.net.edgesuite.net
+
 # 网宿(国际)
 DOMAIN-SUFFIX, steam.apac.qtlglb.com
 DOMAIN-SUFFIX, steam.eca.qtlglb.com
@@ -11776,6 +11788,14 @@ DOMAIN-SUFFIX, wbdnbo.net
 
 DOMAIN-SUFFIX, catchplay.com
 DOMAIN-SUFFIX, tra-ww000-cp.akamaized.net
+
+DOMAIN-SUFFIX, 2025copy.com
+DOMAIN-SUFFIX, copy-manga.com
+DOMAIN-SUFFIX, copy20.com
+DOMAIN-SUFFIX, copy2000.online
+DOMAIN-SUFFIX, mangacopy.com
+DOMAIN-SUFFIX, mangafuna.xyz
+DOMAIN-SUFFIX, mangafunb.fun
 
 DOMAIN-SUFFIX, dailymotion.com
 DOMAIN-SUFFIX, dm-event.net
@@ -12091,9 +12111,7 @@ DOMAIN-SUFFIX, imdb.to
 DOMAIN-SUFFIX, media-imdb.com
 
 DOMAIN-SUFFIX, iyf.tv
-
-# CDN used by iyf
-DOMAIN-SUFFIX, dnvodcdn.me
+DOMAIN-SUFFIX, yfsp.tv
 
 DOMAIN-SUFFIX, kingkong.com.tw
 DOMAIN-SUFFIX, kingkongapp.com
@@ -12239,6 +12257,13 @@ DOMAIN-SUFFIX, nicovideo.jp
 DOMAIN-SUFFIX, nimg.jp
 DOMAIN-SUFFIX, simg.jp
 
+DOMAIN-SUFFIX, now.com
+DOMAIN-SUFFIX, now.com.hk
+DOMAIN-SUFFIX, nowe.com
+DOMAIN-SUFFIX, nowe.hk
+DOMAIN-SUFFIX, now-tv.com
+DOMAIN-SUFFIX, now-ashare.com
+
 DOMAIN-SUFFIX, haiwaikan.com
 DOMAIN-SUFFIX, iole.tv
 DOMAIN-SUFFIX, olehd.com
@@ -12314,8 +12339,9 @@ DOMAIN-SUFFIX, wheelpop.com
 DOMAIN-SUFFIX, wwtbam.com
 DOMAIN-SUFFIX, yourfantasybeginsnow.com
 
-DOMAIN-SUFFIX, soundcloud.com
 DOMAIN-SUFFIX, sndcdn.com
+DOMAIN-SUFFIX, soundcloud.cloud
+DOMAIN-SUFFIX, soundcloud.com
 
 DOMAIN-SUFFIX, byspotify.com
 DOMAIN-SUFFIX, pscdn.co
@@ -12458,7 +12484,7 @@ DOMAIN-SUFFIX, visual-arts.jp
 # viu.tv
 DOMAIN-SUFFIX, viu.tv
 DOMAIN, api.viu.now.com
-URL-REGEX, ^ewcdn[0-9]{2}\.nowe\.com$
+URL-REGEX, ^ewcdn[0-9]+\.nowe\.com$
 
 # viu.com
 DOMAIN-SUFFIX, viu.com
@@ -13514,6 +13540,39 @@ DOMAIN-SUFFIX, via0.com
 
 
 # Media & News & Press
+DOMAIN-SUFFIX, 9to5google.com
+DOMAIN-SUFFIX, 9to5mac.com
+DOMAIN-SUFFIX, 9to5terminal.com
+DOMAIN-SUFFIX, 9to5toys.com
+DOMAIN-SUFFIX, dronedj.com
+DOMAIN-SUFFIX, electrek.co
+DOMAIN-SUFFIX, spaceexplored.com
+
+DOMAIN-SUFFIX, thetype.cloud
+DOMAIN-SUFFIX, thetype.com
+DOMAIN-SUFFIX, typeisbeautiful.com
+
+DOMAIN-SUFFIX, startupschool.org
+DOMAIN-SUFFIX, ycombinator.com
+
+
+DOMAIN-SUFFIX, androidauthority.com
+DOMAIN-SUFFIX, androidpolice.com
+DOMAIN-SUFFIX, appleinsider.com
+DOMAIN-SUFFIX, digitaltrends.com
+DOMAIN-SUFFIX, engadget.com
+DOMAIN-SUFFIX, macrumors.com
+DOMAIN-SUFFIX, slashdot.org
+DOMAIN-SUFFIX, technews.tw
+DOMAIN-SUFFIX, techradar.com
+DOMAIN-SUFFIX, theverge.com
+DOMAIN-SUFFIX, tomsguide.com
+
+# zdnet
+DOMAIN-SUFFIX, zdnet.com
+DOMAIN-SUFFIX, zdnet.redvideo.io
+
+
 DOMAIN-SUFFIX, 6park.com
 DOMAIN-SUFFIX, 6parkbbs.com
 DOMAIN-SUFFIX, 6parknews.com
@@ -13696,9 +13755,6 @@ DOMAIN-SUFFIX, bowenpress.com
 
 DOMAIN-SUFFIX, c-span.org
 DOMAIN-SUFFIX, c-spanvideo.org
-
-DOMAIN-SUFFIX, cabletv.com.hk
-DOMAIN-SUFFIX, i-cable.com
 
 # All .cbs domains
 DOMAIN-SUFFIX, cbs
@@ -14277,6 +14333,15 @@ DOMAIN-SUFFIX, huffpost.com
 DOMAIN-SUFFIX, huffpostarabi.com
 DOMAIN-SUFFIX, huffpostbrasil.com
 DOMAIN-SUFFIX, huffpostmaghreb.com
+
+DOMAIN-SUFFIX, cabletv.com.hk
+DOMAIN-SUFFIX, fantv.hk
+DOMAIN-SUFFIX, hkopentv.com
+DOMAIN-SUFFIX, hoy.tv
+DOMAIN-SUFFIX, i-cable.com
+
+
+DOMAIN-SUFFIX, i-cablecomm.com
 
 DOMAIN-SUFFIX, banned.video
 DOMAIN-SUFFIX, infowars.com
@@ -14999,40 +15064,6 @@ DOMAIN-SUFFIX, zeenews.com
 DOMAIN, zeenews-fonts.s3.amazonaws.com
 
 
-DOMAIN-SUFFIX, 9to5google.com
-DOMAIN-SUFFIX, 9to5mac.com
-DOMAIN-SUFFIX, 9to5terminal.com
-DOMAIN-SUFFIX, 9to5toys.com
-DOMAIN-SUFFIX, dronedj.com
-DOMAIN-SUFFIX, electrek.co
-DOMAIN-SUFFIX, spaceexplored.com
-
-DOMAIN-SUFFIX, thetype.cloud
-DOMAIN-SUFFIX, thetype.com
-DOMAIN-SUFFIX, typeisbeautiful.com
-
-DOMAIN-SUFFIX, startupschool.org
-DOMAIN-SUFFIX, ycombinator.com
-
-
-DOMAIN-SUFFIX, androidauthority.com
-DOMAIN-SUFFIX, androidpolice.com
-DOMAIN-SUFFIX, appleinsider.com
-DOMAIN-SUFFIX, digitaltrends.com
-DOMAIN-SUFFIX, engadget.com
-DOMAIN-SUFFIX, macrumors.com
-DOMAIN-SUFFIX, slashdot.org
-DOMAIN-SUFFIX, technews.tw
-DOMAIN-SUFFIX, techradar.com
-DOMAIN-SUFFIX, theverge.com
-DOMAIN-SUFFIX, tomsguide.com
-
-# zdnet
-DOMAIN-SUFFIX, zdnet.com
-DOMAIN-SUFFIX, zdnet.redvideo.io
-
-
-
 DOMAIN-SUFFIX, 881903.com
 DOMAIN-SUFFIX, am730.com.hk
 DOMAIN-SUFFIX, americasvoice.news
@@ -15375,6 +15406,10 @@ DOMAIN-SUFFIX, c4slive.com
 DOMAIN-SUFFIX, clips4sale.com
 DOMAIN-SUFFIX, videos4sale.com
 
+DOMAIN-SUFFIX, coomer.party
+DOMAIN-SUFFIX, coomer.st
+DOMAIN-SUFFIX, coomer.su
+
 DOMAIN-SUFFIX, cuinc.oen.tw
 DOMAIN-SUFFIX, cuinc.tw
 
@@ -15503,6 +15538,11 @@ DOMAIN-SUFFIX, cdnlab.live
 DOMAIN-SUFFIX, jable.tv
 DOMAIN-SUFFIX, mushroomtrack.com
 
+DOMAIN-SUFFIX, x18r.co
+DOMAIN-SUFFIX, x18r.com
+DOMAIN-SUFFIX, z18r.co
+DOMAIN-SUFFIX, z18r.com
+
 DOMAIN-SUFFIX, javbus.com
 DOMAIN-SUFFIX, javbus22.com
 DOMAIN-SUFFIX, javcdn.cc
@@ -15513,11 +15553,6 @@ DOMAIN-SUFFIX, javcc.com
 DOMAIN-SUFFIX, javdb.com
 DOMAIN-SUFFIX, jdbimgs.com
 DOMAIN-SUFFIX, jdbstatic.com
-
-DOMAIN-SUFFIX, x18r.co
-DOMAIN-SUFFIX, x18r.com
-DOMAIN-SUFFIX, z18r.co
-DOMAIN-SUFFIX, z18r.com
 
 DOMAIN-SUFFIX, javwide.com
 DOMAIN-SUFFIX, javwide.tv
@@ -15535,8 +15570,6 @@ DOMAIN-SUFFIX, hkporn.net
 DOMAIN-SUFFIX, justav.net
 DOMAIN-SUFFIX, twporn.net
 
-DOMAIN-SUFFIX, cooer.su
-DOMAIN-SUFFIX, coomer.party
 DOMAIN-SUFFIX, kemono.cr
 DOMAIN-SUFFIX, kemono.party
 DOMAIN-SUFFIX, kemono.su
@@ -15877,7 +15910,6 @@ DOMAIN-SUFFIX, a7sex.com
 DOMAIN-SUFFIX, ctotires.com
 DOMAIN-SUFFIX, ferryclean.com
 DOMAIN-SUFFIX, zhimeishe888.com
-
 
 
 # The top domains of the pornographic website.
@@ -22282,6 +22314,7 @@ DOMAIN-SUFFIX, ntp2.wakwak.com
 # Apple
 # regexp:^time(.euro)?.apple.com$
 DOMAIN, time.apple.com
+DOMAIN, time.asia.apple.com
 DOMAIN, time.euro.apple.com
 
 # AWS
@@ -23968,12 +24001,15 @@ DOMAIN-SUFFIX, amazonaws.info
 DOMAIN-SUFFIX, amazonaws.net
 DOMAIN-SUFFIX, amazonaws.org
 DOMAIN-SUFFIX, amazonaws.tv
+DOMAIN-SUFFIX, amazoncognito.com
 DOMAIN-SUFFIX, amazonses.com
 DOMAIN-SUFFIX, amazonworkdocs.com
 DOMAIN-SUFFIX, amplifyapp.com
 DOMAIN-SUFFIX, amplifyframework.com
 DOMAIN-SUFFIX, aws-iot-hackathon.com
 DOMAIN-SUFFIX, aws.com
+DOMAIN-SUFFIX, awsapprunner.com
+DOMAIN-SUFFIX, awsapps.com
 DOMAIN-SUFFIX, awsautopilot.com
 DOMAIN-SUFFIX, awsautoscaling.com
 DOMAIN-SUFFIX, awsbraket.com
@@ -27246,144 +27282,249 @@ DOMAIN-SUFFIX, coreldraw.app
 DOMAIN-SUFFIX, coreldraw.com
 DOMAIN-SUFFIX, corelstore.com
 
-DOMAIN-SUFFIX, cfblob.com
-DOMAIN-SUFFIX, cloudchoose.com
-DOMAIN-SUFFIX, cloudvolumes.com
-DOMAIN-SUFFIX, cmpaas.com
-DOMAIN-SUFFIX, cpedge.com
-DOMAIN-SUFFIX, crit-staging.com
-DOMAIN-SUFFIX, experience-vmware.com
-DOMAIN-SUFFIX, gemfire.net
-DOMAIN-SUFFIX, geodesummit.com
-DOMAIN-SUFFIX, getboxer.com
-DOMAIN-SUFFIX, gitstar.com
-DOMAIN-SUFFIX, gitstar.net
-DOMAIN-SUFFIX, gopivotal.net
-DOMAIN-SUFFIX, greenplum.net
-DOMAIN-SUFFIX, hwslabs.com
-DOMAIN-SUFFIX, immidio.com
-DOMAIN-SUFFIX, itfromtheinside.com
-DOMAIN-SUFFIX, latamvmwareforum.com
-DOMAIN-SUFFIX, pivotalinitiative.com
-DOMAIN-SUFFIX, snapvolumes.com
-DOMAIN-SUFFIX, ssdevrd.com
-DOMAIN-SUFFIX, vcanedge.com
-DOMAIN-SUFFIX, vcloudair.net
-DOMAIN-SUFFIX, vfabric.net
-DOMAIN-SUFFIX, vidmpreview.com
-DOMAIN-SUFFIX, virsto.com
-DOMAIN-SUFFIX, virsto.net
-DOMAIN-SUFFIX, vmglobal.net
-DOMAIN-SUFFIX, vmmark.com
-DOMAIN-SUFFIX, vmtestdrive.com
-DOMAIN-SUFFIX, vmw.com
-DOMAIN-SUFFIX, vmware-cloudmanagement.com
-DOMAIN-SUFFIX, vmware-techcenter.com
-DOMAIN-SUFFIX, vmware.com
-DOMAIN-SUFFIX, vmware20mosaic.com
-DOMAIN-SUFFIX, vmwareausnews.com
-DOMAIN-SUFFIX, vmwarecertificationvideos.com
-DOMAIN-SUFFIX, vmwarecloud.com
-DOMAIN-SUFFIX, vmwaredemandcenter.com
-DOMAIN-SUFFIX, vmwareemeablog.com
-DOMAIN-SUFFIX, vmwaregrid.com
-DOMAIN-SUFFIX, vmwarehorizon.com
-DOMAIN-SUFFIX, vmwareidentity.com
-DOMAIN-SUFFIX, vmwarelearning.com
-DOMAIN-SUFFIX, vmwarelearningplatform.com
-DOMAIN-SUFFIX, vmwarestuff.com
-DOMAIN-SUFFIX, vmwareusergroupstore.com
-DOMAIN-SUFFIX, vmwareviewpoint.com
-DOMAIN-SUFFIX, vmwarevmc.com
-DOMAIN-SUFFIX, vmwdemo.com
-DOMAIN-SUFFIX, vmwgcomms.com
-DOMAIN-SUFFIX, vmwhorizonair.com
-DOMAIN-SUFFIX, vmwidm-ads.com
-DOMAIN-SUFFIX, vmwidm.com
-DOMAIN-SUFFIX, vmwlabconnect.com
-DOMAIN-SUFFIX, vmwlearningplatform.com
-DOMAIN-SUFFIX, vmworld.com
-DOMAIN-SUFFIX, vmworld2010.com
-DOMAIN-SUFFIX, vmworld2013.com
-DOMAIN-SUFFIX, vmwsalesrewards.com
-DOMAIN-SUFFIX, vmwservices.com
-DOMAIN-SUFFIX, vnware.net
-DOMAIN-SUFFIX, whychoosehorizon.com
-DOMAIN-SUFFIX, whychooseview.com
-DOMAIN-SUFFIX, whychoosevmwareeuc.com
-DOMAIN-SUFFIX, windowsuem.com
-DOMAIN-SUFFIX, workspaceair.com
-DOMAIN-SUFFIX, xlstudio.com
-
-# Avi Networks
-DOMAIN-SUFFIX, avinetworks.com
-DOMAIN-SUFFIX, badaas.com
-
-# Bitnami
-DOMAIN-SUFFIX, bitnami.com
-DOMAIN-SUFFIX, bitnamiapp.com
-DOMAIN-SUFFIX, bitnamistudio.com
-DOMAIN-SUFFIX, dockerizer.com
-
-# Cloud Cred
-DOMAIN-SUFFIX, cloudcredibility.com
-
-# CloudHealth
-DOMAIN-SUFFIX, cloudhealthtech.com
-DOMAIN-SUFFIX, cloudlive.com
-
-# Kube
-DOMAIN-SUFFIX, kubeacademy.com
-DOMAIN-SUFFIX, kubeapps.com
-
-# Nyansa
-DOMAIN-SUFFIX, nyansa.com
-
-# VeloCloud
-DOMAIN-SUFFIX, velocloud.com
-
-# VMware Tanzu Portfolio
-DOMAIN-SUFFIX, gopivotal.com
-DOMAIN-SUFFIX, heptio.cn
-DOMAIN-SUFFIX, heptio.com
-
-# vRealize Operations
-DOMAIN-SUFFIX, aliveipc.com
-DOMAIN-SUFFIX, aliveitsm.com
-DOMAIN-SUFFIX, aliveprofiler.com
-DOMAIN-SUFFIX, alivercm.com
-DOMAIN-SUFFIX, aliverewind.com
-DOMAIN-SUFFIX, alivertsm.com
-DOMAIN-SUFFIX, alivevm.com
-DOMAIN-SUFFIX, alivevmax.com
-DOMAIN-SUFFIX, alivevue.com
-
-# vSphere
-DOMAIN-SUFFIX, vsphere.com
-DOMAIN-SUFFIX, vsphere.net
-
-# Workspace ONE
-DOMAIN-SUFFIX, air-watch.com
-DOMAIN-SUFFIX, airwatchexpress.com
-DOMAIN-SUFFIX, airwatchqa.com
-DOMAIN-SUFFIX, getws1.com
-DOMAIN-SUFFIX, getwsone.com
-DOMAIN-SUFFIX, whatisairwatch.com
-DOMAIN-SUFFIX, whatisworkspaceone.com
-DOMAIN-SUFFIX, workspaceone.com
-
-DOMAIN, vmware.tt.omtrdc.net
-
-
 # All .dell domains
 DOMAIN-SUFFIX, dell
 
+# Alienware
+DOMAIN-SUFFIX, alienware.ae
+DOMAIN-SUFFIX, alienware.at
+DOMAIN-SUFFIX, alienware.be
+DOMAIN-SUFFIX, alienware.biz
+DOMAIN-SUFFIX, alienware.ca
+DOMAIN-SUFFIX, alienware.ch
+DOMAIN-SUFFIX, alienware.co.cr
+DOMAIN-SUFFIX, alienware.co.il
+DOMAIN-SUFFIX, alienware.co.in
+DOMAIN-SUFFIX, alienware.co.nz
+DOMAIN-SUFFIX, alienware.co.uk
+DOMAIN-SUFFIX, alienware.com
+DOMAIN-SUFFIX, alienware.com.au
+DOMAIN-SUFFIX, alienware.com.es
+DOMAIN-SUFFIX, alienware.com.my
+DOMAIN-SUFFIX, alienware.com.sg
+DOMAIN-SUFFIX, alienware.cz
+DOMAIN-SUFFIX, alienware.de
+DOMAIN-SUFFIX, alienware.dk
+DOMAIN-SUFFIX, alienware.es
+DOMAIN-SUFFIX, alienware.eu
+DOMAIN-SUFFIX, alienware.fr
+DOMAIN-SUFFIX, alienware.gr
+DOMAIN-SUFFIX, alienware.hk
+DOMAIN-SUFFIX, alienware.ie
+DOMAIN-SUFFIX, alienware.it
+DOMAIN-SUFFIX, alienware.jp
+DOMAIN-SUFFIX, alienware.kr
+DOMAIN-SUFFIX, alienware.lv
+DOMAIN-SUFFIX, alienware.net
+DOMAIN-SUFFIX, alienware.nl
+DOMAIN-SUFFIX, alienware.ph
+DOMAIN-SUFFIX, alienware.pl
+DOMAIN-SUFFIX, alienware.ps
+DOMAIN-SUFFIX, alienware.ro
+DOMAIN-SUFFIX, alienware.se
+DOMAIN-SUFFIX, alienware.us
+
+DOMAIN-SUFFIX, del.com
+DOMAIN-SUFFIX, del.com.br
 DOMAIN-SUFFIX, dell-brand.com
+DOMAIN-SUFFIX, dell.ac
+DOMAIN-SUFFIX, dell.am
+DOMAIN-SUFFIX, dell.at
+DOMAIN-SUFFIX, dell.az
+DOMAIN-SUFFIX, dell.be
+DOMAIN-SUFFIX, dell.bg
+DOMAIN-SUFFIX, dell.bi
+DOMAIN-SUFFIX, dell.bs
+DOMAIN-SUFFIX, dell.by
+DOMAIN-SUFFIX, dell.ca
+DOMAIN-SUFFIX, dell.cd
+DOMAIN-SUFFIX, dell.cg
+DOMAIN-SUFFIX, dell.ch
+DOMAIN-SUFFIX, dell.cl
+DOMAIN-SUFFIX, dell.co.id
+DOMAIN-SUFFIX, dell.co.il
+DOMAIN-SUFFIX, dell.co.in
+DOMAIN-SUFFIX, dell.co.jp
+DOMAIN-SUFFIX, dell.co.kr
+DOMAIN-SUFFIX, dell.co.mu
+DOMAIN-SUFFIX, dell.co.nz
+DOMAIN-SUFFIX, dell.co.th
+DOMAIN-SUFFIX, dell.co.tt
+DOMAIN-SUFFIX, dell.co.uk
+DOMAIN-SUFFIX, dell.co.vi
+DOMAIN-SUFFIX, dell.co.za
 DOMAIN-SUFFIX, dell.com
+DOMAIN-SUFFIX, dell.com.ag
+DOMAIN-SUFFIX, dell.com.ai
+DOMAIN-SUFFIX, dell.com.ar
+DOMAIN-SUFFIX, dell.com.au
+DOMAIN-SUFFIX, dell.com.bb
+DOMAIN-SUFFIX, dell.com.bo
+DOMAIN-SUFFIX, dell.com.br
+DOMAIN-SUFFIX, dell.com.bs
+DOMAIN-SUFFIX, dell.com.bz
+DOMAIN-SUFFIX, dell.com.cn
+DOMAIN-SUFFIX, dell.com.co
+DOMAIN-SUFFIX, dell.com.cy
+DOMAIN-SUFFIX, dell.com.dm
+DOMAIN-SUFFIX, dell.com.do
+DOMAIN-SUFFIX, dell.com.ec
+DOMAIN-SUFFIX, dell.com.gr
+DOMAIN-SUFFIX, dell.com.gt
+DOMAIN-SUFFIX, dell.com.gy
+DOMAIN-SUFFIX, dell.com.hk
+DOMAIN-SUFFIX, dell.com.hn
+DOMAIN-SUFFIX, dell.com.hr
+DOMAIN-SUFFIX, dell.com.ht
+DOMAIN-SUFFIX, dell.com.jm
+DOMAIN-SUFFIX, dell.com.kn
+DOMAIN-SUFFIX, dell.com.ky
+DOMAIN-SUFFIX, dell.com.lc
+DOMAIN-SUFFIX, dell.com.ly
+DOMAIN-SUFFIX, dell.com.mk
+DOMAIN-SUFFIX, dell.com.mt
+DOMAIN-SUFFIX, dell.com.mx
+DOMAIN-SUFFIX, dell.com.my
+DOMAIN-SUFFIX, dell.com.na
+DOMAIN-SUFFIX, dell.com.ng
+DOMAIN-SUFFIX, dell.com.ni
+DOMAIN-SUFFIX, dell.com.pa
+DOMAIN-SUFFIX, dell.com.pe
+DOMAIN-SUFFIX, dell.com.ph
+DOMAIN-SUFFIX, dell.com.pk
+DOMAIN-SUFFIX, dell.com.pl
+DOMAIN-SUFFIX, dell.com.pr
+DOMAIN-SUFFIX, dell.com.py
+DOMAIN-SUFFIX, dell.com.ru
+DOMAIN-SUFFIX, dell.com.sa
+DOMAIN-SUFFIX, dell.com.sg
+DOMAIN-SUFFIX, dell.com.tc
+DOMAIN-SUFFIX, dell.com.tr
+DOMAIN-SUFFIX, dell.com.tt
+DOMAIN-SUFFIX, dell.com.tw
+DOMAIN-SUFFIX, dell.com.ua
+DOMAIN-SUFFIX, dell.com.uy
+DOMAIN-SUFFIX, dell.com.vc
+DOMAIN-SUFFIX, dell.com.ve
+DOMAIN-SUFFIX, dell.com.vi
+DOMAIN-SUFFIX, dell.cz
+DOMAIN-SUFFIX, dell.de
+DOMAIN-SUFFIX, dell.dk
+DOMAIN-SUFFIX, dell.dm
+DOMAIN-SUFFIX, dell.ee
+DOMAIN-SUFFIX, dell.es
+DOMAIN-SUFFIX, dell.eu
+DOMAIN-SUFFIX, dell.fi
+DOMAIN-SUFFIX, dell.fr
+DOMAIN-SUFFIX, dell.gm
+DOMAIN-SUFFIX, dell.gp
+DOMAIN-SUFFIX, dell.gr
+DOMAIN-SUFFIX, dell.hr
+DOMAIN-SUFFIX, dell.hu
+DOMAIN-SUFFIX, dell.id
+DOMAIN-SUFFIX, dell.ie
+DOMAIN-SUFFIX, dell.is
+DOMAIN-SUFFIX, dell.it
+DOMAIN-SUFFIX, dell.jp
+DOMAIN-SUFFIX, dell.kg
+DOMAIN-SUFFIX, dell.kn
+DOMAIN-SUFFIX, dell.kz
+DOMAIN-SUFFIX, dell.lt
+DOMAIN-SUFFIX, dell.lu
+DOMAIN-SUFFIX, dell.lv
+DOMAIN-SUFFIX, dell.ly
+DOMAIN-SUFFIX, dell.ma
+DOMAIN-SUFFIX, dell.mq
+DOMAIN-SUFFIX, dell.mu
+DOMAIN-SUFFIX, dell.mw
+DOMAIN-SUFFIX, dell.net
+DOMAIN-SUFFIX, dell.ng
+DOMAIN-SUFFIX, dell.nl
+DOMAIN-SUFFIX, dell.no
+DOMAIN-SUFFIX, dell.org.il
+DOMAIN-SUFFIX, dell.ph
+DOMAIN-SUFFIX, dell.pl
+DOMAIN-SUFFIX, dell.ps
+DOMAIN-SUFFIX, dell.pt
+DOMAIN-SUFFIX, dell.ro
+DOMAIN-SUFFIX, dell.ru
+DOMAIN-SUFFIX, dell.rw
+DOMAIN-SUFFIX, dell.sc
+DOMAIN-SUFFIX, dell.se
+DOMAIN-SUFFIX, dell.sg
+DOMAIN-SUFFIX, dell.si
+DOMAIN-SUFFIX, dell.sk
+DOMAIN-SUFFIX, dell.sn
+DOMAIN-SUFFIX, dell.tc
+DOMAIN-SUFFIX, dell.tj
+DOMAIN-SUFFIX, dell.tm
+DOMAIN-SUFFIX, dell.tt
+DOMAIN-SUFFIX, dell.tv
+DOMAIN-SUFFIX, dell.ua
+DOMAIN-SUFFIX, dell.ug
+DOMAIN-SUFFIX, dell.uz
+DOMAIN-SUFFIX, dell.vg
+DOMAIN-SUFFIX, dell.vn
+
+DOMAIN-SUFFIX, dataframeworks.com
+DOMAIN-SUFFIX, dell-alw.com
 DOMAIN-SUFFIX, dellcdn.com
+DOMAIN-SUFFIX, dellcommunity.com
+DOMAIN-SUFFIX, dellcomunidade.com
+DOMAIN-SUFFIX, dellcustomerservice.com
+DOMAIN-SUFFIX, delldesignsystem.com
+DOMAIN-SUFFIX, delldrivers.com
+DOMAIN-SUFFIX, dellemc.com
+DOMAIN-SUFFIX, dellemc.com.cn
+DOMAIN-SUFFIX, dellemcevents.com
+DOMAIN-SUFFIX, dellmobile.cn
+DOMAIN-SUFFIX, delloutlet.com
+DOMAIN-SUFFIX, dellpoweredge.com
+DOMAIN-SUFFIX, dellpowersolutions.com
+DOMAIN-SUFFIX, dellprecision.com
+DOMAIN-SUFFIX, dellprinter.com
 DOMAIN-SUFFIX, dellsupportcenter.com
+DOMAIN-SUFFIX, delltechcenter.com
 DOMAIN-SUFFIX, delltechnologies.com
+DOMAIN-SUFFIX, delltechnologies.com.cn
+DOMAIN-SUFFIX, delltechnologiescapital.com
+DOMAIN-SUFFIX, delltechnologiesworld.com
+DOMAIN-SUFFIX, earthdell.com
 DOMAIN-SUFFIX, emc.com
+DOMAIN-SUFFIX, platform.dell.com
+DOMAIN-SUFFIX, shopalienware.com
+DOMAIN-SUFFIX, solutionstation.com
+DOMAIN-SUFFIX, studiodell.com
+DOMAIN-SUFFIX, vce.com
+
+DOMAIN, dell.my.site.com
+
+DOMAIN, afcs.dell.com
+DOMAIN, clientperipherals.dell.com
+DOMAIN, customization-cdn.dell.com
+DOMAIN, dds.dell.com
+DOMAIN, dl.dell.com
+DOMAIN, ea2cn-dev-outlet.dell.com
+DOMAIN, ea2cn-prod-outlet.dell.com
+DOMAIN, ea2cn-staging-outlet.dell.com
+DOMAIN, fcs.dell.com
+DOMAIN, fta.dell.com
+DOMAIN, ftaapj.dell.com
+DOMAIN, ftaemea.dell.com
+DOMAIN, ftasitapj.dell.com
+DOMAIN, gbxgateway-dev.dell.com
+DOMAIN, gbxgateway.dell.com
+DOMAIN, i.dell.com
+DOMAIN, nexus.dell.com
+DOMAIN, p.cdn.persaas.dell.com
+DOMAIN, scene7-cdn.dell.com
+DOMAIN, si.cdn.dell.com
+DOMAIN, sm.dell.com
+DOMAIN, snp.cdn.dell.com
+DOMAIN, snpi.dell.com
+DOMAIN, supportassist.dell.com
+DOMAIN, www-csb.dell.com
+DOMAIN, www.dell.com
 
 DOMAIN-SUFFIX, digitalocean.com
 DOMAIN-SUFFIX, digitaloceanspaces.com
@@ -27654,6 +27795,10 @@ DOMAIN-SUFFIX, notebooklm.google.com
 DOMAIN-SUFFIX, jules.google
 DOMAIN-SUFFIX, jules.google.com
 
+# Google AI Labs
+DOMAIN-SUFFIX, labs.google
+DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
+
 # This list is for backward compatibility
 
 # Google DeepMind
@@ -27685,6 +27830,10 @@ DOMAIN-SUFFIX, notebooklm.google.com
 # Jules
 DOMAIN-SUFFIX, jules.google
 DOMAIN-SUFFIX, jules.google.com
+
+# Google AI Labs
+DOMAIN-SUFFIX, labs.google
+DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 
 DOMAIN-SUFFIX, googleplay.com
@@ -30431,7 +30580,6 @@ DOMAIN-SUFFIX, dcg.microsoft.com
 DOMAIN-SUFFIX, docs.com
 DOMAIN-SUFFIX, dynamics.cn
 DOMAIN-SUFFIX, dynamics.com
-DOMAIN-SUFFIX, edgesuite.net
 DOMAIN-SUFFIX, efproject.net
 DOMAIN-SUFFIX, engkoo.com
 DOMAIN-SUFFIX, fasttrackreadysupport.com
@@ -31077,7 +31225,7 @@ DOMAIN-SUFFIX, now-ashare.com
 # viu.tv
 DOMAIN-SUFFIX, viu.tv
 DOMAIN, api.viu.now.com
-URL-REGEX, ^ewcdn[0-9]{2}\.nowe\.com$
+URL-REGEX, ^ewcdn[0-9]+\.nowe\.com$
 
 # viu.com
 DOMAIN-SUFFIX, viu.com
@@ -31094,6 +31242,7 @@ DOMAIN-SUFFIX, pccwsolutions.com
 DOMAIN-SUFFIX, moov.hk
 
 DOMAIN-SUFFIX, perplexity.ai
+DOMAIN-SUFFIX, perplexity.com
 DOMAIN-SUFFIX, pplx.ai
 
 DOMAIN, pplx-res.cloudinary.com

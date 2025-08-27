@@ -36,9 +36,11 @@ DOMAIN-SUFFIX, binanceapi.com
 DOMAIN-SUFFIX, bnbstatic.com
 
 # saas
+DOMAIN-SUFFIX, appsflayer.com
+DOMAIN-SUFFIX, saasexch.cc
+DOMAIN-SUFFIX, saasexch.co
 DOMAIN-SUFFIX, saasexch.com
 DOMAIN-SUFFIX, saasexch.io
-DOMAIN-SUFFIX, appsflayer.com
 
 DOMAIN-SUFFIX, bitflyer.com
 DOMAIN-SUFFIX, bitflyer.jp

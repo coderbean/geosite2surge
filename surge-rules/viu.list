@@ -1,7 +1,7 @@
 # viu.tv
 DOMAIN-SUFFIX, viu.tv
 DOMAIN, api.viu.now.com
-URL-REGEX, ^ewcdn[0-9]{2}\.nowe\.com$
+URL-REGEX, ^ewcdn[0-9]+\.nowe\.com$
 
 # viu.com
 DOMAIN-SUFFIX, viu.com
