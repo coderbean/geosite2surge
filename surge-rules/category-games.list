@@ -976,6 +976,8 @@ DOMAIN, steamusercontent-a.akamaihd.net
 DOMAIN, steamuserimages-a.akamaihd.net
 DOMAIN, steamvideo-a.akamaihd.net
 
+# Azure
+DOMAIN, steamcloudsweden.blob.core.windows.net
 
 # 完美
 DOMAIN-SUFFIX, csgo.wmsj.cn

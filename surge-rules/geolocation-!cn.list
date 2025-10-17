@@ -3,7 +3,9 @@
 # AI Chat
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claude.com
 DOMAIN-SUFFIX, claudeusercontent.com
+DOMAIN-SUFFIX, claudemcpclient.com
 
 # CDN
 DOMAIN, servd-anthropic-website.b-cdn.net
@@ -3354,6 +3356,8 @@ DOMAIN-SUFFIX, binancezh.top
 # API
 DOMAIN-SUFFIX, binanceapi.com
 DOMAIN-SUFFIX, bnbstatic.com
+DOMAIN-SUFFIX, bntrace.com
+DOMAIN-SUFFIX, nftstatic.com
 
 # saas
 DOMAIN-SUFFIX, appsflayer.com
@@ -11528,6 +11532,8 @@ DOMAIN, steamusercontent-a.akamaihd.net
 DOMAIN, steamuserimages-a.akamaihd.net
 DOMAIN, steamvideo-a.akamaihd.net
 
+# Azure
+DOMAIN, steamcloudsweden.blob.core.windows.net
 
 # 完美
 DOMAIN-SUFFIX, csgo.wmsj.cn
@@ -23202,6 +23208,7 @@ DOMAIN-SUFFIX, githubstatus.com
 DOMAIN-SUFFIX, githubuniverse.com
 DOMAIN-SUFFIX, githubusercontent.com
 DOMAIN-SUFFIX, myoctocat.com
+DOMAIN-SUFFIX, octocaptcha.com
 DOMAIN-SUFFIX, opensource.guide
 DOMAIN-SUFFIX, repo.new
 DOMAIN-SUFFIX, thegithubshop.com
@@ -23209,6 +23216,7 @@ DOMAIN-SUFFIX, thegithubshop.com
 # GitHub Actions Artifacts
 DOMAIN-SUFFIX, blob.core.windows.net
 
+DOMAIN, github-api.arkoselabs.com
 DOMAIN, github-cloud.s3.amazonaws.com
 URL-REGEX, ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 
@@ -24223,7 +24231,9 @@ DOMAIN, www.amd.com
 
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claude.com
 DOMAIN-SUFFIX, claudeusercontent.com
+DOMAIN-SUFFIX, claudemcpclient.com
 
 # CDN
 DOMAIN, servd-anthropic-website.b-cdn.net
@@ -30312,6 +30322,7 @@ DOMAIN-SUFFIX, githubstatus.com
 DOMAIN-SUFFIX, githubuniverse.com
 DOMAIN-SUFFIX, githubusercontent.com
 DOMAIN-SUFFIX, myoctocat.com
+DOMAIN-SUFFIX, octocaptcha.com
 DOMAIN-SUFFIX, opensource.guide
 DOMAIN-SUFFIX, repo.new
 DOMAIN-SUFFIX, thegithubshop.com
@@ -30319,6 +30330,7 @@ DOMAIN-SUFFIX, thegithubshop.com
 # GitHub Actions Artifacts
 DOMAIN-SUFFIX, blob.core.windows.net
 
+DOMAIN, github-api.arkoselabs.com
 DOMAIN, github-cloud.s3.amazonaws.com
 URL-REGEX, ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 
