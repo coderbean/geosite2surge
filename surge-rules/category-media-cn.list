@@ -291,6 +291,27 @@ DOMAIN-SUFFIX, ckxx.net
 # 大公网（大公报）
 DOMAIN-SUFFIX, takungpao.com
 
+# 看看新闻
+DOMAIN-SUFFIX, kankanews.com
+DOMAIN-SUFFIX, kankannews.com
+DOMAIN-SUFFIX, kksmg.com
+DOMAIN-SUFFIX, statickksmg.com
+
+# 鞭牛士 京ICP备16012692号
+DOMAIN-SUFFIX, bianews.com
+
+# DoNews 蜀ICP备2024059877号
+DOMAIN-SUFFIX, donews.com
+
+# 青岛新闻 鲁B2-20051014-1
+DOMAIN-SUFFIX, qingdaonews.com
+
+# 南岳新闻网 湘ICP备2022008426号-2
+DOMAIN-SUFFIX, nanyuenews.com
+
+# 晋中广播电视台视听网 晋ICP备08003098号-3
+DOMAIN-SUFFIX, jztvnews.com
+
 # 超能网
 DOMAIN-SUFFIX, expreview.com
 

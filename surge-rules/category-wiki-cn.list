@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX, fgo.wiki
 DOMAIN-SUFFIX, jikipedia.com
 DOMAIN-SUFFIX, mbalib.com
-DOMAIN-SUFFIX, qiuwen.wiki
 DOMAIN-SUFFIX, sec-wiki.com
 DOMAIN-SUFFIX, shidianbaike.com
 
@@ -15,3 +14,7 @@ DOMAIN-SUFFIX, moegirl.org.cn
 
 # MC百科
 DOMAIN-SUFFIX, mcmod.cn
+
+# 求闻百科
+DOMAIN-SUFFIX, qiuwenbaike.cn
+DOMAIN-SUFFIX, qiuwen.wiki

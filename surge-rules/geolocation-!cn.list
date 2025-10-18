@@ -10,6 +10,8 @@ DOMAIN-SUFFIX, claudemcpclient.com
 # CDN
 DOMAIN, servd-anthropic-website.b-cdn.net
 
+DOMAIN-SUFFIX, cerebras.ai
+
 DOMAIN-SUFFIX, cursor-cdn.com
 DOMAIN-SUFFIX, cursor.com
 DOMAIN-SUFFIX, cursor.sh
@@ -12688,6 +12690,7 @@ DOMAIN-SUFFIX, youtubekids.com
 DOMAIN-SUFFIX, youtubemobilesupport.com
 DOMAIN-SUFFIX, yt.be
 DOMAIN-SUFFIX, ytimg.com
+DOMAIN, yt3.googleusercontent.com
 
 DOMAIN-SUFFIX, z5.app
 DOMAIN-SUFFIX, z5.com
@@ -15557,9 +15560,12 @@ DOMAIN-SUFFIX, javcdn.cc
 DOMAIN-SUFFIX, javcc.cc
 DOMAIN-SUFFIX, javcc.com
 
+DOMAIN-SUFFIX, jav.app
 DOMAIN-SUFFIX, javdb.com
 DOMAIN-SUFFIX, jdbimgs.com
 DOMAIN-SUFFIX, jdbstatic.com
+
+URL-REGEX, javdb\d+\.com$
 
 DOMAIN-SUFFIX, javwide.com
 DOMAIN-SUFFIX, javwide.tv
@@ -28186,6 +28192,7 @@ DOMAIN-SUFFIX, youtubekids.com
 DOMAIN-SUFFIX, youtubemobilesupport.com
 DOMAIN-SUFFIX, yt.be
 DOMAIN-SUFFIX, ytimg.com
+DOMAIN, yt3.googleusercontent.com
 
 
 # All .and domains

@@ -434,3 +434,7 @@ DOMAIN-SUFFIX, npmmirror.com
 
 # 闲鱼
 DOMAIN-SUFFIX, goofish.com
+
+# 考拉
+DOMAIN-SUFFIX, kaola.com
+DOMAIN-SUFFIX, kaolacdn.com

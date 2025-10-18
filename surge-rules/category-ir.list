@@ -6,6 +6,16 @@ DOMAIN-SUFFIX, ir
 DOMAIN-SUFFIX, xn--mgba3a4f16a # .ایران
 DOMAIN-SUFFIX, xn--mgba3a4fra # .ايران
 
+# Iranian Advertising websites
+
+DOMAIN-SUFFIX, adivery.com
+DOMAIN-SUFFIX, adivery.ir
+DOMAIN-SUFFIX, kaprila.com
+DOMAIN-SUFFIX, najva.com
+DOMAIN-SUFFIX, sabavision.com
+DOMAIN-SUFFIX, tapsell.ir
+DOMAIN-SUFFIX, yektanet.com
+
 # Iranian bank websites
 
 DOMAIN-SUFFIX, agri-bank.com

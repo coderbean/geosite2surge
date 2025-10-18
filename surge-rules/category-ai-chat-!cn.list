@@ -9,6 +9,8 @@ DOMAIN-SUFFIX, claudemcpclient.com
 # CDN
 DOMAIN, servd-anthropic-website.b-cdn.net
 
+DOMAIN-SUFFIX, cerebras.ai
+
 DOMAIN-SUFFIX, cursor-cdn.com
 DOMAIN-SUFFIX, cursor.com
 DOMAIN-SUFFIX, cursor.sh

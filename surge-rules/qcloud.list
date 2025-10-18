@@ -22,6 +22,8 @@ DOMAIN-SUFFIX, acctdns.com
 DOMAIN-SUFFIX, acctdns.net
 DOMAIN-SUFFIX, aitransfy.com
 DOMAIN-SUFFIX, apaas-zone-test.com
+DOMAIN-SUFFIX, apdcdn.com
+DOMAIN-SUFFIX, apdcdn.net
 DOMAIN-SUFFIX, apigwtencent.com
 DOMAIN-SUFFIX, bkapigw.com
 DOMAIN-SUFFIX, bkapps.com
@@ -190,6 +192,7 @@ DOMAIN-SUFFIX, tidaas.com
 DOMAIN-SUFFIX, timatrix.com.cn
 DOMAIN-SUFFIX, timmerse.com
 DOMAIN-SUFFIX, tlivecdn.com
+DOMAIN-SUFFIX, tlivemcdn.com
 DOMAIN-SUFFIX, tlivepush.com
 DOMAIN-SUFFIX, tlivesource.com
 DOMAIN-SUFFIX, tourismshow.cn
