@@ -128,8 +128,11 @@ DOMAIN-SUFFIX, aliyun-inc.com
 DOMAIN-SUFFIX, aliyun-iot-share.com
 DOMAIN-SUFFIX, aliyun.com
 DOMAIN-SUFFIX, aliyuncdn.com
+DOMAIN-SUFFIX, aliyuncdn.net
 DOMAIN-SUFFIX, aliyunfile.com
+DOMAIN-SUFFIX, aliyunpds.com
 DOMAIN-SUFFIX, cdngslb.com
+DOMAIN-SUFFIX, fcapp.run
 DOMAIN-SUFFIX, hichina.com
 DOMAIN-SUFFIX, ica-alliance.org
 DOMAIN-SUFFIX, kunlunaq.com
@@ -202,8 +205,10 @@ DOMAIN-SUFFIX, dingtalk.cn
 DOMAIN-SUFFIX, dingtalk.com
 DOMAIN-SUFFIX, dingtalk.net
 DOMAIN-SUFFIX, dingtalkapps.com
+DOMAIN-SUFFIX, dingtalkcloud.com
 DOMAIN-SUFFIX, laiwang.com
 DOMAIN-SUFFIX, lwurl.to
+DOMAIN-SUFFIX, ztna-dingtalk.com
 
 DOMAIN-SUFFIX, doservice.com
 DOMAIN-SUFFIX, ele.me
@@ -223,14 +228,6 @@ DOMAIN-SUFFIX, uc123.com
 DOMAIN-SUFFIX, ucweb.com
 DOMAIN-SUFFIX, uczzd.cn
 
-DOMAIN-SUFFIX, mobmore.com
-DOMAIN-SUFFIX, umeng.com
-DOMAIN-SUFFIX, umengcloud.com
-DOMAIN-SUFFIX, umsns.com
-DOMAIN-SUFFIX, umtrack.com
-DOMAIN-SUFFIX, uyunad.com
-DOMAIN-SUFFIX, whalecloud.com
-
 DOMAIN-SUFFIX, alog.umeng.com
 DOMAIN-SUFFIX, alog.umengcloud.com
 
@@ -238,6 +235,17 @@ DOMAIN-SUFFIX, alog.umengcloud.com
 DOMAIN-SUFFIX, w.cnzz.com
 DOMAIN-SUFFIX, z.gds.cnzz.com
 
+
+DOMAIN-SUFFIX, cnzz.com
+DOMAIN-SUFFIX, mobmore.com
+DOMAIN-SUFFIX, puata.info
+DOMAIN-SUFFIX, shujupie.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, umengcloud.com
+DOMAIN-SUFFIX, umsns.com
+DOMAIN-SUFFIX, umtrack.com
+DOMAIN-SUFFIX, uyunad.com
+DOMAIN-SUFFIX, whalecloud.com
 
 
 DOMAIN-SUFFIX, 25pp.com
@@ -438,3 +446,12 @@ DOMAIN-SUFFIX, goofish.com
 # 考拉
 DOMAIN-SUFFIX, kaola.com
 DOMAIN-SUFFIX, kaolacdn.com
+
+# 瓴羊
+DOMAIN-SUFFIX, lydaas.cn
+DOMAIN-SUFFIX, lydaas.com
+DOMAIN-SUFFIX, lydaas.com.cn
+DOMAIN-SUFFIX, lydaas.net
+DOMAIN-SUFFIX, lydass.cn
+DOMAIN-SUFFIX, lydass.com.cn
+DOMAIN-SUFFIX, lydass.net

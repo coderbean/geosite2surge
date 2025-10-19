@@ -106,6 +106,7 @@ DOMAIN-SUFFIX, jasper.ai
 
 DOMAIN-SUFFIX, chutes.ai
 DOMAIN-SUFFIX, copilot.microsoft.com
+DOMAIN-SUFFIX, diabrowser.com
 DOMAIN-SUFFIX, dify.ai
 DOMAIN-SUFFIX, gateway.ai.cloudflare.com
 DOMAIN-SUFFIX, meta.ai
@@ -3504,6 +3505,7 @@ DOMAIN-SUFFIX, dogecoin.com
 DOMAIN-SUFFIX, dydx.exchange
 DOMAIN-SUFFIX, fundingrates.xyz
 DOMAIN-SUFFIX, gemini.com
+DOMAIN-SUFFIX, guardarian.com
 DOMAIN-SUFFIX, hashflow.com
 DOMAIN-SUFFIX, infura.io
 DOMAIN-SUFFIX, invity.io
@@ -3518,6 +3520,7 @@ DOMAIN-SUFFIX, paxful.com
 DOMAIN-SUFFIX, polymarket.com
 DOMAIN-SUFFIX, ripple.com
 DOMAIN-SUFFIX, satoshilabs.com
+DOMAIN-SUFFIX, stealthex.io
 DOMAIN-SUFFIX, theblock.co
 DOMAIN-SUFFIX, trezor.io
 DOMAIN-SUFFIX, truefi.io
@@ -13484,6 +13487,7 @@ DOMAIN-SUFFIX, twvid.com
 DOMAIN-SUFFIX, vine.co
 DOMAIN-SUFFIX, x.com
 
+DOMAIN-SUFFIX, cdn-vk.ru
 DOMAIN-SUFFIX, mradx.net
 DOMAIN-SUFFIX, mvk.com
 DOMAIN-SUFFIX, userapi.com
@@ -13492,6 +13496,7 @@ DOMAIN-SUFFIX, vk-apps.com
 DOMAIN-SUFFIX, vk-apps.ru
 DOMAIN-SUFFIX, vk-cdn.me
 DOMAIN-SUFFIX, vk-cdn.net
+DOMAIN-SUFFIX, vkcloud-static.ru
 DOMAIN-SUFFIX, vk-portal.net
 DOMAIN-SUFFIX, vk.cc
 DOMAIN-SUFFIX, vk.com
@@ -22864,6 +22869,7 @@ DOMAIN-SUFFIX, vercel-status.com
 DOMAIN-SUFFIX, vercel.app
 DOMAIN-SUFFIX, vercel.blog
 DOMAIN-SUFFIX, vercel.com
+DOMAIN-SUFFIX, vercel.dev
 DOMAIN-SUFFIX, vercel.events
 DOMAIN-SUFFIX, vercel.live
 DOMAIN-SUFFIX, vercel.pub
@@ -25932,8 +25938,9 @@ DOMAIN-SUFFIX, xn--ohq11k7pl25iyo8a.cn
 DOMAIN-SUFFIX, xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
 
 DOMAIN, apple.com.akadns.net
-DOMAIN, courier-push-apple.com.akadns.net
+DOMAIN, configuration-lb.ls-apple.com.akadns.net
 DOMAIN, push-apple.com.akadns.net
+DOMAIN-SUFFIX, courier-push-apple.com.akadns.net
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:apple@cn"
@@ -26043,12 +26050,9 @@ DOMAIN, s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
 # Revision: 4d392cc0a822ac5626bb97fef3fe5e04e86b28b0
+# Duplicates removed
+# According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
-DOMAIN, a1.mzstatic.com
-DOMAIN, a2.mzstatic.com
-DOMAIN, a3.mzstatic.com
-DOMAIN, a4.mzstatic.com
-DOMAIN, a5.mzstatic.com
 DOMAIN, adcdownload.apple.com
 DOMAIN, adcdownload.apple.com.akadns.net
 DOMAIN, amp-api-updates.apps.apple.com
@@ -26057,34 +26061,15 @@ DOMAIN, app-site-association.cdn-apple.com
 DOMAIN, appldnld.apple.com
 DOMAIN, appldnld.g.aaplimg.com
 DOMAIN, appleid.cdn-apple.com
-# According to the consensus in #503, do not include the domain name apps.apple.com directly.
 DOMAIN, apps.mzstatic.com
 DOMAIN, bag-cdn.itunes-apple.com.akadns.net
-DOMAIN, cdn-cn1.apple-mapkit.com
-DOMAIN, cdn-cn2.apple-mapkit.com
-DOMAIN, cdn-cn3.apple-mapkit.com
-DOMAIN, cdn-cn4.apple-mapkit.com
-DOMAIN, cdn.apple-mapkit.com
-DOMAIN, cdn1.apple-mapkit.com
-DOMAIN, cdn2.apple-mapkit.com
-DOMAIN, cdn3.apple-mapkit.com
-DOMAIN, cdn4.apple-mapkit.com
 DOMAIN, cds-cdn.v.aaplimg.com
 DOMAIN, cds.apple.com
 DOMAIN, cds.apple.com.akadns.net
 DOMAIN, cdsassets.apple.com
 DOMAIN, certs.apple.com
-DOMAIN, cl1-cdn.origin-apple.com.akadns.net
-DOMAIN, cl1.apple.com
 DOMAIN, cl2-cn.apple.com
-DOMAIN, cl2.apple.com
-DOMAIN, cl3-cdn.origin-apple.com.akadns.net
-DOMAIN, cl3.apple.com
-DOMAIN, cl4-cdn.origin-apple.com.akadns.net
 DOMAIN, cl4-cn.apple.com
-DOMAIN, cl4.apple.com
-DOMAIN, cl5-cdn.origin-apple.com.akadns.net
-DOMAIN, cl5.apple.com
 DOMAIN, clientflow.apple.com
 DOMAIN, clientflow.apple.com.akadns.net
 DOMAIN, cn-smp-paymentservices.apple.com
@@ -26119,7 +26104,6 @@ DOMAIN, gspe79-cn-ssl.ls.apple.com
 DOMAIN, guzzoni-apple-com.v.aaplimg.com
 DOMAIN, guzzoni.apple.com
 DOMAIN, guzzoni.smoot.apple.com
-# full:iadsdk.apple.com has already been defined in apple-ads
 DOMAIN, icloud-cdn.icloud.com.akadns.net
 DOMAIN, icloud.cdn-apple.com
 DOMAIN, images.apple.com.edgekey.net.globalredir.akadns.net
@@ -26136,16 +26120,6 @@ DOMAIN, ipcdn.apple.com
 DOMAIN, iphone-ld.apple.com
 DOMAIN, iphone-ld.origin-apple.com.akadns.net
 DOMAIN, is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
-DOMAIN, is1-ssl.mzstatic.com
-DOMAIN, is1.mzstatic.com
-DOMAIN, is2-ssl.mzstatic.com
-DOMAIN, is2.mzstatic.com
-DOMAIN, is3-ssl.mzstatic.com
-DOMAIN, is3.mzstatic.com
-DOMAIN, is4-ssl.mzstatic.com
-DOMAIN, is4.mzstatic.com
-DOMAIN, is5-ssl.mzstatic.com
-DOMAIN, is5.mzstatic.com
 DOMAIN, itunes-apple.com.akadns.net
 DOMAIN, itunes.apple.com
 DOMAIN, itunesconnect.apple.com
@@ -26168,7 +26142,6 @@ DOMAIN, probe.siri.apple.com
 DOMAIN, prod-support.apple-support.akadns.net
 DOMAIN, publicassets.cdn-apple.com
 DOMAIN, reserve-prime.apple.com
-DOMAIN, s.mzstatic.com
 DOMAIN, seed-sequoia.siri.apple.com
 DOMAIN, seed-swallow.siri.apple.com
 DOMAIN, seed.siri.apple.com
@@ -29534,9 +29507,13 @@ DOMAIN-SUFFIX, logitechg.fr
 DOMAIN-SUFFIX, logitechio.com.cn
 DOMAIN-SUFFIX, worldsfastestgamer.net
 
+DOMAIN-SUFFIX, boosty.to
+DOMAIN-SUFFIX, donationalerts.com
 DOMAIN-SUFFIX, imgsmail.ru
 DOMAIN-SUFFIX, mail.ru
+DOMAIN-SUFFIX, memealerts.com
 DOMAIN-SUFFIX, mycdn.me
+DOMAIN-SUFFIX, okcdn.ru
 
 DOMAIN-SUFFIX, aboutfacebook.com
 DOMAIN-SUFFIX, accessfacebookfromschool.com
@@ -31399,11 +31376,16 @@ DOMAIN-SUFFIX, samsung.com
 DOMAIN-SUFFIX, samsungads.com
 DOMAIN-SUFFIX, samsungapps.com
 DOMAIN-SUFFIX, samsungcloud.com
+DOMAIN-SUFFIX, samsungconsent.com
 DOMAIN-SUFFIX, samsungdm.com
 DOMAIN-SUFFIX, samsungeshop.com.cn
 DOMAIN-SUFFIX, samsunggalaxyfriends.com
+DOMAIN-SUFFIX, samsunghealth.com
+DOMAIN-SUFFIX, samsungiotcloud.com
 DOMAIN-SUFFIX, samsungknox.com
+DOMAIN-SUFFIX, samsungosp.com
 DOMAIN-SUFFIX, samsungqbe.com
+DOMAIN-SUFFIX, samsungrs.com
 
 # SKY Perfect JSAT Holdings Inc.
 DOMAIN-SUFFIX, skyperfectjsat.space

@@ -20,14 +20,6 @@ DOMAIN-SUFFIX, n0q.cn
 DOMAIN-SUFFIX, pushcfg.com
 DOMAIN-SUFFIX, s0n.cn
 
-DOMAIN-SUFFIX, mobmore.com
-DOMAIN-SUFFIX, umeng.com
-DOMAIN-SUFFIX, umengcloud.com
-DOMAIN-SUFFIX, umsns.com
-DOMAIN-SUFFIX, umtrack.com
-DOMAIN-SUFFIX, uyunad.com
-DOMAIN-SUFFIX, whalecloud.com
-
 DOMAIN-SUFFIX, alog.umeng.com
 DOMAIN-SUFFIX, alog.umengcloud.com
 
@@ -35,6 +27,17 @@ DOMAIN-SUFFIX, alog.umengcloud.com
 DOMAIN-SUFFIX, w.cnzz.com
 DOMAIN-SUFFIX, z.gds.cnzz.com
 
+
+DOMAIN-SUFFIX, cnzz.com
+DOMAIN-SUFFIX, mobmore.com
+DOMAIN-SUFFIX, puata.info
+DOMAIN-SUFFIX, shujupie.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, umengcloud.com
+DOMAIN-SUFFIX, umsns.com
+DOMAIN-SUFFIX, umtrack.com
+DOMAIN-SUFFIX, uyunad.com
+DOMAIN-SUFFIX, whalecloud.com
 
 
 # category-httpdns-cn is mainly for advertising purpose
@@ -671,6 +674,12 @@ DOMAIN-SUFFIX, yyds.co
 DOMAIN-SUFFIX, 3songshu.com
 DOMAIN-SUFFIX, haidilao.com
 
+# 俺来也（上海）网络科技有限公司
+DOMAIN-SUFFIX, anlaiye.com
+DOMAIN-SUFFIX, anlaiye.com.cn
+DOMAIN-SUFFIX, imcoming.com
+DOMAIN-SUFFIX, imcome.net
+
 
 # 快递物流
 # 百世
@@ -855,6 +864,138 @@ DOMAIN-SUFFIX, ztoyh.com
 
 # GUOO国欧物流 粤ICP备2020101377号
 DOMAIN-SUFFIX, guoocang.com
+
+
+# Electronic
+# Electronic store/company's website with access point in China
+
+# Analog
+DOMAIN-SUFFIX, analog.com
+
+# 艾睿电子
+DOMAIN-SUFFIX, arrow.cn
+
+# 博流智能
+DOMAIN-SUFFIX, bouffalolab.com
+
+# 乐鑫信息科技
+DOMAIN-SUFFIX, esp8266.cn
+DOMAIN-SUFFIX, esp8266.com
+DOMAIN-SUFFIX, esp8266.com.cn
+DOMAIN-SUFFIX, espressif.cn
+DOMAIN-SUFFIX, espressif.com
+DOMAIN-SUFFIX, espressif.com.cn
+
+# 华秋电子
+DOMAIN-SUFFIX, eda.cn
+DOMAIN-SUFFIX, elecfans.com
+DOMAIN-SUFFIX, hqchip.com
+DOMAIN-SUFFIX, hqdoc.com
+DOMAIN-SUFFIX, hqpcb.com
+
+# 英飞凌
+DOMAIN-SUFFIX, infineon.com
+
+# 嘉立创集团
+DOMAIN-SUFFIX, forface3d.com
+DOMAIN-SUFFIX, jlcfa.com
+DOMAIN-SUFFIX, jlcgroup.cn
+DOMAIN-SUFFIX, jlc-3dp.cn
+DOMAIN-SUFFIX, jlc-bbs.com
+DOMAIN-SUFFIX, jlc-cnc.com
+DOMAIN-SUFFIX, jlc-dfm.com
+DOMAIN-SUFFIX, jlc-drm.com
+DOMAIN-SUFFIX, jlc-fpc.com
+DOMAIN-SUFFIX, jlc-gw.com
+DOMAIN-SUFFIX, jlc-smt.com
+DOMAIN-SUFFIX, jlc-layout.com
+DOMAIN-SUFFIX, jlc-zh.com
+DOMAIN-SUFFIX, oshwhub.com
+DOMAIN-SUFFIX, szlcsc.com
+DOMAIN-SUFFIX, sz-jlc.com
+DOMAIN-SUFFIX, zxhgroup.com
+
+# 移远通信
+DOMAIN-SUFFIX, quecmall.cn
+DOMAIN-SUFFIX, quectel.com.cn
+DOMAIN-SUFFIX, iotronic.tech
+
+# 瑞芯微电子
+DOMAIN-SUFFIX, rock-chips.com
+
+# 矽递科技
+DOMAIN-SUFFIX, seeed.cn
+DOMAIN-SUFFIX, seeed.cc
+DOMAIN-SUFFIX, seeed.com.cn
+DOMAIN-SUFFIX, seeedstudio.com.cn
+
+# 矽速科技
+DOMAIN-SUFFIX, sipeed.com
+DOMAIN-SUFFIX, maixhub.com
+
+# 德州仪器
+DOMAIN-SUFFIX, ti.com
+DOMAIN-SUFFIX, ti.com.cn
+
+# 沁恒微电子
+DOMAIN-SUFFIX, wch.cn
+DOMAIN-SUFFIX, wch-ic.com
+
+
+# 汽车
+# 汽车资讯
+## 汽车之家
+DOMAIN-SUFFIX, autohome.com
+DOMAIN-SUFFIX, autohome.com.cn
+DOMAIN-SUFFIX, autohome.tel
+DOMAIN-SUFFIX, autoimg.cn
+DOMAIN-SUFFIX, autoimg.com.cn
+## 易车‌
+DOMAIN-SUFFIX, bitauto.com
+DOMAIN-SUFFIX, bitautoimg.com
+DOMAIN-SUFFIX, cheyisou.com
+DOMAIN-SUFFIX, yiche.com
+DOMAIN-SUFFIX, yccdn.com
+
+## 懂车帝
+# 渝ICP备2023013619号
+DOMAIN-SUFFIX, dcarapi.com
+DOMAIN-SUFFIX, dcarimg.com
+DOMAIN-SUFFIX, dcarlive.com
+DOMAIN-SUFFIX, dcarstatic.com
+DOMAIN-SUFFIX, dcarvod.com
+DOMAIN-SUFFIX, dcdapp.com
+DOMAIN-SUFFIX, dongchedi.com
+DOMAIN-SUFFIX, dongchediapp.com
+
+
+# 汽车品牌
+DOMAIN-SUFFIX, byd.com # 比亚迪
+DOMAIN-SUFFIX, geely.com # 吉利
+DOMAIN-SUFFIX, gwm.com.cn # 长城
+DOMAIN-SUFFIX, lixiang.com # 理想
+DOMAIN-SUFFIX, nio.cn # 蔚来
+DOMAIN-SUFFIX, xiaopeng.com # 小鹏
+DOMAIN-SUFFIX, zeekrlife.com # 极氪
+
+## 瓜子二手车
+DOMAIN-SUFFIX, gzurl.cn
+DOMAIN-SUFFIX, guazi.com
+DOMAIN-SUFFIX, guazistatic.com
+DOMAIN-SUFFIX, guazi.net
+
+# 租车平台
+## 一嗨租车
+DOMAIN-SUFFIX, 1hai.cn
+## 首汽租车
+DOMAIN-SUFFIX, izuche.com
+## 租车宝
+DOMAIN-SUFFIX, izuchebao.com
+## 悟空租车
+DOMAIN-SUFFIX, wkzuche.com
+## 神州租车
+DOMAIN-SUFFIX, zuche.com
+DOMAIN-SUFFIX, zuchecdn.com
 
 
 # CDN or SDWAN
@@ -1517,82 +1658,9 @@ DOMAIN-SUFFIX, ziroom.com
 DOMAIN-SUFFIX, ziroomapartment.com
 
 
-# Electronic
-# Electronic store/company's website with access point in China
-
-# Analog
-DOMAIN-SUFFIX, analog.com
-
-# 艾睿电子
-DOMAIN-SUFFIX, arrow.cn
-
-# 博流智能
-DOMAIN-SUFFIX, bouffalolab.com
-
-# 乐鑫信息科技
-DOMAIN-SUFFIX, esp8266.cn
-DOMAIN-SUFFIX, esp8266.com
-DOMAIN-SUFFIX, esp8266.com.cn
-DOMAIN-SUFFIX, espressif.cn
-DOMAIN-SUFFIX, espressif.com
-DOMAIN-SUFFIX, espressif.com.cn
-
-# 华秋电子
-DOMAIN-SUFFIX, eda.cn
-DOMAIN-SUFFIX, elecfans.com
-DOMAIN-SUFFIX, hqchip.com
-DOMAIN-SUFFIX, hqdoc.com
-DOMAIN-SUFFIX, hqpcb.com
-
-# 英飞凌
-DOMAIN-SUFFIX, infineon.com
-
-# 嘉立创集团
-DOMAIN-SUFFIX, forface3d.com
-DOMAIN-SUFFIX, jlcfa.com
-DOMAIN-SUFFIX, jlcgroup.cn
-DOMAIN-SUFFIX, jlc-3dp.cn
-DOMAIN-SUFFIX, jlc-bbs.com
-DOMAIN-SUFFIX, jlc-cnc.com
-DOMAIN-SUFFIX, jlc-dfm.com
-DOMAIN-SUFFIX, jlc-drm.com
-DOMAIN-SUFFIX, jlc-fpc.com
-DOMAIN-SUFFIX, jlc-gw.com
-DOMAIN-SUFFIX, jlc-smt.com
-DOMAIN-SUFFIX, jlc-layout.com
-DOMAIN-SUFFIX, jlc-zh.com
-DOMAIN-SUFFIX, oshwhub.com
-DOMAIN-SUFFIX, szlcsc.com
-DOMAIN-SUFFIX, sz-jlc.com
-DOMAIN-SUFFIX, zxhgroup.com
-
-# 移远通信
-DOMAIN-SUFFIX, quecmall.cn
-DOMAIN-SUFFIX, quectel.com.cn
-DOMAIN-SUFFIX, iotronic.tech
-
-# 瑞芯微电子
-DOMAIN-SUFFIX, rock-chips.com
-
-# 矽递科技
-DOMAIN-SUFFIX, seeed.cn
-DOMAIN-SUFFIX, seeed.cc
-DOMAIN-SUFFIX, seeed.com.cn
-DOMAIN-SUFFIX, seeedstudio.com.cn
-
-# 矽速科技
-DOMAIN-SUFFIX, sipeed.com
-DOMAIN-SUFFIX, maixhub.com
-
-# 德州仪器
-DOMAIN-SUFFIX, ti.com
-DOMAIN-SUFFIX, ti.com.cn
-
-# 沁恒微电子
-DOMAIN-SUFFIX, wch.cn
-DOMAIN-SUFFIX, wch-ic.com
-
-
+# 多点新鲜
+DOMAIN-SUFFIX, dmall.com
+DOMAIN-SUFFIX, dmallcdn.com
 # 孔夫子旧书网
 DOMAIN-SUFFIX, kongfz.com
 DOMAIN-SUFFIX, kfzimg.com
@@ -2373,6 +2441,18 @@ DOMAIN-SUFFIX, wasu.cn
 DOMAIN-SUFFIX, wasu.tv
 DOMAIN-SUFFIX, wasumedia.cn
 
+# 清枫（北京）科技有限公司
+# 京ICP备15018522号
+
+DOMAIN-SUFFIX, 1xhh.cn
+DOMAIN-SUFFIX, accxiaoheihe.com
+DOMAIN-SUFFIX, chat.top
+DOMAIN-SUFFIX, debugmode.cn
+DOMAIN-SUFFIX, max-c.com
+DOMAIN-SUFFIX, maxadmin.cn
+DOMAIN-SUFFIX, maxjia.com
+DOMAIN-SUFFIX, xiaoheihe.cn
+
 DOMAIN-SUFFIX, ximalaya.com
 DOMAIN-SUFFIX, xmcdn.com
 
@@ -2951,6 +3031,17 @@ DOMAIN-SUFFIX, wss1.cn
 # 123云盘
 DOMAIN-SUFFIX, 123pan.cn
 DOMAIN-SUFFIX, 123pan.com
+DOMAIN-SUFFIX, 123panpay.com
+DOMAIN-SUFFIX, 123957.com
+DOMAIN-SUFFIX, 123912.com
+DOMAIN-SUFFIX, 123860.com
+DOMAIN-SUFFIX, 123842.com
+DOMAIN-SUFFIX, 123641.com
+DOMAIN-SUFFIX, 123624.com
+DOMAIN-SUFFIX, 123294.com
+DOMAIN-SUFFIX, 123254.com
+DOMAIN-SUFFIX, 123245.com
+DOMAIN-SUFFIX, 123952.com
 
 DOMAIN-SUFFIX, cloud.189.cn # 天翼云盘
 DOMAIN-SUFFIX, ctfile.com # 城通网盘
@@ -3340,12 +3431,6 @@ DOMAIN-SUFFIX, agoraio.cn
 DOMAIN-SUFFIX, agoralab.co
 
 DOMAIN-SUFFIX, antutu.com
-
-DOMAIN-SUFFIX, bitauto.com
-DOMAIN-SUFFIX, bitautoimg.com
-DOMAIN-SUFFIX, cheyisou.com
-DOMAIN-SUFFIX, yiche.com
-DOMAIN-SUFFIX, yccdn.com
 
 # Remote Desktop
 ## Oray
@@ -4087,8 +4172,11 @@ DOMAIN-SUFFIX, aliyun-inc.com
 DOMAIN-SUFFIX, aliyun-iot-share.com
 DOMAIN-SUFFIX, aliyun.com
 DOMAIN-SUFFIX, aliyuncdn.com
+DOMAIN-SUFFIX, aliyuncdn.net
 DOMAIN-SUFFIX, aliyunfile.com
+DOMAIN-SUFFIX, aliyunpds.com
 DOMAIN-SUFFIX, cdngslb.com
+DOMAIN-SUFFIX, fcapp.run
 DOMAIN-SUFFIX, hichina.com
 DOMAIN-SUFFIX, ica-alliance.org
 DOMAIN-SUFFIX, kunlunaq.com
@@ -4161,8 +4249,10 @@ DOMAIN-SUFFIX, dingtalk.cn
 DOMAIN-SUFFIX, dingtalk.com
 DOMAIN-SUFFIX, dingtalk.net
 DOMAIN-SUFFIX, dingtalkapps.com
+DOMAIN-SUFFIX, dingtalkcloud.com
 DOMAIN-SUFFIX, laiwang.com
 DOMAIN-SUFFIX, lwurl.to
+DOMAIN-SUFFIX, ztna-dingtalk.com
 
 DOMAIN-SUFFIX, doservice.com
 DOMAIN-SUFFIX, ele.me
@@ -4182,14 +4272,6 @@ DOMAIN-SUFFIX, uc123.com
 DOMAIN-SUFFIX, ucweb.com
 DOMAIN-SUFFIX, uczzd.cn
 
-DOMAIN-SUFFIX, mobmore.com
-DOMAIN-SUFFIX, umeng.com
-DOMAIN-SUFFIX, umengcloud.com
-DOMAIN-SUFFIX, umsns.com
-DOMAIN-SUFFIX, umtrack.com
-DOMAIN-SUFFIX, uyunad.com
-DOMAIN-SUFFIX, whalecloud.com
-
 DOMAIN-SUFFIX, alog.umeng.com
 DOMAIN-SUFFIX, alog.umengcloud.com
 
@@ -4197,6 +4279,17 @@ DOMAIN-SUFFIX, alog.umengcloud.com
 DOMAIN-SUFFIX, w.cnzz.com
 DOMAIN-SUFFIX, z.gds.cnzz.com
 
+
+DOMAIN-SUFFIX, cnzz.com
+DOMAIN-SUFFIX, mobmore.com
+DOMAIN-SUFFIX, puata.info
+DOMAIN-SUFFIX, shujupie.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, umengcloud.com
+DOMAIN-SUFFIX, umsns.com
+DOMAIN-SUFFIX, umtrack.com
+DOMAIN-SUFFIX, uyunad.com
+DOMAIN-SUFFIX, whalecloud.com
 
 
 DOMAIN-SUFFIX, 25pp.com
@@ -4397,6 +4490,15 @@ DOMAIN-SUFFIX, goofish.com
 # 考拉
 DOMAIN-SUFFIX, kaola.com
 DOMAIN-SUFFIX, kaolacdn.com
+
+# 瓴羊
+DOMAIN-SUFFIX, lydaas.cn
+DOMAIN-SUFFIX, lydaas.com
+DOMAIN-SUFFIX, lydaas.com.cn
+DOMAIN-SUFFIX, lydaas.net
+DOMAIN-SUFFIX, lydass.cn
+DOMAIN-SUFFIX, lydass.com.cn
+DOMAIN-SUFFIX, lydass.net
 
 DOMAIN-SUFFIX, b3log.org
 
@@ -5410,6 +5512,7 @@ DOMAIN-SUFFIX, wukongwenda.cn
 DOMAIN-SUFFIX, wukongwenda.com
 
 # 懂车帝
+# 渝ICP备2023013619号
 DOMAIN-SUFFIX, dcarapi.com
 DOMAIN-SUFFIX, dcarimg.com
 DOMAIN-SUFFIX, dcarlive.com
@@ -5418,6 +5521,7 @@ DOMAIN-SUFFIX, dcarvod.com
 DOMAIN-SUFFIX, dcdapp.com
 DOMAIN-SUFFIX, dongchedi.com
 DOMAIN-SUFFIX, dongchediapp.com
+
 
 # 阳关宽频网
 DOMAIN-SUFFIX, 365yg.com
@@ -7328,6 +7432,15 @@ DOMAIN-SUFFIX, wo.com.cn
 DOMAIN-SUFFIX, wo116114.com
 
 
+# 中国铁塔
+# 中国铁塔股份有限公司 京ICP备14039488
+DOMAIN-SUFFIX, chinatowercom.cn
+DOMAIN-SUFFIX, china-tower.com
+DOMAIN-SUFFIX, tower.com.cn
+DOMAIN-SUFFIX, tower0788.com
+DOMAIN-SUFFIX, tower0788.cn
+
+
 # OI
 # LeetCode 中国站
 DOMAIN-SUFFIX, leetcode.cn
@@ -7544,6 +7657,7 @@ DOMAIN-SUFFIX, 258.com
 DOMAIN-SUFFIX, 263.net
 DOMAIN-SUFFIX, 289.com
 DOMAIN-SUFFIX, 2cto.com
+DOMAIN-SUFFIX, 2dfire.com
 DOMAIN-SUFFIX, 3000.com
 DOMAIN-SUFFIX, 310win.com
 DOMAIN-SUFFIX, 315che.com
@@ -7717,6 +7831,7 @@ DOMAIN-SUFFIX, chachaba.com
 DOMAIN-SUFFIX, changba.com
 DOMAIN-SUFFIX, chaojituzi.net
 DOMAIN-SUFFIX, chashebao.com
+DOMAIN-SUFFIX, chaz.fun # 粤ICP备2022001828号-2
 DOMAIN-SUFFIX, chazhengla.com
 DOMAIN-SUFFIX, che168.com
 DOMAIN-SUFFIX, china-chair.com
@@ -7743,6 +7858,7 @@ DOMAIN-SUFFIX, chuangcdn.com
 DOMAIN-SUFFIX, chuangxin.com
 DOMAIN-SUFFIX, chuansong.me
 DOMAIN-SUFFIX, chuansongme.com
+DOMAIN-SUFFIX, chujingapp.com # 湘ICP备2022023629号-1
 DOMAIN-SUFFIX, chushou.tv
 DOMAIN-SUFFIX, chuyu.me # 浙ICP备17002125 Dism++官网
 DOMAIN-SUFFIX, city8.com
@@ -7752,9 +7868,9 @@ DOMAIN-SUFFIX, cloudxns.com
 DOMAIN-SUFFIX, cnanzhi.com
 DOMAIN-SUFFIX, cnepub.com
 DOMAIN-SUFFIX, cnlaw.net
-DOMAIN-SUFFIX, cnzz.com
 DOMAIN-SUFFIX, cocodiy.com
 DOMAIN-SUFFIX, code666.com
+DOMAIN-SUFFIX, codeloop.top # 渝ICP备2023015627号-1
 DOMAIN-SUFFIX, cofeed.com
 DOMAIN-SUFFIX, cofool.com
 DOMAIN-SUFFIX, coindog.com
@@ -7980,7 +8096,7 @@ DOMAIN-SUFFIX, it610.com
 DOMAIN-SUFFIX, itjuzi.com
 DOMAIN-SUFFIX, itmop.com
 DOMAIN-SUFFIX, iyiou.com
-DOMAIN-SUFFIX, izuche.com
+DOMAIN-SUFFIX, iyunmu.com
 DOMAIN-SUFFIX, jb51.com
 DOMAIN-SUFFIX, jia.com
 DOMAIN-SUFFIX, jiameng.com
@@ -8113,6 +8229,7 @@ DOMAIN-SUFFIX, mijisou.com
 DOMAIN-SUFFIX, mikecrm.com
 DOMAIN-SUFFIX, minhangshi.com
 DOMAIN-SUFFIX, miusi.co
+DOMAIN-SUFFIX, miyatech.com
 DOMAIN-SUFFIX, mjia.cc
 DOMAIN-SUFFIX, mmbang.com
 DOMAIN-SUFFIX, mmbang.info
@@ -8347,6 +8464,7 @@ DOMAIN-SUFFIX, wanplus.com
 DOMAIN-SUFFIX, wanwushuo.com
 DOMAIN-SUFFIX, wanyiwang.com
 DOMAIN-SUFFIX, wanyx.com
+DOMAIN-SUFFIX, warmheart.top # 苏ICP备16016970号-1
 DOMAIN-SUFFIX, wdjimg.com
 DOMAIN-SUFFIX, wdzj.com
 DOMAIN-SUFFIX, weand.com
@@ -8382,10 +8500,12 @@ DOMAIN-SUFFIX, wrating.com
 DOMAIN-SUFFIX, wtown.com
 DOMAIN-SUFFIX, wumii.com
 DOMAIN-SUFFIX, wuming.com
+DOMAIN-SUFFIX, wuuxiang.com
 DOMAIN-SUFFIX, wuximediaglobal.com
 DOMAIN-SUFFIX, wywyx.com
 DOMAIN-SUFFIX, xafc.com
 DOMAIN-SUFFIX, xbiao.com
+DOMAIN-SUFFIX, xdqtech.com # 上邻 | 新渡桥科技 浙ICP备2020031247号-1
 DOMAIN-SUFFIX, xdwan.com
 DOMAIN-SUFFIX, xfdown.com
 DOMAIN-SUFFIX, xiachufang.com
@@ -8515,12 +8635,11 @@ DOMAIN-SUFFIX, zongheng.com
 DOMAIN-SUFFIX, zpb365.com
 DOMAIN-SUFFIX, zrblog.net
 DOMAIN-SUFFIX, zsxq.com
-DOMAIN-SUFFIX, zuche.com
-DOMAIN-SUFFIX, zuchecdn.com
 DOMAIN-SUFFIX, zuhaowan.com
 DOMAIN-SUFFIX, zuidaima.com
 DOMAIN-SUFFIX, zuowen8.com
 DOMAIN-SUFFIX, zuowenwang.net
+DOMAIN-SUFFIX, zztfly.com
 
 # 京ICP备12006877号-1
 DOMAIN-SUFFIX, fm3838.com
