@@ -8,6 +8,10 @@ DOMAIN-SUFFIX, szse.cn
 DOMAIN-SUFFIX, cninfo.com.cn
 
 # Securities Company 证券公司
+DOMAIN-SUFFIX, hsbc.com.cn
+DOMAIN-SUFFIX, hsbcqh.com.cn
+DOMAIN-SUFFIX, hsbcinsurance.com.cn
+
 DOMAIN-SUFFIX, ajzq.com
 DOMAIN-SUFFIX, avicsec.com
 DOMAIN-SUFFIX, ccnew.com
@@ -49,7 +53,6 @@ DOMAIN-SUFFIX, grzq.com
 DOMAIN-SUFFIX, gsgh.cn
 DOMAIN-SUFFIX, gszq.com
 DOMAIN-SUFFIX, gtja.com
-DOMAIN-SUFFIX, gtja.com
 DOMAIN-SUFFIX, guodu.com
 DOMAIN-SUFFIX, guosen.com.cn
 DOMAIN-SUFFIX, gyzq.com.cn
@@ -59,7 +62,6 @@ DOMAIN-SUFFIX, hfzq.com.cn
 DOMAIN-SUFFIX, hlzqgs.com
 DOMAIN-SUFFIX, hongtastock.com
 DOMAIN-SUFFIX, hrsec.com.cn
-DOMAIN-SUFFIX, hsbcqh.com.cn
 DOMAIN-SUFFIX, htsc.com.cn
 DOMAIN-SUFFIX, htsec.com
 DOMAIN-SUFFIX, huajingsec.com
