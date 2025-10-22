@@ -599,6 +599,42 @@ DOMAIN-SUFFIX, radeon.com
 
 DOMAIN, www.amd.com
 
+DOMAIN-SUFFIX, bestsrv.de
+DOMAIN-SUFFIX, customercontrolpanel.de
+DOMAIN-SUFFIX, dnsserver1.de
+DOMAIN-SUFFIX, dnsserver2.de
+DOMAIN-SUFFIX, goodsrv.de
+DOMAIN-SUFFIX, happysrv.de
+DOMAIN-SUFFIX, hotsrv.de
+DOMAIN-SUFFIX, luckysrv.de
+DOMAIN-SUFFIX, megasrv.de
+DOMAIN-SUFFIX, netcup.cafe
+DOMAIN-SUFFIX, netcup.com
+DOMAIN-SUFFIX, netcup.de
+DOMAIN-SUFFIX, netcup.eu
+DOMAIN-SUFFIX, netcup.net
+DOMAIN-SUFFIX, netcup-news.de
+DOMAIN-SUFFIX, netcup-sonderangebote.de
+DOMAIN-SUFFIX, netcup-wiki.de
+DOMAIN-SUFFIX, nicesrv.de
+DOMAIN-SUFFIX, powersrv.de
+DOMAIN-SUFFIX, quicksrv.de
+DOMAIN-SUFFIX, servercontrolpanel.de
+DOMAIN-SUFFIX, supersrv.de
+DOMAIN-SUFFIX, ultrasrv.de
+DOMAIN-SUFFIX, yourvserver.net
+
+
+DOMAIN-SUFFIX, anexia.at
+DOMAIN-SUFFIX, anexia.com
+DOMAIN-SUFFIX, anexia-engine.com
+DOMAIN-SUFFIX, anexia-it.com
+DOMAIN-SUFFIX, fifthns.com
+DOMAIN-SUFFIX, firstns.cc
+DOMAIN-SUFFIX, fourthns.systems
+DOMAIN-SUFFIX, secondns.at
+DOMAIN-SUFFIX, thirdns.de
+
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
 DOMAIN-SUFFIX, claude.com
@@ -5839,6 +5875,9 @@ DOMAIN-SUFFIX, kakaostyle.com
 DOMAIN-SUFFIX, posty.kr
 DOMAIN-SUFFIX, zigzag.kr
 
+DOMAIN-SUFFIX, kaspersky-labs.com
+DOMAIN-SUFFIX, kaspersky.com
+
 DOMAIN-SUFFIX, lg.com
 DOMAIN-SUFFIX, lgappstv.com
 DOMAIN-SUFFIX, lge.co.kr
@@ -7395,31 +7434,6 @@ DOMAIN-SUFFIX, naverads.com.akadns.net
 DOMAIN-SUFFIX, naverlabs.com
 DOMAIN-SUFFIX, plug.game
 DOMAIN-SUFFIX, prismlive.com
-
-DOMAIN-SUFFIX, bestsrv.de
-DOMAIN-SUFFIX, customercontrolpanel.de
-DOMAIN-SUFFIX, dnsserver1.de
-DOMAIN-SUFFIX, dnsserver2.de
-DOMAIN-SUFFIX, goodsrv.de
-DOMAIN-SUFFIX, happysrv.de
-DOMAIN-SUFFIX, hotsrv.de
-DOMAIN-SUFFIX, luckysrv.de
-DOMAIN-SUFFIX, megasrv.de
-DOMAIN-SUFFIX, netcup.cafe
-DOMAIN-SUFFIX, netcup.com
-DOMAIN-SUFFIX, netcup.de
-DOMAIN-SUFFIX, netcup.eu
-DOMAIN-SUFFIX, netcup.net
-DOMAIN-SUFFIX, netcup-news.de
-DOMAIN-SUFFIX, netcup-sonderangebote.de
-DOMAIN-SUFFIX, netcup-wiki.de
-DOMAIN-SUFFIX, nicesrv.de
-DOMAIN-SUFFIX, powersrv.de
-DOMAIN-SUFFIX, quicksrv.de
-DOMAIN-SUFFIX, servercontrolpanel.de
-DOMAIN-SUFFIX, supersrv.de
-DOMAIN-SUFFIX, ultrasrv.de
-DOMAIN-SUFFIX, yourvserver.net
 
 DOMAIN-SUFFIX, neuralink.com
 

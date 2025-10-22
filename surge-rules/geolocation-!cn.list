@@ -4543,6 +4543,18 @@ DOMAIN-SUFFIX, brilliant.org
 
 # This list contains scholarly domains that don't have access point in China Mainland.
 
+# Iranian scholar websites
+
+DOMAIN-SUFFIX, ac.ir
+DOMAIN-SUFFIX, edu.ir
+DOMAIN-SUFFIX, iau.ac.ir
+DOMAIN-SUFFIX, iranlms.ir
+DOMAIN-SUFFIX, jtt.ir
+DOMAIN-SUFFIX, sanjesh.org
+DOMAIN-SUFFIX, sharif.edu
+DOMAIN-SUFFIX, sharif.ir
+DOMAIN-SUFFIX, srttu.edu
+
 # This list contains scholarly domains that in UK
 
 DOMAIN-SUFFIX, cam.ac.uk
@@ -10122,18 +10134,6 @@ DOMAIN-SUFFIX, zoonoses.ac.uk # University of Liverpool
 DOMAIN-SUFFIX, zoonosis.ac.uk # University of Liverpool
 
 
-# Iranian scholar websites
-
-DOMAIN-SUFFIX, ac.ir
-DOMAIN-SUFFIX, edu.ir
-DOMAIN-SUFFIX, iau.ac.ir
-DOMAIN-SUFFIX, iranlms.ir
-DOMAIN-SUFFIX, jtt.ir
-DOMAIN-SUFFIX, sanjesh.org
-DOMAIN-SUFFIX, sharif.edu
-DOMAIN-SUFFIX, sharif.ir
-DOMAIN-SUFFIX, srttu.edu
-
 DOMAIN-SUFFIX, apa.org
 DOMAIN-SUFFIX, psyccareers.com
 
@@ -10444,12 +10444,13 @@ DOMAIN-SUFFIX, aimsciences.org # AIMS 美国科学数学协会期刊库
 DOMAIN-SUFFIX, airiti.com
 DOMAIN-SUFFIX, airitilibrary.com
 
-DOMAIN-SUFFIX, altmetric.com
 DOMAIN-SUFFIX, alexanderstreet.com # Alexander Street
+DOMAIN-SUFFIX, alphaxiv.org # alphaXiv
+DOMAIN-SUFFIX, altmetric.com
 DOMAIN-SUFFIX, amdigital.co.uk # Adam Matthew Digital 历史与文化珍稀史料数据库集成
 DOMAIN-SUFFIX, ams.org # 美国数学学会
-DOMAIN-SUFFIX, anatomy.tv # digital human anatomy and physiology content
 DOMAIN-SUFFIX, analytictech.com
+DOMAIN-SUFFIX, anatomy.tv # digital human anatomy and physiology content
 DOMAIN-SUFFIX, annualreviews.org
 DOMAIN-SUFFIX, aps.org # American Physical Society Sites
 DOMAIN-SUFFIX, arabidopsis.org
@@ -10509,6 +10510,7 @@ DOMAIN-SUFFIX, global-sci.org # Global Science Press GSP电子期刊
 DOMAIN-SUFFIX, heinonline.org # HeinOnline 法律全文数据库
 DOMAIN-SUFFIX, highwirepress.com # HighWire Press 电子期刊
 DOMAIN-SUFFIX, hindawi.com
+DOMAIN-SUFFIX, hotcrp.com # HotCRP Conference Management Software
 DOMAIN-SUFFIX, icevirtuallibrary.com # 英国土木工程师学会 ICE Virtual Library
 DOMAIN-SUFFIX, icsd.fiz-karlsruhe.de # Inorganic Crystal Structure Database
 DOMAIN-SUFFIX, igi-global.com # IGI Global 平台
@@ -10546,6 +10548,7 @@ DOMAIN-SUFFIX, nejm.org
 DOMAIN-SUFFIX, neurology.org
 DOMAIN-SUFFIX, nii.ac.jp # CiNii学术信息导航
 DOMAIN-SUFFIX, oecd-ilibrary.org # Organisation for Economic Co-operation and Development
+DOMAIN-SUFFIX, openreview.net # OpenReview
 DOMAIN-SUFFIX, optica.org # OSA 美国光学学会全文数据库
 DOMAIN-SUFFIX, osapublishing.org # OSA
 DOMAIN-SUFFIX, ovid.com
@@ -10574,6 +10577,8 @@ DOMAIN-SUFFIX, scientificamerican.com
 DOMAIN-SUFFIX, scitation.org
 DOMAIN-SUFFIX, semanticscholar.org
 DOMAIN-SUFFIX, siam.org # Society for Industry and Applied Mathematics 美国工业和应用数学学会
+DOMAIN-SUFFIX, sigcomm.org # the Association for Computing Machinery's Special Interest Group on Data Communications
+DOMAIN-SUFFIX, sigops.org # the Association for Computing Machinery's Special Interest Group on Operating Systems
 DOMAIN-SUFFIX, silverchair-cdn.com # https://global.oup.com/academic/news/silverchair-announcement
 DOMAIN-SUFFIX, spiedigitallibrary.org
 DOMAIN-SUFFIX, statsmakemecry.com
@@ -10591,6 +10596,7 @@ DOMAIN-SUFFIX, uchicago.edu
 DOMAIN-SUFFIX, ucla.edu
 DOMAIN-SUFFIX, umass.edu
 DOMAIN-SUFFIX, usaco.org
+DOMAIN-SUFFIX, usenix.org # USENIX: The Advanced Computing Systems Association
 DOMAIN-SUFFIX, westlaw.com
 DOMAIN-SUFFIX, wiley.com
 DOMAIN-SUFFIX, wolterskluwer.com
@@ -10600,9 +10606,9 @@ DOMAIN-SUFFIX, zenodo.org
 
 DOMAIN, angle.com.tw # 元照出版
 DOMAIN, beck-online.beck.de # Beck-Online数据库
-DOMAIN, dl.begellhouse.com # Begell Digital Library
 DOMAIN, databank.worldbank.org # World DataBank 世界经济学数据库
 DOMAIN, database.asahi.com # 朝日新闻数据库（闻藏II Visual）
+DOMAIN, dl.begellhouse.com # Begell Digital Library
 DOMAIN, elib.maruzen.co.jp # Maruzen e-Book Library（MEL）
 DOMAIN, firstsearch.oclc.org # OCLC FirstSearch
 DOMAIN, muse.jhu.edu # Project MUSE
@@ -22171,6 +22177,54 @@ DOMAIN-SUFFIX, pureapk.com
 DOMAIN-SUFFIX, winudf.com
 
 
+DOMAIN-SUFFIX, comodo.com
+DOMAIN-SUFFIX, comodo.net
+
+DOMAIN-SUFFIX, drweb.by
+DOMAIN-SUFFIX, drweb.cn
+DOMAIN-SUFFIX, drweb.co.jp
+DOMAIN-SUFFIX, drweb.com
+DOMAIN-SUFFIX, drweb.fr
+DOMAIN-SUFFIX, drweb.kz
+DOMAIN-SUFFIX, drweb.ru
+DOMAIN-SUFFIX, drweb.uz
+DOMAIN-SUFFIX, drweb-av.de
+DOMAIN-SUFFIX, drweb-av.es
+DOMAIN-SUFFIX, drweb-av.it
+DOMAIN-SUFFIX, drweb-av.pl
+
+# ESET Wiki - [KB332] Ports and addresses required to use your ESET product with a third-party firewall
+DOMAIN-SUFFIX, cn.eset.com
+DOMAIN-SUFFIX, e5.sk
+DOMAIN-SUFFIX, eset.com
+DOMAIN-SUFFIX, eset.eu
+DOMAIN-SUFFIX, eset.sk
+DOMAIN-SUFFIX, eset.systems
+DOMAIN-SUFFIX, esetsoftware.com
+
+# ESET Password Manager
+DOMAIN, eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+
+# Connection between the Agent and ESET PROTECT
+DOMAIN, epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+
+DOMAIN-SUFFIX, kaspersky-labs.com
+DOMAIN-SUFFIX, kaspersky.com
+
+DOMAIN-SUFFIX, symantec.com
+DOMAIN-SUFFIX, symantecliveupdate.com
+
+
+DOMAIN-SUFFIX, avast.com
+DOMAIN-SUFFIX, avg.com
+DOMAIN-SUFFIX, avira.com
+DOMAIN-SUFFIX, bitdefender.com
+DOMAIN-SUFFIX, clamwin.com
+DOMAIN-SUFFIX, f-secure.com
+DOMAIN-SUFFIX, mcafee.com
+DOMAIN-SUFFIX, norton.com
+DOMAIN-SUFFIX, pandasecurity.com
+
 DOMAIN-SUFFIX, censorship.no
 
 DOMAIN-SUFFIX, epicbrowser.com
@@ -24243,6 +24297,42 @@ DOMAIN-SUFFIX, amdfanstore.com
 DOMAIN-SUFFIX, radeon.com
 
 DOMAIN, www.amd.com
+
+DOMAIN-SUFFIX, bestsrv.de
+DOMAIN-SUFFIX, customercontrolpanel.de
+DOMAIN-SUFFIX, dnsserver1.de
+DOMAIN-SUFFIX, dnsserver2.de
+DOMAIN-SUFFIX, goodsrv.de
+DOMAIN-SUFFIX, happysrv.de
+DOMAIN-SUFFIX, hotsrv.de
+DOMAIN-SUFFIX, luckysrv.de
+DOMAIN-SUFFIX, megasrv.de
+DOMAIN-SUFFIX, netcup.cafe
+DOMAIN-SUFFIX, netcup.com
+DOMAIN-SUFFIX, netcup.de
+DOMAIN-SUFFIX, netcup.eu
+DOMAIN-SUFFIX, netcup.net
+DOMAIN-SUFFIX, netcup-news.de
+DOMAIN-SUFFIX, netcup-sonderangebote.de
+DOMAIN-SUFFIX, netcup-wiki.de
+DOMAIN-SUFFIX, nicesrv.de
+DOMAIN-SUFFIX, powersrv.de
+DOMAIN-SUFFIX, quicksrv.de
+DOMAIN-SUFFIX, servercontrolpanel.de
+DOMAIN-SUFFIX, supersrv.de
+DOMAIN-SUFFIX, ultrasrv.de
+DOMAIN-SUFFIX, yourvserver.net
+
+
+DOMAIN-SUFFIX, anexia.at
+DOMAIN-SUFFIX, anexia.com
+DOMAIN-SUFFIX, anexia-engine.com
+DOMAIN-SUFFIX, anexia-it.com
+DOMAIN-SUFFIX, fifthns.com
+DOMAIN-SUFFIX, firstns.cc
+DOMAIN-SUFFIX, fourthns.systems
+DOMAIN-SUFFIX, secondns.at
+DOMAIN-SUFFIX, thirdns.de
 
 DOMAIN-SUFFIX, anthropic.com
 DOMAIN-SUFFIX, claude.ai
@@ -29484,6 +29574,9 @@ DOMAIN-SUFFIX, kakaostyle.com
 DOMAIN-SUFFIX, posty.kr
 DOMAIN-SUFFIX, zigzag.kr
 
+DOMAIN-SUFFIX, kaspersky-labs.com
+DOMAIN-SUFFIX, kaspersky.com
+
 DOMAIN-SUFFIX, lg.com
 DOMAIN-SUFFIX, lgappstv.com
 DOMAIN-SUFFIX, lge.co.kr
@@ -31040,31 +31133,6 @@ DOMAIN-SUFFIX, naverads.com.akadns.net
 DOMAIN-SUFFIX, naverlabs.com
 DOMAIN-SUFFIX, plug.game
 DOMAIN-SUFFIX, prismlive.com
-
-DOMAIN-SUFFIX, bestsrv.de
-DOMAIN-SUFFIX, customercontrolpanel.de
-DOMAIN-SUFFIX, dnsserver1.de
-DOMAIN-SUFFIX, dnsserver2.de
-DOMAIN-SUFFIX, goodsrv.de
-DOMAIN-SUFFIX, happysrv.de
-DOMAIN-SUFFIX, hotsrv.de
-DOMAIN-SUFFIX, luckysrv.de
-DOMAIN-SUFFIX, megasrv.de
-DOMAIN-SUFFIX, netcup.cafe
-DOMAIN-SUFFIX, netcup.com
-DOMAIN-SUFFIX, netcup.de
-DOMAIN-SUFFIX, netcup.eu
-DOMAIN-SUFFIX, netcup.net
-DOMAIN-SUFFIX, netcup-news.de
-DOMAIN-SUFFIX, netcup-sonderangebote.de
-DOMAIN-SUFFIX, netcup-wiki.de
-DOMAIN-SUFFIX, nicesrv.de
-DOMAIN-SUFFIX, powersrv.de
-DOMAIN-SUFFIX, quicksrv.de
-DOMAIN-SUFFIX, servercontrolpanel.de
-DOMAIN-SUFFIX, supersrv.de
-DOMAIN-SUFFIX, ultrasrv.de
-DOMAIN-SUFFIX, yourvserver.net
 
 DOMAIN-SUFFIX, neuralink.com
 
