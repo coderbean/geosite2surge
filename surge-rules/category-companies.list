@@ -8493,6 +8493,9 @@ DOMAIN-SUFFIX, yandexcom.net
 DOMAIN-SUFFIX, yandexwebcache.org
 DOMAIN-SUFFIX, yastatic.net
 
+# Watching movies, included in the Yandex subscription
+DOMAIN-SUFFIX, kinopoisk.ru
+
 DOMAIN-SUFFIX, grok.com
 DOMAIN-SUFFIX, x.ai
 
