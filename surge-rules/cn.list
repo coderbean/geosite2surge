@@ -1097,6 +1097,7 @@ DOMAIN-SUFFIX, bootcss.com
 DOMAIN-SUFFIX, phpcomposer.com
 
 
+DOMAIN-SUFFIX, cf-china.info
 DOMAIN-SUFFIX, cf-ns.com
 DOMAIN-SUFFIX, cf-ns.net
 DOMAIN-SUFFIX, cf-ns.site
@@ -3980,9 +3981,18 @@ DOMAIN-SUFFIX, deepin.cn
 DOMAIN-SUFFIX, deepin.com
 DOMAIN-SUFFIX, deepin.io
 DOMAIN-SUFFIX, deepin.org
+DOMAIN-SUFFIX, deepin.org.cn
+DOMAIN-SUFFIX, sndu.cn
 
 # 统信
+DOMAIN-SUFFIX, 51changxie.com
+DOMAIN-SUFFIX, 51jianxie.cn
+DOMAIN-SUFFIX, 91changxie.com
+DOMAIN-SUFFIX, changxie.com
 DOMAIN-SUFFIX, chinauos.com
+DOMAIN-SUFFIX, linglong.space
+DOMAIN-SUFFIX, linyaps.org.cn
+DOMAIN-SUFFIX, uniontech.cn
 DOMAIN-SUFFIX, uniontech.com
 
 DOMAIN-SUFFIX, gitee.com
