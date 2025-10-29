@@ -20,7 +20,6 @@ DOMAIN-SUFFIX, mi-idc.com
 DOMAIN-SUFFIX, mi-img.com
 DOMAIN-SUFFIX, mi.com
 DOMAIN-SUFFIX, mifile.cn
-DOMAIN-SUFFIX, migames.com
 DOMAIN-SUFFIX, mijia.tech
 DOMAIN-SUFFIX, mitvos.com
 DOMAIN-SUFFIX, miui.com
@@ -47,6 +46,10 @@ DOMAIN-SUFFIX, xiaomisa.net
 DOMAIN-SUFFIX, xiaomisa.org
 DOMAIN-SUFFIX, xiaomiwear.com
 DOMAIN-SUFFIX, xiaomixiaoai.com
+
+# 北京瓦力网络科技
+DOMAIN-SUFFIX, migames.com
+DOMAIN-SUFFIX, wali.com
 
 # 天星数科
 DOMAIN-SUFFIX, airstarfinance.net
