@@ -10436,6 +10436,7 @@ DOMAIN-SUFFIX, bookshome.info
 DOMAIN-SUFFIX, bookshome.net
 DOMAIN-SUFFIX, bookshome.world
 DOMAIN-SUFFIX, de1lib.org
+DOMAIN-SUFFIX, dln1.ncdn.ec
 DOMAIN-SUFFIX, hk1lib.org
 DOMAIN-SUFFIX, libsolutions.app
 DOMAIN-SUFFIX, libsolutions.domains
@@ -23629,6 +23630,8 @@ DOMAIN-SUFFIX, redhat.org
 
 DOMAIN-SUFFIX, scala-lang.org
 DOMAIN-SUFFIX, scala-sbt.org
+
+DOMAIN-SUFFIX, sentry.io
 
 DOMAIN-SUFFIX, sourcehut.org
 DOMAIN-SUFFIX, sr.ht

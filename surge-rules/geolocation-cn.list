@@ -1259,8 +1259,13 @@ DOMAIN-SUFFIX, jxedt.com
 DOMAIN-SUFFIX, jxksw.net
 DOMAIN-SUFFIX, roomeet.cn
 DOMAIN-SUFFIX, xinchong.com
+
+# 转转
 DOMAIN-SUFFIX, zhuancorp.com
+DOMAIN-SUFFIX, zhuaninc.com
+DOMAIN-SUFFIX, zhuanspirit.cn
 DOMAIN-SUFFIX, zhuanspirit.com
+DOMAIN-SUFFIX, zhuanstatic.com
 DOMAIN-SUFFIX, zhuanzhuan.com
 
 DOMAIN-SUFFIX, c-ctrip.com
@@ -2750,6 +2755,7 @@ DOMAIN-SUFFIX, ruanmei.com
 DOMAIN-SUFFIX, saayaa.com
 DOMAIN-SUFFIX, win7china.com
 DOMAIN-SUFFIX, win8china.com
+DOMAIN-SUFFIX, zuihuimai.com
 
 DOMAIN-SUFFIX, binglianhuajianzhan.com
 DOMAIN-SUFFIX, ggoplay.com
@@ -4750,6 +4756,7 @@ DOMAIN-SUFFIX, bce-cdn.cn
 DOMAIN-SUFFIX, bce-cdn.com
 DOMAIN-SUFFIX, bce-cdn.net
 DOMAIN-SUFFIX, bcebos.com
+DOMAIN-SUFFIX, bcelive.com
 DOMAIN-SUFFIX, bdcloudapi.com
 DOMAIN-SUFFIX, bdimg.com
 DOMAIN-SUFFIX, bdstatic.com
@@ -4785,6 +4792,7 @@ DOMAIN-SUFFIX, tieba.com
 DOMAIN-SUFFIX, tiebaimg.com
 DOMAIN-SUFFIX, xianfae.com
 DOMAIN-SUFFIX, xiaodutv.com
+DOMAIN-SUFFIX, yoojia.com
 
 # duxiaoman
 DOMAIN-SUFFIX, duxiaoman-int.com
@@ -7132,6 +7140,7 @@ DOMAIN-SUFFIX, vivo.cn
 DOMAIN-SUFFIX, vivo.com
 DOMAIN-SUFFIX, vivo.com.cn
 DOMAIN-SUFFIX, vivoglobal.com
+DOMAIN-SUFFIX, vvstc.com
 
 DOMAIN-SUFFIX, a.market.xiaomi.com
 DOMAIN-SUFFIX, ad.intl.xiaomi.com
@@ -7258,6 +7267,7 @@ DOMAIN, ztedevices.com
 
 
 DOMAIN-SUFFIX, huorong.cn # 火绒
+DOMAIN-SUFFIX, quickapp.cn # 快应用
 DOMAIN-SUFFIX, socpk.com # 极客湾移动芯片排行
 DOMAIN-SUFFIX, udesk.cn # 沃丰科技
 
@@ -7343,6 +7353,7 @@ DOMAIN-SUFFIX, chinatelecom-h.com
 DOMAIN-SUFFIX, chinatelecom.com.cn
 DOMAIN-SUFFIX, chinatelecomglobal.com
 DOMAIN-SUFFIX, chntel.com
+DOMAIN-SUFFIX, vnet.cn
 
 DOMAIN-SUFFIX, chinatelecomhk.com
 
@@ -7473,6 +7484,8 @@ DOMAIN-SUFFIX, sinopecnews.com.cn
 DOMAIN-SUFFIX, sinopecsales.com
 
 DOMAIN-SUFFIX, aiqicha.baidu.com
+DOMAIN-SUFFIX, aiqicha.cn
+DOMAIN-SUFFIX, aiqicha.com
 
 DOMAIN-SUFFIX, hongdunwang.com.cn
 
