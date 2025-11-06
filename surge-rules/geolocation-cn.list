@@ -7049,13 +7049,15 @@ DOMAIN-SUFFIX, roco.qq.com
 
 DOMAIN-SUFFIX, yuewen.com
 
+# webnovel is not serving for cn
+# include:webnovel
+
 DOMAIN-SUFFIX, hongxiu.com
 DOMAIN-SUFFIX, lrts.me
 DOMAIN-SUFFIX, qdmm.com
 DOMAIN-SUFFIX, qidian.com
 DOMAIN-SUFFIX, readnovel.com
 DOMAIN-SUFFIX, tingbook.com
-DOMAIN-SUFFIX, webnovel.com
 DOMAIN-SUFFIX, xs8.cn
 DOMAIN-SUFFIX, xxsy.net
 
