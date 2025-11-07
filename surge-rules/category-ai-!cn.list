@@ -14,6 +14,15 @@ DOMAIN-SUFFIX, cursor.com
 DOMAIN-SUFFIX, cursor.sh
 DOMAIN-SUFFIX, cursorapi.com
 
+# Dola, formly ciciai, an AI service of bytedance
+DOMAIN-SUFFIX, cici.com
+DOMAIN-SUFFIX, ciciai.com
+DOMAIN-SUFFIX, ciciaicdn.com
+DOMAIN-SUFFIX, dola.com
+
+DOMAIN-SUFFIX, elevenlabs.com
+DOMAIN-SUFFIX, elevenlabs.io
+
 # Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google

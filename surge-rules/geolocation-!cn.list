@@ -17,6 +17,15 @@ DOMAIN-SUFFIX, cursor.com
 DOMAIN-SUFFIX, cursor.sh
 DOMAIN-SUFFIX, cursorapi.com
 
+# Dola, formly ciciai, an AI service of bytedance
+DOMAIN-SUFFIX, cici.com
+DOMAIN-SUFFIX, ciciai.com
+DOMAIN-SUFFIX, ciciaicdn.com
+DOMAIN-SUFFIX, dola.com
+
+DOMAIN-SUFFIX, elevenlabs.com
+DOMAIN-SUFFIX, elevenlabs.io
+
 # Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google
@@ -1654,6 +1663,21 @@ DOMAIN-SUFFIX, fibank.bg
 DOMAIN-SUFFIX, meawallet.app
 DOMAIN-SUFFIX, myfin.bg
 
+# 富途证券
+DOMAIN-SUFFIX, futuesop.com
+DOMAIN-SUFFIX, futufin.com
+DOMAIN-SUFFIX, futuhk.com
+DOMAIN-SUFFIX, futuhn.com
+DOMAIN-SUFFIX, futuholdings.com
+DOMAIN-SUFFIX, futuniuniu.com
+DOMAIN-SUFFIX, futunn.com
+DOMAIN-SUFFIX, futustatic.com
+
+# 富途 moomoo 证券
+DOMAIN-SUFFIX, moomoo.com
+DOMAIN-SUFFIX, moomooequity.com
+DOMAIN-SUFFIX, moomootrustee.com
+
 # TLD
 DOMAIN-SUFFIX, hsbc
 
@@ -1759,6 +1783,12 @@ DOMAIN-SUFFIX, ifastnetwork.com
 DOMAIN-SUFFIX, ifastps.com.cn
 DOMAIN-SUFFIX, ifasttv.com
 
+# 老虎证券
+DOMAIN-SUFFIX, itiger.com
+DOMAIN-SUFFIX, itigergrowth.com
+DOMAIN-SUFFIX, itigergrowtha.com
+DOMAIN-SUFFIX, itigerup.com
+
 DOMAIN-SUFFIX, longbridge.cloud
 DOMAIN-SUFFIX, longbridge.com
 DOMAIN-SUFFIX, longbridge.global
@@ -1775,6 +1805,15 @@ DOMAIN-SUFFIX, wbrks.com
 DOMAIN-SUFFIX, n26.com
 DOMAIN-SUFFIX, number26.de
 DOMAIN-SUFFIX, tech26.de
+
+# 嘉信理财
+DOMAIN-SUFFIX, aboutschwab.com
+DOMAIN-SUFFIX, schwab.co.uk
+DOMAIN-SUFFIX, schwab.com
+DOMAIN-SUFFIX, schwab.com.hk
+DOMAIN-SUFFIX, schwab.com.sg
+DOMAIN-SUFFIX, schwabassetmanagement.com
+DOMAIN-SUFFIX, schwabplan.com
 
 DOMAIN-SUFFIX, transferwise.com
 DOMAIN-SUFFIX, wise.com
@@ -33282,6 +33321,7 @@ DOMAIN-SUFFIX, spacely.com.au
 DOMAIN-SUFFIX, squarefoot.com.hk
 DOMAIN-SUFFIX, thinkofliving.com
 
+DOMAIN-SUFFIX, predb.me
 DOMAIN-SUFFIX, scenesource.me
 DOMAIN-SUFFIX, scnsrc.me
 
