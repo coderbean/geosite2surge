@@ -1,3 +1,20 @@
+DOMAIN-SUFFIX, bilicdn1.com
+DOMAIN-SUFFIX, bilicdn2.com
+DOMAIN-SUFFIX, bilicdn3.com
+DOMAIN-SUFFIX, bilicdn4.com
+DOMAIN-SUFFIX, bilicdn5.com
+DOMAIN-SUFFIX, biliimg.com
+DOMAIN-SUFFIX, bilivideo.cn
+DOMAIN-SUFFIX, bilivideo.com
+DOMAIN-SUFFIX, bilivideo.net
+DOMAIN-SUFFIX, hdslb.com
+DOMAIN-SUFFIX, hdslb.org
+
+DOMAIN-SUFFIX, maoercdn.com
+DOMAIN-SUFFIX, mincdn.com
+
+DOMAIN, upos-hz-mirrorakam.akamaized.net
+
 DOMAIN-SUFFIX, bilibiligame.cn
 DOMAIN-SUFFIX, bilibiligame.co
 DOMAIN-SUFFIX, bilibiligame.net
@@ -36,23 +53,8 @@ DOMAIN-SUFFIX, bilibili.net
 DOMAIN-SUFFIX, bilibili.tv
 DOMAIN-SUFFIX, bilibilipay.cn
 DOMAIN-SUFFIX, bilibilipay.com
-DOMAIN-SUFFIX, bilicdn1.com
-DOMAIN-SUFFIX, bilicdn2.com
-DOMAIN-SUFFIX, bilicdn3.com
-DOMAIN-SUFFIX, bilicdn4.com
-DOMAIN-SUFFIX, bilicdn5.com
 DOMAIN-SUFFIX, biligo.com
-DOMAIN-SUFFIX, biliimg.com
 DOMAIN-SUFFIX, biliintl.com
-DOMAIN-SUFFIX, bilivideo.cn
-DOMAIN-SUFFIX, bilivideo.com
-DOMAIN-SUFFIX, bilivideo.net
 DOMAIN-SUFFIX, dreamcast.hk
-DOMAIN-SUFFIX, hdslb.com
-DOMAIN-SUFFIX, hdslb.org
 DOMAIN-SUFFIX, im9.com
-DOMAIN-SUFFIX, maoercdn.com
-DOMAIN-SUFFIX, mincdn.com
 DOMAIN-SUFFIX, yo9.com
-
-DOMAIN, upos-hz-mirrorakam.akamaized.net

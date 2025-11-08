@@ -61,6 +61,9 @@ DOMAIN-SUFFIX, jules.google.com
 DOMAIN-SUFFIX, labs.google
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
+# Android Studio Gemini Code Assist
+DOMAIN-SUFFIX, aida.googleapis.com
+
 DOMAIN-SUFFIX, groq.com
 
 DOMAIN-SUFFIX, hf.co
@@ -28049,6 +28052,9 @@ DOMAIN-SUFFIX, jules.google.com
 DOMAIN-SUFFIX, labs.google
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
+# Android Studio Gemini Code Assist
+DOMAIN-SUFFIX, aida.googleapis.com
+
 # This list is for backward compatibility
 
 # Google DeepMind
@@ -28085,6 +28091,9 @@ DOMAIN-SUFFIX, jules.google.com
 # Google AI Labs
 DOMAIN-SUFFIX, labs.google
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
+
+# Android Studio Gemini Code Assist
+DOMAIN-SUFFIX, aida.googleapis.com
 
 
 DOMAIN-SUFFIX, googleplay.com

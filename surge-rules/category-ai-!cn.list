@@ -58,6 +58,9 @@ DOMAIN-SUFFIX, jules.google.com
 DOMAIN-SUFFIX, labs.google
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
+# Android Studio Gemini Code Assist
+DOMAIN-SUFFIX, aida.googleapis.com
+
 DOMAIN-SUFFIX, groq.com
 
 DOMAIN-SUFFIX, hf.co
