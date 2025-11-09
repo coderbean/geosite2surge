@@ -910,6 +910,10 @@ DOMAIN-SUFFIX, analog.com
 # 艾睿电子
 DOMAIN-SUFFIX, arrow.cn
 
+# 京东方
+DOMAIN-SUFFIX, boe.com
+DOMAIN-SUFFIX, boe.com.cn
+
 # 博流智能
 DOMAIN-SUFFIX, bouffalolab.com
 
@@ -929,7 +933,8 @@ DOMAIN-SUFFIX, hqdoc.com
 DOMAIN-SUFFIX, hqpcb.com
 
 # 英飞凌
-DOMAIN-SUFFIX, infineon.com
+DOMAIN-SUFFIX, infineon.cn
+#infineon.com
 
 # 嘉立创集团
 # 嘉立创
@@ -997,7 +1002,7 @@ DOMAIN-SUFFIX, sipeed.com
 DOMAIN-SUFFIX, maixhub.com
 
 # 德州仪器
-DOMAIN-SUFFIX, ti.com
+#ti.com
 DOMAIN-SUFFIX, ti.com.cn
 
 # 沁恒微电子
@@ -6176,6 +6181,7 @@ DOMAIN-SUFFIX, wpspdf.cn
 
 
 DOMAIN-SUFFIX, kimg.cn
+DOMAIN-SUFFIX, kingsoft-office-service.com
 DOMAIN-SUFFIX, kingsoft.com
 DOMAIN-SUFFIX, ks-live.com
 DOMAIN-SUFFIX, ksmobile.com
@@ -6284,33 +6290,6 @@ DOMAIN-SUFFIX, smartmidea.net
 DOMAIN-SUFFIX, narwal.com
 DOMAIN-SUFFIX, narwaltech.com
 
-DOMAIN-SUFFIX, 126.com
-DOMAIN-SUFFIX, 126.link
-DOMAIN-SUFFIX, 126.net
-DOMAIN-SUFFIX, 127.com
-DOMAIN-SUFFIX, 127.net
-DOMAIN-SUFFIX, 163.com
-DOMAIN-SUFFIX, 163cn.tv
-DOMAIN-SUFFIX, 163industry.com
-DOMAIN-SUFFIX, 163mail.com
-DOMAIN-SUFFIX, 163qiyukf.com
-DOMAIN-SUFFIX, 163yun.com
-DOMAIN-SUFFIX, 166.com
-DOMAIN-SUFFIX, 166.net
-DOMAIN-SUFFIX, 188.com
-DOMAIN-SUFFIX, haowu.link
-DOMAIN-SUFFIX, icourse163.org
-DOMAIN-SUFFIX, lofter.com
-DOMAIN-SUFFIX, nease.net
-DOMAIN-SUFFIX, netease-inc.com
-DOMAIN-SUFFIX, netease.com
-DOMAIN-SUFFIX, netease.im
-DOMAIN-SUFFIX, qiyukf.com
-DOMAIN-SUFFIX, ydstatic.com
-DOMAIN-SUFFIX, yeah.net
-DOMAIN-SUFFIX, youdao.com
-DOMAIN-SUFFIX, zhuanzfx.com
-
 DOMAIN-SUFFIX, a.youdao.com
 DOMAIN-SUFFIX, admusicpic.music.126.net
 DOMAIN-SUFFIX, ads.music.126.net
@@ -6324,6 +6303,39 @@ DOMAIN-SUFFIX, iadmusicmat.music.126.net
 DOMAIN-SUFFIX, iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX, sentry.music.163.com
 
+
+DOMAIN-SUFFIX, 126.com
+DOMAIN-SUFFIX, 126.link
+DOMAIN-SUFFIX, 126.net
+DOMAIN-SUFFIX, 127.com
+DOMAIN-SUFFIX, 127.net
+DOMAIN-SUFFIX, 163.com
+DOMAIN-SUFFIX, 163cn.tv
+DOMAIN-SUFFIX, 163industry.com
+DOMAIN-SUFFIX, 163jiasu.com
+DOMAIN-SUFFIX, 163mail.com
+DOMAIN-SUFFIX, 163qiyukf.com
+DOMAIN-SUFFIX, 163yun.com
+DOMAIN-SUFFIX, 166.com
+DOMAIN-SUFFIX, 166.net
+DOMAIN-SUFFIX, 188.com
+DOMAIN-SUFFIX, 321fenx.com
+DOMAIN-SUFFIX, haowu.link
+DOMAIN-SUFFIX, icourse163.org
+DOMAIN-SUFFIX, lofter.com
+DOMAIN-SUFFIX, nease.net
+DOMAIN-SUFFIX, netease-inc.com
+DOMAIN-SUFFIX, netease.com
+DOMAIN-SUFFIX, netease.im
+DOMAIN-SUFFIX, netstatic.net
+DOMAIN-SUFFIX, qiyukf.com
+DOMAIN-SUFFIX, qiyukf.net
+DOMAIN-SUFFIX, qiyukf.net.cn
+DOMAIN-SUFFIX, static163.net
+DOMAIN-SUFFIX, ydstatic.com
+DOMAIN-SUFFIX, yeah.net
+DOMAIN-SUFFIX, youdao.com
+DOMAIN-SUFFIX, zhuanzfx.com
 
 DOMAIN-SUFFIX, oneplus.com
 DOMAIN-SUFFIX, oneplus.cn
@@ -7341,6 +7353,10 @@ DOMAIN-SUFFIX, kaipuyun.cn
 DOMAIN-SUFFIX, kaipuyun.com
 DOMAIN-SUFFIX, kaipuyun.com.cn
 DOMAIN-SUFFIX, kaipuyun.net
+
+# 酷控
+DOMAIN-SUFFIX, deepepg.com
+DOMAIN-SUFFIX, kookong.com
 
 DOMAIN-SUFFIX, 51togic.com # 泰捷WEBOX
 DOMAIN-SUFFIX, ezpro.pro # 小马路由

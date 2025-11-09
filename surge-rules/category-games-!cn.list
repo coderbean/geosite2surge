@@ -316,6 +316,7 @@ DOMAIN-SUFFIX, twinmotion.com
 DOMAIN-SUFFIX, unrealengine.com
 DOMAIN-SUFFIX, unrealtournament.com
 
+DOMAIN-SUFFIX, egdownload.fastly-edge.com
 URL-REGEX, ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 URL-REGEX, ^epicgames-download\d\.akamaized\.net$
 URL-REGEX, ^epicgames-download\d-\d+\.file\.myqcloud\.com$

@@ -36,6 +36,7 @@ DOMAIN, epicgames-download1.akamaized.net
 
 # Epic Game - 游戏下载[Fastly]
 DOMAIN, fastly-download.epicgames.com
+DOMAIN-SUFFIX, egdownload.fastly-edge.com
 
 # Epic Game - 游戏下载[CloudFlare]
 DOMAIN, cloudflare.epicgamescdn.com

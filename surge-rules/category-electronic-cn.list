@@ -6,6 +6,10 @@ DOMAIN-SUFFIX, analog.com
 # 艾睿电子
 DOMAIN-SUFFIX, arrow.cn
 
+# 京东方
+DOMAIN-SUFFIX, boe.com
+DOMAIN-SUFFIX, boe.com.cn
+
 # 博流智能
 DOMAIN-SUFFIX, bouffalolab.com
 
@@ -25,7 +29,8 @@ DOMAIN-SUFFIX, hqdoc.com
 DOMAIN-SUFFIX, hqpcb.com
 
 # 英飞凌
-DOMAIN-SUFFIX, infineon.com
+DOMAIN-SUFFIX, infineon.cn
+#infineon.com
 
 # 嘉立创集团
 # 嘉立创
@@ -93,7 +98,7 @@ DOMAIN-SUFFIX, sipeed.com
 DOMAIN-SUFFIX, maixhub.com
 
 # 德州仪器
-DOMAIN-SUFFIX, ti.com
+#ti.com
 DOMAIN-SUFFIX, ti.com.cn
 
 # 沁恒微电子
