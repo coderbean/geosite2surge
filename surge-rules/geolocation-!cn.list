@@ -112,6 +112,10 @@ DOMAIN-SUFFIX, x.ai
 DOMAIN-SUFFIX, coderabbit.ai
 DOMAIN-SUFFIX, coderabbit.gallery.vsassets.io
 
+# Cohere
+DOMAIN-SUFFIX, cohere.ai
+DOMAIN-SUFFIX, cohere.com
+
 # Jasper
 DOMAIN-SUFFIX, clipdrop.co
 DOMAIN-SUFFIX, jasper.ai
@@ -12898,6 +12902,9 @@ DOMAIN-SUFFIX, rumble.com
 
 DOMAIN-SUFFIX, embed-cdn.com
 DOMAIN-SUFFIX, streamable.com
+
+DOMAIN-SUFFIX, terabox.com
+DOMAIN-SUFFIX, teraboxcdn.com
 
 
 # Forums & Social network

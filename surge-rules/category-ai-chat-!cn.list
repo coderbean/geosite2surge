@@ -111,6 +111,10 @@ DOMAIN-SUFFIX, x.ai
 DOMAIN-SUFFIX, coderabbit.ai
 DOMAIN-SUFFIX, coderabbit.gallery.vsassets.io
 
+# Cohere
+DOMAIN-SUFFIX, cohere.ai
+DOMAIN-SUFFIX, cohere.com
+
 # Jasper
 DOMAIN-SUFFIX, clipdrop.co
 DOMAIN-SUFFIX, jasper.ai
