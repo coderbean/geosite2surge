@@ -716,6 +716,7 @@ DOMAIN, appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN, p-events-delivery.akamaized.net
 
 
+# Not include:apple-intelligence
 DOMAIN, certs-lb.apple.com.akadns.net
 DOMAIN, certs.apple.com
 DOMAIN, crl-lb.apple.com.akadns.net
