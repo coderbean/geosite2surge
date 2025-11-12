@@ -1926,7 +1926,7 @@ DOMAIN-SUFFIX, yzyxgame.com
 DOMAIN-SUFFIX, zcjbgame.com
 DOMAIN-SUFFIX, zhuoyuegame.com
 
-DOMAIN-SUFFIX, xn--owtw8cc49ajfl.cn
+DOMAIN-SUFFIX, xn--owtw8cc49ajfl.cn #碧蓝幻想.cn
 
 # Roblox
 DOMAIN-SUFFIX, roblox.cn
@@ -1956,7 +1956,7 @@ DOMAIN-SUFFIX, wegame.com.cn
 DOMAIN-SUFFIX, wegameplus.com
 DOMAIN-SUFFIX, werepository.com.cn
 
-# Supercell
+# Supercell cn (data/supercell is for non-cn domains)
 DOMAIN-SUFFIX, brawlstars.cn
 DOMAIN-SUFFIX, haydaypop.cn
 DOMAIN-SUFFIX, labycore.cn
@@ -1965,7 +1965,6 @@ DOMAIN-SUFFIX, sccreators.cn
 DOMAIN-SUFFIX, scescdn.cn
 DOMAIN-SUFFIX, scid.cn
 DOMAIN-SUFFIX, scsentry.cn
-DOMAIN-SUFFIX, supercell.com
 DOMAIN-SUFFIX, supercellcommunity.cn
 DOMAIN-SUFFIX, supercellsupport.cn
 
@@ -4845,6 +4844,7 @@ DOMAIN-SUFFIX, bsurl.cn
 # recuitment
 DOMAIN-SUFFIX, zhiye.com
 
+# 深蓝互动
 # From reverse 1999
 DOMAIN-SUFFIX, sl916.com
 
@@ -7050,7 +7050,7 @@ DOMAIN-SUFFIX, yzyxgame.com
 DOMAIN-SUFFIX, zcjbgame.com
 DOMAIN-SUFFIX, zhuoyuegame.com
 
-DOMAIN-SUFFIX, xn--owtw8cc49ajfl.cn
+DOMAIN-SUFFIX, xn--owtw8cc49ajfl.cn #碧蓝幻想.cn
 
 # Roblox
 DOMAIN-SUFFIX, roblox.cn
@@ -7080,7 +7080,7 @@ DOMAIN-SUFFIX, wegame.com.cn
 DOMAIN-SUFFIX, wegameplus.com
 DOMAIN-SUFFIX, werepository.com.cn
 
-# Supercell
+# Supercell cn (data/supercell is for non-cn domains)
 DOMAIN-SUFFIX, brawlstars.cn
 DOMAIN-SUFFIX, haydaypop.cn
 DOMAIN-SUFFIX, labycore.cn
@@ -7089,7 +7089,6 @@ DOMAIN-SUFFIX, sccreators.cn
 DOMAIN-SUFFIX, scescdn.cn
 DOMAIN-SUFFIX, scid.cn
 DOMAIN-SUFFIX, scsentry.cn
-DOMAIN-SUFFIX, supercell.com
 DOMAIN-SUFFIX, supercellcommunity.cn
 DOMAIN-SUFFIX, supercellsupport.cn
 
