@@ -23,8 +23,9 @@ DOMAIN-SUFFIX, pglstatp-toutiao.com
 DOMAIN-SUFFIX, sf3-ttcdn-tos.pstatp.com
 
 
-#include:dola # not serving for cn
+#include:bytedance-ai-!cn # not serving for cn
 # 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX, butterfly-static.cn
 DOMAIN-SUFFIX, butterflyai.cn
 DOMAIN-SUFFIX, coze.cn
@@ -39,8 +40,6 @@ DOMAIN-SUFFIX, maoxiangai.com
 DOMAIN-SUFFIX, myparallelstory.com
 DOMAIN-SUFFIX, picpic-ai.cn
 DOMAIN-SUFFIX, pixeldance.com
-
-DOMAIN-SUFFIX, coze.com
 
 # 北京抖音科技有限公司 京ICP备16016397号
 # 抖音、抖音火山版、汽水音乐
@@ -285,6 +284,7 @@ DOMAIN-SUFFIX, ttwstatic.com
 DOMAIN, p16-tiktokcdn-com.akamaized.net
 
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
+# non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX, doudou.com
 DOMAIN-SUFFIX, marscode.cn
 DOMAIN-SUFFIX, marscode.com.cn
@@ -297,9 +297,6 @@ DOMAIN-SUFFIX, trae.cn
 DOMAIN-SUFFIX, trae.com.cn
 DOMAIN-SUFFIX, trae.guru
 DOMAIN-SUFFIX, yoma.cn
-
-DOMAIN-SUFFIX, marscode.com
-DOMAIN-SUFFIX, trae.ai
 
 DOMAIN-SUFFIX, aigc-cloud.com
 DOMAIN-SUFFIX, bdegnine.com

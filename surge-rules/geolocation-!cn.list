@@ -10,18 +10,26 @@ DOMAIN-SUFFIX, claudemcpclient.com
 # CDN
 DOMAIN, servd-anthropic-website.b-cdn.net
 
+# Dola, formly ciciai, an AI service of bytedance
+DOMAIN-SUFFIX, cici.com
+DOMAIN-SUFFIX, ciciai.com
+DOMAIN-SUFFIX, ciciaicdn.com
+DOMAIN-SUFFIX, dola.com
+
+
+# related to doubao
+DOMAIN-SUFFIX, coze.com
+
+# related to trae
+DOMAIN-SUFFIX, marscode.com
+DOMAIN-SUFFIX, trae.ai
+
 DOMAIN-SUFFIX, cerebras.ai
 
 DOMAIN-SUFFIX, cursor-cdn.com
 DOMAIN-SUFFIX, cursor.com
 DOMAIN-SUFFIX, cursor.sh
 DOMAIN-SUFFIX, cursorapi.com
-
-# Dola, formly ciciai, an AI service of bytedance
-DOMAIN-SUFFIX, cici.com
-DOMAIN-SUFFIX, ciciai.com
-DOMAIN-SUFFIX, ciciaicdn.com
-DOMAIN-SUFFIX, dola.com
 
 DOMAIN-SUFFIX, elevenlabs.com
 DOMAIN-SUFFIX, elevenlabs.io
@@ -202,7 +210,9 @@ DOMAIN-SUFFIX, freebrowser.org
 DOMAIN-SUFFIX, freewechat.com
 DOMAIN-SUFFIX, freeweibo.com
 DOMAIN-SUFFIX, freezhihu.org
+DOMAIN-SUFFIX, googlecensorship.org
 DOMAIN-SUFFIX, greatfire.org
+DOMAIN-SUFFIX, greatfirevpn.com
 DOMAIN-SUFFIX, pao-pao.net
 DOMAIN-SUFFIX, wikiunblocked.org
 
@@ -15439,6 +15449,8 @@ DOMAIN-SUFFIX, sesez.com
 
 DOMAIN-SUFFIX, bcicdn.com
 DOMAIN-SUFFIX, bcrncdn.com
+DOMAIN-SUFFIX, bcvcdn.com
+DOMAIN-SUFFIX, bgicdn.com
 DOMAIN-SUFFIX, bongacams.com
 
 DOMAIN-SUFFIX, boylove.cc
@@ -22443,6 +22455,7 @@ DOMAIN-SUFFIX, pulsebrowser.app
 DOMAIN-SUFFIX, qutebrowser.org
 DOMAIN-SUFFIX, vivaldi.com
 DOMAIN-SUFFIX, waterfox.net
+DOMAIN-SUFFIX, zen-browser.app
 
 DOMAIN-SUFFIX, playcover.io
 DOMAIN-SUFFIX, playcover.workers.dev
@@ -22459,6 +22472,7 @@ DOMAIN-SUFFIX, tracker.network
 
 # Android Emulator
 DOMAIN-SUFFIX, bluestacks.com
+DOMAIN-SUFFIX, ldmnq.com
 DOMAIN-SUFFIX, lsplayer.com
 DOMAIN-SUFFIX, yeshen.com
 
@@ -23841,6 +23855,7 @@ DOMAIN-SUFFIX, mingw.org
 DOMAIN-SUFFIX, mobatek.net
 
 DOMAIN-SUFFIX, mysql.com
+DOMAIN-SUFFIX, neovim.io
 DOMAIN-SUFFIX, nixos.org
 DOMAIN-SUFFIX, nodesource.com
 DOMAIN-SUFFIX, notepad-plus-plus.org
@@ -27396,6 +27411,14 @@ DOMAIN-SUFFIX, canon.ua
 DOMAIN-SUFFIX, canon.uz
 DOMAIN-SUFFIX, canonfoundation.org
 DOMAIN-SUFFIX, canonproprinters.com
+
+# affinity
+DOMAIN-SUFFIX, affinity.api.serifservices.com
+DOMAIN-SUFFIX, affinity.studio
+DOMAIN-SUFFIX, affinity-beta.s3.amazonaws.com
+DOMAIN-SUFFIX, affinity-lessons.s3.amazonaws.com
+
+DOMAIN-SUFFIX, canva.com
 
 DOMAIN-SUFFIX, chegg.com
 DOMAIN-SUFFIX, cheggcdn.com

@@ -87,8 +87,6 @@ DOMAIN-SUFFIX, owsgo.com
 DOMAIN-SUFFIX, teleows.com
 DOMAIN-SUFFIX, saasops.tech
 
-DOMAIN-SUFFIX, jinrishici.com
-
 DOMAIN-SUFFIX, juejin.cn
 DOMAIN-SUFFIX, juejin.im
 DOMAIN-SUFFIX, xitu.io
@@ -156,10 +154,9 @@ DOMAIN-SUFFIX, wegamedeveloper.com
 DOMAIN-SUFFIX, weixinbridge.com
 DOMAIN-SUFFIX, weui.io
 
-DOMAIN-SUFFIX, tipdim.org
-
 DOMAIN-SUFFIX, openkylin.top
 DOMAIN-SUFFIX, ubuntukylin.com
 
-DOMAIN-SUFFIX, xueyuanjun.com
 
+DOMAIN-SUFFIX, jinrishici.com
+DOMAIN-SUFFIX, tipdm.org

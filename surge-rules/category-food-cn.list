@@ -2,8 +2,6 @@ DOMAIN-SUFFIX, 517lppz.com
 DOMAIN-SUFFIX, lppz.com
 DOMAIN-SUFFIX, lppzimg.com
 
-DOMAIN-SUFFIX, heytea.com
-
 DOMAIN-SUFFIX, lkcoffee.com
 DOMAIN-SUFFIX, luckincoffeecdn.com
 DOMAIN-SUFFIX, yyds.co
@@ -11,6 +9,9 @@ DOMAIN-SUFFIX, yyds.co
 
 DOMAIN-SUFFIX, 3songshu.com
 DOMAIN-SUFFIX, haidilao.com
+
+# 喜茶
+DOMAIN-SUFFIX, heytea.com
 
 # 俺来也（上海）网络科技有限公司
 DOMAIN-SUFFIX, anlaiye.com

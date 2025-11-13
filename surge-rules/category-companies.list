@@ -3511,6 +3511,14 @@ DOMAIN-SUFFIX, canon.uz
 DOMAIN-SUFFIX, canonfoundation.org
 DOMAIN-SUFFIX, canonproprinters.com
 
+# affinity
+DOMAIN-SUFFIX, affinity.api.serifservices.com
+DOMAIN-SUFFIX, affinity.studio
+DOMAIN-SUFFIX, affinity-beta.s3.amazonaws.com
+DOMAIN-SUFFIX, affinity-lessons.s3.amazonaws.com
+
+DOMAIN-SUFFIX, canva.com
+
 DOMAIN-SUFFIX, chegg.com
 DOMAIN-SUFFIX, cheggcdn.com
 

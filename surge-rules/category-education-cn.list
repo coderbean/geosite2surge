@@ -57,8 +57,6 @@ DOMAIN-SUFFIX, fenbike.com
 DOMAIN-SUFFIX, fenbilantian.cn
 DOMAIN-SUFFIX, fenbilantian.com
 
-DOMAIN-SUFFIX, zhihuishu.com
-
 
 # 教育部学生服务与素质发展中心
 # 京ICP备19004913号
@@ -88,6 +86,16 @@ DOMAIN-SUFFIX, qgzb.gov.cn
 DOMAIN-SUFFIX, qgzb.net
 DOMAIN-SUFFIX, zbbm.gov.cn
 DOMAIN-SUFFIX, zbbm.net
+
+# 中国地质大学 继续教育学院
+DOMAIN-SUFFIX, cugbonline.cn
+
+# 智慧树
+DOMAIN-SUFFIX, zhihuishu.com
+
+# 日语测试
+DOMAIN-SUFFIX, j-test.com
+DOMAIN-SUFFIX, nattest-china.com
 
 # 雨课堂
 DOMAIN-SUFFIX, rainclassroom.com

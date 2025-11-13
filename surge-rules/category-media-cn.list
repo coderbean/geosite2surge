@@ -47,10 +47,6 @@ DOMAIN-SUFFIX, cns.com.cn
 DOMAIN-SUFFIX, ecns.cn
 DOMAIN-SUFFIX, inewsweek.cn
 
-DOMAIN-SUFFIX, dgtle.com
-
-DOMAIN-SUFFIX, geekpark.net
-
 DOMAIN-SUFFIX, coolbuy.com
 DOMAIN-SUFFIX, ifanr.cn
 DOMAIN-SUFFIX, ifanr.com
@@ -170,10 +166,6 @@ DOMAIN-SUFFIX, itc.cn
 DOMAIN-SUFFIX, sohu.com
 DOMAIN-SUFFIX, sohucs.com
 
-DOMAIN-SUFFIX, solidot.org
-
-DOMAIN-SUFFIX, sspai.com
-
 # Domains belong to 北京灵动新程信息科技有限公司 (京ICP备13040123号)
 
 DOMAIN-SUFFIX, tmtpost.com
@@ -201,6 +193,31 @@ DOMAIN-SUFFIX, ynet.cn
 DOMAIN-SUFFIX, ynet.com
 DOMAIN-SUFFIX, ynet.com.cn
 
+
+# 江苏省广播电视总台
+DOMAIN-SUFFIX, jsbc.com
+DOMAIN-SUFFIX, jstv.com
+
+# 浙江广播电视集团/浙江卫视/新蓝网
+DOMAIN-SUFFIX, cztv.com
+DOMAIN-SUFFIX, cztvcdn.com
+DOMAIN-SUFFIX, cztvcloud.com
+DOMAIN-SUFFIX, zjstv.com
+
+# 数字尾巴
+DOMAIN-SUFFIX, dgtle.com
+
+# 机核
+DOMAIN-SUFFIX, gcores.com
+
+# 极客公园
+DOMAIN-SUFFIX, geekpark
+
+# 奇客资讯网
+DOMAIN-SUFFIX, solidot.org
+
+# 少数派
+DOMAIN-SUFFIX, sspai.com
 
 # 证券时报网
 DOMAIN-SUFFIX, stcn.com
@@ -345,3 +362,6 @@ DOMAIN-SUFFIX, admin5.com
 
 # 江西省出版传媒集团
 DOMAIN-SUFFIX, jxpp.com
+
+# 人人都是产品经理
+DOMAIN-SUFFIX, woshipm.com
