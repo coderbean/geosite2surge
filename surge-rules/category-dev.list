@@ -645,6 +645,7 @@ DOMAIN-SUFFIX, greenend.org.uk
 
 DOMAIN-SUFFIX, hex.pm
 DOMAIN-SUFFIX, hexdocs.pm
+DOMAIN-SUFFIX, imageglass.org
 DOMAIN-SUFFIX, ius.io
 DOMAIN-SUFFIX, jenkins.io
 DOMAIN-SUFFIX, js.org
@@ -660,6 +661,7 @@ DOMAIN-SUFFIX, mingw.org
 # Mobatek official website.
 DOMAIN-SUFFIX, mobatek.net
 
+DOMAIN-SUFFIX, mpv.io
 DOMAIN-SUFFIX, mysql.com
 DOMAIN-SUFFIX, neovim.io
 DOMAIN-SUFFIX, nixos.org

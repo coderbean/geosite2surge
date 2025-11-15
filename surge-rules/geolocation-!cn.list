@@ -14997,12 +14997,6 @@ DOMAIN-SUFFIX, tvbusa.com
 DOMAIN-SUFFIX, tvbweekly.com
 DOMAIN-SUFFIX, tvmedia.net.au
 
-DOMAIN-SUFFIX, dogatch.jp
-DOMAIN-SUFFIX, gorin.jp
-DOMAIN-SUFFIX, screens-lab.jp
-DOMAIN-SUFFIX, tver.co.jp
-DOMAIN-SUFFIX, tver.jp
-
 DOMAIN-SUFFIX, udn.com
 DOMAIN-SUFFIX, udn.com.tw
 DOMAIN-SUFFIX, udndata.com
@@ -22680,6 +22674,42 @@ DOMAIN-SUFFIX, ntp.ufe.cz
 DOMAIN-SUFFIX, pool.ntp.org
 DOMAIN-SUFFIX, time.nrc.ca
 
+DOMAIN-SUFFIX, 1infra.net
+DOMAIN-SUFFIX, 1password.ca
+DOMAIN-SUFFIX, 1password.co
+DOMAIN-SUFFIX, 1password.com
+DOMAIN-SUFFIX, 1password.community
+DOMAIN-SUFFIX, 1password.eu
+DOMAIN-SUFFIX, 1password.io
+DOMAIN-SUFFIX, 1passwordservices.com
+DOMAIN-SUFFIX, 1passwordusercontent.ca
+DOMAIN-SUFFIX, 1passwordusercontent.com
+DOMAIN-SUFFIX, 1passwordusercontent.eu
+DOMAIN-SUFFIX, agilebits.com
+DOMAIN-SUFFIX, passage.id
+
+DOMAIN, 1password.drift.click
+
+DOMAIN-SUFFIX, bitwarden.com
+DOMAIN-SUFFIX, bitwarden.eu
+DOMAIN-SUFFIX, bitwarden.net
+DOMAIN-SUFFIX, btwrdn.co
+DOMAIN-SUFFIX, btwrdn.com
+
+DOMAIN-SUFFIX, lastpass.com
+DOMAIN-SUFFIX, lastpass.eu
+DOMAIN-SUFFIX, lputil.com
+
+
+DOMAIN-SUFFIX, authy.com
+DOMAIN-SUFFIX, dashlane.com
+DOMAIN-SUFFIX, enpass.io
+DOMAIN-SUFFIX, keepass.info
+DOMAIN-SUFFIX, keeper.io
+DOMAIN-SUFFIX, keepersecurity.com
+DOMAIN-SUFFIX, roboform.com
+DOMAIN-SUFFIX, strongboxsafe.com
+
 DOMAIN-SUFFIX, decrypt.day
 
 
@@ -22707,6 +22737,7 @@ DOMAIN, yangzhi.app
 
 
 DOMAIN-SUFFIX, accuweather.com
+DOMAIN-SUFFIX, awxcdn.com
 
 DOMAIN-SUFFIX, adblockcdn.com
 DOMAIN-SUFFIX, getadblock.com
@@ -22752,17 +22783,9 @@ DOMAIN-SUFFIX, arphic.com.tw
 # iFontCloud
 DOMAIN-SUFFIX, ifontcloud.com
 
-DOMAIN-SUFFIX, authy.com
-
 DOMAIN-SUFFIX, bit.ly
 DOMAIN-SUFFIX, bitly.com
 DOMAIN-SUFFIX, bitly.is
-
-DOMAIN-SUFFIX, bitwarden.com
-DOMAIN-SUFFIX, bitwarden.eu
-DOMAIN-SUFFIX, bitwarden.net
-DOMAIN-SUFFIX, btwrdn.co
-DOMAIN-SUFFIX, btwrdn.com
 
 DOMAIN-SUFFIX, bigbuckbunny.org
 DOMAIN-SUFFIX, blender.org
@@ -22895,8 +22918,6 @@ DOMAIN-SUFFIX, he.net
 
 DOMAIN-SUFFIX, iina.io
 
-DOMAIN-SUFFIX, imageglass.org
-
 DOMAIN-SUFFIX, infrapedia.com
 
 DOMAIN-SUFFIX, inoreader.com
@@ -22937,8 +22958,6 @@ DOMAIN-SUFFIX, mapbox.com
 DOMAIN-SUFFIX, mega.co.nz
 DOMAIN-SUFFIX, mega.io
 DOMAIN-SUFFIX, mega.nz
-
-DOMAIN-SUFFIX, mpv.io
 
 DOMAIN-SUFFIX, bitballoon.com
 DOMAIN-SUFFIX, netlify.app
@@ -23852,6 +23871,7 @@ DOMAIN-SUFFIX, greenend.org.uk
 
 DOMAIN-SUFFIX, hex.pm
 DOMAIN-SUFFIX, hexdocs.pm
+DOMAIN-SUFFIX, imageglass.org
 DOMAIN-SUFFIX, ius.io
 DOMAIN-SUFFIX, jenkins.io
 DOMAIN-SUFFIX, js.org
@@ -23867,6 +23887,7 @@ DOMAIN-SUFFIX, mingw.org
 # Mobatek official website.
 DOMAIN-SUFFIX, mobatek.net
 
+DOMAIN-SUFFIX, mpv.io
 DOMAIN-SUFFIX, mysql.com
 DOMAIN-SUFFIX, neovim.io
 DOMAIN-SUFFIX, nixos.org
@@ -24214,22 +24235,6 @@ DOMAIN-SUFFIX, scene7.com
 # Adobe Stats IO
 DOMAIN-SUFFIX, adobestats.io
 
-DOMAIN-SUFFIX, 1infra.net
-DOMAIN-SUFFIX, 1password.ca
-DOMAIN-SUFFIX, 1password.co
-DOMAIN-SUFFIX, 1password.com
-DOMAIN-SUFFIX, 1password.community
-DOMAIN-SUFFIX, 1password.eu
-DOMAIN-SUFFIX, 1password.io
-DOMAIN-SUFFIX, 1passwordservices.com
-DOMAIN-SUFFIX, 1passwordusercontent.ca
-DOMAIN-SUFFIX, 1passwordusercontent.com
-DOMAIN-SUFFIX, 1passwordusercontent.eu
-DOMAIN-SUFFIX, agilebits.com
-DOMAIN-SUFFIX, passage.id
-
-DOMAIN, 1password.drift.click
-
 DOMAIN-SUFFIX, alibabacloud.co.in
 DOMAIN-SUFFIX, alibabacloud.com
 DOMAIN-SUFFIX, alibabacloud.com.au
@@ -24561,15 +24566,6 @@ DOMAIN-SUFFIX, firstns.cc
 DOMAIN-SUFFIX, fourthns.systems
 DOMAIN-SUFFIX, secondns.at
 DOMAIN-SUFFIX, thirdns.de
-
-DOMAIN-SUFFIX, anthropic.com
-DOMAIN-SUFFIX, claude.ai
-DOMAIN-SUFFIX, claude.com
-DOMAIN-SUFFIX, claudeusercontent.com
-DOMAIN-SUFFIX, claudemcpclient.com
-
-# CDN
-DOMAIN, servd-anthropic-website.b-cdn.net
 
 DOMAIN-SUFFIX, api-adservices.apple.com
 DOMAIN-SUFFIX, iadsdk.apple.com
@@ -29179,8 +29175,6 @@ DOMAIN, xn--flw351e.com
 DOMAIN-SUFFIX, gvt1-cn.com
 DOMAIN-SUFFIX, gvt2-cn.com
 
-DOMAIN-SUFFIX, groq.com
-
 DOMAIN-SUFFIX, first-ns.de
 DOMAIN-SUFFIX, hetzner.cloud
 DOMAIN-SUFFIX, hetzner.com
@@ -31610,32 +31604,6 @@ DOMAIN, nvidia.tt.omtrdc.net
 # NVIDIA 文件下载服务器中国镜像
 DOMAIN, cn.download.nvidia.com
 
-# Main domain
-DOMAIN-SUFFIX, chatgpt.com
-DOMAIN-SUFFIX, chat.com
-DOMAIN-SUFFIX, oaistatic.com
-DOMAIN-SUFFIX, oaiusercontent.com
-DOMAIN-SUFFIX, openai.com
-DOMAIN-SUFFIX, sora.com
-
-# CDN & API
-DOMAIN-SUFFIX, openai.com.cdn.cloudflare.net
-DOMAIN, openaiapi-site.azureedge.net
-DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN, openaicomproductionae4b.blob.core.windows.net
-DOMAIN, production-openaicom-storage.azureedge.net
-URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
-
-# tracking
-DOMAIN, o33249.ingest.sentry.io
-DOMAIN, openaicom.imgix.net
-DOMAIN, browser-intake-datadoghq.com
-
-# Advanced Voice
-DOMAIN-SUFFIX, chatgpt.livekit.cloud
-DOMAIN-SUFFIX, host.livekit.cloud
-DOMAIN-SUFFIX, turn.livekit.cloud
-
 DOMAIN-SUFFIX, openweather.co.uk
 DOMAIN-SUFFIX, openweathermap.org
 
@@ -31711,12 +31679,6 @@ DOMAIN-SUFFIX, pccwsolutions.com
 
 # Moov
 DOMAIN-SUFFIX, moov.hk
-
-DOMAIN-SUFFIX, perplexity.ai
-DOMAIN-SUFFIX, perplexity.com
-DOMAIN-SUFFIX, pplx.ai
-
-DOMAIN, pplx-res.cloudinary.com
 
 # Global
 DOMAIN-SUFFIX, myqnapcloud.com
@@ -32602,9 +32564,6 @@ DOMAIN-SUFFIX, yastatic.net
 
 # Watching movies, included in the Yandex subscription
 DOMAIN-SUFFIX, kinopoisk.ru
-
-DOMAIN-SUFFIX, grok.com
-DOMAIN-SUFFIX, x.ai
 
 
 # Remote Control
