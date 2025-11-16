@@ -661,6 +661,9 @@ DOMAIN-SUFFIX, 18hmanga.com
 DOMAIN-SUFFIX, 18insta.com
 DOMAIN-SUFFIX, 18j.tv
 DOMAIN-SUFFIX, 18jms.com
+DOMAIN-SUFFIX, 18mh.co
+DOMAIN-SUFFIX, 18mh.me
+DOMAIN-SUFFIX, 18mh.net
 DOMAIN-SUFFIX, 18novel.xyz
 DOMAIN-SUFFIX, 18porncomic.com
 DOMAIN-SUFFIX, 18porno.tv
@@ -762,6 +765,7 @@ DOMAIN-SUFFIX, 500caocao.com
 DOMAIN-SUFFIX, 50dh.app
 DOMAIN-SUFFIX, 51cg1.com
 DOMAIN-SUFFIX, 51dh.site
+DOMAIN-SUFFIX, 51lieqi.com
 DOMAIN-SUFFIX, 51luoli.info
 DOMAIN-SUFFIX, 51mh.app
 DOMAIN-SUFFIX, 51pincha.cc
@@ -845,6 +849,9 @@ DOMAIN-SUFFIX, 88gals.com
 DOMAIN-SUFFIX, 88kkn.com
 DOMAIN-SUFFIX, 88manhua.top
 DOMAIN-SUFFIX, 88square.com
+DOMAIN-SUFFIX, 88xkk.com
+DOMAIN-SUFFIX, 88xm.tv
+DOMAIN-SUFFIX, 88xqq.com
 DOMAIN-SUFFIX, 89.com
 DOMAIN-SUFFIX, 8kcosplay.com
 DOMAIN-SUFFIX, 8kpornvids.com
@@ -866,9 +873,12 @@ DOMAIN-SUFFIX, 91gay.me
 DOMAIN-SUFFIX, 91jinman.com
 DOMAIN-SUFFIX, 91md.me
 DOMAIN-SUFFIX, 91moxiong.com
+DOMAIN-SUFFIX, 91nt.com
 DOMAIN-SUFFIX, 91oo.xyz
 DOMAIN-SUFFIX, 91porn.best
+DOMAIN-SUFFIX, 91pornforum.com
 DOMAIN-SUFFIX, 91pornplus.com
+DOMAIN-SUFFIX, 91pornvideo.com
 DOMAIN-SUFFIX, 91porny.com
 DOMAIN-SUFFIX, 91porny.store
 DOMAIN-SUFFIX, 91qk41rf.com
@@ -1481,6 +1491,7 @@ DOMAIN-SUFFIX, biguz.net
 DOMAIN-SUFFIX, bijukujo.club
 DOMAIN-SUFFIX, bimbim.com
 DOMAIN-SUFFIX, bimbolive.com
+DOMAIN-SUFFIX, bingoporno.com
 DOMAIN-SUFFIX, bioporno.com
 DOMAIN-SUFFIX, biqle.org
 DOMAIN-SUFFIX, biqle.ru
@@ -1901,6 +1912,7 @@ DOMAIN-SUFFIX, diamantewebcam.com
 DOMAIN-SUFFIX, diamondgirls.co.uk
 DOMAIN-SUFFIX, diamondgirlstudio.com
 DOMAIN-SUFFIX, dianapost.com
+DOMAIN-SUFFIX, diaoda.co
 DOMAIN-SUFFIX, diarrheafan.livedoor.blog
 DOMAIN-SUFFIX, dickeomas.com
 DOMAIN-SUFFIX, dickhardon.com
@@ -2264,6 +2276,7 @@ DOMAIN-SUFFIX, fetishpapa.com
 DOMAIN-SUFFIX, fetishpornonly.com
 DOMAIN-SUFFIX, fetishshrine.com
 DOMAIN-SUFFIX, fetlife.com
+DOMAIN-SUFFIX, ffddff.com
 DOMAIN-SUFFIX, fffucked.com
 DOMAIN-SUFFIX, fgirl.ch
 DOMAIN-SUFFIX, fi11.com
@@ -3622,6 +3635,7 @@ DOMAIN-SUFFIX, llcaoxm-avi.sbs
 DOMAIN-SUFFIX, llwht88.xyz
 DOMAIN-SUFFIX, lmm167.shop
 DOMAIN-SUFFIX, lmmbtc.com
+DOMAIN-SUFFIX, lms01.com
 DOMAIN-SUFFIX, lobstertube.com
 DOMAIN-SUFFIX, localxlist.org
 DOMAIN-SUFFIX, loholidayhk.com
@@ -4725,6 +4739,7 @@ DOMAIN-SUFFIX, pp6.info
 DOMAIN-SUFFIX, ppb-mod.buzz
 DOMAIN-SUFFIX, ppe.lawyer
 DOMAIN-SUFFIX, pplah.com
+DOMAIN-SUFFIX, ppnnpp.com
 DOMAIN-SUFFIX, ppp91.cc
 DOMAIN-SUFFIX, prastitutki.ru
 DOMAIN-SUFFIX, premium-beauty.com
@@ -4805,6 +4820,7 @@ DOMAIN-SUFFIX, qombol.com
 DOMAIN-SUFFIX, qooqlevideo.com
 DOMAIN-SUFFIX, qorno.com
 DOMAIN-SUFFIX, qporno.xxx
+DOMAIN-SUFFIX, qq33qq.com
 DOMAIN-SUFFIX, qqbs.asia
 DOMAIN-SUFFIX, qqbs.work
 DOMAIN-SUFFIX, quickiepage.com
@@ -5582,6 +5598,7 @@ DOMAIN-SUFFIX, tittykings.com
 DOMAIN-SUFFIX, tkb008.xyz
 DOMAIN-SUFFIX, tkb2233.life
 DOMAIN-SUFFIX, tkbqf2.life
+DOMAIN-SUFFIX, tksex.com
 DOMAIN-SUFFIX, tktube.com
 DOMAIN-SUFFIX, tmei-taoyuan.com
 DOMAIN-SUFFIX, tnaflix.com
@@ -6182,8 +6199,11 @@ DOMAIN-SUFFIX, xvds.tv
 DOMAIN-SUFFIX, xvedo.net
 DOMAIN-SUFFIX, xvideo-jp.com
 DOMAIN-SUFFIX, xvideo.com
+DOMAIN-SUFFIX, xvideo.org
 DOMAIN-SUFFIX, xvideo.run
 DOMAIN-SUFFIX, xvideo.vlog.br
+DOMAIN-SUFFIX, xvideo1.org
+DOMAIN-SUFFIX, xvideo2.org
 DOMAIN-SUFFIX, xvideoporno.tv
 DOMAIN-SUFFIX, xvideos.com
 DOMAIN-SUFFIX, xvideos-dl.top
@@ -6455,6 +6475,7 @@ DOMAIN-SUFFIX, yy55.tv
 DOMAIN-SUFFIX, yy7y.com
 DOMAIN-SUFFIX, yy8y.com
 DOMAIN-SUFFIX, yyfb.cyou
+DOMAIN-SUFFIX, yyvhhbmw.cc
 DOMAIN-SUFFIX, yzld188.top
 DOMAIN-SUFFIX, z00.world
 DOMAIN-SUFFIX, z676869.com
@@ -6569,11 +6590,13 @@ URL-REGEX, (^|\.)7mm0([0-1][0-9]?)?\.com$
 URL-REGEX, (^|\.)8dgo[1-57-9]\.com$
 URL-REGEX, (^|\.)91cg([1-9]|[0-9][1-9])?.com$
 URL-REGEX, (^|\.)91p[0-9][0-9]?\.com$
-URL-REGEX, (^|\.)91porn\.(best|com|cool|group|party|plus|site|tw|work)$
+URL-REGEX, (^|\.)91porn\.(best|com|cool|fun|group|party|plus|site|tw|work)$
 URL-REGEX, (^|\.)91porn[0-9]{3}\.me$
 URL-REGEX, (^|\.)91porn[0-9]?\.store$
+URL-REGEX, (^|\.)91porna[1-7]?\.com$
 URL-REGEX, (^|\.)91porn[fvxy]\.com$
 URL-REGEX, (^|\.)91sew1[1-6]\.buzz$
+URL-REGEX, (^|\.)91wang[1-9]\.com$
 URL-REGEX, (^|\.)989[a-z]?\.tv$
 URL-REGEX, (^|\.)99pp[1-9][0-9]\.com$
 URL-REGEX, (^|\.)9cha[0-9]{2}\.cc$

@@ -194,6 +194,9 @@ DOMAIN, ai.zhaomi.cn
 # 妙言AI 冀ICP备20012219号-3
 DOMAIN-SUFFIX, miaoyanai.com
 
+# 法行宝 (百度)
+DOMAIN-SUFFIX, faxingbao.com
+
 
 # Aviation
 DOMAIN-SUFFIX, airchina.com.cn # 中国国际航空
@@ -2579,6 +2582,8 @@ DOMAIN-SUFFIX, miaopai.com
 DOMAIN-SUFFIX, muwai.com #703
 DOMAIN-SUFFIX, pearvideo.com
 DOMAIN-SUFFIX, sfacg.com # SF轻小说二次元
+DOMAIN-SUFFIX, yamibo.com # 百合会
+DOMAIN-SUFFIX, yiyouliao.com # 易有料
 DOMAIN-SUFFIX, zhanqi.tv
 
 
@@ -2693,9 +2698,12 @@ DOMAIN-SUFFIX, stage1st.com
 
 
 DOMAIN-SUFFIX, 52pojie.cn # 吾爱破解
+DOMAIN-SUFFIX, anywlan.com # 无线论坛
+DOMAIN-SUFFIX, chinadsl.net # 宽带技术网
 DOMAIN-SUFFIX, chiphell.com # ChipHell
 DOMAIN-SUFFIX, chongbuluo.com # 虫部落
 DOMAIN-SUFFIX, erji.net # 耳机网
+DOMAIN-SUFFIX, itpub.net # ITPUB技术论坛
 DOMAIN-SUFFIX, itsk.com # IT天空论坛
 DOMAIN-SUFFIX, kafan.cn # 卡饭论坛
 DOMAIN-SUFFIX, kanxue.com # 看雪
@@ -2705,6 +2713,7 @@ DOMAIN-SUFFIX, klpbbs.com # 苦力怕论坛
 DOMAIN-SUFFIX, mcbbs.net # MCBBS论坛
 DOMAIN-SUFFIX, pcbeta.com # 远景论坛
 DOMAIN-SUFFIX, right.com.cn # 恩山论坛
+DOMAIN-SUFFIX, txrjy.com # 通信人家园
 DOMAIN-SUFFIX, uiwow.com # 魔兽有爱论坛
 DOMAIN-SUFFIX, wuyou.net # 无忧启动论坛
 
@@ -3086,6 +3095,9 @@ DOMAIN-SUFFIX, jxpp.com
 
 # 人人都是产品经理
 DOMAIN-SUFFIX, woshipm.com
+
+# 知产力
+DOMAIN-SUFFIX, zhichanli.com
 
 
 # Netdisk
@@ -4808,6 +4820,7 @@ DOMAIN-SUFFIX, bdydns.net
 DOMAIN-SUFFIX, chuanke.com
 DOMAIN-SUFFIX, dlnel.com
 DOMAIN-SUFFIX, dlnel.org
+DOMAIN-SUFFIX, duapp.com
 DOMAIN-SUFFIX, duapp.net
 DOMAIN-SUFFIX, duapps.com
 DOMAIN-SUFFIX, duurl.cn
@@ -4821,6 +4834,7 @@ DOMAIN-SUFFIX, jomocdn.net
 DOMAIN-SUFFIX, jomodns.cn
 DOMAIN-SUFFIX, jomodns.com
 DOMAIN-SUFFIX, jomodns.net
+DOMAIN-SUFFIX, jomoxc.com
 DOMAIN-SUFFIX, mipcdn.com
 DOMAIN-SUFFIX, nuomi.com
 DOMAIN-SUFFIX, quyaoya.com
@@ -8435,7 +8449,6 @@ DOMAIN-SUFFIX, tuwan.com
 DOMAIN-SUFFIX, tuwanjun.com
 DOMAIN-SUFFIX, tvmao.com
 DOMAIN-SUFFIX, tvzhe.com
-DOMAIN-SUFFIX, txrjy.com # 沪ICP备12002292号
 DOMAIN-SUFFIX, u.tools
 DOMAIN-SUFFIX, ucbug.com
 DOMAIN-SUFFIX, uggame.com
