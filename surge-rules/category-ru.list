@@ -1,6 +1,7 @@
 # Russian websites
 
 # Russian TLDs
+DOMAIN-SUFFIX, moscow
 DOMAIN-SUFFIX, ru
 DOMAIN-SUFFIX, su
 DOMAIN-SUFFIX, xn--80adxhks
@@ -10,6 +11,9 @@ DOMAIN-SUFFIX, xn--c1avg
 DOMAIN-SUFFIX, xn--d1acj3b
 DOMAIN-SUFFIX, xn--p1acf
 DOMAIN-SUFFIX, xn--p1ai
+
+DOMAIN-SUFFIX, ru.com
+DOMAIN-SUFFIX, ru.net
 
 # Federal Gov.
 DOMAIN-SUFFIX, government.ru
@@ -252,12 +256,18 @@ DOMAIN-SUFFIX, yandex
 # яндекс.рф
 DOMAIN-SUFFIX, xn--d1acpjx3f.xn--p1ai
 
+DOMAIN-SUFFIX, adfox.ru
+DOMAIN-SUFFIX, admetrica.ru
 DOMAIN-SUFFIX, dzen.ru
 DOMAIN-SUFFIX, naydex.net
 DOMAIN-SUFFIX, rostaxi.org
+DOMAIN-SUFFIX, webvisor.com
+DOMAIN-SUFFIX, webvisor.org
 DOMAIN-SUFFIX, ya.ru
+DOMAIN-SUFFIX, yads.tech
 DOMAIN-SUFFIX, yandex-bank.net
 DOMAIN-SUFFIX, yandex-images.clstorage.net
+DOMAIN-SUFFIX, yandex-team.ru
 DOMAIN-SUFFIX, yandex.aero
 DOMAIN-SUFFIX, yandex.az
 DOMAIN-SUFFIX, yandex.by
@@ -293,9 +303,12 @@ DOMAIN-SUFFIX, yandex.uz
 DOMAIN-SUFFIX, yandexadexchange.net
 DOMAIN-SUFFIX, yandexcloud.net
 DOMAIN-SUFFIX, yandexcom.net
+DOMAIN-SUFFIX, yandexmetrica.com
 DOMAIN-SUFFIX, yandexwebcache.org
+DOMAIN-SUFFIX, yastat.net
 DOMAIN-SUFFIX, yastatic.net
 
 # Watching movies, included in the Yandex subscription
 DOMAIN-SUFFIX, kinopoisk.ru
+DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
 
