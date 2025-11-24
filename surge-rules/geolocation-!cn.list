@@ -17600,6 +17600,7 @@ DOMAIN-SUFFIX, tutamail.com
 DOMAIN-SUFFIX, tutanota.com
 DOMAIN-SUFFIX, tutanota.de
 
+DOMAIN-SUFFIX, ai-sdk.dev
 DOMAIN-SUFFIX, err.sh
 DOMAIN-SUFFIX, hyper.is
 DOMAIN-SUFFIX, nextjs.org
@@ -17677,6 +17678,9 @@ DOMAIN-SUFFIX, zoom.us
 
 
 DOMAIN-SUFFIX, biliplus.com # BiliPlus
+
+# Graphing for Science and Engineering
+DOMAIN-SUFFIX, originlab.com
 
 # Online LaTeX Editor
 DOMAIN-SUFFIX, cloudlatex.io
