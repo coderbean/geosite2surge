@@ -214,11 +214,11 @@ DOMAIN-SUFFIX, bowenpress.com
 DOMAIN-SUFFIX, c-span.org
 DOMAIN-SUFFIX, c-spanvideo.org
 
-# All .cbs domains
-DOMAIN-SUFFIX, cbs
+# https://www.iana.org/domains/root/db/cbs.html
+# cbs (Revoked)
 
-# All .showtime domains
-DOMAIN-SUFFIX, showtime
+# https://www.iana.org/domains/root/db/showtime.html
+# showtime (Revoked)
 
 DOMAIN-SUFFIX, cbs.com
 DOMAIN-SUFFIX, cbscorporation.com
@@ -1298,7 +1298,7 @@ DOMAIN-SUFFIX, skysportsracing.com
 DOMAIN-SUFFIX, cn-cdn1.skymansion.net
 
 # All .theguardian domains
-DOMAIN-SUFFIX, theguardian
+# theguardian (never delegated)
 
 DOMAIN-SUFFIX, dev-guardianapis.com
 DOMAIN-SUFFIX, dev-theguardian.com

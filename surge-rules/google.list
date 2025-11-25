@@ -1,4 +1,7 @@
 # List of all domains being operated by Google Inc.
+# All .android domains
+DOMAIN-SUFFIX, android
+
 DOMAIN-SUFFIX, android.com
 DOMAIN-SUFFIX, androidify.com
 
@@ -593,7 +596,7 @@ DOMAIN, yt3.googleusercontent.com
 
 
 # All .and domains
-DOMAIN-SUFFIX, and
+# and (TLD application withdrawn by Google)
 
 # All .chrome domains
 DOMAIN-SUFFIX, chrome

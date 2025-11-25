@@ -66,10 +66,11 @@ DOMAIN-SUFFIX, rwkv.cn
 DOMAIN-SUFFIX, rwkv.com
 
 # 通义千问
-DOMAIN-SUFFIX, tongyi.aliyun.com
 DOMAIN-SUFFIX, qianwen.aliyun.com
+DOMAIN-SUFFIX, qianwen.com
 DOMAIN-SUFFIX, qwen.ai
 DOMAIN-SUFFIX, qwenlm.ai
+DOMAIN-SUFFIX, tongyi.aliyun.com
 DOMAIN-SUFFIX, tongyi.com
 
 # 文心一言
@@ -2889,6 +2890,12 @@ DOMAIN-SUFFIX, cztvcdn.com
 DOMAIN-SUFFIX, cztvcloud.com
 DOMAIN-SUFFIX, zjstv.com
 
+# 重庆晨报 上游新闻
+DOMAIN-SUFFIX, cqcb.com
+
+# 河南广播电视台 大象网
+DOMAIN-SUFFIX, hntv.tv
+
 # 数字尾巴
 DOMAIN-SUFFIX, dgtle.com
 
@@ -2896,7 +2903,7 @@ DOMAIN-SUFFIX, dgtle.com
 DOMAIN-SUFFIX, gcores.com
 
 # 极客公园
-DOMAIN-SUFFIX, geekpark
+DOMAIN-SUFFIX, geekpark.net
 
 # 奇客资讯网
 DOMAIN-SUFFIX, solidot.org
@@ -3053,6 +3060,24 @@ DOMAIN-SUFFIX, woshipm.com
 
 # 知产力
 DOMAIN-SUFFIX, zhichanli.com
+
+# AET 电子技术应用
+DOMAIN-SUFFIX, chinaaet.com
+
+# FreeBuf 网络安全行业门户
+DOMAIN-SUFFIX, freebuf.com
+
+# 艾瑞咨询
+DOMAIN-SUFFIX, iresearch.cn
+
+# 前瞻网
+DOMAIN-SUFFIX, qianzhan.com
+
+# 安全内参
+DOMAIN-SUFFIX, secrss.com
+
+# 商业新知
+DOMAIN-SUFFIX, shangyexinzhi.com
 
 
 # Netdisk
@@ -3269,6 +3294,10 @@ DOMAIN-SUFFIX, qgzb.gov.cn
 DOMAIN-SUFFIX, qgzb.net
 DOMAIN-SUFFIX, zbbm.gov.cn
 DOMAIN-SUFFIX, zbbm.net
+
+# 国家智慧教育公共服务平台
+DOMAIN-SUFFIX, cbern.com.cn
+DOMAIN-SUFFIX, smartedu.cn
 
 # 中国地质大学 继续教育学院
 DOMAIN-SUFFIX, cugbonline.cn
@@ -7954,7 +7983,6 @@ DOMAIN-SUFFIX, fimmu.com
 DOMAIN-SUFFIX, finchina.com
 DOMAIN-SUFFIX, fixdown.com
 DOMAIN-SUFFIX, fqjob.net
-DOMAIN-SUFFIX, freebuf.com
 DOMAIN-SUFFIX, fugetech.com
 DOMAIN-SUFFIX, fuwj.com
 DOMAIN-SUFFIX, fxxz.com
@@ -8025,7 +8053,6 @@ DOMAIN-SUFFIX, hiyd.com
 DOMAIN-SUFFIX, hktheone.com
 DOMAIN-SUFFIX, hn-cbec.com
 DOMAIN-SUFFIX, hnrcsc.com
-DOMAIN-SUFFIX, hntv.tv
 DOMAIN-SUFFIX, hnyuyuhui.com
 DOMAIN-SUFFIX, hollycrm.com
 DOMAIN-SUFFIX, homeinns.com
@@ -8282,7 +8309,6 @@ DOMAIN-SUFFIX, qh24.com
 DOMAIN-SUFFIX, qiangbus.com
 DOMAIN-SUFFIX, qianjia.com
 DOMAIN-SUFFIX, qianlima.com
-DOMAIN-SUFFIX, qianzhan.com
 DOMAIN-SUFFIX, qiaobutang.com
 DOMAIN-SUFFIX, qie.tv
 DOMAIN-SUFFIX, qifeiye.com

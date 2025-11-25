@@ -3,6 +3,9 @@ DOMAIN-SUFFIX, anaconda.com
 DOMAIN-SUFFIX, anaconda.org
 DOMAIN-SUFFIX, conda.io
 
+# All .android domains
+DOMAIN-SUFFIX, android
+
 DOMAIN-SUFFIX, android.com
 DOMAIN-SUFFIX, androidify.com
 

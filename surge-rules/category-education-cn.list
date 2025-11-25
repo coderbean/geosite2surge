@@ -87,6 +87,10 @@ DOMAIN-SUFFIX, qgzb.net
 DOMAIN-SUFFIX, zbbm.gov.cn
 DOMAIN-SUFFIX, zbbm.net
 
+# 国家智慧教育公共服务平台
+DOMAIN-SUFFIX, cbern.com.cn
+DOMAIN-SUFFIX, smartedu.cn
+
 # 中国地质大学 继续教育学院
 DOMAIN-SUFFIX, cugbonline.cn
 

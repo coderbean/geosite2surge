@@ -8,10 +8,11 @@ DOMAIN-SUFFIX, rwkv.cn
 DOMAIN-SUFFIX, rwkv.com
 
 # 通义千问
-DOMAIN-SUFFIX, tongyi.aliyun.com
 DOMAIN-SUFFIX, qianwen.aliyun.com
+DOMAIN-SUFFIX, qianwen.com
 DOMAIN-SUFFIX, qwen.ai
 DOMAIN-SUFFIX, qwenlm.ai
+DOMAIN-SUFFIX, tongyi.aliyun.com
 DOMAIN-SUFFIX, tongyi.com
 
 # 文心一言

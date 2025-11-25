@@ -8287,11 +8287,11 @@ DOMAIN-SUFFIX, bowenpress.com
 DOMAIN-SUFFIX, c-span.org
 DOMAIN-SUFFIX, c-spanvideo.org
 
-# All .cbs domains
-DOMAIN-SUFFIX, cbs
+# https://www.iana.org/domains/root/db/cbs.html
+# cbs (Revoked)
 
-# All .showtime domains
-DOMAIN-SUFFIX, showtime
+# https://www.iana.org/domains/root/db/showtime.html
+# showtime (Revoked)
 
 DOMAIN-SUFFIX, cbs.com
 DOMAIN-SUFFIX, cbscorporation.com
@@ -9371,7 +9371,7 @@ DOMAIN-SUFFIX, skysportsracing.com
 DOMAIN-SUFFIX, cn-cdn1.skymansion.net
 
 # All .theguardian domains
-DOMAIN-SUFFIX, theguardian
+# theguardian (never delegated)
 
 DOMAIN-SUFFIX, dev-guardianapis.com
 DOMAIN-SUFFIX, dev-theguardian.com
@@ -17700,6 +17700,9 @@ DOMAIN-SUFFIX, anaconda.com
 DOMAIN-SUFFIX, anaconda.org
 DOMAIN-SUFFIX, conda.io
 
+# All .android domains
+DOMAIN-SUFFIX, android
+
 DOMAIN-SUFFIX, android.com
 DOMAIN-SUFFIX, androidify.com
 
@@ -22379,6 +22382,9 @@ DOMAIN-SUFFIX, x.co # GoDaddy URL Shortener
 DOMAIN-SUFFIX, godaddy
 
 # List of all domains being operated by Google Inc.
+# All .android domains
+DOMAIN-SUFFIX, android
+
 DOMAIN-SUFFIX, android.com
 DOMAIN-SUFFIX, androidify.com
 
@@ -22973,7 +22979,7 @@ DOMAIN, yt3.googleusercontent.com
 
 
 # All .and domains
-DOMAIN-SUFFIX, and
+# and (TLD application withdrawn by Google)
 
 # All .chrome domains
 DOMAIN-SUFFIX, chrome
@@ -27366,11 +27372,11 @@ DOMAIN-SUFFIX, huanghuagang.org
 
 DOMAIN-SUFFIX, lavteam.org
 
-# All .mcd domains
-DOMAIN-SUFFIX, mcd
+# https://www.iana.org/domains/root/db/mcd.html
+# mcd (Revoked)
 
-# All .mcdonalds domains
-DOMAIN-SUFFIX, mcdonalds
+# https://www.iana.org/domains/root/db/mcdonalds.html
+# mcdonalds (Revoked)
 
 # McDonald's Australia
 DOMAIN-SUFFIX, happymeal.com.au
