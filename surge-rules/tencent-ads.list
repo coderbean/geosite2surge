@@ -1,5 +1,7 @@
+DOMAIN-SUFFIX, ad.browser.qq.com
 DOMAIN-SUFFIX, ad.qq.com
 DOMAIN-SUFFIX, ad.qun.qq.com
+DOMAIN-SUFFIX, ad.weixin.qq.com
 DOMAIN-SUFFIX, adfilter.imtt.qq.com
 DOMAIN-SUFFIX, adnet.qq.com
 DOMAIN-SUFFIX, adping.qq.com
@@ -16,13 +18,17 @@ DOMAIN-SUFFIX, adsview.qq.com
 DOMAIN-SUFFIX, adsview2.qq.com
 DOMAIN-SUFFIX, adv.app.qq.com
 DOMAIN-SUFFIX, adver.qq.com
+DOMAIN-SUFFIX, beacon.cdn.qq.com
 DOMAIN-SUFFIX, beacon.qq.com
 DOMAIN-SUFFIX, beaconcdn.qq.com
 DOMAIN-SUFFIX, btrace.qq.com
+DOMAIN-SUFFIX, bugly.qq.com
 DOMAIN-SUFFIX, e.qq.com
 DOMAIN-SUFFIX, gdt.qq.com
+DOMAIN-SUFFIX, hq-tracking.qq.com
 DOMAIN-SUFFIX, isdspeed.qq.com
 DOMAIN-SUFFIX, log.tbs.qq.com
+DOMAIN-SUFFIX, mdt.qq.com
 DOMAIN-SUFFIX, mpush.qq.com
 DOMAIN-SUFFIX, mtrace.qq.com
 DOMAIN-SUFFIX, pgdt.gtimg.cn
@@ -32,6 +38,8 @@ DOMAIN-SUFFIX, sngmta.qq.com
 DOMAIN-SUFFIX, stat.y.qq.com
 DOMAIN-SUFFIX, tajs.qq.com
 DOMAIN-SUFFIX, tcss.qq.com
+DOMAIN-SUFFIX, tmead.y.qq.com
+DOMAIN-SUFFIX, tmeadcomm.y.qq.com
 DOMAIN-SUFFIX, trace.qq.com
 DOMAIN-SUFFIX, ugdtimg.com
 DOMAIN-SUFFIX, wit.qq.com

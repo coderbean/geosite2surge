@@ -142,6 +142,8 @@ DOMAIN-SUFFIX, advertiserscommunity.com
 DOMAIN-SUFFIX, adwords-community.com
 DOMAIN-SUFFIX, adwords.com
 DOMAIN-SUFFIX, adwordsexpress.com
+DOMAIN-SUFFIX, app-analytics-services.com
+DOMAIN-SUFFIX, app-analytics-services-att.com
 DOMAIN-SUFFIX, app-measurement-cn.com
 DOMAIN-SUFFIX, app-measurement.com
 DOMAIN-SUFFIX, doubleclick-cn.net
@@ -151,6 +153,7 @@ DOMAIN-SUFFIX, doubleclick.net
 DOMAIN-SUFFIX, google-analytics-cn.com
 DOMAIN-SUFFIX, google-analytics.com
 DOMAIN-SUFFIX, googleadapis.com
+DOMAIN-SUFFIX, googleadapis.l.google.com
 DOMAIN-SUFFIX, googleads-cn.com
 DOMAIN-SUFFIX, googleads.com
 DOMAIN-SUFFIX, googleadservices-cn.com
@@ -169,10 +172,14 @@ DOMAIN-SUFFIX, googletraveladservices-cn.com
 DOMAIN-SUFFIX, googletraveladservices.com
 DOMAIN-SUFFIX, googlevads-cn.com
 DOMAIN-SUFFIX, mail-ads.google.com
+DOMAIN-SUFFIX, mobileads.google.com
 DOMAIN-SUFFIX, marketingplatform.google.com
+DOMAIN-SUFFIX, pagead.l.google.com
+DOMAIN-SUFFIX, partnerad.l.google.com
 DOMAIN-SUFFIX, urchin.com
 
 DOMAIN, analytics.google.com
+DOMAIN, fundingchoicesmessages.google.com
 
 URL-REGEX, ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
 
