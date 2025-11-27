@@ -2,6 +2,7 @@
 
 # Russian TLDs
 DOMAIN-SUFFIX, moscow
+DOMAIN-SUFFIX, tatar
 DOMAIN-SUFFIX, ru
 DOMAIN-SUFFIX, su
 DOMAIN-SUFFIX, xn--80adxhks
@@ -298,6 +299,7 @@ DOMAIN-SUFFIX, yandex.st
 DOMAIN-SUFFIX, yandex.sx
 DOMAIN-SUFFIX, yandex.tj
 DOMAIN-SUFFIX, yandex.tm
+DOMAIN-SUFFIX, yandex.tr
 DOMAIN-SUFFIX, yandex.ua
 DOMAIN-SUFFIX, yandex.uz
 DOMAIN-SUFFIX, yandexadexchange.net

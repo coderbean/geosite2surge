@@ -252,6 +252,7 @@ DOMAIN-SUFFIX, alihealth.com.cn
 DOMAIN-SUFFIX, alihealth.hk
 DOMAIN-SUFFIX, aliimg.com
 DOMAIN-SUFFIX, alikmd.com
+DOMAIN-SUFFIX, alimama.cn
 DOMAIN-SUFFIX, alimama.com
 DOMAIN-SUFFIX, alimebot.com
 DOMAIN-SUFFIX, alimei.com
@@ -295,6 +296,7 @@ DOMAIN-SUFFIX, gongyi.xin
 DOMAIN-SUFFIX, ialicdn.com
 DOMAIN-SUFFIX, iconfont.cn
 DOMAIN-SUFFIX, ics.design
+DOMAIN-SUFFIX, imgcook.com
 DOMAIN-SUFFIX, jhgtgb.com
 DOMAIN-SUFFIX, kanbox.com
 DOMAIN-SUFFIX, lazada.com
@@ -317,6 +319,7 @@ DOMAIN-SUFFIX, shuqi.com
 DOMAIN-SUFFIX, shuqireader.com
 DOMAIN-SUFFIX, sparenode.com
 DOMAIN-SUFFIX, supet.com
+DOMAIN-SUFFIX, tanx.com
 DOMAIN-SUFFIX, ttpod.com
 DOMAIN-SUFFIX, wandoujia.com
 DOMAIN-SUFFIX, xin.xin
@@ -370,6 +373,7 @@ DOMAIN-SUFFIX, lingshoujia.com
 DOMAIN-SUFFIX, mashort.cn
 DOMAIN-SUFFIX, pailitao.com
 DOMAIN-SUFFIX, taobao.com
+DOMAIN-SUFFIX, taobao.net
 DOMAIN-SUFFIX, taobao.org
 DOMAIN-SUFFIX, taobaocdn.com
 DOMAIN-SUFFIX, taobizhong.com
@@ -385,6 +389,7 @@ DOMAIN-SUFFIX, tmjl.ai
 
 # 夸克
 DOMAIN-SUFFIX, cueme.cn
+DOMAIN-SUFFIX, myquark.cn
 DOMAIN-SUFFIX, quark.cn
 
 # 飞猪

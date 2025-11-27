@@ -1011,6 +1011,13 @@ DOMAIN-SUFFIX, ti.com.cn
 DOMAIN-SUFFIX, wch.cn
 DOMAIN-SUFFIX, wch-ic.com
 
+# 长江存储
+# 长江存储
+DOMAIN-SUFFIX, ymtc.com
+DOMAIN-SUFFIX, ymtc.com.cn
+DOMAIN-SUFFIX, ymtc.cn
+
+
 
 # 汽车
 # 汽车资讯
@@ -2028,6 +2035,15 @@ DOMAIN-SUFFIX, xd.com
 DOMAIN-SUFFIX, xdcdn.net
 DOMAIN-SUFFIX, xindong.com
 
+# 游卡
+DOMAIN-SUFFIX, dobest.com
+DOMAIN-SUFFIX, langrenclub.com
+DOMAIN-SUFFIX, sanguosha.com
+DOMAIN-SUFFIX, xhlsgs.com
+DOMAIN-SUFFIX, xinwuji.com
+DOMAIN-SUFFIX, yokaverse.com
+DOMAIN-SUFFIX, zhuoyou.com
+
 
 # 刀锋盒子 皖B2-20190103-4
 DOMAIN-SUFFIX, 9xgame.com
@@ -2052,6 +2068,11 @@ DOMAIN-SUFFIX, heavenlywind.cc
 # 沪ICP备18041304号-1
 DOMAIN-SUFFIX, tgpro.top
 DOMAIN-SUFFIX, tgprocs.net
+# 途游
+DOMAIN-SUFFIX, tuyoo.com
+# 完美世界
+DOMAIN-SUFFIX, wanmei.com
+DOMAIN-SUFFIX, wmsj.cn
 # Wine游戏助手 京ICP备18041936号
 DOMAIN-SUFFIX, winegame.net
 # 畅玩空间 冀ICP备20019223号
@@ -2362,9 +2383,11 @@ DOMAIN, wlog.kuaishou.com
 
 DOMAIN-SUFFIX, ecukwai.com
 DOMAIN-SUFFIX, gifshow.com
+DOMAIN-SUFFIX, inkuai.com
 DOMAIN-SUFFIX, inkwai.com
 DOMAIN-SUFFIX, ksapisrv.com
 DOMAIN-SUFFIX, kskwai.com
+DOMAIN-SUFFIX, kuaishou.cn
 DOMAIN-SUFFIX, kuaishou.com
 DOMAIN-SUFFIX, kuaishouapps.com
 DOMAIN-SUFFIX, kuaishoupay.com
@@ -2401,19 +2424,10 @@ DOMAIN-SUFFIX, koowo.cn
 DOMAIN-SUFFIX, koowo.com
 DOMAIN-SUFFIX, kuwo.cn
 
-DOMAIN-SUFFIX, api.game.letvstore.com
+DOMAIN-SUFFIX, apple.www.letv.com
 DOMAIN-SUFFIX, ark.letv.com
 DOMAIN-SUFFIX, dc.letv.com
-DOMAIN-SUFFIX, fz.letv.com
 DOMAIN-SUFFIX, g3.letv.com
-DOMAIN-SUFFIX, letv.allyes.com
-DOMAIN-SUFFIX, minisite.letv.com
-DOMAIN-SUFFIX, msg.m.letv.com
-DOMAIN-SUFFIX, n.mark.letv.com
-DOMAIN-SUFFIX, pro.hoye.letv.com
-DOMAIN-SUFFIX, pro.letv.com
-DOMAIN-SUFFIX, stat.letv.com
-DOMAIN-SUFFIX, static.app.m.letv.com
 
 
 DOMAIN-SUFFIX, le.com
@@ -2933,8 +2947,18 @@ DOMAIN-SUFFIX, zjstv.com
 # 重庆晨报 上游新闻
 DOMAIN-SUFFIX, cqcb.com
 
+# 重庆华龙网
+DOMAIN-SUFFIX, cqhlw.cn
+DOMAIN-SUFFIX, cqliving.com
+DOMAIN-SUFFIX, cqnews.net
+DOMAIN-SUFFIX, cqsjb.com
+
 # 河南广播电视台 大象网
 DOMAIN-SUFFIX, hntv.tv
+# 河南广播网
+DOMAIN-SUFFIX, hndt.com
+# 河南广电融媒
+DOMAIN-SUFFIX, dianzhenkeji.com
 
 # 数字尾巴
 DOMAIN-SUFFIX, dgtle.com
@@ -3016,6 +3040,7 @@ DOMAIN-SUFFIX, caixin.com
 # Xinhua News Agency
 DOMAIN-SUFFIX, news.cn
 DOMAIN-SUFFIX, xinhuanet.com
+DOMAIN-SUFFIX, xinhuaxmt.com
 
 # 人民网
 DOMAIN-SUFFIX, people.cn
@@ -3822,6 +3847,26 @@ DOMAIN-SUFFIX, mob.com
 DOMAIN-SUFFIX, dutils.com
 DOMAIN-SUFFIX, accuratead.cn
 
+# 猪八戒网
+DOMAIN-SUFFIX, tianpeng.com
+DOMAIN-SUFFIX, zbj.com
+DOMAIN-SUFFIX, zbjdev.com
+DOMAIN-SUFFIX, zbjimg.com
+DOMAIN-SUFFIX, zhubajie.com
+
+
+# 中国天气网
+DOMAIN-SUFFIX, i8tq.com
+DOMAIN-SUFFIX, tq121.com.cn
+DOMAIN-SUFFIX, weather.com.cn
+DOMAIN-SUFFIX, weatherdt.com
+
+# 重庆阅品科技
+DOMAIN-SUFFIX, tianqi.com
+DOMAIN-SUFFIX, tianqistatic.com
+
+# TaCool SSL 酷证书
+DOMAIN-SUFFIX, tacool.com
 
 # 方正字库
 DOMAIN-SUFFIX, foundertype.com
@@ -4387,6 +4432,7 @@ DOMAIN-SUFFIX, alihealth.com.cn
 DOMAIN-SUFFIX, alihealth.hk
 DOMAIN-SUFFIX, aliimg.com
 DOMAIN-SUFFIX, alikmd.com
+DOMAIN-SUFFIX, alimama.cn
 DOMAIN-SUFFIX, alimama.com
 DOMAIN-SUFFIX, alimebot.com
 DOMAIN-SUFFIX, alimei.com
@@ -4430,6 +4476,7 @@ DOMAIN-SUFFIX, gongyi.xin
 DOMAIN-SUFFIX, ialicdn.com
 DOMAIN-SUFFIX, iconfont.cn
 DOMAIN-SUFFIX, ics.design
+DOMAIN-SUFFIX, imgcook.com
 DOMAIN-SUFFIX, jhgtgb.com
 DOMAIN-SUFFIX, kanbox.com
 DOMAIN-SUFFIX, lazada.com
@@ -4452,6 +4499,7 @@ DOMAIN-SUFFIX, shuqi.com
 DOMAIN-SUFFIX, shuqireader.com
 DOMAIN-SUFFIX, sparenode.com
 DOMAIN-SUFFIX, supet.com
+DOMAIN-SUFFIX, tanx.com
 DOMAIN-SUFFIX, ttpod.com
 DOMAIN-SUFFIX, wandoujia.com
 DOMAIN-SUFFIX, xin.xin
@@ -4505,6 +4553,7 @@ DOMAIN-SUFFIX, lingshoujia.com
 DOMAIN-SUFFIX, mashort.cn
 DOMAIN-SUFFIX, pailitao.com
 DOMAIN-SUFFIX, taobao.com
+DOMAIN-SUFFIX, taobao.net
 DOMAIN-SUFFIX, taobao.org
 DOMAIN-SUFFIX, taobaocdn.com
 DOMAIN-SUFFIX, taobizhong.com
@@ -4520,6 +4569,7 @@ DOMAIN-SUFFIX, tmjl.ai
 
 # 夸克
 DOMAIN-SUFFIX, cueme.cn
+DOMAIN-SUFFIX, myquark.cn
 DOMAIN-SUFFIX, quark.cn
 
 # 飞猪
@@ -5944,17 +5994,12 @@ DOMAIN-SUFFIX, kata.com.cn
 DOMAIN-SUFFIX, newniu.com
 DOMAIN-SUFFIX, wanliniu.com
 
-# 科大讯飞官网
-DOMAIN-SUFFIX, iflytek.com
-
-# 科大讯飞官方商城
-DOMAIN-SUFFIX, xunfei.cn
-
-# 讯飞读写
 DOMAIN-SUFFIX, iflyink.com
-
-# 讯飞听见
 DOMAIN-SUFFIX, iflyrec.com
+DOMAIN-SUFFIX, iflysec.com
+DOMAIN-SUFFIX, iflytek.com
+DOMAIN-SUFFIX, xfyun.cn
+DOMAIN-SUFFIX, xunfei.cn
 
 # e听说中学
 DOMAIN-SUFFIX, ets100.com
@@ -6201,6 +6246,8 @@ DOMAIN-SUFFIX, 188.com
 DOMAIN-SUFFIX, 321fenx.com
 DOMAIN-SUFFIX, haowu.link
 DOMAIN-SUFFIX, icourse163.org
+DOMAIN-SUFFIX, lf126.net
+DOMAIN-SUFFIX, lf127.net
 DOMAIN-SUFFIX, lofter.com
 DOMAIN-SUFFIX, nease.net
 DOMAIN-SUFFIX, netease-inc.com
@@ -7185,11 +7232,6 @@ DOMAIN-SUFFIX, thundercdn.com
 # 星域云
 DOMAIN-SUFFIX, xycloud.com
 DOMAIN-SUFFIX, xycdn.com
-
-# 长江存储
-DOMAIN-SUFFIX, ymtc.com
-DOMAIN-SUFFIX, ymtc.com.cn
-DOMAIN-SUFFIX, ymtc.cn
 
 DOMAIN-SUFFIX, aitcfw.com
 DOMAIN-SUFFIX, aizgtc.com
@@ -8210,7 +8252,6 @@ DOMAIN-SUFFIX, ruiwen.com
 DOMAIN-SUFFIX, runoob.com
 DOMAIN-SUFFIX, rzrc114.com
 DOMAIN-SUFFIX, saibo.com
-DOMAIN-SUFFIX, sanguosha.com
 DOMAIN-SUFFIX, sanwen.net
 DOMAIN-SUFFIX, sast.fun
 DOMAIN-SUFFIX, scdng.com
@@ -8278,7 +8319,6 @@ DOMAIN-SUFFIX, t1y5.com
 DOMAIN-SUFFIX, taihe.com
 DOMAIN-SUFFIX, taihuoniao.com
 DOMAIN-SUFFIX, tangeche.com
-DOMAIN-SUFFIX, tanx.com
 DOMAIN-SUFFIX, tao123.com
 DOMAIN-SUFFIX, taoche.com
 DOMAIN-SUFFIX, te5.com
@@ -8286,8 +8326,6 @@ DOMAIN-SUFFIX, tenxcloud.com
 DOMAIN-SUFFIX, tianjimedia.com
 DOMAIN-SUFFIX, tianjin-air.com
 DOMAIN-SUFFIX, tianlailive.com
-DOMAIN-SUFFIX, tianqi.com
-DOMAIN-SUFFIX, tianqistatic.com
 DOMAIN-SUFFIX, tietuku.com
 DOMAIN-SUFFIX, tiexue.net
 DOMAIN-SUFFIX, timedoo.com
@@ -8480,7 +8518,6 @@ DOMAIN-SUFFIX, z28j.com # 鄂ICP备20002930号-1
 DOMAIN-SUFFIX, zampda.net
 DOMAIN-SUFFIX, zampdsp.com
 DOMAIN-SUFFIX, zastatic.com
-DOMAIN-SUFFIX, zbjimg.com
 DOMAIN-SUFFIX, zczj.com
 DOMAIN-SUFFIX, zdfans.com
 DOMAIN-SUFFIX, zgjm.org
@@ -8503,7 +8540,6 @@ DOMAIN-SUFFIX, zhongkao.com
 DOMAIN-SUFFIX, zhuangjiba.com
 DOMAIN-SUFFIX, zhuanyewanjia.com
 DOMAIN-SUFFIX, zhuayoukong.com
-DOMAIN-SUFFIX, zhubajie.com
 DOMAIN-SUFFIX, zimuzu.io
 DOMAIN-SUFFIX, zixiaomao.com
 DOMAIN-SUFFIX, zixuntop.com

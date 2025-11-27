@@ -247,6 +247,15 @@ DOMAIN-SUFFIX, xd.com
 DOMAIN-SUFFIX, xdcdn.net
 DOMAIN-SUFFIX, xindong.com
 
+# 游卡
+DOMAIN-SUFFIX, dobest.com
+DOMAIN-SUFFIX, langrenclub.com
+DOMAIN-SUFFIX, sanguosha.com
+DOMAIN-SUFFIX, xhlsgs.com
+DOMAIN-SUFFIX, xinwuji.com
+DOMAIN-SUFFIX, yokaverse.com
+DOMAIN-SUFFIX, zhuoyou.com
+
 
 # 刀锋盒子 皖B2-20190103-4
 DOMAIN-SUFFIX, 9xgame.com
@@ -271,6 +280,11 @@ DOMAIN-SUFFIX, heavenlywind.cc
 # 沪ICP备18041304号-1
 DOMAIN-SUFFIX, tgpro.top
 DOMAIN-SUFFIX, tgprocs.net
+# 途游
+DOMAIN-SUFFIX, tuyoo.com
+# 完美世界
+DOMAIN-SUFFIX, wanmei.com
+DOMAIN-SUFFIX, wmsj.cn
 # Wine游戏助手 京ICP备18041936号
 DOMAIN-SUFFIX, winegame.net
 # 畅玩空间 冀ICP备20019223号
