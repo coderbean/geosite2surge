@@ -331,8 +331,11 @@ DOMAIN-SUFFIX, yushanfang.com
 DOMAIN-SUFFIX, zuodao.com
 
 # AliExpress
+DOMAIN-SUFFIX, ae-rus.net
+DOMAIN-SUFFIX, aestatic.net
 DOMAIN-SUFFIX, aliexpress.com
 DOMAIN-SUFFIX, aliexpress.ru
+DOMAIN-SUFFIX, aliexpress-media.com
 
 # Alipay+
 DOMAIN-SUFFIX, alipayplus.com

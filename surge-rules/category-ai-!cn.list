@@ -23,6 +23,18 @@ DOMAIN-SUFFIX, trae.ai
 
 DOMAIN-SUFFIX, cerebras.ai
 
+# 绘世启动器
+DOMAIN-SUFFIX, oystermercury.top
+
+
+DOMAIN-SUFFIX, comfy.org
+
+# Dev
+DOMAIN-SUFFIX, comfyci.org
+
+# Redirect
+DOMAIN-SUFFIX, comfyregistry.org
+
 DOMAIN-SUFFIX, cursor-cdn.com
 DOMAIN-SUFFIX, cursor.com
 DOMAIN-SUFFIX, cursor.sh
