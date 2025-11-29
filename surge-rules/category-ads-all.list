@@ -211,7 +211,9 @@ DOMAIN-SUFFIX, sabavision.com
 DOMAIN-SUFFIX, tapsell.ir
 DOMAIN-SUFFIX, yektanet.com
 
-DOMAIN-SUFFIX, x.clearbitjs.com
+DOMAIN-SUFFIX, clearbit.com
+DOMAIN-SUFFIX, clearbitjs.com
+DOMAIN-SUFFIX, clearbitscripts.com
 
 # Refer: https://tonahazana.com/kancolle-2nd-weight-saving
 # If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
@@ -340,8 +342,6 @@ DOMAIN-SUFFIX, ads.service.kugou.com
 DOMAIN-SUFFIX, adserviceretry.kglink.cn
 DOMAIN-SUFFIX, adserviceretry.kugou.com
 
-DOMAIN-SUFFIX, leanplum.com
-
 DOMAIN-SUFFIX, apple.www.letv.com
 DOMAIN-SUFFIX, ark.letv.com
 DOMAIN-SUFFIX, dc.letv.com
@@ -357,8 +357,6 @@ DOMAIN-SUFFIX, graph-fallback.instagram.com
 DOMAIN-SUFFIX, graph.whatsapp.com
 DOMAIN-SUFFIX, graph.whatsapp.net
 
-
-DOMAIN-SUFFIX, decide.mixpanel.com
 
 DOMAIN-SUFFIX, mopub.com
 
@@ -383,8 +381,6 @@ DOMAIN-SUFFIX, ogury.com
 DOMAIN-SUFFIX, presage.io
 DOMAIN-SUFFIX, ogury.co
 
-DOMAIN-SUFFIX, onesignal.com
-
 URL-REGEX, ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 
 DOMAIN-SUFFIX, openx.net
@@ -407,7 +403,10 @@ DOMAIN-SUFFIX, s.360.cn
 DOMAIN-SUFFIX, s.so.360.cn
 DOMAIN-SUFFIX, s.union.360.cn
 
-DOMAIN-SUFFIX, cdn.segment.com
+DOMAIN-SUFFIX, segment.com
+DOMAIN-SUFFIX, segment.io
+DOMAIN-SUFFIX, segmenthub.com
+DOMAIN-SUFFIX, segmentify.com
 
 DOMAIN-SUFFIX, static.sensorsdata.cn
 
@@ -551,8 +550,6 @@ DOMAIN-SUFFIX, unityads.unity.cn
 DOMAIN-SUFFIX, unityads.unity3d.com
 DOMAIN-SUFFIX, unityads.unitychina.cn
 
-DOMAIN-SUFFIX, ads.wteam.xyz
-
 DOMAIN-SUFFIX, collector.xhamster.com
 
 DOMAIN-SUFFIX, a.market.xiaomi.com
@@ -613,6 +610,7 @@ DOMAIN-SUFFIX, ad.wang502.com
 DOMAIN-SUFFIX, adbutter.net
 DOMAIN-SUFFIX, addthisedge.com
 DOMAIN-SUFFIX, ads.trafficjunky.net
+DOMAIN-SUFFIX, ads.wteam.xyz
 DOMAIN-SUFFIX, adtechus.com
 DOMAIN-SUFFIX, adtrue.com
 DOMAIN-SUFFIX, adxprtz.com
@@ -621,6 +619,7 @@ DOMAIN-SUFFIX, cdn.banclip.com
 DOMAIN-SUFFIX, cfts1tifqr.com
 DOMAIN-SUFFIX, contentabc.com
 DOMAIN-SUFFIX, cretgate.com
+DOMAIN-SUFFIX, decide.mixpanel.com
 DOMAIN-SUFFIX, ero-advertising.com
 DOMAIN-SUFFIX, eroadvertising.com
 DOMAIN-SUFFIX, exoclick.com
@@ -637,10 +636,12 @@ DOMAIN-SUFFIX, jads.co
 DOMAIN-SUFFIX, jl3.yjaxa.top
 DOMAIN-SUFFIX, juicyads.com
 DOMAIN-SUFFIX, kepler-37b.com
+DOMAIN-SUFFIX, leanplum.com
 DOMAIN-SUFFIX, lqc006.com
 DOMAIN-SUFFIX, moat.com
 DOMAIN-SUFFIX, moatads.com
 DOMAIN-SUFFIX, mobwithad.com
+DOMAIN-SUFFIX, onesignal.com
 DOMAIN-SUFFIX, realsrv.com
 DOMAIN-SUFFIX, s4yxaqyq95.com
 DOMAIN-SUFFIX, shhs-ydd8x2.yjrmss.cn
