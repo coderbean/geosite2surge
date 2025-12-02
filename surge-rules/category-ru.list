@@ -169,6 +169,9 @@ DOMAIN-SUFFIX, surgut.ru       # Khanty-Mansi Autonomous Area – Yugra
 DOMAIN-SUFFIX, yamal.ru        # Yamal-Nenets Autonomous Area
 
 
+DOMAIN-SUFFIX, habr.com
+DOMAIN-SUFFIX, habrastorage.org
+
 DOMAIN-SUFFIX, boosty.to
 DOMAIN-SUFFIX, donationalerts.com
 DOMAIN-SUFFIX, imgsmail.ru
@@ -186,6 +189,10 @@ DOMAIN-SUFFIX, okko.tv
 DOMAIN-SUFFIX, ozon.ru
 DOMAIN-SUFFIX, ozone.ru
 DOMAIN-SUFFIX, ozonusercontent.com
+
+DOMAIN-SUFFIX, rutube.ru
+DOMAIN-SUFFIX, rutubelist.ru
+DOMAIN-SUFFIX, rtbcdn.ru
 
 DOMAIN-SUFFIX, cdn-vk.ru
 DOMAIN-SUFFIX, mradx.net

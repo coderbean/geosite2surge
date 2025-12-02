@@ -3394,6 +3394,16 @@ DOMAIN-SUFFIX, tg.dev
 DOMAIN-SUFFIX, tx.me
 DOMAIN-SUFFIX, usercontent.dev
 
+DOMAIN-SUFFIX, temp-mail.org
+
+DOMAIN-SUFFIX, viber.com
+DOMAIN-SUFFIX, viber.co
+DOMAIN-SUFFIX, viber.me
+
+DOMAIN-SUFFIX, s-bid.rmp.rakuten.com
+DOMAIN-SUFFIX, vbcdn.com
+DOMAIN-SUFFIX, vbcdn.net
+
 DOMAIN-SUFFIX, graph.whatsapp.com
 DOMAIN-SUFFIX, graph.whatsapp.net
 
@@ -5761,6 +5771,8 @@ DOMAIN-SUFFIX, itch.zone
 
 DOMAIN-SUFFIX, lowiro.com
 
+DOMAIN-SUFFIX, modrinth.com
+
 DOMAIN-SUFFIX, nexon.co.jp
 DOMAIN-SUFFIX, nexon.com
 DOMAIN-SUFFIX, nexon.io
@@ -6250,7 +6262,6 @@ DOMAIN-SUFFIX, humblebundle.com
 DOMAIN-SUFFIX, joinsquad.com
 DOMAIN-SUFFIX, loverslab.com
 DOMAIN-SUFFIX, minecraft.wiki
-DOMAIN-SUFFIX, modrinth.com
 DOMAIN-SUFFIX, nexusmods.com
 DOMAIN-SUFFIX, offworldindustries.com
 DOMAIN-SUFFIX, offworldindustries.net
@@ -6267,6 +6278,9 @@ DOMAIN-SUFFIX, ptzwx.com
 DOMAIN-SUFFIX, quanben-xiaoshuo.com
 DOMAIN-SUFFIX, quanben.io
 
+
+DOMAIN-SUFFIX, 7tv.app
+DOMAIN-SUFFIX, 7tv.io
 
 DOMAIN-SUFFIX, abema.io
 DOMAIN-SUFFIX, abema.tv
@@ -6729,6 +6743,8 @@ DOMAIN, ntdofifreevcpc-tgc.cdn.hinet.net
 
 DOMAIN-SUFFIX, manhuagui.com
 
+DOMAIN-SUFFIX, metacritic.com
+
 DOMAIN-SUFFIX, mubi.com
 DOMAIN-SUFFIX, mubicdn.net
 
@@ -6866,6 +6882,10 @@ DOMAIN-SUFFIX, mgo-images.com
 DOMAIN-SUFFIX, ravm.tv
 DOMAIN-SUFFIX, roku.com
 DOMAIN-SUFFIX, rokutime.com
+
+DOMAIN-SUFFIX, rutube.ru
+DOMAIN-SUFFIX, rutubelist.ru
+DOMAIN-SUFFIX, rtbcdn.ru
 
 DOMAIN-SUFFIX, showtimeanytime.com
 DOMAIN-SUFFIX, showtime.com
@@ -7378,6 +7398,9 @@ DOMAIN-SUFFIX, dcard.tw
 DOMAIN-SUFFIX, broadbandreports.com
 DOMAIN-SUFFIX, dslr.net
 DOMAIN-SUFFIX, dslreports.com
+
+DOMAIN-SUFFIX, habr.com
+DOMAIN-SUFFIX, habrastorage.org
 
 DOMAIN-SUFFIX, hkgolden.com
 DOMAIN-SUFFIX, hkgolden.media
@@ -21947,6 +21970,7 @@ DOMAIN-SUFFIX, affinity-beta.s3.amazonaws.com
 DOMAIN-SUFFIX, affinity-lessons.s3.amazonaws.com
 
 DOMAIN-SUFFIX, canva.com
+DOMAIN-SUFFIX, canvastatus.com
 
 DOMAIN-SUFFIX, chegg.com
 DOMAIN-SUFFIX, cheggcdn.com

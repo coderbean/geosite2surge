@@ -391,6 +391,8 @@ DOMAIN-SUFFIX, itch.zone
 
 DOMAIN-SUFFIX, lowiro.com
 
+DOMAIN-SUFFIX, modrinth.com
+
 DOMAIN-SUFFIX, nexon.co.jp
 DOMAIN-SUFFIX, nexon.com
 DOMAIN-SUFFIX, nexon.io
@@ -880,7 +882,6 @@ DOMAIN-SUFFIX, humblebundle.com
 DOMAIN-SUFFIX, joinsquad.com
 DOMAIN-SUFFIX, loverslab.com
 DOMAIN-SUFFIX, minecraft.wiki
-DOMAIN-SUFFIX, modrinth.com
 DOMAIN-SUFFIX, nexusmods.com
 DOMAIN-SUFFIX, offworldindustries.com
 DOMAIN-SUFFIX, offworldindustries.net
