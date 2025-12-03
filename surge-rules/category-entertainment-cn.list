@@ -295,6 +295,16 @@ DOMAIN-SUFFIX, wo1wan.com
 DOMAIN-SUFFIX, ycgame.com
 
 
+# 广州市艾美娱乐设备有限公司
+# 粤ICP备09210476号
+DOMAIN-SUFFIX, aamgame.net
+DOMAIN-SUFFIX, aamgame.com
+DOMAIN-SUFFIX, aamgame.mobi
+DOMAIN-SUFFIX, aamsmart.com
+
+# 舞推 (E舞成名)
+DOMAIN-SUFFIX, singworld.net
+
 # Beijing Danmu Network Technology Co., Ltd.
 
 DOMAIN-SUFFIX, ac.fun
@@ -481,6 +491,23 @@ DOMAIN-SUFFIX, ibidian.com
 DOMAIN-SUFFIX, jvcsmart.cn
 DOMAIN-SUFFIX, jvcsmart.com.cn
 
+DOMAIN, ads3-normal-hl.zijieapi.com
+DOMAIN, ads3-normal.zijieapi.com
+DOMAIN, ads5-normal-hl.zijieapi.com
+DOMAIN, ads5-normal.zijieapi.com
+DOMAIN, log3-applog-hl.fqnovel.com
+DOMAIN, log3-applog.fqnovel.com
+DOMAIN, log5-applog-hl.fqnovel.com
+DOMAIN, log5-applog.fqnovel.com
+DOMAIN, p3-ad-sign.byteimg.com
+DOMAIN, p6-ad-sign.byteimg.com
+DOMAIN, p9-ad-sign.byteimg.com
+DOMAIN, rtlog3-applog-hl.fqnovel.com
+DOMAIN, rtlog3-applog.fqnovel.com
+DOMAIN, rtlog5-applog-hl.fqnovel.com
+DOMAIN, rtlog5-applog.fqnovel.com
+
+
 DOMAIN-SUFFIX, activity-zhendingtech.com
 DOMAIN-SUFFIX, changdunovel.com
 DOMAIN-SUFFIX, fanqienovel.com
@@ -492,9 +519,9 @@ DOMAIN-SUFFIX, fanqiesdk.com
 DOMAIN-SUFFIX, fanqiesdkpic.com
 DOMAIN-SUFFIX, fanqiesdkstatic.com
 DOMAIN-SUFFIX, fanqiesdkvod.com
+DOMAIN-SUFFIX, fqnovel-op.com
 DOMAIN-SUFFIX, fqnovel.com
 DOMAIN-SUFFIX, fqnovelim.com
-DOMAIN-SUFFIX, fqnovel-op.com
 DOMAIN-SUFFIX, fqnovelop.com
 DOMAIN-SUFFIX, fqnovelpic.com
 DOMAIN-SUFFIX, fqnovelstatic.com
@@ -512,16 +539,6 @@ DOMAIN-SUFFIX, qznovelvod.com
 
 DOMAIN, p3-novel.byteimg.com
 DOMAIN, p6-novel.byteimg.com
-
-DOMAIN, ads3-normal-hl.zijieapi.com
-DOMAIN, ads5-normal-hl.zijieapi.com
-DOMAIN, log3-applog-hl.fqnovel.com
-DOMAIN, log5-applog-hl.fqnovel.com
-DOMAIN, p3-ad-sign.byteimg.com
-DOMAIN, p6-ad-sign.byteimg.com
-DOMAIN, p9-ad-sign.byteimg.com
-DOMAIN, rtlog3-applog-hl.fqnovel.com
-DOMAIN, rtlog5-applog-hl.fqnovel.com
 
 DOMAIN-SUFFIX, gamersky.com
 
@@ -762,6 +779,13 @@ DOMAIN-SUFFIX, max-c.com
 DOMAIN-SUFFIX, maxadmin.cn
 DOMAIN-SUFFIX, maxjia.com
 DOMAIN-SUFFIX, xiaoheihe.cn
+
+# 小宇宙 上海追光瞬间网络科技
+DOMAIN-SUFFIX, xyzfm.space
+DOMAIN-SUFFIX, xyzfm.link
+DOMAIN-SUFFIX, xyzcdn.net
+DOMAIN-SUFFIX, xiaoyuzhoufm.com
+DOMAIN-SUFFIX, podcast.xyz
 
 DOMAIN-SUFFIX, ximalaya.com
 DOMAIN-SUFFIX, xmcdn.com
