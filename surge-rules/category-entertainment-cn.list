@@ -803,6 +803,22 @@ DOMAIN-SUFFIX, soku.com
 # youku video cdn
 DOMAIN-SUFFIX, cibntv.net
 
+DOMAIN-SUFFIX, yuewen.com
+
+# webnovel is not serving for cn
+# include:webnovel
+
+DOMAIN-SUFFIX, hongxiu.com
+DOMAIN-SUFFIX, lrts.me
+DOMAIN-SUFFIX, qdmm.com
+DOMAIN-SUFFIX, qidian.com
+DOMAIN-SUFFIX, readnovel.com
+DOMAIN-SUFFIX, rongshuxia.com
+DOMAIN-SUFFIX, tingbook.com
+DOMAIN-SUFFIX, xs.cn
+DOMAIN-SUFFIX, xs8.cn
+DOMAIN-SUFFIX, xxsy.net
+
 
 # Android Emulator
 DOMAIN-SUFFIX, ldmnq.com
@@ -816,17 +832,61 @@ DOMAIN-SUFFIX, 51zmt.top
 # B站空降助手 鲁ICP备2024098956号-1
 DOMAIN-SUFFIX, bsbsb.top
 
+# 17K小说
+DOMAIN-SUFFIX, 17k.com
+# 3DM游戏网
 DOMAIN-SUFFIX, 3dmgame.com
+# 游侠网
 DOMAIN-SUFFIX, ali213.net
-DOMAIN-SUFFIX, dmzj.com # 动漫之家
+# 布咕阅读
+DOMAIN-SUFFIX, bgwxc.com
+# 动漫之家 #703
+DOMAIN-SUFFIX, dmzj.com
+DOMAIN-SUFFIX, muwai.com
+# 懂球帝
 DOMAIN-SUFFIX, dongqiudi.com
-DOMAIN-SUFFIX, goka.top # 三国杀打小抄官网
-DOMAIN-SUFFIX, jjwxc.net # 晋江文学城
-DOMAIN-SUFFIX, mfuns.cn # 喵御宅
+# 飞卢小说
+DOMAIN-SUFFIX, faloo.com
+# 三国杀打小抄官网
+DOMAIN-SUFFIX, goka.top
+# 海读文学
+DOMAIN-SUFFIX, haidubooks.com
+# 黑岩小说
+DOMAIN-SUFFIX, heiyan.com
+DOMAIN-SUFFIX, heiyanimg.com
+# 红薯中文网
+DOMAIN-SUFFIX, hongshu.com
+# 火星小说
+DOMAIN-SUFFIX, hotread.com
+# 晋江文学城
+DOMAIN-SUFFIX, jjwxc.net
+# 酷匠网
+DOMAIN-SUFFIX, kjcdn.com
+DOMAIN-SUFFIX, kujiang.com
+# 喵御宅
+DOMAIN-SUFFIX, mfuns.cn
+# 秒拍
 DOMAIN-SUFFIX, miaopai.com
-DOMAIN-SUFFIX, muwai.com #703
+# 磨铁文学
+DOMAIN-SUFFIX, motie.com
+DOMAIN-SUFFIX, motieimg.com
+# 梨视频
 DOMAIN-SUFFIX, pearvideo.com
-DOMAIN-SUFFIX, sfacg.com # SF轻小说二次元
-DOMAIN-SUFFIX, yamibo.com # 百合会
-DOMAIN-SUFFIX, yiyouliao.com # 易有料
+# SF轻小说二次元
+DOMAIN-SUFFIX, sfacg.com
+# 书海小说
+DOMAIN-SUFFIX, shuhai.com
+# 塔读小说
+DOMAIN-SUFFIX, tadu.com
+# 江山文学
+DOMAIN-SUFFIX, vsread.com
+# 百合会
+DOMAIN-SUFFIX, yamibo.com
+# 易有料
+DOMAIN-SUFFIX, yiyouliao.com
+# 战旗直播
 DOMAIN-SUFFIX, zhanqi.tv
+# 逐浪小说
+DOMAIN-SUFFIX, zhulang.com
+# 纵横小说
+DOMAIN-SUFFIX, zongheng.com

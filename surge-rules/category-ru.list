@@ -172,27 +172,15 @@ DOMAIN-SUFFIX, yamal.ru        # Yamal-Nenets Autonomous Area
 DOMAIN-SUFFIX, habr.com
 DOMAIN-SUFFIX, habrastorage.org
 
-DOMAIN-SUFFIX, boosty.to
-DOMAIN-SUFFIX, donationalerts.com
+DOMAIN-SUFFIX, dzen.ru
+DOMAIN-SUFFIX, dzeninfra.ru
+
 DOMAIN-SUFFIX, imgsmail.ru
 DOMAIN-SUFFIX, mail.ru
-DOMAIN-SUFFIX, memealerts.com
-DOMAIN-SUFFIX, mycdn.me
-DOMAIN-SUFFIX, okcdn.ru
 
 DOMAIN-SUFFIX, ok.ru
-
-DOMAIN-SUFFIX, playfamily.ru
-DOMAIN-SUFFIX, okko.sport
-DOMAIN-SUFFIX, okko.tv
-
-DOMAIN-SUFFIX, ozon.ru
-DOMAIN-SUFFIX, ozone.ru
-DOMAIN-SUFFIX, ozonusercontent.com
-
-DOMAIN-SUFFIX, rutube.ru
-DOMAIN-SUFFIX, rutubelist.ru
-DOMAIN-SUFFIX, rtbcdn.ru
+DOMAIN-SUFFIX, okcdn.ru
+DOMAIN-SUFFIX, mycdn.me
 
 DOMAIN-SUFFIX, cdn-vk.ru
 DOMAIN-SUFFIX, mradx.net
@@ -230,6 +218,23 @@ DOMAIN-SUFFIX, vkuservideo.com
 DOMAIN-SUFFIX, vkuservideo.net
 DOMAIN-SUFFIX, vkuservideo.ru
 DOMAIN-SUFFIX, vkvideo.ru
+
+
+DOMAIN-SUFFIX, boosty.to
+DOMAIN-SUFFIX, donationalerts.com
+DOMAIN-SUFFIX, memealerts.com
+
+DOMAIN-SUFFIX, playfamily.ru
+DOMAIN-SUFFIX, okko.sport
+DOMAIN-SUFFIX, okko.tv
+
+DOMAIN-SUFFIX, ozon.ru
+DOMAIN-SUFFIX, ozone.ru
+DOMAIN-SUFFIX, ozonusercontent.com
+
+DOMAIN-SUFFIX, rutube.ru
+DOMAIN-SUFFIX, rutubelist.ru
+DOMAIN-SUFFIX, rtbcdn.ru
 
 DOMAIN-SUFFIX, 5ka.ru
 DOMAIN-SUFFIX, 5post.market
@@ -270,7 +275,6 @@ DOMAIN-SUFFIX, xn--d1acpjx3f.xn--p1ai
 
 DOMAIN-SUFFIX, adfox.ru
 DOMAIN-SUFFIX, admetrica.ru
-DOMAIN-SUFFIX, dzen.ru
 DOMAIN-SUFFIX, naydex.net
 DOMAIN-SUFFIX, rostaxi.org
 DOMAIN-SUFFIX, turbopages.org

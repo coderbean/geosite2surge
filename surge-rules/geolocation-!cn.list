@@ -6034,12 +6034,51 @@ DOMAIN-SUFFIX, ruinedking.com
 DOMAIN-SUFFIX, convrgencegame.com
 
 
+# roblox cn domains is added to tencent-games
+DOMAIN-SUFFIX, blox.com
+DOMAIN-SUFFIX, goblocks.com
+DOMAIN-SUFFIX, goblox.com
+DOMAIN-SUFFIX, gooblox.com
+DOMAIN-SUFFIX, humancoexperience.com
+DOMAIN-SUFFIX, rblx.co
+DOMAIN-SUFFIX, rblx.com
 DOMAIN-SUFFIX, rblx.org
 DOMAIN-SUFFIX, rbx.com
 DOMAIN-SUFFIX, rbxcdn.com
-DOMAIN-SUFFIX, roblox-api.arkoselabs.co
+DOMAIN-SUFFIX, rbxinfra.net
+DOMAIN-SUFFIX, rbxlabs.com
+DOMAIN-SUFFIX, rbxtrk.com
+DOMAIN-SUFFIX, ro-blox.com
+DOMAIN-SUFFIX, roadblocks.com
+DOMAIN-SUFFIX, roblocks.com
+DOMAIN-SUFFIX, roblox-api.arkoselabs.com
+DOMAIN-SUFFIX, roblox.ca
+DOMAIN-SUFFIX, roblox.cc
+DOMAIN-SUFFIX, roblox.cl
+DOMAIN-SUFFIX, roblox.co.jp
+DOMAIN-SUFFIX, roblox.co.uk
 DOMAIN-SUFFIX, roblox.com
+DOMAIN-SUFFIX, roblox.de
+DOMAIN-SUFFIX, roblox.dk
+DOMAIN-SUFFIX, roblox.eu
+DOMAIN-SUFFIX, roblox.fr
+DOMAIN-SUFFIX, roblox.hu
+DOMAIN-SUFFIX, roblox.it
+DOMAIN-SUFFIX, roblox.jp
+DOMAIN-SUFFIX, roblox.kr
+DOMAIN-SUFFIX, roblox.mx
+DOMAIN-SUFFIX, roblox.net
+DOMAIN-SUFFIX, roblox.org
+DOMAIN-SUFFIX, roblox.ph
+DOMAIN-SUFFIX, roblox.pt
+DOMAIN-SUFFIX, roblox.sk
+DOMAIN-SUFFIX, roblox.tv
+DOMAIN-SUFFIX, roblox.uk
+DOMAIN-SUFFIX, roblox.us
+DOMAIN-SUFFIX, roblox.vn
 DOMAIN-SUFFIX, robloxlabs.com
+DOMAIN-SUFFIX, rowblocks.com
+DOMAIN-SUFFIX, rowblox.com
 DOMAIN, d1unuk07s6td74.cloudfront.net
 DOMAIN, roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 DOMAIN, roblox-poc.global.ssl.fastly.net
@@ -7399,6 +7438,9 @@ DOMAIN-SUFFIX, broadbandreports.com
 DOMAIN-SUFFIX, dslr.net
 DOMAIN-SUFFIX, dslreports.com
 
+DOMAIN-SUFFIX, dzen.ru
+DOMAIN-SUFFIX, dzeninfra.ru
+
 DOMAIN-SUFFIX, habr.com
 DOMAIN-SUFFIX, habrastorage.org
 
@@ -7987,6 +8029,9 @@ DOMAIN, e122475.dscg.akamaiedge.net
 DOMAIN, licdn.cn.cdn20.com
 DOMAIN, linkedin.sc.omtrdc.net
 
+DOMAIN-SUFFIX, imgsmail.ru
+DOMAIN-SUFFIX, mail.ru
+
 DOMAIN-SUFFIX, misskey.io
 DOMAIN-SUFFIX, misskeyusercontent.jp
 
@@ -8028,6 +8073,10 @@ DOMAIN-SUFFIX, submarin.online
 DOMAIN-SUFFIX, sushi.ski
 DOMAIN-SUFFIX, trpger.us
 
+
+DOMAIN-SUFFIX, ok.ru
+DOMAIN-SUFFIX, okcdn.ru
+DOMAIN-SUFFIX, mycdn.me
 
 DOMAIN-SUFFIX, threads.com
 DOMAIN-SUFFIX, threads.net
@@ -17496,8 +17545,6 @@ DOMAIN-SUFFIX, notion.site
 DOMAIN-SUFFIX, notion.so
 DOMAIN-SUFFIX, notionusercontent.com
 
-DOMAIN-SUFFIX, ok.ru
-
 DOMAIN-SUFFIX, domain:okaapps.com
 
 # CN part of okaapps
@@ -24582,13 +24629,57 @@ DOMAIN-SUFFIX, logitechg.fr
 DOMAIN-SUFFIX, logitechio.com.cn
 DOMAIN-SUFFIX, worldsfastestgamer.net
 
-DOMAIN-SUFFIX, boosty.to
-DOMAIN-SUFFIX, donationalerts.com
+DOMAIN-SUFFIX, dzen.ru
+DOMAIN-SUFFIX, dzeninfra.ru
+
 DOMAIN-SUFFIX, imgsmail.ru
 DOMAIN-SUFFIX, mail.ru
-DOMAIN-SUFFIX, memealerts.com
-DOMAIN-SUFFIX, mycdn.me
+
+DOMAIN-SUFFIX, ok.ru
 DOMAIN-SUFFIX, okcdn.ru
+DOMAIN-SUFFIX, mycdn.me
+
+DOMAIN-SUFFIX, cdn-vk.ru
+DOMAIN-SUFFIX, mradx.net
+DOMAIN-SUFFIX, mvk.com
+DOMAIN-SUFFIX, userapi.com
+DOMAIN-SUFFIX, vk-analytics.ru
+DOMAIN-SUFFIX, vk-apps.com
+DOMAIN-SUFFIX, vk-apps.ru
+DOMAIN-SUFFIX, vk-cdn.me
+DOMAIN-SUFFIX, vk-cdn.net
+DOMAIN-SUFFIX, vkcloud-static.ru
+DOMAIN-SUFFIX, vk-portal.net
+DOMAIN-SUFFIX, vk.cc
+DOMAIN-SUFFIX, vk.com
+DOMAIN-SUFFIX, vk.company
+DOMAIN-SUFFIX, vk.design
+DOMAIN-SUFFIX, vk.link
+DOMAIN-SUFFIX, vk.me
+DOMAIN-SUFFIX, vk.ru
+DOMAIN-SUFFIX, vk.team
+DOMAIN-SUFFIX, vkcache.com
+DOMAIN-SUFFIX, vkgo.app
+DOMAIN-SUFFIX, vklive.app
+DOMAIN-SUFFIX, vkmessenger.app
+DOMAIN-SUFFIX, vkmessenger.com
+DOMAIN-SUFFIX, vkontakte.ru
+DOMAIN-SUFFIX, vkuser.net
+DOMAIN-SUFFIX, vkuseraudio.com
+DOMAIN-SUFFIX, vkuseraudio.net
+DOMAIN-SUFFIX, vkuseraudio.ru
+DOMAIN-SUFFIX, vkusercdn.ru
+DOMAIN-SUFFIX, vkuserlive.net
+DOMAIN-SUFFIX, vkuserphoto.ru
+DOMAIN-SUFFIX, vkuservideo.com
+DOMAIN-SUFFIX, vkuservideo.net
+DOMAIN-SUFFIX, vkuservideo.ru
+DOMAIN-SUFFIX, vkvideo.ru
+
+
+DOMAIN-SUFFIX, boosty.to
+DOMAIN-SUFFIX, donationalerts.com
+DOMAIN-SUFFIX, memealerts.com
 
 DOMAIN-SUFFIX, aboutfacebook.com
 DOMAIN-SUFFIX, accessfacebookfromschool.com
@@ -27097,7 +27188,6 @@ DOMAIN-SUFFIX, xn--d1acpjx3f.xn--p1ai
 
 DOMAIN-SUFFIX, adfox.ru
 DOMAIN-SUFFIX, admetrica.ru
-DOMAIN-SUFFIX, dzen.ru
 DOMAIN-SUFFIX, naydex.net
 DOMAIN-SUFFIX, rostaxi.org
 DOMAIN-SUFFIX, turbopages.org

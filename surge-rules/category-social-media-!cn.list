@@ -495,6 +495,9 @@ DOMAIN, e122475.dscg.akamaiedge.net
 DOMAIN, licdn.cn.cdn20.com
 DOMAIN, linkedin.sc.omtrdc.net
 
+DOMAIN-SUFFIX, imgsmail.ru
+DOMAIN-SUFFIX, mail.ru
+
 DOMAIN-SUFFIX, misskey.io
 DOMAIN-SUFFIX, misskeyusercontent.jp
 
@@ -536,6 +539,10 @@ DOMAIN-SUFFIX, submarin.online
 DOMAIN-SUFFIX, sushi.ski
 DOMAIN-SUFFIX, trpger.us
 
+
+DOMAIN-SUFFIX, ok.ru
+DOMAIN-SUFFIX, okcdn.ru
+DOMAIN-SUFFIX, mycdn.me
 
 DOMAIN-SUFFIX, threads.com
 DOMAIN-SUFFIX, threads.net
