@@ -290,6 +290,11 @@ DOMAIN-SUFFIX, xdsummit.com
 DOMAIN, ea.tt.omtrdc.net
 DOMAIN, eaassets-a.akamaihd.net
 
+DOMAIN-SUFFIX, arcraiders.com
+DOMAIN-SUFFIX, embark-studios.com
+DOMAIN-SUFFIX, embark.games
+DOMAIN-SUFFIX, reachthefinals.com
+
 DOMAIN-SUFFIX, 3lateral.com
 DOMAIN-SUFFIX, artstation.com
 DOMAIN-SUFFIX, capturingreality.com
@@ -326,6 +331,9 @@ URL-REGEX, ^epicgames-download\d-\d+\.file\.myqcloud\.com$
 DOMAIN-SUFFIX, tarkov.com
 DOMAIN-SUFFIX, eft-store.com
 DOMAIN-SUFFIX, escapefromtarkov.com
+
+DOMAIN-SUFFIX, faceit.com
+DOMAIN-SUFFIX, faceit-cdn.net
 
 DOMAIN, avatargarenanow-a.akamaihd.net
 DOMAIN, cdngarenanow-a.akamaihd.net
