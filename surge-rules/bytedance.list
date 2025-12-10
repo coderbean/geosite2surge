@@ -38,6 +38,7 @@ DOMAIN-SUFFIX, pglstatp-snssdk-toutiao.com
 DOMAIN-SUFFIX, pglstatp-toutiao-b.com
 DOMAIN-SUFFIX, pglstatp-toutiao.com
 DOMAIN-SUFFIX, sf3-ttcdn-tos.pstatp.com
+DOMAIN-SUFFIX, shoppingads.cn
 
 
 #include:bytedance-ai-!cn # not serving for cn
@@ -808,6 +809,12 @@ DOMAIN-SUFFIX, ppximg.com
 DOMAIN-SUFFIX, ppxstatic.com
 DOMAIN-SUFFIX, ppxvod.com
 DOMAIN-SUFFIX, xiaoxiaapi.com
+
+# 上海格物致品
+DOMAIN-SUFFIX, douyinec.com
+DOMAIN-SUFFIX, ecombdapi.com
+DOMAIN-SUFFIX, ecombdstatic.com
+DOMAIN-SUFFIX, jinritemai.com
 
 # faceu
 DOMAIN-SUFFIX, faceu.com
