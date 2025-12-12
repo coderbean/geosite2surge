@@ -6935,6 +6935,9 @@ DOMAIN-SUFFIX, th.bing.com
 DOMAIN, bj1.api.bing.com
 DOMAIN, emoi-cncdn.bing.com
 
+DOMAIN-SUFFIX, collector.github.com
+DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
+
 DOMAIN-SUFFIX, npm.community
 DOMAIN-SUFFIX, npmjs.com
 DOMAIN-SUFFIX, npmjs.org

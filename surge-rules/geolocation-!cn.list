@@ -2604,6 +2604,7 @@ DOMAIN-SUFFIX, janrainservices.com
 DOMAIN-SUFFIX, skycdn.com.cn
 DOMAIN-SUFFIX, soasta-dswb.com
 DOMAIN-SUFFIX, srtcdn.net
+DOMAIN-SUFFIX, tl88.net
 
 DOMAIN-SUFFIX, awempire.com
 
@@ -6311,6 +6312,7 @@ DOMAIN-SUFFIX, humblebundle.com
 DOMAIN-SUFFIX, joinsquad.com
 DOMAIN-SUFFIX, loverslab.com
 DOMAIN-SUFFIX, minecraft.wiki
+DOMAIN-SUFFIX, nexus-cdn.com
 DOMAIN-SUFFIX, nexusmods.com
 DOMAIN-SUFFIX, offworldindustries.com
 DOMAIN-SUFFIX, offworldindustries.net
@@ -6999,10 +7001,12 @@ DOMAIN-SUFFIX, tidal.com
 DOMAIN-SUFFIX, tidalhifi.com
 DOMAIN-SUFFIX, wimpmusic.com
 
+DOMAIN-SUFFIX, bytedapm.com
 DOMAIN-SUFFIX, byteoversea.com
 DOMAIN-SUFFIX, muscdn.com
 DOMAIN-SUFFIX, musical.ly
 DOMAIN-SUFFIX, tik-tokapi.com
+DOMAIN-SUFFIX, tiktok-minis.com
 DOMAIN-SUFFIX, tiktok-row.net
 DOMAIN-SUFFIX, tiktok.com
 DOMAIN-SUFFIX, tiktokcdn-eu.com
@@ -7024,6 +7028,10 @@ DOMAIN-SUFFIX, ttoverseaus.net
 DOMAIN-SUFFIX, ttwstatic.com
 
 DOMAIN, p16-tiktokcdn-com.akamaized.net
+DOMAIN, roovza-launches.appsflyersdk.com
+DOMAIN, roovza.inapps.appsflyersdk.com
+DOMAIN, roovza.launches.appsflyersdk.com
+DOMAIN, roovza.skadsdk.appsflyersdk.com
 
 DOMAIN-SUFFIX, themoviedb.org
 DOMAIN-SUFFIX, tmdb.org
@@ -18076,6 +18084,9 @@ DOMAIN-SUFFIX, gemfury.com
 DOMAIN-SUFFIX, gitbook.com
 DOMAIN-SUFFIX, gitbook.io
 
+DOMAIN-SUFFIX, collector.github.com
+DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
+
 DOMAIN-SUFFIX, npm.community
 DOMAIN-SUFFIX, npmjs.com
 DOMAIN-SUFFIX, npmjs.org
@@ -25470,6 +25481,9 @@ DOMAIN-SUFFIX, r.bing.com
 DOMAIN-SUFFIX, th.bing.com
 DOMAIN, bj1.api.bing.com
 DOMAIN, emoi-cncdn.bing.com
+
+DOMAIN-SUFFIX, collector.github.com
+DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
 
 DOMAIN-SUFFIX, npm.community
 DOMAIN-SUFFIX, npmjs.com

@@ -256,6 +256,9 @@ DOMAIN-SUFFIX, emogi.com
 
 DOMAIN-SUFFIX, data.flurry.com
 
+DOMAIN-SUFFIX, collector.github.com
+DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
+
 DOMAIN-SUFFIX, 2mdn-cn.net
 DOMAIN-SUFFIX, 2mdn.net
 DOMAIN-SUFFIX, admob-cn.com
@@ -412,6 +415,7 @@ DOMAIN-SUFFIX, oct.pocoiq.cn
 
 DOMAIN-SUFFIX, ads.pubmatic.com
 
+DOMAIN-SUFFIX, fenxi.360.cn
 DOMAIN-SUFFIX, fenxi.com
 DOMAIN-SUFFIX, lianmeng.360.cn
 DOMAIN-SUFFIX, mediav.com
