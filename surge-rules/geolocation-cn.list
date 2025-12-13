@@ -411,6 +411,8 @@ DOMAIN-SUFFIX, webgame163.com
 DOMAIN-SUFFIX, youba.com
 DOMAIN-SUFFIX, yxhhdl.com
 
+DOMAIN-SUFFIX, 9game.cn
+
 DOMAIN-SUFFIX, bilibiligame.cn
 DOMAIN-SUFFIX, bilibiligame.co
 DOMAIN-SUFFIX, bilibiligame.net
@@ -576,12 +578,8 @@ DOMAIN-SUFFIX, anticheatexpert.com
 DOMAIN-SUFFIX, 17roco.com
 DOMAIN-SUFFIX, roco.qq.com
 
-DOMAIN-SUFFIX, tgbus.com
-
 DOMAIN-SUFFIX, tiancity.com
 DOMAIN-SUFFIX, tiancitycdn.com
-
-DOMAIN-SUFFIX, vgtime.com
 
 # vr中文库
 DOMAIN-SUFFIX, vrzwk.cn
@@ -615,6 +613,8 @@ DOMAIN-SUFFIX, yokaverse.com
 DOMAIN-SUFFIX, zhuoyou.com
 
 
+# 北京奇客创想科技有限公司
+DOMAIN-SUFFIX, 7k7k.com
 # 刀锋盒子 皖B2-20190103-4
 DOMAIN-SUFFIX, 9xgame.com
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
@@ -1183,12 +1183,8 @@ DOMAIN-SUFFIX, yeshen.com
 
 # 17K小说
 DOMAIN-SUFFIX, 17k.com
-# 3DM游戏网
-DOMAIN-SUFFIX, 3dmgame.com
 # https://github.com/supzhang/epg
 DOMAIN-SUFFIX, 51zmt.top
-# 游侠网
-DOMAIN-SUFFIX, ali213.net
 # 暴风影音
 DOMAIN-SUFFIX, baofeng.com
 DOMAIN-SUFFIX, baofeng.net
@@ -1246,6 +1242,52 @@ DOMAIN-SUFFIX, zhanqi.tv
 DOMAIN-SUFFIX, zhulang.com
 # 纵横小说
 DOMAIN-SUFFIX, zongheng.com
+
+# 娱乐资讯媒体
+
+DOMAIN-SUFFIX, tgbus.com
+
+DOMAIN-SUFFIX, vgtime.com
+
+
+## 17173网
+DOMAIN-SUFFIX, 17173.com
+## 18183网
+DOMAIN-SUFFIX, 18183.com
+## 3DM游戏网
+DOMAIN-SUFFIX, 3dmgame.com
+## 游侠网
+DOMAIN-SUFFIX, ali213.net
+## 竞核
+DOMAIN-SUFFIX, cgames.com
+## 触乐
+DOMAIN-SUFFIX, chuapp.com
+## DataEye
+DOMAIN-SUFFIX, dataeye.com
+## GameDiary
+DOMAIN-SUFFIX, gamediary.cn
+## GameLook
+DOMAIN-SUFFIX, gamelook.com.cn
+## GameRes游资网
+DOMAIN-SUFFIX, gameres.com
+## 游戏价值论
+DOMAIN-SUFFIX, gamewower.com
+## 机核
+DOMAIN-SUFFIX, gcores.com
+## IGN中国
+DOMAIN-SUFFIX, ign.com.cn
+## 手游那点事
+DOMAIN-SUFFIX, nadianshi.com
+## 游戏日报
+DOMAIN-SUFFIX, news.yxrb.net
+## 游戏机实用技术
+DOMAIN-SUFFIX, ucg.cn
+## 游戏茶馆
+DOMAIN-SUFFIX, youxichaguan.com
+## 游戏葡萄
+DOMAIN-SUFFIX, youxiputao.com
+## 游研社
+DOMAIN-SUFFIX, yystv.cn
 
 # 餐饮类
 DOMAIN-SUFFIX, 517lppz.com
@@ -1715,8 +1757,6 @@ DOMAIN-SUFFIX, dzwww.com
 DOMAIN-SUFFIX, expreview.com
 # FreeBuf 网络安全行业门户
 DOMAIN-SUFFIX, freebuf.com
-# 机核
-DOMAIN-SUFFIX, gcores.com
 # 极客公园
 DOMAIN-SUFFIX, geekpark.net
 # 光明网
@@ -1733,6 +1773,8 @@ DOMAIN-SUFFIX, huanqiucdn.cn
 # 虎嗅
 DOMAIN-SUFFIX, huxiu.com
 DOMAIN-SUFFIX, huxiucdn.com
+# 电脑报
+DOMAIN-SUFFIX, icpcw.com
 # 中国IDC圈
 DOMAIN-SUFFIX, idcquan.com
 # 艾瑞咨询
@@ -1760,6 +1802,8 @@ DOMAIN-SUFFIX, kksmg.com
 DOMAIN-SUFFIX, statickksmg.com
 # 晚点
 DOMAIN-SUFFIX, latepost.com
+# 快科技
+DOMAIN-SUFFIX, mydrivers.com
 # 南岳新闻网
 DOMAIN-SUFFIX, nanyuenews.com
 # 每日经济新闻报社
@@ -1819,6 +1863,8 @@ DOMAIN-SUFFIX, thsi.cn
 DOMAIN-SUFFIX, ths123.com
 # 人人都是产品经理
 DOMAIN-SUFFIX, woshipm.com
+# 新快报
+DOMAIN-SUFFIX, xkb.com.cn
 # 第一财经
 DOMAIN-SUFFIX, yicai.com
 # ZEALER
@@ -2557,6 +2603,10 @@ DOMAIN-SUFFIX, amzndns-cn.net
 
 URL-REGEX, .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 URL-REGEX, .+\.awsdns-cn-[0-9][a-e0-9]\.cn$
+
+DOMAIN-SUFFIX, bsclink.cn
+DOMAIN-SUFFIX, qingcdn.com
+DOMAIN-SUFFIX, trpcdn.net
 
 DOMAIN-SUFFIX, bootcdn.cn
 DOMAIN-SUFFIX, bootcdn.net
@@ -3338,6 +3388,13 @@ DOMAIN-SUFFIX, jsehealth.com
 ## 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
 DOMAIN-SUFFIX, mingxuan.store
 
+# Party and government offices & Public units
+DOMAIN-SUFFIX, gov.cn
+## 中国气象局
+DOMAIN-SUFFIX, cma.cn
+## 中央气象台
+DOMAIN-SUFFIX, nmc.cn
+
 # Public transportation
 DOMAIN-SUFFIX, airchina.com.cn # 中国国际航空
 DOMAIN-SUFFIX, airchinacargo.com # 中国国际货运航空
@@ -3350,7 +3407,7 @@ DOMAIN-SUFFIX, hnair.com
 DOMAIN-SUFFIX, 10044.cn
 
 
-DOMAIN-SUFFIX, caac.gov.cn # 中国民航局
+# 中国民航局 caac.gov.cn
 DOMAIN-SUFFIX, ceair.com # 中国东方航空
 DOMAIN-SUFFIX, chinaexpressair.com # 华夏航空
 DOMAIN-SUFFIX, csair.com # 中国南方航空
@@ -4399,6 +4456,8 @@ DOMAIN-SUFFIX, taobao
 # All .tmall domains
 DOMAIN-SUFFIX, tmall
 
+DOMAIN-SUFFIX, 9game.cn
+
 DOMAIN-SUFFIX, ad.api.3g.youku.com
 DOMAIN-SUFFIX, ad.api.mobile.youku.com
 DOMAIN-SUFFIX, ad.mobile.youku.com
@@ -4622,7 +4681,6 @@ DOMAIN-SUFFIX, cibntv.net
 DOMAIN-SUFFIX, 25pp.com
 DOMAIN-SUFFIX, 56che.com
 DOMAIN-SUFFIX, 95095.com
-DOMAIN-SUFFIX, 9game.cn
 DOMAIN-SUFFIX, ali-health.com
 DOMAIN-SUFFIX, aliapp.org
 DOMAIN-SUFFIX, alibaba-inc.com
@@ -7689,13 +7747,6 @@ DOMAIN-SUFFIX, sinopecsales.com
 DOMAIN-SUFFIX, chugou360.com
 DOMAIN-SUFFIX, ycrx360.com
 
-# 中国气象局政府门户网站
-DOMAIN-SUFFIX, cma.gov.cn
-# 中国气象局
-DOMAIN-SUFFIX, cma.cn
-# 中央气象台
-DOMAIN-SUFFIX, nmc.cn
-
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
 
@@ -7717,12 +7768,10 @@ DOMAIN-SUFFIX, 123u.com
 DOMAIN-SUFFIX, 1637.com
 DOMAIN-SUFFIX, 16888.com
 DOMAIN-SUFFIX, 16rd.com
-DOMAIN-SUFFIX, 17173.com
 DOMAIN-SUFFIX, 178linux.com
 DOMAIN-SUFFIX, 17989.com
 DOMAIN-SUFFIX, 17cdn.com
 DOMAIN-SUFFIX, 17house.com
-DOMAIN-SUFFIX, 18183.com
 DOMAIN-SUFFIX, 1905.com
 DOMAIN-SUFFIX, 19yxw.com
 DOMAIN-SUFFIX, 1nongjing.com
@@ -7803,7 +7852,6 @@ DOMAIN-SUFFIX, 714.com
 DOMAIN-SUFFIX, 7230.com
 DOMAIN-SUFFIX, 72byte.com
 DOMAIN-SUFFIX, 7down.com
-DOMAIN-SUFFIX, 7k7k.com
 DOMAIN-SUFFIX, 7po.com
 DOMAIN-SUFFIX, 7x24cc.com
 DOMAIN-SUFFIX, 7xdown.com
@@ -8309,7 +8357,6 @@ DOMAIN-SUFFIX, mumayi.com
 DOMAIN-SUFFIX, muomou.com
 DOMAIN-SUFFIX, muzhiwan.com
 DOMAIN-SUFFIX, mydown.com
-DOMAIN-SUFFIX, mydrivers.com
 DOMAIN-SUFFIX, myshow360.net
 DOMAIN-SUFFIX, myyx618.com
 DOMAIN-SUFFIX, myzaker.com

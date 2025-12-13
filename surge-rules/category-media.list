@@ -1,3 +1,4 @@
+# Entertainment(games) oriented media should be added in category-entertainment[-cn]
 DOMAIN-SUFFIX, 9to5google.com
 DOMAIN-SUFFIX, 9to5mac.com
 DOMAIN-SUFFIX, 9to5terminal.com
@@ -1533,10 +1534,12 @@ DOMAIN-SUFFIX, chinaeconomicreview.com
 DOMAIN-SUFFIX, cmmedia.com.tw
 DOMAIN-SUFFIX, cna.com.tw
 DOMAIN-SUFFIX, cnyes.com
+DOMAIN-SUFFIX, cool3c.com
 DOMAIN-SUFFIX, coolloud.org.tw
 DOMAIN-SUFFIX, cup.com.hk
 DOMAIN-SUFFIX, cw.com.tw
 DOMAIN-SUFFIX, d100.net
+DOMAIN-SUFFIX, donga.com
 DOMAIN-SUFFIX, ebc.net.tw
 DOMAIN-SUFFIX, ettoday.net
 DOMAIN-SUFFIX, eventsinfocus.org
@@ -1544,6 +1547,7 @@ DOMAIN-SUFFIX, factwire.org
 DOMAIN-SUFFIX, fortuneinsight.com
 DOMAIN-SUFFIX, freebeacon.com
 DOMAIN-SUFFIX, gbnews.uk
+DOMAIN-SUFFIX, getnews.jp
 DOMAIN-SUFFIX, hk01.com
 DOMAIN-SUFFIX, hkcitizenmedia.com
 DOMAIN-SUFFIX, hkcnews.com
@@ -1552,11 +1556,13 @@ DOMAIN-SUFFIX, hkgpao.com
 DOMAIN-SUFFIX, hongkongfp.com
 DOMAIN-SUFFIX, inmediahk.net
 DOMAIN-SUFFIX, inside.com.tw
+DOMAIN-SUFFIX, itmedia.co.jp
 DOMAIN-SUFFIX, jfengtime.com
 DOMAIN-SUFFIX, landofhope.tv
 DOMAIN-SUFFIX, limedia.tw
 DOMAIN-SUFFIX, localpresshk.com
 DOMAIN-SUFFIX, ltsports.com.tw
+DOMAIN-SUFFIX, macaodaily.com
 DOMAIN-SUFFIX, mdnkids.com
 DOMAIN-SUFFIX, mirrormedia.com.tw
 DOMAIN-SUFFIX, mirrormedia.mg
@@ -1600,6 +1606,7 @@ DOMAIN-SUFFIX, upmedia.mg
 DOMAIN-SUFFIX, vjmedia.com.hk
 DOMAIN-SUFFIX, warroom.org
 DOMAIN-SUFFIX, washingtonpost.com
+DOMAIN-SUFFIX, watch.impress.co.jp
 DOMAIN-SUFFIX, wealth.com.tw
 DOMAIN-SUFFIX, weiyuksj.com
 DOMAIN-SUFFIX, wenzhao.ca

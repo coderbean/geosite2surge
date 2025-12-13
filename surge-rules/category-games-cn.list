@@ -54,6 +54,8 @@ DOMAIN-SUFFIX, webgame163.com
 DOMAIN-SUFFIX, youba.com
 DOMAIN-SUFFIX, yxhhdl.com
 
+DOMAIN-SUFFIX, 9game.cn
+
 DOMAIN-SUFFIX, bilibiligame.cn
 DOMAIN-SUFFIX, bilibiligame.co
 DOMAIN-SUFFIX, bilibiligame.net
@@ -219,12 +221,8 @@ DOMAIN-SUFFIX, anticheatexpert.com
 DOMAIN-SUFFIX, 17roco.com
 DOMAIN-SUFFIX, roco.qq.com
 
-DOMAIN-SUFFIX, tgbus.com
-
 DOMAIN-SUFFIX, tiancity.com
 DOMAIN-SUFFIX, tiancitycdn.com
-
-DOMAIN-SUFFIX, vgtime.com
 
 # vr中文库
 DOMAIN-SUFFIX, vrzwk.cn
@@ -258,6 +256,8 @@ DOMAIN-SUFFIX, yokaverse.com
 DOMAIN-SUFFIX, zhuoyou.com
 
 
+# 北京奇客创想科技有限公司
+DOMAIN-SUFFIX, 7k7k.com
 # 刀锋盒子 皖B2-20190103-4
 DOMAIN-SUFFIX, 9xgame.com
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
