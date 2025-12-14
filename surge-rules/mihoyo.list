@@ -54,3 +54,7 @@ DOMAIN-SUFFIX, juequling.com
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
 
+
+DOMAIN-SUFFIX, log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX, log-upload.mihoyo.com
+
