@@ -15,6 +15,9 @@ DOMAIN, www.speedtest.net.cdn.cloudflare.net
 URL-REGEX, ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 
 
+# SpeedTest Node
+DOMAIN-SUFFIX, ookla-speedtest-central.hgconair.hgc.com.hk # HGC Global Communications 香港環電
+
 DOMAIN-SUFFIX, open.cachefly.net
 DOMAIN-SUFFIX, openspeedtest.com
 
