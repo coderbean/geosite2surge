@@ -314,7 +314,8 @@ DOMAIN-SUFFIX, partnerad.l.google.com
 DOMAIN-SUFFIX, urchin.com
 
 DOMAIN, analytics.google.com
-DOMAIN, fundingchoicesmessages.google.com
+# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
+# full:fundingchoicesmessages.google.com
 
 URL-REGEX, ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
 
@@ -420,6 +421,9 @@ DOMAIN-SUFFIX, openxadexchange.com
 DOMAIN-SUFFIX, openxcdn.net
 DOMAIN-SUFFIX, openxenterprise.com
 DOMAIN-SUFFIX, openxmarket.asia
+
+DOMAIN, ad-channel.diwodiwo.xyz
+DOMAIN, ad-display.diwodiwo.xyz
 
 DOMAIN-SUFFIX, cdn.pocoiq.cn
 DOMAIN-SUFFIX, oct.pocoiq.cn
@@ -577,6 +581,24 @@ DOMAIN-SUFFIX, uberads.com
 DOMAIN-SUFFIX, aaid.umeng.com
 DOMAIN-SUFFIX, alog.umeng.com
 DOMAIN-SUFFIX, alog.umengcloud.com
+DOMAIN-SUFFIX, alogs.umeng.com
+DOMAIN-SUFFIX, alogus.umeng.com
+DOMAIN-SUFFIX, ar.umeng.com
+DOMAIN-SUFFIX, aspect-upush.umeng.com
+DOMAIN-SUFFIX, audid.umeng.com
+DOMAIN-SUFFIX, ccs.umeng.com
+DOMAIN-SUFFIX, cnlogs.umeng.com
+DOMAIN-SUFFIX, cnlogs.umengcloud.com
+# https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues/185
+# errlog.umeng.com
+# errnewlog.umeng.com
+DOMAIN-SUFFIX, new-aaid.umeng.com
+DOMAIN-SUFFIX, new-aaid.umeng.com.gds.alibabadns.com
+DOMAIN-SUFFIX, oc.umeng.com
+DOMAIN-SUFFIX, plbslog.umeng.com
+DOMAIN-SUFFIX, resolve.umeng.com
+DOMAIN-SUFFIX, ulogs.umeng.com
+DOMAIN-SUFFIX, ulogs.umengcloud.com
 DOMAIN-SUFFIX, utoken.umeng.com
 
 # CNZZ
