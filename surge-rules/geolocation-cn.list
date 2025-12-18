@@ -232,6 +232,7 @@ DOMAIN-SUFFIX, ubuntukylin.com
 
 
 DOMAIN-SUFFIX, jinrishici.com
+DOMAIN-SUFFIX, openvela.com
 DOMAIN-SUFFIX, tipdm.org
 
 # Electronic
@@ -3894,30 +3895,9 @@ DOMAIN-SUFFIX, zyh365.com
 DOMAIN-SUFFIX, wzlib.cn
 
 # Services & Softwares
-# DeepSeek
 # Main domain
 DOMAIN-SUFFIX, deepseek.com
 
-
-# RWKV
-DOMAIN-SUFFIX, rwkv.cn
-DOMAIN-SUFFIX, rwkv.com
-
-# 通义千问
-DOMAIN-SUFFIX, qianwen.aliyun.com
-DOMAIN-SUFFIX, qianwen.com
-DOMAIN-SUFFIX, qwen.ai
-DOMAIN-SUFFIX, qwenlm.ai
-DOMAIN-SUFFIX, tongyi.aliyun.com
-DOMAIN-SUFFIX, tongyi.com
-
-# 文心一言
-DOMAIN-SUFFIX, yiyan.baidu.com
-
-# 天工AI
-DOMAIN-SUFFIX, tiangong.cn
-
-# 字节跳动：豆包、Trae(MarsCode)
 # 北京春田知韵科技有限公司 京ICP备2023020373号
 # non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX, butterfly-static.cn
@@ -3950,6 +3930,28 @@ DOMAIN-SUFFIX, trae.com.cn
 DOMAIN-SUFFIX, trae.guru
 DOMAIN-SUFFIX, yoma.cn
 
+DOMAIN-SUFFIX, miaibox.com
+DOMAIN-SUFFIX, xiaoaiassist.com
+DOMAIN-SUFFIX, xiaomimimo.com
+
+
+# RWKV
+DOMAIN-SUFFIX, rwkv.cn
+DOMAIN-SUFFIX, rwkv.com
+
+# 通义千问
+DOMAIN-SUFFIX, qianwen.aliyun.com
+DOMAIN-SUFFIX, qianwen.com
+DOMAIN-SUFFIX, qwen.ai
+DOMAIN-SUFFIX, qwenlm.ai
+DOMAIN-SUFFIX, tongyi.aliyun.com
+DOMAIN-SUFFIX, tongyi.com
+
+# 文心一言
+DOMAIN-SUFFIX, yiyan.baidu.com
+
+# 天工AI
+DOMAIN-SUFFIX, tiangong.cn
 
 # 智谱清言
 DOMAIN-SUFFIX, bigmodel.cn
@@ -7606,6 +7608,10 @@ DOMAIN-SUFFIX, sentry.d.xiaomi.net
 DOMAIN-SUFFIX, tjqonline.cn
 DOMAIN-SUFFIX, tracker.ai.xiaomi.com
 DOMAIN-SUFFIX, tracking.miui.com
+
+DOMAIN-SUFFIX, miaibox.com
+DOMAIN-SUFFIX, xiaoaiassist.com
+DOMAIN-SUFFIX, xiaomimimo.com
 
 
 DOMAIN-SUFFIX, mgslb.com
