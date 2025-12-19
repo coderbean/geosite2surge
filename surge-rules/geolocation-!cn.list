@@ -84,6 +84,10 @@ DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 # Android Studio Gemini Code Assist
 DOMAIN-SUFFIX, aida.googleapis.com
 
+# Opal
+DOMAIN-SUFFIX, opal.google
+DOMAIN-SUFFIX, opal.google.com
+
 DOMAIN-SUFFIX, groq.com
 
 DOMAIN-SUFFIX, hf.co
@@ -19057,6 +19061,7 @@ DOMAIN-SUFFIX, amplifyapp.com
 DOMAIN-SUFFIX, amplifyframework.com
 DOMAIN-SUFFIX, aws-iot-hackathon.com
 DOMAIN-SUFFIX, aws.com
+DOMAIN-SUFFIX, aws.dev
 DOMAIN-SUFFIX, awsapprunner.com
 DOMAIN-SUFFIX, awsapps.com
 DOMAIN-SUFFIX, awsautopilot.com
@@ -22883,6 +22888,10 @@ DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 # Android Studio Gemini Code Assist
 DOMAIN-SUFFIX, aida.googleapis.com
 
+# Opal
+DOMAIN-SUFFIX, opal.google
+DOMAIN-SUFFIX, opal.google.com
+
 # This list is for backward compatibility
 
 # Google DeepMind
@@ -22922,6 +22931,10 @@ DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
 DOMAIN-SUFFIX, aida.googleapis.com
+
+# Opal
+DOMAIN-SUFFIX, opal.google
+DOMAIN-SUFFIX, opal.google.com
 
 
 DOMAIN-SUFFIX, googleplay.com

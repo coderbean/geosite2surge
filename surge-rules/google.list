@@ -222,6 +222,10 @@ DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 # Android Studio Gemini Code Assist
 DOMAIN-SUFFIX, aida.googleapis.com
 
+# Opal
+DOMAIN-SUFFIX, opal.google
+DOMAIN-SUFFIX, opal.google.com
+
 # This list is for backward compatibility
 
 # Google DeepMind
@@ -261,6 +265,10 @@ DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
 DOMAIN-SUFFIX, aida.googleapis.com
+
+# Opal
+DOMAIN-SUFFIX, opal.google
+DOMAIN-SUFFIX, opal.google.com
 
 
 DOMAIN-SUFFIX, googleplay.com
