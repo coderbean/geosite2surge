@@ -2595,6 +2595,8 @@ DOMAIN-SUFFIX, hsqh.net
 DOMAIN-SUFFIX, lu.com
 DOMAIN-SUFFIX, lufax.com
 DOMAIN-SUFFIX, lufaxcdn.com
+## 银豹收银系统
+DOMAIN-SUFFIX, pospal.cn
 
 # CDN or SDWAN
 DOMAIN-SUFFIX, a2z.org.cn
@@ -5030,6 +5032,9 @@ DOMAIN-SUFFIX, lydass.cn
 DOMAIN-SUFFIX, lydass.com.cn
 DOMAIN-SUFFIX, lydass.net
 
+DOMAIN-SUFFIX, syh.zybang.com
+
+
 DOMAIN-SUFFIX, adscdn.baidu.com
 DOMAIN-SUFFIX, adx.xiaodutv.com
 DOMAIN-SUFFIX, afd.baidu.com
@@ -5082,6 +5087,9 @@ DOMAIN-SUFFIX, wangmeng.baidu.com
 DOMAIN-SUFFIX, wkctj.baidu.com
 DOMAIN-SUFFIX, wm.baidu.com
 DOMAIN-SUFFIX, zz.bdstatic.com
+
+DOMAIN-SUFFIX, syh.zybang.com
+
 
 DOMAIN-SUFFIX, zuoyebang.cc
 DOMAIN-SUFFIX, zuoyebang.com
