@@ -6468,6 +6468,9 @@ DOMAIN-SUFFIX, dazndn.com
 DOMAIN-SUFFIX, indazn.com
 DOMAIN-SUFFIX, indaznlab.com
 
+DOMAIN-SUFFIX, deezer.com
+DOMAIN-SUFFIX, dzcdn.net
+
 DOMAIN-SUFFIX, deviantart.com
 DOMAIN-SUFFIX, deviantart.net
 DOMAIN-SUFFIX, da-files.com
@@ -9905,17 +9908,6 @@ DOMAIN-SUFFIX, pugpig.com
 
 # Organizations
 # This list contains organizations outside China mainland.
-
-DOMAIN-SUFFIX, 4pcdn.org
-DOMAIN-SUFFIX, 4plebs.org
-
-
-DOMAIN-SUFFIX, archive-it.org
-DOMAIN-SUFFIX, archive.md
-DOMAIN-SUFFIX, archive.org
-DOMAIN-SUFFIX, archive.ph
-DOMAIN-SUFFIX, archive.today
-DOMAIN-SUFFIX, openlibrary.org
 
 DOMAIN-SUFFIX, ccstatic.org
 DOMAIN-SUFFIX, creativecommons.org
@@ -17461,6 +17453,30 @@ DOMAIN-SUFFIX, keepersecurity.com
 DOMAIN-SUFFIX, roboform.com
 DOMAIN-SUFFIX, strongboxsafe.com
 
+DOMAIN-SUFFIX, 4pcdn.org
+DOMAIN-SUFFIX, 4plebs.org
+
+DOMAIN-SUFFIX, archive.today
+
+DOMAIN-SUFFIX, archive.fo
+DOMAIN-SUFFIX, archive.is
+DOMAIN-SUFFIX, archive.li
+DOMAIN-SUFFIX, archive.md
+DOMAIN-SUFFIX, archive.ph
+DOMAIN-SUFFIX, archive.vn
+
+DOMAIN-SUFFIX, archive-it.org
+DOMAIN-SUFFIX, archive.org
+DOMAIN-SUFFIX, openlibrary.org
+
+
+DOMAIN-SUFFIX, eotarchive.org
+DOMAIN-SUFFIX, ghostarchive.org
+DOMAIN-SUFFIX, megalodon.jp
+DOMAIN-SUFFIX, mementoweb.org
+DOMAIN-SUFFIX, perma.cc
+DOMAIN-SUFFIX, webcitation.org
+
 DOMAIN-SUFFIX, decrypt.day
 
 
@@ -22610,6 +22626,9 @@ DOMAIN-SUFFIX, digitalocean.com
 DOMAIN-SUFFIX, digitaloceanspaces.com
 DOMAIN-SUFFIX, do.co
 DOMAIN-SUFFIX, nginxconfig.io
+
+DOMAIN-SUFFIX, dmit.io
+DOMAIN-SUFFIX, dmit.sh
 
 DOMAIN-SUFFIX, drweb.by
 DOMAIN-SUFFIX, drweb.cn
@@ -28385,5 +28404,5 @@ DOMAIN-SUFFIX, xdty.org
 DOMAIN-SUFFIX, xingrz.me
 
 
-# 沉浸式翻译
+# 沉浸式翻译 (国际版)
 DOMAIN-SUFFIX, immersivetranslate.com
