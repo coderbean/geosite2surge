@@ -2724,6 +2724,10 @@ DOMAIN-SUFFIX, cloudimg.io
 DOMAIN-SUFFIX, stackpath.com
 DOMAIN-SUFFIX, stackpath.dev
 
+DOMAIN-SUFFIX, vrcdn.cloud
+DOMAIN-SUFFIX, vrcdn.live
+DOMAIN-SUFFIX, vrcdn.video
+
 # https://support.wistia.com/en/articles/8233530-firewall-and-network-allowlist-settings
 DOMAIN-SUFFIX, embedwistia-a.akamaihd.net
 DOMAIN-SUFFIX, wistia.com
@@ -6240,6 +6244,10 @@ DOMAIN, ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN, ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN, ubistatic3-a.akamaihd.net
 DOMAIN, uplaypc-s-ubisoft.cdn.ubi.com
+
+DOMAIN-SUFFIX, vrchat.cloud
+DOMAIN-SUFFIX, vrchat.com
+DOMAIN-SUFFIX, vrchat.net
 
 DOMAIN, datarouter.apps.netherrealm.com
 DOMAIN, wb-agora-hydra-file-storage-k1.s3.amazonaws.com
