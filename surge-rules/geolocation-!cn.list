@@ -1706,6 +1706,7 @@ DOMAIN-SUFFIX, myfin.bg
 DOMAIN-SUFFIX, futuesop.com
 DOMAIN-SUFFIX, futufin.com
 DOMAIN-SUFFIX, futuhk.com
+DOMAIN-SUFFIX, futuhkapp.com
 DOMAIN-SUFFIX, futuhn.com
 DOMAIN-SUFFIX, futuholdings.com
 DOMAIN-SUFFIX, futuniuniu.com
@@ -7052,6 +7053,11 @@ DOMAIN-SUFFIX, ttlivecdn.com
 DOMAIN-SUFFIX, ttoverseaus.net
 DOMAIN-SUFFIX, ttwstatic.com
 
+DOMAIN-SUFFIX, tiktokcdn-us.com.edgesuite.net
+DOMAIN-SUFFIX, tiktokcdn.com.akamaized.net
+DOMAIN-SUFFIX, tiktokcdn.com.edgesuite.net
+DOMAIN-SUFFIX, tiktokv.com.edgekey.net
+DOMAIN-SUFFIX, tiktokv.com.edgesuite.net
 DOMAIN, p16-tiktokcdn-com.akamaized.net
 DOMAIN, roovza-launches.appsflyersdk.com
 DOMAIN, roovza.inapps.appsflyersdk.com
@@ -17716,9 +17722,6 @@ DOMAIN-SUFFIX, kodi.wiki
 DOMAIN-SUFFIX, liberapay.com
 DOMAIN-SUFFIX, liberapay.org
 
-DOMAIN-SUFFIX, linguee.com
-DOMAIN-SUFFIX, deepl.com
-
 DOMAIN-SUFFIX, localizecdn.com
 DOMAIN-SUFFIX, localizejs.com
 DOMAIN-SUFFIX, localizestatus.com
@@ -17934,8 +17937,6 @@ DOMAIN-SUFFIX, zeit.co
 DOMAIN-SUFFIX, zeit.sh
 DOMAIN-SUFFIX, zeitworld.com
 
-DOMAIN-SUFFIX, webflow.com
-
 DOMAIN-SUFFIX, editorx.com
 DOMAIN-SUFFIX, parastorage.com
 DOMAIN-SUFFIX, wix-code.com
@@ -17992,6 +17993,15 @@ DOMAIN-SUFFIX, originlab.com
 # Online LaTeX Editor
 DOMAIN-SUFFIX, cloudlatex.io
 DOMAIN-SUFFIX, overleaf.com
+
+# Translator & Dictionary
+DOMAIN-SUFFIX, linguee.com
+DOMAIN-SUFFIX, deepl.com
+
+
+DOMAIN-SUFFIX, collinsdictionary.com
+DOMAIN-SUFFIX, ldoceonline.com
+DOMAIN-SUFFIX, immersivetranslate.com # 沉浸式翻译 (国际版)
 
 # Aurora Open Source Software (https://gitlab.com/AuroraOSS)
 DOMAIN-SUFFIX, auroraoss.com
@@ -18626,10 +18636,7 @@ DOMAIN-SUFFIX, apache.org
 DOMAIN-SUFFIX, artixlinux.org
 DOMAIN-SUFFIX, atom.io
 DOMAIN-SUFFIX, badgen.net
-
-# Bitvise official website.
 DOMAIN-SUFFIX, bitvise.com
-
 DOMAIN-SUFFIX, cdnjs.com
 DOMAIN-SUFFIX, centos.org
 DOMAIN-SUFFIX, chocolatey.org
@@ -18668,13 +18675,11 @@ DOMAIN-SUFFIX, lua.org
 DOMAIN-SUFFIX, macports.org
 DOMAIN-SUFFIX, mariadb.org
 DOMAIN-SUFFIX, mingw.org
-
-# Mobatek official website.
 DOMAIN-SUFFIX, mobatek.net
-
 DOMAIN-SUFFIX, mpv.io
 DOMAIN-SUFFIX, mysql.com
 DOMAIN-SUFFIX, neovim.io
+DOMAIN-SUFFIX, newpipe.net
 DOMAIN-SUFFIX, nixos.org
 DOMAIN-SUFFIX, nodesource.com
 DOMAIN-SUFFIX, notepad-plus-plus.org
@@ -18685,11 +18690,8 @@ DOMAIN-SUFFIX, packagist.org
 DOMAIN-SUFFIX, pcre.org
 DOMAIN-SUFFIX, phantomjs.org
 DOMAIN-SUFFIX, php.net
-
-# PuTTY unofficial website, owned by Bitvise.
-DOMAIN-SUFFIX, putty.org
-
 DOMAIN-SUFFIX, postgresql.org
+DOMAIN-SUFFIX, putty.org
 DOMAIN-SUFFIX, r-project.org
 DOMAIN-SUFFIX, raspberrypi.org
 DOMAIN-SUFFIX, raspbian.org
@@ -18701,15 +18703,14 @@ DOMAIN-SUFFIX, shellcheck.net
 DOMAIN-SUFFIX, shields.io
 DOMAIN-SUFFIX, sqlite.org
 DOMAIN-SUFFIX, sublimetext.com
-
-# Termius official website.
 DOMAIN-SUFFIX, termius.com
-
 DOMAIN-SUFFIX, unpkg.com
 DOMAIN-SUFFIX, videojs.com
 DOMAIN-SUFFIX, videolan.org
 DOMAIN-SUFFIX, wapm.io
 DOMAIN-SUFFIX, wasmer.io
+DOMAIN-SUFFIX, webflow.com
+DOMAIN-SUFFIX, weblate.org
 DOMAIN-SUFFIX, wireshark.org
 DOMAIN-SUFFIX, x.org
 DOMAIN-SUFFIX, xposed.info
@@ -28411,6 +28412,3 @@ DOMAIN-SUFFIX, xdty.org
 
 DOMAIN-SUFFIX, xingrz.me
 
-
-# 沉浸式翻译 (国际版)
-DOMAIN-SUFFIX, immersivetranslate.com
