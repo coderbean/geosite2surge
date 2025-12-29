@@ -18095,6 +18095,9 @@ DOMAIN, p-events-delivery.akamaized.net
 DOMAIN-SUFFIX, archlinux.org
 DOMAIN-SUFFIX, archlinuxarm.org
 
+# Unofficial
+DOMAIN-SUFFIX, archlinuxcn.org
+
 DOMAIN-SUFFIX, bootstrapcdn.com
 DOMAIN-SUFFIX, getbootstrap.com
 
@@ -18657,6 +18660,7 @@ DOMAIN-SUFFIX, getcomposer.org
 DOMAIN-SUFFIX, getzola.org
 DOMAIN-SUFFIX, git-scm.com
 DOMAIN-SUFFIX, gnu.org
+DOMAIN-SUFFIX, godbolt.org
 
 # PuTTY and some software official websites.
 DOMAIN-SUFFIX, greenend.org.uk
@@ -27551,6 +27555,7 @@ DOMAIN-SUFFIX, rarbgunblock.org
 DOMAIN-SUFFIX, rarbgunblocked.org
 DOMAIN-SUFFIX, rarbgway.org
 
+DOMAIN-SUFFIX, dmhy.org
 
 # User scripts
 DOMAIN-SUFFIX, greasyfork.org
