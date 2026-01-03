@@ -334,3 +334,7 @@ DOMAIN-SUFFIX, yastatic.net
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
 
+
+# Anime
+DOMAIN-SUFFIX, animevost.org
+DOMAIN-SUFFIX, seasonvar.ru
