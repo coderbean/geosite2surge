@@ -715,6 +715,7 @@ DOMAIN, ocsp.apple.com
 DOMAIN, ocsp2-lb.apple.com.akadns.net
 DOMAIN, ocsp2.apple.com
 DOMAIN, valid.apple.com
+DOMAIN, valid.origin-apple.com.akadns.net
 
 # Apple TV+
 DOMAIN, apple-tv-plus-press.apple.com
@@ -1580,11 +1581,6 @@ DOMAIN-SUFFIX, itunesu.net
 DOMAIN-SUFFIX, iutunes.com
 DOMAIN-SUFFIX, wwwitunes.com
 
-DOMAIN-SUFFIX, appleswift.com
-DOMAIN-SUFFIX, swift.org
-DOMAIN-SUFFIX, swiftui.cn
-DOMAIN-SUFFIX, swiftui.com.cn
-
 
 # All .apple domains
 DOMAIN-SUFFIX, apple
@@ -2433,7 +2429,7 @@ DOMAIN, s4.mzstatic.com
 DOMAIN, s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
-# Revision: 4d392cc0a822ac5626bb97fef3fe5e04e86b28b0
+# Revision: f6a2093b254a7d2baca959bd16581666ca394303
 # Duplicates removed
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
@@ -2451,7 +2447,6 @@ DOMAIN, cds-cdn.v.aaplimg.com
 DOMAIN, cds.apple.com
 DOMAIN, cds.apple.com.akadns.net
 DOMAIN, cdsassets.apple.com
-DOMAIN, certs.apple.com
 DOMAIN, cl2-cn.apple.com
 DOMAIN, cl4-cn.apple.com
 DOMAIN, clientflow.apple.com
@@ -2459,7 +2454,6 @@ DOMAIN, clientflow.apple.com.akadns.net
 DOMAIN, cn-smp-paymentservices.apple.com
 DOMAIN, configuration.apple.com
 DOMAIN, configuration.apple.com.akadns.net
-DOMAIN, crl.apple.com
 DOMAIN, cstat.apple.com
 DOMAIN, cstat.cdn-apple.com
 DOMAIN, dd-cdn.origin-apple.com.akadns.net
@@ -2512,10 +2506,6 @@ DOMAIN, mesu-china.apple.com.akadns.net
 DOMAIN, mesu.apple.com
 DOMAIN, ml.cdn-apple.com
 DOMAIN, music.apple.com
-DOMAIN, ocsp-lb.apple.com.akadns.net
-DOMAIN, ocsp.apple.com
-DOMAIN, ocsp2-lb.apple.com.akadns.net
-DOMAIN, ocsp2.apple.com
 DOMAIN, oscdn.apple.com
 DOMAIN, oscdn.origin-apple.com.akadns.net
 DOMAIN, osxapps.itunes.g.aaplimg.com
@@ -2558,8 +2548,6 @@ DOMAIN, tj-pod1-smp-device.apple.com
 DOMAIN, updates-http.cdn-apple.com
 DOMAIN, updates-http.cdn-apple.com.akadns.net
 DOMAIN, updates.cdn-apple.com
-DOMAIN, valid.apple.com
-DOMAIN, valid.origin-apple.com.akadns.net
 DOMAIN, weather-data.apple.com
 DOMAIN, weather-data.apple.com.akadns.net
 DOMAIN, weather-map.apple.com
@@ -5119,11 +5107,13 @@ DOMAIN, google-ohttp-relay-safebrowsing.fastly-edge.com
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
+DOMAIN-SUFFIX, gvt1-cn.com
+DOMAIN-SUFFIX, gvt2-cn.com
 DOMAIN, www.recaptcha.net
-DOMAIN, safebrowsing-cache.google.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
-# Revision: 1f28a2d5789f411c13de69837bb354f4b21e58ff
+# Revision: 1c2d107d4e7eaa0b192e08bb0beddde4aab247f6
+# Duplicates removed
 # Use in config file like this: "geosite:google@cn"
 DOMAIN, 265.com
 DOMAIN, 2mdn-cn.net
@@ -5153,7 +5143,6 @@ DOMAIN, cnappinstall.googleadapis.com
 DOMAIN, connectivitycheck.gstatic.com
 DOMAIN, content.googleadapis.com
 DOMAIN, crashlyticsreports-pa.googleapis.com
-DOMAIN, crl.pki.goog
 DOMAIN, csi.gstatic.com
 DOMAIN, dartsearch-cn.net
 DOMAIN, dg-meta.video.google.com
@@ -5165,7 +5154,6 @@ DOMAIN, download.mlcc.google.com
 DOMAIN, download.qatp1.net
 DOMAIN, download.tensorflow.google.com
 DOMAIN, emmapplecodevice.googleapis.com
-DOMAIN, firebase-settings.crashlytics.com
 DOMAIN, fontfiles.googleapis.com
 DOMAIN, fonts.googleapis.com
 DOMAIN, fonts.gstatic.com
@@ -5204,10 +5192,8 @@ DOMAIN, logger-dev.corp.google.com
 DOMAIN, logger.corp.google.com
 DOMAIN, login.corp.google.com
 DOMAIN, monitoring.qpdp1.net
-DOMAIN, ocsp.pki.goog
 DOMAIN, pagead-googlehosted.l.google.com
 DOMAIN, performanceparameters.googleapis.com
-DOMAIN, pki-goog.l.google.com
 DOMAIN, prod-controlbe.floonet.goog
 DOMAIN, prod-databe.floonet.goog
 DOMAIN, prod.databe.floonet.goog
@@ -5226,7 +5212,6 @@ DOMAIN, redirector.bdn.dev
 DOMAIN, redirector.c.chat.google.com
 DOMAIN, redirector.c.mail.google.com
 DOMAIN, redirector.c.pack.google.com
-DOMAIN, redirector.c.play.google.com
 DOMAIN, redirector.c.youtubeeducation.com
 DOMAIN, redirector.gcpcdn.gvt1.com
 DOMAIN, redirector.gvt1.com
@@ -5265,9 +5250,6 @@ DOMAIN, www.destinationurl.com
 DOMAIN, www.gstatic.com
 DOMAIN, www.pxcc.com
 DOMAIN, xn--flw351e.com
-
-DOMAIN-SUFFIX, gvt1-cn.com
-DOMAIN-SUFFIX, gvt2-cn.com
 
 DOMAIN-SUFFIX, first-ns.de
 DOMAIN-SUFFIX, hetzner-cloud.de
@@ -8211,10 +8193,6 @@ DOMAIN-SUFFIX, synology.me
 
 DOMAIN-SUFFIX, symantec.com
 DOMAIN-SUFFIX, symantecliveupdate.com
-
-DOMAIN-SUFFIX, tailscale.com
-DOMAIN-SUFFIX, tailscale.io
-DOMAIN-SUFFIX, ts.net
 
 DOMAIN-SUFFIX, boringcompany.com
 
