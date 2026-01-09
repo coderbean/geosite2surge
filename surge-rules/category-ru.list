@@ -16,6 +16,34 @@ DOMAIN-SUFFIX, xn--p1ai
 DOMAIN-SUFFIX, ru.com
 DOMAIN-SUFFIX, ru.net
 
+DOMAIN-SUFFIX, ozon.ru
+DOMAIN-SUFFIX, ozone.ru
+DOMAIN-SUFFIX, ozonusercontent.com
+
+DOMAIN-SUFFIX, geobasket.ru
+DOMAIN-SUFFIX, paywb.com
+DOMAIN-SUFFIX, rwb.ru
+DOMAIN-SUFFIX, wb-basket.ru
+DOMAIN-SUFFIX, wb.ru
+DOMAIN-SUFFIX, wbbasket.ru
+DOMAIN-SUFFIX, wbpay.ru
+DOMAIN-SUFFIX, wibes.ru
+DOMAIN-SUFFIX, wildberries.ru
+
+
+DOMAIN-SUFFIX, playfamily.ru
+DOMAIN-SUFFIX, okko.sport
+DOMAIN-SUFFIX, okko.tv
+
+DOMAIN-SUFFIX, rutube.ru
+DOMAIN-SUFFIX, rutubelist.ru
+DOMAIN-SUFFIX, rtbcdn.ru
+
+DOMAIN-SUFFIX, ngenix.net
+DOMAIN-SUFFIX, restream-media.net
+DOMAIN-SUFFIX, wink.ru
+
+
 # Federal Gov.
 DOMAIN-SUFFIX, government.ru
 DOMAIN-SUFFIX, gov.ru
@@ -168,6 +196,18 @@ DOMAIN-SUFFIX, jamal.ru        # Yamal-Nenets Autonomous Area
 DOMAIN-SUFFIX, surgut.ru       # Khanty-Mansi Autonomous Area – Yugra
 DOMAIN-SUFFIX, yamal.ru        # Yamal-Nenets Autonomous Area
 
+# Fix Price
+DOMAIN-SUFFIX, fix-price.com
+
+# Lenta
+DOMAIN-SUFFIX, lenta.com
+DOMAIN-SUFFIX, lenta.tech
+
+
+# Public transportation
+DOMAIN-SUFFIX, mosmetro.ru
+DOMAIN-SUFFIX, mosmetro.tech
+
 
 DOMAIN-SUFFIX, avito.ru
 DOMAIN-SUFFIX, avito.st
@@ -224,32 +264,6 @@ DOMAIN-SUFFIX, boosty.to
 DOMAIN-SUFFIX, donationalerts.com
 DOMAIN-SUFFIX, memealerts.com
 DOMAIN-SUFFIX, tamtam.chat
-
-DOMAIN-SUFFIX, playfamily.ru
-DOMAIN-SUFFIX, okko.sport
-DOMAIN-SUFFIX, okko.tv
-
-DOMAIN-SUFFIX, ozon.ru
-DOMAIN-SUFFIX, ozone.ru
-DOMAIN-SUFFIX, ozonusercontent.com
-
-DOMAIN-SUFFIX, rutube.ru
-DOMAIN-SUFFIX, rutubelist.ru
-DOMAIN-SUFFIX, rtbcdn.ru
-
-DOMAIN-SUFFIX, geobasket.ru
-DOMAIN-SUFFIX, paywb.com
-DOMAIN-SUFFIX, rwb.ru
-DOMAIN-SUFFIX, wb-basket.ru
-DOMAIN-SUFFIX, wb.ru
-DOMAIN-SUFFIX, wbbasket.ru
-DOMAIN-SUFFIX, wbpay.ru
-DOMAIN-SUFFIX, wibes.ru
-DOMAIN-SUFFIX, wildberries.ru
-
-DOMAIN-SUFFIX, ngenix.net
-DOMAIN-SUFFIX, restream-media.net
-DOMAIN-SUFFIX, wink.ru
 
 DOMAIN-SUFFIX, 5ka.ru
 DOMAIN-SUFFIX, 5post.market
@@ -346,6 +360,18 @@ DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
 
 
-# Anime
-DOMAIN-SUFFIX, animevost.org
-DOMAIN-SUFFIX, seasonvar.ru
+# Dodo Pizza
+DOMAIN-SUFFIX, dodopizza.ru
+DOMAIN-SUFFIX, dodopizza.com
+DOMAIN-SUFFIX, dodostatic.net
+DOMAIN-SUFFIX, dodois.com
+DOMAIN-SUFFIX, dodois.io
+
+# Rostics
+DOMAIN-SUFFIX, rostics.ru
+DOMAIN-SUFFIX, uni.rest
+DOMAIN-SUFFIX, unirest.tech
+
+DOMAIN-SUFFIX, trbcdn.net
+DOMAIN-SUFFIX, tbank-online.com
+DOMAIN-SUFFIX, taxsee.com

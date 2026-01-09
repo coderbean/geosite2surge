@@ -3622,6 +3622,7 @@ DOMAIN-SUFFIX, zb.live
 
 DOMAIN-SUFFIX, 1inch.io
 DOMAIN-SUFFIX, aave.com
+DOMAIN-SUFFIX, bingx.com
 DOMAIN-SUFFIX, bitbank.cc
 DOMAIN-SUFFIX, bitcoin.org
 DOMAIN-SUFFIX, bitfinex.com
@@ -3678,6 +3679,22 @@ DOMAIN-SUFFIX, zapper.fi
 
 
 # E-commerce
+DOMAIN-SUFFIX, ozon.ru
+DOMAIN-SUFFIX, ozone.ru
+DOMAIN-SUFFIX, ozonusercontent.com
+
+DOMAIN-SUFFIX, geobasket.ru
+DOMAIN-SUFFIX, paywb.com
+DOMAIN-SUFFIX, rwb.ru
+DOMAIN-SUFFIX, wb-basket.ru
+DOMAIN-SUFFIX, wb.ru
+DOMAIN-SUFFIX, wbbasket.ru
+DOMAIN-SUFFIX, wbpay.ru
+DOMAIN-SUFFIX, wibes.ru
+DOMAIN-SUFFIX, wildberries.ru
+
+
+
 DOMAIN-SUFFIX, adidas.ae
 DOMAIN-SUFFIX, adidas.at
 DOMAIN-SUFFIX, adidas.be
@@ -4660,10 +4677,6 @@ DOMAIN-SUFFIX, xn--74q035i.xn--hxt814e # 耐克.网店
 DOMAIN-SUFFIX, nordstrom.com
 DOMAIN-SUFFIX, nordstrommedia.com
 
-DOMAIN-SUFFIX, ozon.ru
-DOMAIN-SUFFIX, ozone.ru
-DOMAIN-SUFFIX, ozonusercontent.com
-
 DOMAIN-SUFFIX, ecimg.tw
 DOMAIN-SUFFIX, pchome.com.tw
 DOMAIN-SUFFIX, pchomeec.tw
@@ -4733,6 +4746,16 @@ DOMAIN-SUFFIX, target
 
 DOMAIN-SUFFIX, target.com
 DOMAIN-SUFFIX, targetimg1.com
+
+# data source: https://crt.sh/?id=17424181
+DOMAIN-SUFFIX, letsmoveforabetterworld.com
+DOMAIN-SUFFIX, technogym.bg
+DOMAIN-SUFFIX, technogym.ch
+DOMAIN-SUFFIX, technogym.com
+DOMAIN-SUFFIX, technogym.com.br
+DOMAIN-SUFFIX, technogym.ru
+DOMAIN-SUFFIX, technogym.su
+DOMAIN-SUFFIX, wellnessinstitute.com
 
 # All .walmart domains
 DOMAIN-SUFFIX, walmart
@@ -5491,6 +5514,19 @@ DOMAIN-SUFFIX, chemequations.com # 线上化学方程式！
 
 # Entertainment & Games & Music & Podcasts & Videos
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
+
+DOMAIN-SUFFIX, playfamily.ru
+DOMAIN-SUFFIX, okko.sport
+DOMAIN-SUFFIX, okko.tv
+
+DOMAIN-SUFFIX, rutube.ru
+DOMAIN-SUFFIX, rutubelist.ru
+DOMAIN-SUFFIX, rtbcdn.ru
+
+DOMAIN-SUFFIX, ngenix.net
+DOMAIN-SUFFIX, restream-media.net
+DOMAIN-SUFFIX, wink.ru
+
 
 DOMAIN-SUFFIX, 2k.com
 DOMAIN-SUFFIX, 2kcoretech.online
@@ -7063,10 +7099,6 @@ DOMAIN-SUFFIX, nowe.hk
 DOMAIN-SUFFIX, now-tv.com
 DOMAIN-SUFFIX, now-ashare.com
 
-DOMAIN-SUFFIX, playfamily.ru
-DOMAIN-SUFFIX, okko.sport
-DOMAIN-SUFFIX, okko.tv
-
 DOMAIN-SUFFIX, haiwaikan.com
 DOMAIN-SUFFIX, iole.tv
 DOMAIN-SUFFIX, olehd.com
@@ -7130,10 +7162,6 @@ DOMAIN-SUFFIX, mgo-images.com
 DOMAIN-SUFFIX, ravm.tv
 DOMAIN-SUFFIX, roku.com
 DOMAIN-SUFFIX, rokutime.com
-
-DOMAIN-SUFFIX, rutube.ru
-DOMAIN-SUFFIX, rutubelist.ru
-DOMAIN-SUFFIX, rtbcdn.ru
 
 DOMAIN-SUFFIX, showtimeanytime.com
 DOMAIN-SUFFIX, showtime.com
@@ -17629,6 +17657,7 @@ DOMAIN-SUFFIX, lastpass.eu
 DOMAIN-SUFFIX, lputil.com
 
 
+DOMAIN-SUFFIX, authpass.app
 DOMAIN-SUFFIX, authy.com
 DOMAIN-SUFFIX, dashlane.com
 DOMAIN-SUFFIX, enpass.io
@@ -18854,7 +18883,9 @@ DOMAIN-SUFFIX, mobatek.net
 DOMAIN-SUFFIX, mpv.io
 DOMAIN-SUFFIX, mysql.com
 DOMAIN-SUFFIX, neovim.io
+DOMAIN-SUFFIX, netfilter.org
 DOMAIN-SUFFIX, newpipe.net
+DOMAIN-SUFFIX, nftables.org
 DOMAIN-SUFFIX, nixos.org
 DOMAIN-SUFFIX, nodesource.com
 DOMAIN-SUFFIX, notepad-plus-plus.org

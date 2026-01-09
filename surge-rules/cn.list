@@ -640,6 +640,7 @@ DOMAIN-SUFFIX, vrzwk.com
 DOMAIN-SUFFIX, vrzwk.net
 DOMAIN-SUFFIX, vrzwk.top
 
+DOMAIN-SUFFIX, tapapks.com
 DOMAIN-SUFFIX, tapimg.com
 DOMAIN-SUFFIX, tapimg.net
 DOMAIN-SUFFIX, taptap.cn
@@ -3446,6 +3447,8 @@ DOMAIN-SUFFIX, ziroomapartment.com
 
 ## 无忧易售
 DOMAIN-SUFFIX, 51selling.com
+## 爱回收
+DOMAIN-SUFFIX, aihuishou.com
 ## 唯品会
 DOMAIN-SUFFIX, appsimg.com
 DOMAIN-SUFFIX, appvipshop.com
@@ -3527,6 +3530,7 @@ DOMAIN-SUFFIX, znds.com # 智能电视网
 
 DOMAIN-SUFFIX, 423down.com # 423Down
 DOMAIN-SUFFIX, acwifi.net # 路由器技术分享
+DOMAIN-SUFFIX, appinn.com # 小众软件
 DOMAIN-SUFFIX, chongdiantou.com # 充电头网
 DOMAIN-SUFFIX, ghxi.com # 果核剥壳
 DOMAIN-SUFFIX, iplaysoft.com # 异次元软件世界
@@ -4575,12 +4579,16 @@ DOMAIN-SUFFIX, 7moor-fs1.com
 DOMAIN-SUFFIX, 7moor.com
 ## 安兔兔
 DOMAIN-SUFFIX, antutu.com
+DOMAIN-SUFFIX, antutu.net
 ## 拓竹科技
 DOMAIN-SUFFIX, bambulab.com
 DOMAIN-SUFFIX, bblmw.com
 ## BOSS 直聘
 DOMAIN-SUFFIX, bosszhipin.com
 DOMAIN-SUFFIX, zhipin.com
+## 下厨房
+DOMAIN-SUFFIX, chuimg.com
+DOMAIN-SUFFIX, xiachufang.com
 ## 天润融通 AI外呼 客服
 DOMAIN-SUFFIX, clink.cn
 ## 当贝
@@ -7865,6 +7873,10 @@ DOMAIN-SUFFIX, suzuki-china.com # 铃木中国官网
 DOMAIN-SUFFIX, udesk.cn # 沃丰科技
 DOMAIN-SUFFIX, ysjf.com # 影视飓风
 
+# 飞牛
+DOMAIN-SUFFIX, fnnas.com
+DOMAIN-SUFFIX, fnnas.net
+DOMAIN-SUFFIX, fnos.net
 # 稿定（厦门）信息服务有限公司
 ## 花瓣网 闽ICP备2021013850号
 DOMAIN-SUFFIX, huaban.com
@@ -8186,7 +8198,6 @@ DOMAIN-SUFFIX, apk3.com
 DOMAIN-SUFFIX, apk8.com
 DOMAIN-SUFFIX, aplaybox.com
 DOMAIN-SUFFIX, appchina.com
-DOMAIN-SUFFIX, appinn.com
 DOMAIN-SUFFIX, arpun.com
 DOMAIN-SUFFIX, asklib.com
 DOMAIN-SUFFIX, babytree.com
@@ -8892,7 +8903,6 @@ DOMAIN-SUFFIX, xdqtech.com # 上邻 | 新渡桥科技 浙ICP备2020031247号-1
 DOMAIN-SUFFIX, xdtool.com # 闽ICP备2024056202号-4
 DOMAIN-SUFFIX, xdwan.com
 DOMAIN-SUFFIX, xfdown.com
-DOMAIN-SUFFIX, xiachufang.com
 DOMAIN-SUFFIX, xiaobaixitong.com
 DOMAIN-SUFFIX, xiaoe-tech.com
 DOMAIN-SUFFIX, xiaogouh5.com
