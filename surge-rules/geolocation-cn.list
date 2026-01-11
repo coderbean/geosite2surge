@@ -1710,6 +1710,8 @@ DOMAIN-SUFFIX, ynet.com.cn
 DOMAIN-SUFFIX, 21jingji.com
 # 站长网
 DOMAIN-SUFFIX, admin5.com
+# 安徽新闻
+DOMAIN-SUFFIX, anhuinews.com
 # 锋潮科技
 DOMAIN-SUFFIX, anzhuo.cn
 # 鞭牛士
@@ -1749,6 +1751,8 @@ DOMAIN-SUFFIX, cztv.com
 DOMAIN-SUFFIX, cztvcdn.com
 DOMAIN-SUFFIX, cztvcloud.com
 DOMAIN-SUFFIX, zjstv.com
+# 读特新闻
+DOMAIN-SUFFIX, dutenews.com
 # 大智慧
 DOMAIN-SUFFIX, dzh.com.cn
 DOMAIN-SUFFIX, gw.com.cn
@@ -1863,6 +1867,9 @@ DOMAIN-SUFFIX, ssimg.cn
 DOMAIN-SUFFIX, stockstar.com
 # 证券时报网
 DOMAIN-SUFFIX, stcn.com
+# 深圳报业集团
+DOMAIN-SUFFIX, sznews.com
+DOMAIN-SUFFIX, szpgm.com
 # 大公网/大公报
 DOMAIN-SUFFIX, takungpao.com
 # TechWeb
@@ -3553,8 +3560,12 @@ DOMAIN-SUFFIX, xiamenair.com # 厦门航空
 DOMAIN-SUFFIX, 12306.cn
 DOMAIN-SUFFIX, 95306.cn
 DOMAIN-SUFFIX, ccrgt.com
+## 车来了
+DOMAIN-SUFFIX, chelaile.net.cn
 ## 跨境巴士
 DOMAIN-SUFFIX, kuajing84.com
+## 掌上公交
+DOMAIN-SUFFIX, mygolbs.com
 ## 宁停车
 DOMAIN-SUFFIX, ningtingche.com
 ## 航旅纵横
@@ -4518,9 +4529,16 @@ DOMAIN-SUFFIX, zdnscloud.net
 DOMAIN-SUFFIX, zdnscloud.net.cn
 DOMAIN-SUFFIX, zdnscloud.org.cn
 
+# 掌淘
 DOMAIN-SUFFIX, mob.com
-DOMAIN-SUFFIX, dutils.com
+DOMAIN-SUFFIX, sharesdk.cn
+
+# 游昆
 DOMAIN-SUFFIX, accuratead.cn
+DOMAIN-SUFFIX, dutils.com
+DOMAIN-SUFFIX, hiaiabc.com
+DOMAIN-SUFFIX, mobsdks.com
+DOMAIN-SUFFIX, yksdks.com
 
 # 猪八戒网
 DOMAIN-SUFFIX, tianpeng.com
@@ -7441,12 +7459,15 @@ DOMAIN-SUFFIX, isdspeed.qq.com
 DOMAIN-SUFFIX, log.tbs.qq.com
 DOMAIN-SUFFIX, mdt.qq.com
 DOMAIN-SUFFIX, monitor.music.qq.com
+DOMAIN-SUFFIX, monitor.uu.qq.com
 DOMAIN-SUFFIX, mpush.qq.com
 DOMAIN-SUFFIX, mtrace.qq.com
 DOMAIN-SUFFIX, pgdt.gtimg.cn
 DOMAIN-SUFFIX, pingjs.qq.com
+DOMAIN-SUFFIX, pmir.3g.qq.com
 DOMAIN-SUFFIX, push.qq.com
 DOMAIN-SUFFIX, report.qqweb.qq.com
+DOMAIN-SUFFIX, rmonitor.qq.com
 DOMAIN-SUFFIX, sngmta.qq.com
 DOMAIN-SUFFIX, stat.y.qq.com
 DOMAIN-SUFFIX, tajs.qq.com
@@ -7707,8 +7728,10 @@ DOMAIN-SUFFIX, logupdate.avlyun.sec.miui.com
 DOMAIN-SUFFIX, misc.in.duokanbox.com
 DOMAIN-SUFFIX, sentry.d.mi.com
 DOMAIN-SUFFIX, sentry.d.xiaomi.net
+DOMAIN-SUFFIX, stats.music.xiaomi.com
 DOMAIN-SUFFIX, tjqonline.cn
 DOMAIN-SUFFIX, tracker.ai.xiaomi.com
+DOMAIN-SUFFIX, tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX, tracking.miui.com
 
 DOMAIN-SUFFIX, miaibox.com
@@ -7881,11 +7904,18 @@ DOMAIN-SUFFIX, migucloud.com
 DOMAIN-SUFFIX, migufun.com
 DOMAIN-SUFFIX, miguvideo.com
 
+# 中移在线
+DOMAIN-SUFFIX, cmcc-cs.cn
+DOMAIN-SUFFIX, online-cmcc.cn
+
 # 中移互联
 DOMAIN-SUFFIX, andfx.cn
 DOMAIN-SUFFIX, andfx.net
+DOMAIN-SUFFIX, cmicapm.com
 DOMAIN-SUFFIX, cmicrwx.cn
+DOMAIN-SUFFIX, cmicvip.cn
 DOMAIN-SUFFIX, cmpassport.com
+DOMAIN-SUFFIX, cytxl.com.cn
 DOMAIN-SUFFIX, fetion-portal.com
 DOMAIN-SUFFIX, fetionpic.com
 DOMAIN-SUFFIX, mmarket.com
@@ -7939,6 +7969,7 @@ DOMAIN-SUFFIX, wo.com.cn
 DOMAIN-SUFFIX, wo116114.com
 DOMAIN-SUFFIX, wocloud.com.cn
 DOMAIN-SUFFIX, woread.com.cn
+DOMAIN-SUFFIX, wosms.cn
 
 
 # 在线工具
