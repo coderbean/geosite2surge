@@ -633,6 +633,7 @@ DOMAIN-SUFFIX, fourthns.systems
 DOMAIN-SUFFIX, secondns.at
 DOMAIN-SUFFIX, thirdns.de
 
+DOMAIN-SUFFIX, advertising.apple.com
 DOMAIN-SUFFIX, api-adservices.apple.com
 DOMAIN-SUFFIX, iadsdk.apple.com
 DOMAIN-SUFFIX, iad.apple.com
@@ -6979,6 +6980,10 @@ DOMAIN-SUFFIX, blob.core.windows.net
 DOMAIN, github-api.arkoselabs.com
 DOMAIN, github-cloud.s3.amazonaws.com
 URL-REGEX, ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
+
+DOMAIN-SUFFIX, collector.github.com
+DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
+
 
 DOMAIN-SUFFIX, browser.events.data.msn.cn
 DOMAIN-SUFFIX, browser.events.data.msn.com
