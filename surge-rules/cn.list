@@ -425,6 +425,7 @@ DOMAIN-SUFFIX, 4399api.net
 DOMAIN-SUFFIX, 4399biule.com
 DOMAIN-SUFFIX, 4399dmw.com
 DOMAIN-SUFFIX, 4399er.com
+DOMAIN-SUFFIX, 4399hdhh.com
 DOMAIN-SUFFIX, 4399hhh.com
 DOMAIN-SUFFIX, 4399inc.com
 DOMAIN-SUFFIX, 4399mail.com
@@ -438,17 +439,22 @@ DOMAIN-SUFFIX, 4399youxi.com
 DOMAIN-SUFFIX, 4399yyy.com
 DOMAIN-SUFFIX, 5054399.com
 DOMAIN-SUFFIX, 5054399.net
+DOMAIN-SUFFIX, 5wyxi.com
 DOMAIN-SUFFIX, 71acg.com
 DOMAIN-SUFFIX, 71acg.net
+DOMAIN-SUFFIX, abdf002.com
 DOMAIN-SUFFIX, appeeres.com
+DOMAIN-SUFFIX, buke999.com
 DOMAIN-SUFFIX, bx1k.com
 DOMAIN-SUFFIX, edu4399.com
 DOMAIN-SUFFIX, funnycore.com
 DOMAIN-SUFFIX, guoping123.com
+DOMAIN-SUFFIX, haohaowan.net
 DOMAIN-SUFFIX, i3839.com
 DOMAIN-SUFFIX, ihykb.com
 DOMAIN-SUFFIX, img4399.com
 DOMAIN-SUFFIX, mail4399.com
+DOMAIN-SUFFIX, maindown4399.com
 DOMAIN-SUFFIX, me4399.com
 DOMAIN-SUFFIX, my4399.com
 DOMAIN-SUFFIX, mysiteres.com
@@ -460,7 +466,9 @@ DOMAIN-SUFFIX, wanwan4399.com
 DOMAIN-SUFFIX, we4399.com
 DOMAIN-SUFFIX, webgame163.com
 DOMAIN-SUFFIX, youba.com
+DOMAIN-SUFFIX, yxhapi.com
 DOMAIN-SUFFIX, yxhhdl.com
+DOMAIN-SUFFIX, yxhimg.com
 
 DOMAIN-SUFFIX, 9game.cn
 
@@ -679,14 +687,16 @@ DOMAIN-SUFFIX, fxt365.com
 DOMAIN-SUFFIX, gameabc.com
 # 游戏魅 合肥启云软件 皖B2-20160087-3
 DOMAIN-SUFFIX, gamemei.com
+# Enhance Gaming
+DOMAIN-SUFFIX, heavenlywind.cc
 # 乐都网 浙ICP备2024091002号-2
 DOMAIN-SUFFIX, ledu.com
 # 龙图游戏 京ICP备11023195号
 DOMAIN-SUFFIX, longtugame.com
 # 北京慕飞科技 京ICP备20006112号-2
 DOMAIN-SUFFIX, morefreegame.com
-# Enhance Gaming
-DOMAIN-SUFFIX, heavenlywind.cc
+# Phira
+DOMAIN-SUFFIX, phira.cn
 # 沪ICP备18041304号-1
 DOMAIN-SUFFIX, tgpro.top
 DOMAIN-SUFFIX, tgprocs.net
@@ -1298,6 +1308,9 @@ DOMAIN-SUFFIX, zhulang.com
 DOMAIN-SUFFIX, zongheng.com
 
 # 娱乐资讯媒体
+# 该部分参考了中文维基百科的「来源考量」：
+# - https://zh.wikipedia.org/wiki/WikiProject:电子游戏/来源考量
+# - https://zh.wikipedia.org/wiki/WikiProject:ACG/來源考量
 
 DOMAIN-SUFFIX, tgbus.com
 
@@ -1334,12 +1347,16 @@ DOMAIN-SUFFIX, ign.com.cn
 DOMAIN-SUFFIX, nadianshi.com
 ## 游戏日报
 DOMAIN-SUFFIX, news.yxrb.net
+## 手谈姬
+DOMAIN-SUFFIX, shoutanjjj.com
 ## 游戏机实用技术
 DOMAIN-SUFFIX, ucg.cn
 ## 游戏茶馆
 DOMAIN-SUFFIX, youxichaguan.com
 ## 游戏葡萄
 DOMAIN-SUFFIX, youxiputao.com
+## 游戏陀螺
+DOMAIN-SUFFIX, youxituoluo.com
 ## 游研社
 DOMAIN-SUFFIX, yystv.cn
 
@@ -3611,6 +3628,8 @@ DOMAIN-SUFFIX, xiamenair.com # 厦门航空
 DOMAIN-SUFFIX, 12306.cn
 DOMAIN-SUFFIX, 95306.cn
 DOMAIN-SUFFIX, ccrgt.com
+## 北京市政交通一卡通
+DOMAIN-SUFFIX, bmac.com.cn
 ## 车来了
 DOMAIN-SUFFIX, chelaile.net.cn
 ## 跨境巴士
@@ -4124,24 +4143,22 @@ DOMAIN-SUFFIX, xiezuocat.com
 
 # 远程桌面/远程组网
 
+## 连连控
+DOMAIN-SUFFIX, asklink.com
+## EasyTier
+DOMAIN-SUFFIX, easytier.cn
 ## Oray
 DOMAIN-SUFFIX, oray.com
 DOMAIN-SUFFIX, oray.net
 DOMAIN-SUFFIX, orayer.com
 DOMAIN-SUFFIX, orayimg.com
 DOMAIN-SUFFIX, sunlogin.net
-
+## 叮当猫脚本管理系统 懒人精灵远程调试
+DOMAIN-SUFFIX, privateapi.xyz
 ## ToDesk
 DOMAIN-SUFFIX, todesk.cn
 DOMAIN-SUFFIX, todesk.com
-
-## 连连控
-DOMAIN-SUFFIX, asklink.com
-
-## 叮当猫脚本管理系统 懒人精灵远程调试
-DOMAIN-SUFFIX, privateapi.xyz
-
-# xEdge干将互联
+## xEdge干将互联
 # xEdge 干将互联
 # 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
 DOMAIN-SUFFIX, xedge.cc
@@ -4152,23 +4169,19 @@ DOMAIN-SUFFIX, ganjiangvpn.com
 
 # 文档协作
 
-## Tower 团队协作
-DOMAIN-SUFFIX, tower.im
-
-## 秀米编辑器
-DOMAIN-SUFFIX, tritoninfo.net
-DOMAIN-SUFFIX, xiumi.us
-DOMAIN-SUFFIX, xiumius.com
-
+## 语雀
+DOMAIN-SUFFIX, nlark.com
+DOMAIN-SUFFIX, yuque.com
 ## 石墨文档
 DOMAIN-SUFFIX, shimo.im
 DOMAIN-SUFFIX, shimonote.com
 DOMAIN-SUFFIX, smgv.cn
-
-## 语雀
-DOMAIN-SUFFIX, nlark.com
-DOMAIN-SUFFIX, yuque.com
-
+## Tower 团队协作
+DOMAIN-SUFFIX, tower.im
+## 秀米编辑器
+DOMAIN-SUFFIX, tritoninfo.net
+DOMAIN-SUFFIX, xiumi.us
+DOMAIN-SUFFIX, xiumius.com
 ## 吾道
 DOMAIN-SUFFIX, woodo.cn
 
@@ -6925,6 +6938,7 @@ DOMAIN-SUFFIX, realmemobile.com
 DOMAIN-SUFFIX, shopoppo.cn
 DOMAIN-SUFFIX, shopoppo.com.cn
 
+DOMAIN-SUFFIX, c.sayhi.360.cn
 DOMAIN-SUFFIX, fenxi.360.cn
 DOMAIN-SUFFIX, fenxi.com
 DOMAIN-SUFFIX, lianmeng.360.cn
@@ -7483,6 +7497,7 @@ DOMAIN-SUFFIX, rumt-us.com
 DOMAIN-SUFFIX, ad.browser.qq.com
 DOMAIN-SUFFIX, ad.qq.com
 DOMAIN-SUFFIX, ad.qun.qq.com
+DOMAIN-SUFFIX, ad.tencentmusic.com
 DOMAIN-SUFFIX, ad.weixin.qq.com
 DOMAIN-SUFFIX, adfilter.imtt.qq.com
 DOMAIN-SUFFIX, adnet.qq.com
@@ -7524,6 +7539,7 @@ DOMAIN-SUFFIX, pmir.3g.qq.com
 DOMAIN-SUFFIX, push.qq.com
 DOMAIN-SUFFIX, qqdata.ab.qq.com
 DOMAIN-SUFFIX, report.qqweb.qq.com
+DOMAIN-SUFFIX, report.tencentmusic.com
 DOMAIN-SUFFIX, rmonitor.qq.com
 DOMAIN-SUFFIX, sngmta.qq.com
 DOMAIN-SUFFIX, stat.y.qq.com
@@ -7755,6 +7771,17 @@ DOMAIN-SUFFIX, fymallqa3.com
 DOMAIN-SUFFIX, fymallqa4.com
 DOMAIN-SUFFIX, fymallqa7.com
 DOMAIN-SUFFIX, fymallqa9.com
+
+DOMAIN-SUFFIX, tdnsdl1.cn
+DOMAIN-SUFFIX, tdnsdl1.com.cn
+DOMAIN-SUFFIX, tdnsdl2.cn
+DOMAIN-SUFFIX, tdnsdl2.com.cn
+DOMAIN-SUFFIX, tdnsdl3.cn
+DOMAIN-SUFFIX, tdnsdl3.com.cn
+DOMAIN-SUFFIX, tdnsdl4.cn
+DOMAIN-SUFFIX, tdnsdl4.com.cn
+DOMAIN-SUFFIX, tdnsdl5.cn
+DOMAIN-SUFFIX, tdnsdl5.com.cn
 
 # 同方股份
 DOMAIN-SUFFIX, thtf.com.cn
