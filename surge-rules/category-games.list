@@ -1118,6 +1118,10 @@ DOMAIN-SUFFIX, steamchina.com
 # 数云科技
 DOMAIN-SUFFIX, gstore.val.manlaxy.com
 
+DOMAIN-SUFFIX, sih-db.com
+DOMAIN-SUFFIX, sih.app
+DOMAIN-SUFFIX, steaminventoryhelper.com
+
 # Free Steam Games Pre-installed for PC with direct download links.
 
 DOMAIN-SUFFIX, steamunlocked.net

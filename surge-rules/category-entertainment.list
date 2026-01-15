@@ -1,5 +1,19 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+# Game
+DOMAIN-SUFFIX, colorfulstage.com
+
+# Idol
+DOMAIN-SUFFIX, crypton.co.jp
+DOMAIN-SUFFIX, lapriere.jp
+DOMAIN-SUFFIX, magicalmirai.com
+DOMAIN-SUFFIX, mikuexpo.com
+DOMAIN-SUFFIX, piapro.net
+DOMAIN-SUFFIX, snowmiku.com
+
+# Resource sharing
+DOMAIN-SUFFIX, bowlroll.net
+
 DOMAIN-SUFFIX, playfamily.ru
 DOMAIN-SUFFIX, okko.sport
 DOMAIN-SUFFIX, okko.tv
@@ -826,6 +840,10 @@ DOMAIN-SUFFIX, steamchina.com
 
 # 数云科技
 DOMAIN-SUFFIX, gstore.val.manlaxy.com
+
+DOMAIN-SUFFIX, sih-db.com
+DOMAIN-SUFFIX, sih.app
+DOMAIN-SUFFIX, steaminventoryhelper.com
 
 # Free Steam Games Pre-installed for PC with direct download links.
 

@@ -176,22 +176,6 @@ DOMAIN-SUFFIX, openart.ai
 DOMAIN-SUFFIX, openrouter.ai
 
 
-# Anime, Comics & Games
-# Game
-DOMAIN-SUFFIX, colorfulstage.com
-
-# Idol
-DOMAIN-SUFFIX, crypton.co.jp
-DOMAIN-SUFFIX, lapriere.jp
-DOMAIN-SUFFIX, magicalmirai.com
-DOMAIN-SUFFIX, mikuexpo.com
-DOMAIN-SUFFIX, piapro.net
-DOMAIN-SUFFIX, snowmiku.com
-
-# Resource sharing
-DOMAIN-SUFFIX, bowlroll.net
-
-
 # Advertisment & Analytics
 # Programmatic Digital Advertising Technology & Solutions | PubMatic
 
@@ -5541,6 +5525,20 @@ DOMAIN-SUFFIX, chemequations.com # 线上化学方程式！
 # Entertainment & Games & Music & Podcasts & Videos
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+# Game
+DOMAIN-SUFFIX, colorfulstage.com
+
+# Idol
+DOMAIN-SUFFIX, crypton.co.jp
+DOMAIN-SUFFIX, lapriere.jp
+DOMAIN-SUFFIX, magicalmirai.com
+DOMAIN-SUFFIX, mikuexpo.com
+DOMAIN-SUFFIX, piapro.net
+DOMAIN-SUFFIX, snowmiku.com
+
+# Resource sharing
+DOMAIN-SUFFIX, bowlroll.net
+
 DOMAIN-SUFFIX, playfamily.ru
 DOMAIN-SUFFIX, okko.sport
 DOMAIN-SUFFIX, okko.tv
@@ -6367,6 +6365,10 @@ DOMAIN-SUFFIX, steamchina.com
 
 # 数云科技
 DOMAIN-SUFFIX, gstore.val.manlaxy.com
+
+DOMAIN-SUFFIX, sih-db.com
+DOMAIN-SUFFIX, sih.app
+DOMAIN-SUFFIX, steaminventoryhelper.com
 
 # Free Steam Games Pre-installed for PC with direct download links.
 
@@ -10156,6 +10158,7 @@ DOMAIN-SUFFIX, tnntoday.com
 DOMAIN-SUFFIX, tvbs.com.tw
 DOMAIN-SUFFIX, tvmost.com.hk
 DOMAIN-SUFFIX, twgreatnews.com
+DOMAIN-SUFFIX, twreporter.org
 DOMAIN-SUFFIX, unwire.hk
 DOMAIN-SUFFIX, upmedia.mg
 DOMAIN-SUFFIX, vjmedia.com.hk
