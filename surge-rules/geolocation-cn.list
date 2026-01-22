@@ -157,8 +157,8 @@ DOMAIN-SUFFIX, hisilicon.com.cn
 DOMAIN-SUFFIX, huaweiapaas.com
 DOMAIN-SUFFIX, mindspore.cn
 DOMAIN-SUFFIX, owsgo.com
-DOMAIN-SUFFIX, teleows.com
 DOMAIN-SUFFIX, saasops.tech
+DOMAIN-SUFFIX, teleows.com
 
 DOMAIN-SUFFIX, juejin.cn
 DOMAIN-SUFFIX, juejin.im
@@ -627,6 +627,8 @@ DOMAIN-SUFFIX, zhuoyou.com
 DOMAIN-SUFFIX, 7k7k.com
 # 刀锋盒子 皖B2-20190103-4
 DOMAIN-SUFFIX, 9xgame.com
+# 韵律谱面研究站 桂ICP备20001846号-3
+DOMAIN-SUFFIX, arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX, astral-vector.com
 # 九九互动 粤ICP备19068416号
@@ -2122,6 +2124,9 @@ DOMAIN-SUFFIX, uyunad.com
 DOMAIN-SUFFIX, whalecloud.com
 
 
+# 神策数据
+DOMAIN-SUFFIX, sensorsdata.cn
+
 # category-httpdns-cn is mainly for advertising purpose
 # Aliyun
 DOMAIN-SUFFIX, httpdns-api.aliyuncs.com
@@ -3473,7 +3478,7 @@ DOMAIN-SUFFIX, hacpai.com
 DOMAIN-SUFFIX, ld246.com
 
 DOMAIN-SUFFIX, kechuang.org
-DOMAIN, kc.kexinshe.com
+DOMAIN-SUFFIX, kexinshe.com
 
 DOMAIN-SUFFIX, nga.cn
 DOMAIN-SUFFIX, 178.com
@@ -3917,6 +3922,7 @@ DOMAIN-SUFFIX, hwshu.com # 瀚文民国书库
 DOMAIN-SUFFIX, hytung.cn # 瀚堂典藏古籍
 DOMAIN-SUFFIX, incopat.com # incoPat 专利数据库
 DOMAIN-SUFFIX, lawyee.org # 北大法意网 中国法律资料库
+DOMAIN-SUFFIX, libvideo.com # 知识视界 武汉缘来文化
 DOMAIN-SUFFIX, neohytung.com # 瀚堂近代报刊
 DOMAIN-SUFFIX, nmrdata.com # 微谱数据
 DOMAIN-SUFFIX, nssd.cn # 国家哲学社会科学学术期刊数据库
@@ -3932,8 +3938,6 @@ DOMAIN-SUFFIX, unihan.com.cn # 书同文
 DOMAIN-SUFFIX, wenxin-ge.com # 文心阁古籍全文数据库
 DOMAIN-SUFFIX, wind.com.cn # Wind 资讯金融
 DOMAIN-SUFFIX, yiigle.com # 中华医学期刊全文数据库
-
-DOMAIN, www.libvideo.com # 武汉缘来文化-知识视界
 
 DOMAIN-SUFFIX, fgo.wiki
 DOMAIN-SUFFIX, jikipedia.com
@@ -6259,8 +6263,8 @@ DOMAIN-SUFFIX, hisilicon.com.cn
 DOMAIN-SUFFIX, huaweiapaas.com
 DOMAIN-SUFFIX, mindspore.cn
 DOMAIN-SUFFIX, owsgo.com
-DOMAIN-SUFFIX, teleows.com
 DOMAIN-SUFFIX, saasops.tech
+DOMAIN-SUFFIX, teleows.com
 
 DOMAIN-SUFFIX, aadcloud.cn
 DOMAIN-SUFFIX, aadcloud.com
@@ -7796,6 +7800,12 @@ DOMAIN-SUFFIX, miaibox.com
 DOMAIN-SUFFIX, xiaoaiassist.com
 DOMAIN-SUFFIX, xiaomimimo.com
 
+# Xiaomi IoT Services
+DOMAIN-SUFFIX, account.xiaomi.com
+DOMAIN-SUFFIX, cn-ha.mqtt.io.mi.com
+DOMAIN-SUFFIX, ha.api.io.mi.com
+DOMAIN-SUFFIX, miot-spec.org
+
 
 DOMAIN-SUFFIX, mgslb.com
 DOMAIN-SUFFIX, mi-idc.com
@@ -8034,9 +8044,16 @@ DOMAIN-SUFFIX, wosms.cn
 
 
 # 在线工具
+## IPIP ip地理位置数据库
 DOMAIN-SUFFIX, ipip.net
 DOMAIN-SUFFIX, myip.la
 
+
+## 白描
+DOMAIN-SUFFIX, baimiao.tech
+DOMAIN-SUFFIX, baimiaoapp.com
+DOMAIN-SUFFIX, shinescan.tech
+DOMAIN-SUFFIX, uzero.cn
 
 DOMAIN-SUFFIX, chaziyu.com # 滇ICP备2024035496号
 DOMAIN-SUFFIX, fofa.info # Fofa网站测绘（华顺信安）

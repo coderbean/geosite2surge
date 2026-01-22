@@ -110,6 +110,9 @@ DOMAIN-SUFFIX, hf.co
 DOMAIN-SUFFIX, hf.space
 DOMAIN-SUFFIX, huggingface.co
 
+DOMAIN-SUFFIX, liveperson.net
+DOMAIN-SUFFIX, lpsnmedia.net
+
 # Main domain
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, chat.com
@@ -148,6 +151,11 @@ DOMAIN-SUFFIX, poecdn.net
 DOMAIN-SUFFIX, grok.com
 DOMAIN-SUFFIX, grok.x.com
 DOMAIN-SUFFIX, x.ai
+
+# Youmind
+DOMAIN-SUFFIX, youmind.ai
+DOMAIN-SUFFIX, youmind.com
+DOMAIN-SUFFIX, youmind.site
 
 
 # CodeRabbit
@@ -1872,6 +1880,11 @@ DOMAIN-SUFFIX, schwab.com.hk
 DOMAIN-SUFFIX, schwab.com.sg
 DOMAIN-SUFFIX, schwabassetmanagement.com
 DOMAIN-SUFFIX, schwabplan.com
+
+DOMAIN-SUFFIX, sc.com
+DOMAIN-SUFFIX, standardchartered.com
+DOMAIN, standchartbank.sc.omtrdc.net
+DOMAIN, standchartbank.tt.omtrdc.net
 
 DOMAIN-SUFFIX, transferwise.com
 DOMAIN-SUFFIX, wise.com
@@ -5521,6 +5534,8 @@ DOMAIN-SUFFIX, zotero.org
 
 
 DOMAIN-SUFFIX, chemequations.com # 线上化学方程式！
+DOMAIN-SUFFIX, geogebra.org
+DOMAIN-SUFFIX, wolframalpha.com
 
 # Entertainment & Games & Music & Podcasts & Videos
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
@@ -28015,6 +28030,7 @@ DOMAIN-SUFFIX, wmflabs.org
 
 DOMAIN-SUFFIX, atwiki.jp
 DOMAIN-SUFFIX, touhouwiki.net
+DOMAIN-SUFFIX, wiki.gg
 
 # Others
 # AvaxHome main site:

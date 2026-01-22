@@ -107,6 +107,9 @@ DOMAIN-SUFFIX, hf.co
 DOMAIN-SUFFIX, hf.space
 DOMAIN-SUFFIX, huggingface.co
 
+DOMAIN-SUFFIX, liveperson.net
+DOMAIN-SUFFIX, lpsnmedia.net
+
 # Main domain
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, chat.com
@@ -145,6 +148,11 @@ DOMAIN-SUFFIX, poecdn.net
 DOMAIN-SUFFIX, grok.com
 DOMAIN-SUFFIX, grok.x.com
 DOMAIN-SUFFIX, x.ai
+
+# Youmind
+DOMAIN-SUFFIX, youmind.ai
+DOMAIN-SUFFIX, youmind.com
+DOMAIN-SUFFIX, youmind.site
 
 
 # CodeRabbit

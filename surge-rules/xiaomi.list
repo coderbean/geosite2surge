@@ -24,6 +24,12 @@ DOMAIN-SUFFIX, miaibox.com
 DOMAIN-SUFFIX, xiaoaiassist.com
 DOMAIN-SUFFIX, xiaomimimo.com
 
+# Xiaomi IoT Services
+DOMAIN-SUFFIX, account.xiaomi.com
+DOMAIN-SUFFIX, cn-ha.mqtt.io.mi.com
+DOMAIN-SUFFIX, ha.api.io.mi.com
+DOMAIN-SUFFIX, miot-spec.org
+
 
 DOMAIN-SUFFIX, mgslb.com
 DOMAIN-SUFFIX, mi-idc.com
