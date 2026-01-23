@@ -3602,10 +3602,11 @@ DOMAIN-SUFFIX, nexo.com
 DOMAIN-SUFFIX, nexo.io
 
 DOMAIN-SUFFIX, okex.com
-DOMAIN-SUFFIX, okx.com
 DOMAIN-SUFFIX, okx-dns.com
 DOMAIN-SUFFIX, okx-dns1.com
 DOMAIN-SUFFIX, okx-dns2.com
+DOMAIN-SUFFIX, okx.cab
+DOMAIN-SUFFIX, okx.com
 
 # OKC Browser
 DOMAIN-SUFFIX, oklink.com
@@ -5861,6 +5862,9 @@ DOMAIN-SUFFIX, arcraiders.com
 DOMAIN-SUFFIX, embark-studios.com
 DOMAIN-SUFFIX, embark.games
 DOMAIN-SUFFIX, reachthefinals.com
+
+DOMAIN-SUFFIX, eneba.com
+DOMAIN-SUFFIX, eneba.games
 
 DOMAIN-SUFFIX, 3lateral.com
 DOMAIN-SUFFIX, artstation.com

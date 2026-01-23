@@ -2020,6 +2020,7 @@ DOMAIN-SUFFIX, askdiandian.com
 DOMAIN-SUFFIX, diandianlife.top
 
 
+DOMAIN-SUFFIX, rednotecdn.com
 DOMAIN-SUFFIX, xhscdn.com
 DOMAIN-SUFFIX, xhscdn.net
 DOMAIN-SUFFIX, xhslink.com
@@ -3538,6 +3539,9 @@ DOMAIN-SUFFIX, yctdyy.com
 
 # 南方医科大学深圳医院
 DOMAIN-SUFFIX, smuszh.com
+
+# 四川大学华西医院
+DOMAIN-SUFFIX, cd120.com
 
 ## 安徽药品人才网
 DOMAIN-SUFFIX, ahfda.com
