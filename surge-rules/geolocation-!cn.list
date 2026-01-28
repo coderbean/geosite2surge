@@ -7807,7 +7807,12 @@ DOMAIN-SUFFIX, rumble.com
 DOMAIN-SUFFIX, embed-cdn.com
 DOMAIN-SUFFIX, streamable.com
 
+DOMAIN-SUFFIX, 1024terabox.com
+DOMAIN-SUFFIX, bestclouddrive.com
+DOMAIN-SUFFIX, freeterabox.com
+DOMAIN-SUFFIX, nephobox.com
 DOMAIN-SUFFIX, terabox.com
+DOMAIN-SUFFIX, terabox1024.com
 DOMAIN-SUFFIX, teraboxcdn.com
 
 
@@ -27033,6 +27038,7 @@ DOMAIN-SUFFIX, galaxyappstore.com
 DOMAIN-SUFFIX, galaxymobile.jp
 DOMAIN-SUFFIX, game-platform.net
 DOMAIN-SUFFIX, knoxemm.com
+DOMAIN-SUFFIX, ospserver.net
 DOMAIN-SUFFIX, samsung.com
 DOMAIN-SUFFIX, samsungads.com
 DOMAIN-SUFFIX, samsungapps.com
