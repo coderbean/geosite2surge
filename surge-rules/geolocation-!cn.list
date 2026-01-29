@@ -114,8 +114,9 @@ DOMAIN-SUFFIX, liveperson.net
 DOMAIN-SUFFIX, lpsnmedia.net
 
 # Main domain
-DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, chat.com
+DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, crixet.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
@@ -125,13 +126,13 @@ DOMAIN-SUFFIX, sora.com
 DOMAIN-SUFFIX, openai.com.cdn.cloudflare.net
 DOMAIN, openaiapi-site.azureedge.net
 DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN, openaicom.imgix.net
 DOMAIN, openaicomproductionae4b.blob.core.windows.net
 DOMAIN, production-openaicom-storage.azureedge.net
 URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 
 # tracking
 DOMAIN, o33249.ingest.sentry.io
-DOMAIN, openaicom.imgix.net
 DOMAIN, browser-intake-datadoghq.com
 
 # Advanced Voice
@@ -5618,6 +5619,16 @@ DOMAIN, blznav.akamaized.net
 DOMAIN-SUFFIX, bluearchive.jp
 DOMAIN-SUFFIX, bluearchive.nexon.com
 DOMAIN-SUFFIX, bluearchive-cn.com
+
+DOMAIN-SUFFIX, arma3.com
+DOMAIN-SUFFIX, armaplatform.com
+DOMAIN-SUFFIX, bistudio.com
+DOMAIN-SUFFIX, bohemia.net
+DOMAIN-SUFFIX, dayz.com
+DOMAIN-SUFFIX, makearmanotwar.com
+DOMAIN-SUFFIX, silicagame.com
+DOMAIN-SUFFIX, vigorgame.com
+DOMAIN-SUFFIX, ylands.com
 
 DOMAIN-SUFFIX, curseforge.com
 DOMAIN-SUFFIX, forgecdn.net
@@ -17535,6 +17546,9 @@ DOMAIN-SUFFIX, tracker.gg
 DOMAIN-SUFFIX, tracker.network
 
 
+# Anti-Cheat
+DOMAIN-SUFFIX, battleye.com
+
 # Android Emulator
 DOMAIN-SUFFIX, bluestacks.com
 DOMAIN-SUFFIX, ldmnq.com
@@ -17549,7 +17563,7 @@ DOMAIN-SUFFIX, prts.plus
 DOMAIN-SUFFIX, heavenlywind.cc
 DOMAIN-SUFFIX, poi.moe
 
-
+# Steam++ / Watt Toolkit
 DOMAIN-SUFFIX, steampp.net
 
 DOMAIN-SUFFIX, borneo.world
@@ -21363,6 +21377,7 @@ DOMAIN, amp-api-edge.apps.apple.com
 DOMAIN, amp-api-search-edge.apps.apple.com
 DOMAIN, amp-api.apps.apple.com
 DOMAIN, amp-api.music.apple.com
+DOMAIN, aod-ssl.itunes.apple.com
 DOMAIN, aod.itunes.apple.com
 DOMAIN, api-edge.apps.apple.com
 DOMAIN, apptrailers.itunes.apple.com
