@@ -157,6 +157,18 @@ DOMAIN-SUFFIX, weui.io
 DOMAIN-SUFFIX, openkylin.top
 DOMAIN-SUFFIX, ubuntukylin.com
 
+# 优三缔 / 优美缔 / 团结引擎
+DOMAIN-SUFFIX, u3d.cn
+DOMAIN-SUFFIX, unity.cn
+DOMAIN-SUFFIX, unitychina.cn
+
+# Ads/tracking
+DOMAIN-SUFFIX, ads.unitychina.cn
+DOMAIN-SUFFIX, splash-ads.cdn.unity.cn
+DOMAIN-SUFFIX, splash-ads.unitychina.cn
+DOMAIN-SUFFIX, unityads.unity.cn
+DOMAIN-SUFFIX, unityads.unitychina.cn
+
 
 DOMAIN-SUFFIX, jinrishici.com
 DOMAIN-SUFFIX, openvela.com

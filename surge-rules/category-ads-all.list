@@ -3,11 +3,6 @@
 
 DOMAIN, apilog-web.acfun.cn
 
-DOMAIN-SUFFIX, adjust.com
-DOMAIN-SUFFIX, adjust.net.in
-DOMAIN-SUFFIX, adjust.io
-DOMAIN-SUFFIX, adjust.world
-
 DOMAIN-SUFFIX, advertising.adobe.com
 DOMAIN-SUFFIX, tubemogul.com
 
@@ -244,10 +239,6 @@ DOMAIN-SUFFIX, zggbdszt.net.cn
 DOMAIN-SUFFIX, zygbdszt.net.cn
 
 DOMAIN-SUFFIX, ad.cctv.com
-
-DOMAIN-SUFFIX, clearbit.com
-DOMAIN-SUFFIX, clearbitjs.com
-DOMAIN-SUFFIX, clearbitscripts.com
 
 # American Broadcasting Company
 
@@ -613,10 +604,6 @@ DOMAIN-SUFFIX, iadmusicmat.music.126.net
 DOMAIN-SUFFIX, iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX, sentry.music.163.com
 
-DOMAIN-SUFFIX, ogury.com
-DOMAIN-SUFFIX, presage.io
-DOMAIN-SUFFIX, ogury.co
-
 URL-REGEX, ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 
 # Main domain
@@ -645,12 +632,6 @@ DOMAIN, browser-intake-datadoghq.com
 DOMAIN-SUFFIX, chatgpt.livekit.cloud
 DOMAIN-SUFFIX, host.livekit.cloud
 DOMAIN-SUFFIX, turn.livekit.cloud
-
-DOMAIN-SUFFIX, openx.net
-DOMAIN-SUFFIX, openxadexchange.com
-DOMAIN-SUFFIX, openxcdn.net
-DOMAIN-SUFFIX, openxenterprise.com
-DOMAIN-SUFFIX, openxmarket.asia
 
 DOMAIN-SUFFIX, bikaa.xyz
 DOMAIN-SUFFIX, bikac.xyz
@@ -692,8 +673,6 @@ DOMAIN-SUFFIX, pixiv-recommend.net
 DOMAIN-SUFFIX, pixivision.net
 DOMAIN-SUFFIX, pximg.net
 
-DOMAIN-SUFFIX, ads.pubmatic.com
-
 DOMAIN-SUFFIX, c.sayhi.360.cn
 DOMAIN-SUFFIX, fenxi.360.cn
 DOMAIN-SUFFIX, fenxi.com
@@ -730,11 +709,6 @@ DOMAIN-SUFFIX, samsungknox.com
 DOMAIN-SUFFIX, samsungosp.com
 DOMAIN-SUFFIX, samsungqbe.com
 DOMAIN-SUFFIX, samsungrs.com
-
-DOMAIN-SUFFIX, segment.com
-DOMAIN-SUFFIX, segment.io
-DOMAIN-SUFFIX, segmenthub.com
-DOMAIN-SUFFIX, segmentify.com
 
 DOMAIN-SUFFIX, ad.sina.com.cn
 DOMAIN-SUFFIX, ad.us.sinaimg.cn
@@ -799,11 +773,6 @@ DOMAIN-SUFFIX, wuliao.epro.sogou.com
 DOMAIN, adeventtracker.spotify.com
 DOMAIN, adstudio-assets.scdn.co
 DOMAIN, bloodhound.spotify.com
-
-DOMAIN-SUFFIX, supersonic.com
-DOMAIN-SUFFIX, supersonicads.com
-DOMAIN-SUFFIX, ssacdn.com
-DOMAIN-SUFFIX, supersonicads-a.akamaihd.net
 
 DOMAIN-SUFFIX, ad.hpplay.cn
 DOMAIN-SUFFIX, adc.hpplay.cn
@@ -937,11 +906,23 @@ DOMAIN-SUFFIX, utoken.umeng.com
 DOMAIN-SUFFIX, w.cnzz.com
 DOMAIN-SUFFIX, z.gds.cnzz.com
 
+DOMAIN-SUFFIX, unity.com
+DOMAIN-SUFFIX, unity3d.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, iads.unity3d.com
+DOMAIN-SUFFIX, unityads.unity3d.com
+
+# 优三缔 / 优美缔 / 团结引擎
+DOMAIN-SUFFIX, u3d.cn
+DOMAIN-SUFFIX, unity.cn
+DOMAIN-SUFFIX, unitychina.cn
+
+# Ads/tracking
 DOMAIN-SUFFIX, ads.unitychina.cn
 DOMAIN-SUFFIX, splash-ads.cdn.unity.cn
 DOMAIN-SUFFIX, splash-ads.unitychina.cn
 DOMAIN-SUFFIX, unityads.unity.cn
-DOMAIN-SUFFIX, unityads.unity3d.com
 DOMAIN-SUFFIX, unityads.unitychina.cn
 
 DOMAIN-SUFFIX, collector.xhamster.com
@@ -1163,6 +1144,41 @@ DOMAIN-SUFFIX, analytics.umetrip.com
 DOMAIN-SUFFIX, sensors.umetrip.com.cn
 
 
+DOMAIN-SUFFIX, adjust.com
+DOMAIN-SUFFIX, adjust.io
+DOMAIN-SUFFIX, adjust.net.in
+DOMAIN-SUFFIX, adjust.world
+
+DOMAIN-SUFFIX, clearbit.com
+DOMAIN-SUFFIX, clearbitjs.com
+DOMAIN-SUFFIX, clearbitscripts.com
+
+DOMAIN-SUFFIX, ogury.co
+DOMAIN-SUFFIX, ogury.com
+DOMAIN-SUFFIX, presage.io
+
+DOMAIN-SUFFIX, openx.net
+DOMAIN-SUFFIX, openxadexchange.com
+DOMAIN-SUFFIX, openxcdn.net
+DOMAIN-SUFFIX, openxenterprise.com
+DOMAIN-SUFFIX, openxmarket.asia
+
+# Programmatic Digital Advertising Technology & Solutions | PubMatic
+
+DOMAIN-SUFFIX, pubmatic.com
+DOMAIN-SUFFIX, pubmatic.co.jp
+
+DOMAIN-SUFFIX, segment.com
+DOMAIN-SUFFIX, segment.io
+DOMAIN-SUFFIX, segmenthub.com
+DOMAIN-SUFFIX, segmentify.com
+
+DOMAIN-SUFFIX, ssacdn.com
+DOMAIN-SUFFIX, supersonic.com
+DOMAIN-SUFFIX, supersonicads.com
+
+DOMAIN-SUFFIX, supersonicads-a.akamaihd.net
+
 # Taboola uses this single domain for both official website and ads serving.
 # Blocking the following domain will prevent taboola ads from displaying,
 # but also cut the connection to Taboola website.
@@ -1187,7 +1203,6 @@ DOMAIN-SUFFIX, lijit.com
 DOMAIN-SUFFIX, mfadsrvr.com
 DOMAIN-SUFFIX, mgid.com
 DOMAIN-SUFFIX, ns1p.net
-DOMAIN-SUFFIX, pubmatic.com
 DOMAIN-SUFFIX, sigmob.com
 DOMAIN-SUFFIX, spotxchange.com
 DOMAIN-SUFFIX, unimhk.com
