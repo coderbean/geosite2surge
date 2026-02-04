@@ -3526,6 +3526,7 @@ DOMAIN-SUFFIX, binanceapi.com
 DOMAIN-SUFFIX, binanceru.net
 DOMAIN-SUFFIX, bnbstatic.com
 DOMAIN-SUFFIX, bntrace.com
+DOMAIN-SUFFIX, bsappapi.com
 DOMAIN-SUFFIX, nftstatic.com
 
 # saas
@@ -6170,6 +6171,7 @@ DOMAIN-SUFFIX, playstation.net
 DOMAIN-SUFFIX, sonyentertainmentnetwork.com
 
 DOMAIN-SUFFIX, sekai.colorfulpalette.org
+DOMAIN-SUFFIX, pjsekai.sega.jp
 
 DOMAIN-SUFFIX, kraftonde.com
 DOMAIN-SUFFIX, playbattlegrounds.com
@@ -18790,6 +18792,7 @@ DOMAIN, default.exp-tas.com
 DOMAIN, developer.microsoft.com
 DOMAIN, download.visualstudio.microsoft.com
 DOMAIN, dtlgalleryint.cloudapp.net
+DOMAIN, packages.microsoft.com
 DOMAIN, poshtestgallery.cloudapp.net
 DOMAIN, psg-int-centralus.cloudapp.net
 DOMAIN, psg-int-eastus.cloudapp.net
@@ -26135,6 +26138,7 @@ DOMAIN, default.exp-tas.com
 DOMAIN, developer.microsoft.com
 DOMAIN, download.visualstudio.microsoft.com
 DOMAIN, dtlgalleryint.cloudapp.net
+DOMAIN, packages.microsoft.com
 DOMAIN, poshtestgallery.cloudapp.net
 DOMAIN, psg-int-centralus.cloudapp.net
 DOMAIN, psg-int-eastus.cloudapp.net
@@ -27035,6 +27039,7 @@ DOMAIN-SUFFIX, pardot.com
 DOMAIN-SUFFIX, quotable.com
 DOMAIN-SUFFIX, radian6.com
 DOMAIN-SUFFIX, relateiq.com
+DOMAIN-SUFFIX, salesforce-setup.com
 DOMAIN-SUFFIX, salesforce.com
 DOMAIN-SUFFIX, salesforce.org
 DOMAIN-SUFFIX, salesforceiq.com
