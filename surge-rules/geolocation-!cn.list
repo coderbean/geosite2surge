@@ -46,6 +46,8 @@ DOMAIN-SUFFIX, cursorapi.com
 DOMAIN-SUFFIX, elevenlabs.com
 DOMAIN-SUFFIX, elevenlabs.io
 
+DOMAIN-SUFFIX, githubcopilot.com
+
 # Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google
@@ -18330,6 +18332,8 @@ DOMAIN-SUFFIX, ldoceonline.com
 DOMAIN-SUFFIX, immersivetranslate.com # 沉浸式翻译 (国际版)
 ## OriginLab (Graphing for Science and Engineering)
 DOMAIN-SUFFIX, originlab.com
+## OsmAnd
+DOMAIN-SUFFIX, osmand.net
 
 # Software development
 DOMAIN-SUFFIX, anaconda.cloud
@@ -18593,6 +18597,8 @@ DOMAIN-SUFFIX, gitbook.io
 DOMAIN-SUFFIX, collector.github.com
 DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
 
+DOMAIN-SUFFIX, githubcopilot.com
+
 DOMAIN-SUFFIX, npm.community
 DOMAIN-SUFFIX, npmjs.com
 DOMAIN-SUFFIX, npmjs.org
@@ -18611,7 +18617,6 @@ DOMAIN-SUFFIX, github.dev
 DOMAIN-SUFFIX, github.io
 DOMAIN-SUFFIX, githubapp.com
 DOMAIN-SUFFIX, githubassets.com
-DOMAIN-SUFFIX, githubcopilot.com
 DOMAIN-SUFFIX, githubhackathon.com
 DOMAIN-SUFFIX, githubnext.com
 DOMAIN-SUFFIX, githubpreview.dev
@@ -26027,6 +26032,8 @@ DOMAIN, emoi-cncdn.bing.com
 DOMAIN-SUFFIX, collector.github.com
 DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
 
+DOMAIN-SUFFIX, githubcopilot.com
+
 DOMAIN-SUFFIX, npm.community
 DOMAIN-SUFFIX, npmjs.com
 DOMAIN-SUFFIX, npmjs.org
@@ -26045,7 +26052,6 @@ DOMAIN-SUFFIX, github.dev
 DOMAIN-SUFFIX, github.io
 DOMAIN-SUFFIX, githubapp.com
 DOMAIN-SUFFIX, githubassets.com
-DOMAIN-SUFFIX, githubcopilot.com
 DOMAIN-SUFFIX, githubhackathon.com
 DOMAIN-SUFFIX, githubnext.com
 DOMAIN-SUFFIX, githubpreview.dev

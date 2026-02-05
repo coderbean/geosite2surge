@@ -43,6 +43,8 @@ DOMAIN-SUFFIX, cursorapi.com
 DOMAIN-SUFFIX, elevenlabs.com
 DOMAIN-SUFFIX, elevenlabs.io
 
+DOMAIN-SUFFIX, githubcopilot.com
+
 # Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
 DOMAIN-SUFFIX, deepmind.google
