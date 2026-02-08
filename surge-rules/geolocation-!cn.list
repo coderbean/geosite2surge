@@ -154,6 +154,11 @@ DOMAIN, pplx-res.cloudinary.com
 DOMAIN-SUFFIX, poe.com
 DOMAIN-SUFFIX, poecdn.net
 
+DOMAIN-SUFFIX, codeium.com
+DOMAIN-SUFFIX, codeiumdata.com
+DOMAIN-SUFFIX, windsurf.build
+DOMAIN-SUFFIX, windsurf.com
+
 DOMAIN-SUFFIX, grok.com
 DOMAIN-SUFFIX, grok.x.com
 DOMAIN-SUFFIX, x.ai
@@ -27845,6 +27850,9 @@ DOMAIN-SUFFIX, yastatic.net
 # Watching movies, included in the Yandex subscription
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+
+# Weather service
+DOMAIN, yandex-pogoda.static-storage.net
 
 
 # Remote Control
