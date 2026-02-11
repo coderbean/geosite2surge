@@ -154,6 +154,9 @@ DOMAIN-SUFFIX, wegamedeveloper.com
 DOMAIN-SUFFIX, weixinbridge.com
 DOMAIN-SUFFIX, weui.io
 
+# Ads/tracking
+DOMAIN-SUFFIX, badjs.weixinbridge.com
+
 DOMAIN-SUFFIX, openkylin.top
 DOMAIN-SUFFIX, ubuntukylin.com
 
@@ -173,4 +176,5 @@ DOMAIN-SUFFIX, unityads.unitychina.cn
 DOMAIN-SUFFIX, aardio.com
 DOMAIN-SUFFIX, jinrishici.com
 DOMAIN-SUFFIX, openvela.com
+DOMAIN-SUFFIX, pingcode.com
 DOMAIN-SUFFIX, tipdm.org

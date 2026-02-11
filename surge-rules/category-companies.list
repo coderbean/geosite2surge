@@ -152,9 +152,6 @@ DOMAIN, wwis-dubc1-vip97.adobe.com
 DOMAIN, wwis-dubc1-vip98.adobe.com
 DOMAIN, wwis-dubc1-vip99.adobe.com
 
-DOMAIN-SUFFIX, advertising.adobe.com
-DOMAIN-SUFFIX, tubemogul.com
-
 DOMAIN-SUFFIX, typekit.com
 DOMAIN-SUFFIX, typekit.net
 
@@ -300,6 +297,10 @@ DOMAIN-SUFFIX, scene7.com
 # Adobe Stats IO
 DOMAIN-SUFFIX, adobestats.io
 
+# Ads/tracking
+DOMAIN-SUFFIX, advertising.adobe.com
+DOMAIN-SUFFIX, tubemogul.com
+
 DOMAIN-SUFFIX, alibabacloud.co.in
 DOMAIN-SUFFIX, alibabacloud.com
 DOMAIN-SUFFIX, alibabacloud.com.au
@@ -308,9 +309,6 @@ DOMAIN-SUFFIX, alibabacloud.com.my
 DOMAIN-SUFFIX, alibabacloud.com.sg
 DOMAIN-SUFFIX, alibabacloud.com.tw
 DOMAIN-SUFFIX, alicloud.com
-
-DOMAIN-SUFFIX, amazon-adsystem.com
-DOMAIN-SUFFIX, serving-sys.com
 
 DOMAIN-SUFFIX, amazontrust.com
 DOMAIN-SUFFIX, awstrust.com
@@ -590,6 +588,10 @@ DOMAIN-SUFFIX, createspace.com
 DOMAIN, images-cn.ssl-images-amazon.com
 DOMAIN, images-cn-8.ssl-images-amazon.com
 
+# Ads/tracking
+DOMAIN-SUFFIX, amazon-adsystem.com
+DOMAIN-SUFFIX, serving-sys.com
+
 DOMAIN-SUFFIX, amd.com
 DOMAIN-SUFFIX, amd.com.cn
 DOMAIN-SUFFIX, amdfanstore.com
@@ -632,12 +634,6 @@ DOMAIN-SUFFIX, firstns.cc
 DOMAIN-SUFFIX, fourthns.systems
 DOMAIN-SUFFIX, secondns.at
 DOMAIN-SUFFIX, thirdns.de
-
-DOMAIN-SUFFIX, advertising.apple.com
-DOMAIN-SUFFIX, api-adservices.apple.com
-DOMAIN-SUFFIX, iadsdk.apple.com
-DOMAIN-SUFFIX, iad.apple.com
-DOMAIN-SUFFIX, qwapi.com
 
 DOMAIN-SUFFIX, appleswift.com
 DOMAIN-SUFFIX, swift.org
@@ -2559,6 +2555,13 @@ DOMAIN, www.apple.com
 DOMAIN, www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN, xp.apple.com
 
+# Ads/tracking
+DOMAIN-SUFFIX, advertising.apple.com
+DOMAIN-SUFFIX, api-adservices.apple.com
+DOMAIN-SUFFIX, iadsdk.apple.com
+DOMAIN-SUFFIX, iad.apple.com
+DOMAIN-SUFFIX, qwapi.com
+
 DOMAIN-SUFFIX, asus.com
 DOMAIN-SUFFIX, asus.com.cn
 DOMAIN-SUFFIX, asuscloud.com
@@ -3925,13 +3928,13 @@ DOMAIN-SUFFIX, drweb-av.es
 DOMAIN-SUFFIX, drweb-av.it
 DOMAIN-SUFFIX, drweb-av.pl
 
-DOMAIN-SUFFIX, ads-api.duolingo.com
-DOMAIN-SUFFIX, metrics.duolingo.com
-DOMAIN-SUFFIX, analytics.vpc.duolingo.com
-
-
 DOMAIN-SUFFIX, duolingo.com
 DOMAIN-SUFFIX, duolingo.cn
+
+# Ads/tracking
+DOMAIN-SUFFIX, ads-api.duolingo.com
+DOMAIN-SUFFIX, analytics.vpc.duolingo.com
+DOMAIN-SUFFIX, metrics.duolingo.com
 
 DOMAIN-SUFFIX, clickedu.co.uk
 DOMAIN-SUFFIX, deepfreeze.co.uk
@@ -4100,65 +4103,6 @@ DOMAIN-SUFFIX, godoc.org
 DOMAIN-SUFFIX, golang.com
 DOMAIN-SUFFIX, golang.net
 DOMAIN-SUFFIX, golang.org
-
-DOMAIN-SUFFIX, 2mdn-cn.net
-DOMAIN-SUFFIX, 2mdn.net
-DOMAIN-SUFFIX, admob-cn.com
-DOMAIN-SUFFIX, admob.com
-DOMAIN-SUFFIX, ads.youtube.com
-DOMAIN-SUFFIX, adsense.com
-DOMAIN-SUFFIX, adsensecustomsearchads.com
-DOMAIN-SUFFIX, adsenseformobileapps.com
-DOMAIN-SUFFIX, adservice.google.com
-DOMAIN-SUFFIX, adtrafficquality.google
-DOMAIN-SUFFIX, advertisercommunity.com
-DOMAIN-SUFFIX, advertiserscommunity.com
-DOMAIN-SUFFIX, adwords-community.com
-DOMAIN-SUFFIX, adwords.com
-DOMAIN-SUFFIX, adwordsexpress.com
-DOMAIN-SUFFIX, analytics-alv.google.com
-DOMAIN-SUFFIX, app-analytics-services.com
-DOMAIN-SUFFIX, app-analytics-services-att.com
-DOMAIN-SUFFIX, app-measurement-cn.com
-DOMAIN-SUFFIX, app-measurement.com
-DOMAIN-SUFFIX, doubleclick-cn.net
-DOMAIN-SUFFIX, doubleclick.cn
-DOMAIN-SUFFIX, doubleclick.com
-DOMAIN-SUFFIX, doubleclick.net
-DOMAIN-SUFFIX, fcmatch.google.com
-DOMAIN-SUFFIX, google-analytics-cn.com
-DOMAIN-SUFFIX, google-analytics.com
-DOMAIN-SUFFIX, googleadapis.com
-DOMAIN-SUFFIX, googleadapis.l.google.com
-DOMAIN-SUFFIX, googleads-cn.com
-DOMAIN-SUFFIX, googleads.com
-DOMAIN-SUFFIX, googleadservices-cn.com
-DOMAIN-SUFFIX, googleadservices.com
-DOMAIN-SUFFIX, googleadsserving.cn
-DOMAIN-SUFFIX, googleanalytics.com
-DOMAIN-SUFFIX, googleoptimize-cn.com
-DOMAIN-SUFFIX, googleoptimize.com
-DOMAIN-SUFFIX, googlesyndication-cn.com
-DOMAIN-SUFFIX, googlesyndication.com
-DOMAIN-SUFFIX, googletagmanager-cn.com
-DOMAIN-SUFFIX, googletagmanager.com
-DOMAIN-SUFFIX, googletagservices-cn.com
-DOMAIN-SUFFIX, googletagservices.com
-DOMAIN-SUFFIX, googletraveladservices-cn.com
-DOMAIN-SUFFIX, googletraveladservices.com
-DOMAIN-SUFFIX, googlevads-cn.com
-DOMAIN-SUFFIX, mail-ads.google.com
-DOMAIN-SUFFIX, mobileads.google.com
-DOMAIN-SUFFIX, marketingplatform.google.com
-DOMAIN-SUFFIX, pagead.l.google.com
-DOMAIN-SUFFIX, partnerad.l.google.com
-DOMAIN-SUFFIX, urchin.com
-
-DOMAIN, analytics.google.com
-# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
-# full:fundingchoicesmessages.google.com
-
-URL-REGEX, ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
 
 # Google DeepMind
 DOMAIN-SUFFIX, deepmind.com
@@ -4617,6 +4561,9 @@ DOMAIN-SUFFIX, youtubemobilesupport.com
 DOMAIN-SUFFIX, yt.be
 DOMAIN-SUFFIX, ytimg.com
 DOMAIN, yt3.googleusercontent.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, ads.youtube.com
 
 
 # All .and domains
@@ -5140,6 +5087,62 @@ DOMAIN-SUFFIX, zukunftswerkstatt.de
 # Google safe browsing relay
 # https://www.fastly.com/press/press-releases/google-selects-Fastly-Oblivious-HTTP-Relay-for-Privacy-Sandbox/
 DOMAIN, google-ohttp-relay-safebrowsing.fastly-edge.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, 2mdn-cn.net
+DOMAIN-SUFFIX, 2mdn.net
+DOMAIN-SUFFIX, admob-cn.com
+DOMAIN-SUFFIX, admob.com
+DOMAIN-SUFFIX, adsense.com
+DOMAIN-SUFFIX, adsensecustomsearchads.com
+DOMAIN-SUFFIX, adsenseformobileapps.com
+DOMAIN-SUFFIX, adservice.google.com
+DOMAIN-SUFFIX, adtrafficquality.google
+DOMAIN-SUFFIX, advertisercommunity.com
+DOMAIN-SUFFIX, advertiserscommunity.com
+DOMAIN-SUFFIX, adwords-community.com
+DOMAIN-SUFFIX, adwords.com
+DOMAIN-SUFFIX, adwordsexpress.com
+DOMAIN-SUFFIX, analytics-alv.google.com
+DOMAIN-SUFFIX, app-analytics-services.com
+DOMAIN-SUFFIX, app-analytics-services-att.com
+DOMAIN-SUFFIX, app-measurement-cn.com
+DOMAIN-SUFFIX, app-measurement.com
+DOMAIN-SUFFIX, doubleclick-cn.net
+DOMAIN-SUFFIX, doubleclick.cn
+DOMAIN-SUFFIX, doubleclick.com
+DOMAIN-SUFFIX, doubleclick.net
+DOMAIN-SUFFIX, fcmatch.google.com
+DOMAIN-SUFFIX, google-analytics-cn.com
+DOMAIN-SUFFIX, google-analytics.com
+DOMAIN-SUFFIX, googleadapis.com
+DOMAIN-SUFFIX, googleadapis.l.google.com
+DOMAIN-SUFFIX, googleads-cn.com
+DOMAIN-SUFFIX, googleads.com
+DOMAIN-SUFFIX, googleadservices-cn.com
+DOMAIN-SUFFIX, googleadservices.com
+DOMAIN-SUFFIX, googleadsserving.cn
+DOMAIN-SUFFIX, googleanalytics.com
+DOMAIN-SUFFIX, googleoptimize-cn.com
+DOMAIN-SUFFIX, googleoptimize.com
+DOMAIN-SUFFIX, googlesyndication-cn.com
+DOMAIN-SUFFIX, googlesyndication.com
+DOMAIN-SUFFIX, googletagmanager-cn.com
+DOMAIN-SUFFIX, googletagmanager.com
+DOMAIN-SUFFIX, googletagservices-cn.com
+DOMAIN-SUFFIX, googletagservices.com
+DOMAIN-SUFFIX, googletraveladservices-cn.com
+DOMAIN-SUFFIX, googletraveladservices.com
+DOMAIN-SUFFIX, googlevads-cn.com
+DOMAIN-SUFFIX, mail-ads.google.com
+DOMAIN-SUFFIX, mobileads.google.com
+DOMAIN-SUFFIX, marketingplatform.google.com
+DOMAIN-SUFFIX, pagead.l.google.com
+DOMAIN-SUFFIX, partnerad.l.google.com
+DOMAIN-SUFFIX, urchin.com
+DOMAIN, analytics.google.com
+# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
+# full:fundingchoicesmessages.google.com
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
@@ -6612,6 +6615,11 @@ DOMAIN-SUFFIX, workplaceusecases.com
 
 DOMAIN, fbcdn-a.akamaihd.net
 
+# Ads/tracking
+DOMAIN-SUFFIX, analytics.facebook.com
+DOMAIN-SUFFIX, facebookads.com
+DOMAIN-SUFFIX, pixel.facebook.com
+
 DOMAIN-SUFFIX, accountkit.com
 DOMAIN-SUFFIX, atscaleconference.com
 DOMAIN-SUFFIX, botorch.org
@@ -6657,10 +6665,6 @@ DOMAIN-SUFFIX, rocksdb.org
 DOMAIN-SUFFIX, yogalayout.com
 
 DOMAIN, developers.facebook.com
-
-DOMAIN-SUFFIX, graph.instagram.com
-DOMAIN-SUFFIX, graph-fallback.instagram.com
-
 
 DOMAIN-SUFFIX, achat-followers-instagram.com
 DOMAIN-SUFFIX, acheter-followers-instagram.com
@@ -6735,6 +6739,10 @@ DOMAIN-SUFFIX, onlineinstagram.com
 DOMAIN-SUFFIX, web-instagram.net
 DOMAIN-SUFFIX, wwwinstagram.com
 
+# Ads/tracking
+DOMAIN-SUFFIX, graph.instagram.com
+DOMAIN-SUFFIX, graph-fallback.instagram.com
+
 DOMAIN-SUFFIX, fbmessenger.com
 DOMAIN-SUFFIX, m.me
 DOMAIN-SUFFIX, messenger.com
@@ -6761,10 +6769,6 @@ DOMAIN-SUFFIX, powersunitedvr.com
 DOMAIN-SUFFIX, threads.com
 DOMAIN-SUFFIX, threads.net
 
-DOMAIN-SUFFIX, graph.whatsapp.com
-DOMAIN-SUFFIX, graph.whatsapp.net
-
-
 DOMAIN-SUFFIX, wa.me
 DOMAIN-SUFFIX, whatsapp-plus.info
 DOMAIN-SUFFIX, whatsapp-plus.me
@@ -6776,6 +6780,10 @@ DOMAIN-SUFFIX, whatsapp.net
 DOMAIN-SUFFIX, whatsapp.org
 DOMAIN-SUFFIX, whatsapp.tv
 DOMAIN-SUFFIX, whatsappbrand.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, graph.whatsapp.com
+DOMAIN-SUFFIX, graph.whatsapp.net
 
 
 DOMAIN-SUFFIX, llama.com
@@ -6979,9 +6987,6 @@ DOMAIN-SUFFIX, th.bing.com
 DOMAIN, bj1.api.bing.com
 DOMAIN, emoi-cncdn.bing.com
 
-DOMAIN-SUFFIX, collector.github.com
-DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
-
 DOMAIN-SUFFIX, githubcopilot.com
 
 DOMAIN-SUFFIX, npm.community
@@ -7021,16 +7026,9 @@ DOMAIN, github-api.arkoselabs.com
 DOMAIN, github-cloud.s3.amazonaws.com
 URL-REGEX, ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 
+# Ads/tracking
 DOMAIN-SUFFIX, collector.github.com
 DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
-
-
-DOMAIN-SUFFIX, browser.events.data.msn.cn
-DOMAIN-SUFFIX, browser.events.data.msn.com
-DOMAIN-SUFFIX, clarity.ms
-DOMAIN-SUFFIX, microsoftads.com
-DOMAIN-SUFFIX, msads.net
-DOMAIN-SUFFIX, nelreports.net
 
 DOMAIN-SUFFIX, adaptivecards.io
 DOMAIN-SUFFIX, api-extractor.com
@@ -7132,6 +7130,10 @@ DOMAIN-SUFFIX, msnewskids.org
 DOMAIN-SUFFIX, msnkids.com
 DOMAIN-SUFFIX, microsoftstart.com
 DOMAIN-SUFFIX, start.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, browser.events.data.msn.cn
+DOMAIN-SUFFIX, browser.events.data.msn.com
 
 DOMAIN-SUFFIX, 1drv.com
 DOMAIN-SUFFIX, 1drv.ms
@@ -7503,6 +7505,12 @@ DOMAIN-SUFFIX, yammer.com
 # Skype CDN
 DOMAIN-SUFFIX, skype-edf.akadns.net
 DOMAIN-SUFFIX, skypedata.akadns.net
+
+# Ads/tracking
+DOMAIN-SUFFIX, clarity.ms
+DOMAIN-SUFFIX, microsoftads.com
+DOMAIN-SUFFIX, msads.net
+DOMAIN-SUFFIX, nelreports.net
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:microsoft@cn"
@@ -8311,10 +8319,6 @@ DOMAIN-SUFFIX, flickr.com
 DOMAIN-SUFFIX, flickr.net
 DOMAIN-SUFFIX, staticflickr.com
 
-DOMAIN-SUFFIX, ads.yahoo.com
-DOMAIN-SUFFIX, gemini.yahoo.com
-DOMAIN-SUFFIX, ysm.yahoo.com
-
 
 # All .yahoo domains
 DOMAIN-SUFFIX, yahoo
@@ -8488,6 +8492,11 @@ DOMAIN-SUFFIX, ymail.com
 DOMAIN-SUFFIX, yusercontent.com
 
 DOMAIN, cdn.js7k.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, ads.yahoo.com
+DOMAIN-SUFFIX, gemini.yahoo.com
+DOMAIN-SUFFIX, ysm.yahoo.com
 
 
 DOMAIN-SUFFIX, oath.cloud
@@ -8545,10 +8554,6 @@ DOMAIN-SUFFIX, flickr.com
 DOMAIN-SUFFIX, flickr.net
 DOMAIN-SUFFIX, staticflickr.com
 
-DOMAIN-SUFFIX, ads.yahoo.com
-DOMAIN-SUFFIX, gemini.yahoo.com
-DOMAIN-SUFFIX, ysm.yahoo.com
-
 
 # All .yahoo domains
 DOMAIN-SUFFIX, yahoo
@@ -8722,6 +8727,11 @@ DOMAIN-SUFFIX, ymail.com
 DOMAIN-SUFFIX, yusercontent.com
 
 DOMAIN, cdn.js7k.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, ads.yahoo.com
+DOMAIN-SUFFIX, gemini.yahoo.com
+DOMAIN-SUFFIX, ysm.yahoo.com
 
 # All .yandex domains
 DOMAIN-SUFFIX, yandex

@@ -121,6 +121,9 @@ DOMAIN-SUFFIX, juequling.com
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
 
+# Ads/tracking
+DOMAIN-SUFFIX, log-upload.mihoyo.com
+
 DOMAIN-SUFFIX, battlecare.net
 DOMAIN-SUFFIX, gameitop.com
 DOMAIN-SUFFIX, gameloop.com
@@ -720,6 +723,9 @@ DOMAIN-SUFFIX, n0vadesktop.com
 
 # 絕區零(Zenless Zone Zero)
 DOMAIN-SUFFIX, zenlesszonezero.com
+
+# ads/tracking
+DOMAIN-SUFFIX, log-upload-os.hoyoverse.com
 
 DOMAIN-SUFFIX, illusion.co.jp
 DOMAIN-SUFFIX, illusion.jp

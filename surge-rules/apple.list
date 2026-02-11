@@ -1,9 +1,3 @@
-DOMAIN-SUFFIX, advertising.apple.com
-DOMAIN-SUFFIX, api-adservices.apple.com
-DOMAIN-SUFFIX, iadsdk.apple.com
-DOMAIN-SUFFIX, iad.apple.com
-DOMAIN-SUFFIX, qwapi.com
-
 DOMAIN-SUFFIX, appleswift.com
 DOMAIN-SUFFIX, swift.org
 DOMAIN-SUFFIX, swiftui.cn
@@ -1923,3 +1917,10 @@ DOMAIN, weatherkit.apple.com
 DOMAIN, www.apple.com
 DOMAIN, www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN, xp.apple.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, advertising.apple.com
+DOMAIN-SUFFIX, api-adservices.apple.com
+DOMAIN-SUFFIX, iadsdk.apple.com
+DOMAIN-SUFFIX, iad.apple.com
+DOMAIN-SUFFIX, qwapi.com

@@ -396,6 +396,11 @@ DOMAIN-SUFFIX, workplaceusecases.com
 
 DOMAIN, fbcdn-a.akamaihd.net
 
+# Ads/tracking
+DOMAIN-SUFFIX, analytics.facebook.com
+DOMAIN-SUFFIX, facebookads.com
+DOMAIN-SUFFIX, pixel.facebook.com
+
 DOMAIN-SUFFIX, accountkit.com
 DOMAIN-SUFFIX, atscaleconference.com
 DOMAIN-SUFFIX, botorch.org
@@ -441,10 +446,6 @@ DOMAIN-SUFFIX, rocksdb.org
 DOMAIN-SUFFIX, yogalayout.com
 
 DOMAIN, developers.facebook.com
-
-DOMAIN-SUFFIX, graph.instagram.com
-DOMAIN-SUFFIX, graph-fallback.instagram.com
-
 
 DOMAIN-SUFFIX, achat-followers-instagram.com
 DOMAIN-SUFFIX, acheter-followers-instagram.com
@@ -519,6 +520,10 @@ DOMAIN-SUFFIX, onlineinstagram.com
 DOMAIN-SUFFIX, web-instagram.net
 DOMAIN-SUFFIX, wwwinstagram.com
 
+# Ads/tracking
+DOMAIN-SUFFIX, graph.instagram.com
+DOMAIN-SUFFIX, graph-fallback.instagram.com
+
 DOMAIN-SUFFIX, fbmessenger.com
 DOMAIN-SUFFIX, m.me
 DOMAIN-SUFFIX, messenger.com
@@ -545,10 +550,6 @@ DOMAIN-SUFFIX, powersunitedvr.com
 DOMAIN-SUFFIX, threads.com
 DOMAIN-SUFFIX, threads.net
 
-DOMAIN-SUFFIX, graph.whatsapp.com
-DOMAIN-SUFFIX, graph.whatsapp.net
-
-
 DOMAIN-SUFFIX, wa.me
 DOMAIN-SUFFIX, whatsapp-plus.info
 DOMAIN-SUFFIX, whatsapp-plus.me
@@ -560,6 +561,10 @@ DOMAIN-SUFFIX, whatsapp.net
 DOMAIN-SUFFIX, whatsapp.org
 DOMAIN-SUFFIX, whatsapp.tv
 DOMAIN-SUFFIX, whatsappbrand.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, graph.whatsapp.com
+DOMAIN-SUFFIX, graph.whatsapp.net
 
 
 DOMAIN-SUFFIX, llama.com

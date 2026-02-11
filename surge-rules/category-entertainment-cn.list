@@ -123,6 +123,9 @@ DOMAIN-SUFFIX, juequling.com
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
 
+# Ads/tracking
+DOMAIN-SUFFIX, log-upload.mihoyo.com
+
 DOMAIN-SUFFIX, battlecare.net
 DOMAIN-SUFFIX, gameitop.com
 DOMAIN-SUFFIX, gameloop.com
@@ -329,8 +332,8 @@ DOMAIN-SUFFIX, acfunchina.com
 DOMAIN-SUFFIX, acfunchina.net
 DOMAIN-SUFFIX, aixifan.com
 
+# Ads/tracking
 DOMAIN, apilog-web.acfun.cn
-
 
 DOMAIN-SUFFIX, acplay.net
 DOMAIN-SUFFIX, dandanplay.com
@@ -506,23 +509,6 @@ DOMAIN-SUFFIX, ibidian.com
 DOMAIN-SUFFIX, jvcsmart.cn
 DOMAIN-SUFFIX, jvcsmart.com.cn
 
-DOMAIN, ads3-normal-hl.zijieapi.com
-DOMAIN, ads3-normal.zijieapi.com
-DOMAIN, ads5-normal-hl.zijieapi.com
-DOMAIN, ads5-normal.zijieapi.com
-DOMAIN, log3-applog-hl.fqnovel.com
-DOMAIN, log3-applog.fqnovel.com
-DOMAIN, log5-applog-hl.fqnovel.com
-DOMAIN, log5-applog.fqnovel.com
-DOMAIN, p3-ad-sign.byteimg.com
-DOMAIN, p6-ad-sign.byteimg.com
-DOMAIN, p9-ad-sign.byteimg.com
-DOMAIN, rtlog3-applog-hl.fqnovel.com
-DOMAIN, rtlog3-applog.fqnovel.com
-DOMAIN, rtlog5-applog-hl.fqnovel.com
-DOMAIN, rtlog5-applog.fqnovel.com
-
-
 DOMAIN-SUFFIX, activity-zhendingtech.com
 DOMAIN-SUFFIX, changdunovel.com
 DOMAIN-SUFFIX, fanqienovel.com
@@ -555,6 +541,23 @@ DOMAIN-SUFFIX, qznovelvod.com
 DOMAIN, p3-novel.byteimg.com
 DOMAIN, p6-novel.byteimg.com
 
+# Ads/tracking
+DOMAIN, ads3-normal-hl.zijieapi.com
+DOMAIN, ads3-normal.zijieapi.com
+DOMAIN, ads5-normal-hl.zijieapi.com
+DOMAIN, ads5-normal.zijieapi.com
+DOMAIN, log3-applog-hl.fqnovel.com
+DOMAIN, log3-applog.fqnovel.com
+DOMAIN, log5-applog-hl.fqnovel.com
+DOMAIN, log5-applog.fqnovel.com
+DOMAIN, p3-ad-sign.byteimg.com
+DOMAIN, p6-ad-sign.byteimg.com
+DOMAIN, p9-ad-sign.byteimg.com
+DOMAIN, rtlog3-applog-hl.fqnovel.com
+DOMAIN, rtlog3-applog.fqnovel.com
+DOMAIN, rtlog5-applog-hl.fqnovel.com
+DOMAIN, rtlog5-applog.fqnovel.com
+
 DOMAIN-SUFFIX, gamersky.com
 
 DOMAIN-SUFFIX, click.gamersky.com
@@ -567,13 +570,6 @@ DOMAIN-SUFFIX, gitv.cn
 DOMAIN-SUFFIX, gitv.tv
 
 # 湖南广电（芒果TV）
-DOMAIN-SUFFIX, click.hunantv.com
-DOMAIN-SUFFIX, da.hunantv.com
-DOMAIN-SUFFIX, da.mgtv.com
-DOMAIN-SUFFIX, log.hunantv.com
-DOMAIN-SUFFIX, log.v2.hunantv.com
-DOMAIN-SUFFIX, res.hunantv.com
-
 DOMAIN-SUFFIX, hifuntv.com
 DOMAIN-SUFFIX, hitv.com
 DOMAIN-SUFFIX, hnbntv.com
@@ -581,6 +577,14 @@ DOMAIN-SUFFIX, hunaniptv.com
 DOMAIN-SUFFIX, hunantv.com
 DOMAIN-SUFFIX, imgo.tv
 DOMAIN-SUFFIX, mgtv.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, click.hunantv.com
+DOMAIN-SUFFIX, da.hunantv.com
+DOMAIN-SUFFIX, da.mgtv.com
+DOMAIN-SUFFIX, log.hunantv.com
+DOMAIN-SUFFIX, log.v2.hunantv.com
+DOMAIN-SUFFIX, res.hunantv.com
 
 DOMAIN-SUFFIX, huya.com
 DOMAIN-SUFFIX, msstatic.com
@@ -598,6 +602,7 @@ DOMAIN-SUFFIX, qy.net
 # CDN used by iqiyi
 DOMAIN-SUFFIX, 71edge.com
 
+# Ads/tracking
 DOMAIN-SUFFIX, ad.m.iqiyi.com
 DOMAIN-SUFFIX, afp.iqiyi.com
 DOMAIN-SUFFIX, c.uaa.iqiyi.com
@@ -609,23 +614,12 @@ DOMAIN-SUFFIX, msg.video.qiyi.com
 DOMAIN-SUFFIX, msg2.video.qiyi.com
 DOMAIN-SUFFIX, policy.video.iqiyi.com
 
-
 DOMAIN-SUFFIX, ku6.com
 DOMAIN-SUFFIX, ku6cdn.com
 DOMAIN-SUFFIX, ku6img.com
 
 DOMAIN-SUFFIX, kkmh.com
 DOMAIN-SUFFIX, kuaikanmanhua.com
-
-DOMAIN-SUFFIX, adbkwai.com
-DOMAIN-SUFFIX, adkwai.com
-DOMAIN-SUFFIX, adukwai.com
-DOMAIN-SUFFIX, e.kuaishou.cn
-DOMAIN-SUFFIX, e.kuaishou.com
-
-DOMAIN, log-sdk.gifshow.com
-DOMAIN, wlog.kuaishou.com
-
 
 DOMAIN-SUFFIX, ecukwai.com
 DOMAIN-SUFFIX, gifshow.com
@@ -644,10 +638,14 @@ DOMAIN-SUFFIX, kwimgs.com
 DOMAIN-SUFFIX, wsukwai.com
 DOMAIN-SUFFIX, yximgs.com
 
-DOMAIN-SUFFIX, ads.service.kugou.com
-DOMAIN-SUFFIX, adserviceretry.kglink.cn
-DOMAIN-SUFFIX, adserviceretry.kugou.com
-
+# Ads/tracking
+DOMAIN-SUFFIX, adbkwai.com
+DOMAIN-SUFFIX, adkwai.com
+DOMAIN-SUFFIX, adukwai.com
+DOMAIN-SUFFIX, e.kuaishou.cn
+DOMAIN-SUFFIX, e.kuaishou.com
+DOMAIN, log-sdk.gifshow.com
+DOMAIN, wlog.kuaishou.com
 
 DOMAIN-SUFFIX, fanxingliveshow.com
 DOMAIN-SUFFIX, kgimg.com
@@ -666,15 +664,14 @@ DOMAIN-SUFFIX, kugoustore.com
 DOMAIN-SUFFIX, kugouvoice.com
 DOMAIN-SUFFIX, kugouyouth.com
 
+# Ads/tracking
+DOMAIN-SUFFIX, ads.service.kugou.com
+DOMAIN-SUFFIX, adserviceretry.kglink.cn
+DOMAIN-SUFFIX, adserviceretry.kugou.com
+
 DOMAIN-SUFFIX, koowo.cn
 DOMAIN-SUFFIX, koowo.com
 DOMAIN-SUFFIX, kuwo.cn
-
-DOMAIN-SUFFIX, apple.www.letv.com
-DOMAIN-SUFFIX, ark.letv.com
-DOMAIN-SUFFIX, dc.letv.com
-DOMAIN-SUFFIX, g3.letv.com
-
 
 DOMAIN-SUFFIX, le.com
 DOMAIN-SUFFIX, leautolink.com
@@ -685,6 +682,12 @@ DOMAIN-SUFFIX, leso.cn
 DOMAIN-SUFFIX, letv.com
 DOMAIN-SUFFIX, letvcdn.com
 DOMAIN-SUFFIX, letvimg.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, apple.www.letv.com
+DOMAIN-SUFFIX, ark.letv.com
+DOMAIN-SUFFIX, dc.letv.com
+DOMAIN-SUFFIX, g3.letv.com
 
 DOMAIN-SUFFIX, lizhi.fm
 DOMAIN-SUFFIX, lizhifm.com
@@ -805,6 +808,11 @@ DOMAIN-SUFFIX, podcast.xyz
 DOMAIN-SUFFIX, ximalaya.com
 DOMAIN-SUFFIX, xmcdn.com
 
+# Ads/tracking
+DOMAIN-SUFFIX, adbehavior.ximalaya.com
+DOMAIN-SUFFIX, adse.wsa.ximalaya.com
+DOMAIN-SUFFIX, adse.ximalaya.com
+
 # youku uses some alicdn services, so this must use with domain list "alibaba"
 
 DOMAIN-SUFFIX, kumiao.com
@@ -818,10 +826,31 @@ DOMAIN-SUFFIX, soku.com
 # youku video cdn
 DOMAIN-SUFFIX, cibntv.net
 
-DOMAIN-SUFFIX, yuewen.com
+# Ads/tracking
+DOMAIN-SUFFIX, ad.api.3g.youku.com
+DOMAIN-SUFFIX, ad.api.mobile.youku.com
+DOMAIN-SUFFIX, ad.mobile.youku.com
+DOMAIN-SUFFIX, adashx.ut.youku.com
+DOMAIN-SUFFIX, atm.youku.com
+DOMAIN-SUFFIX, e.stat.ykimg.com
+DOMAIN-SUFFIX, ems.youku.com
+DOMAIN-SUFFIX, guanggaoad.youku.com
+DOMAIN-SUFFIX, h-adashx.ut.youku.com
+DOMAIN-SUFFIX, lstat.youku.com
+DOMAIN-SUFFIX, mobilemsg.youku.com
+DOMAIN-SUFFIX, msg.youku.com
+DOMAIN-SUFFIX, p-log.ykimg.com
+DOMAIN-SUFFIX, passport-log.youku.com
+DOMAIN-SUFFIX, pl.youku.com
+DOMAIN-SUFFIX, s-adashx.ut.youku.com
+DOMAIN-SUFFIX, stat.youku.com
+DOMAIN-SUFFIX, statis.api.3g.youku.com
+DOMAIN-SUFFIX, v6-adashx.ut.youku.com
+DOMAIN-SUFFIX, yk-ssp.ad.youku.com
+DOMAIN-SUFFIX, ykad-data.youku.com
 
-# webnovel is not serving for cn
-# include:webnovel
+DOMAIN-SUFFIX, webnovel.com
+
 
 DOMAIN-SUFFIX, hongxiu.com
 DOMAIN-SUFFIX, lrts.me
@@ -833,6 +862,7 @@ DOMAIN-SUFFIX, tingbook.com
 DOMAIN-SUFFIX, xs.cn
 DOMAIN-SUFFIX, xs8.cn
 DOMAIN-SUFFIX, xxsy.net
+DOMAIN-SUFFIX, yuewen.com
 
 
 # Android Emulator
@@ -878,6 +908,10 @@ DOMAIN-SUFFIX, jjwxc.net
 # 酷匠网
 DOMAIN-SUFFIX, kjcdn.com
 DOMAIN-SUFFIX, kujiang.com
+# 1905电影网
+DOMAIN-SUFFIX, 1905.com
+DOMAIN-SUFFIX, m1905.cn
+DOMAIN-SUFFIX, m1905.com
 # 喵御宅
 DOMAIN-SUFFIX, mfuns.cn
 # 秒拍
@@ -885,6 +919,9 @@ DOMAIN-SUFFIX, miaopai.com
 # 磨铁文学
 DOMAIN-SUFFIX, motie.com
 DOMAIN-SUFFIX, motieimg.com
+# Mtime时光网
+DOMAIN-SUFFIX, mtime.cn
+DOMAIN-SUFFIX, mtime.com
 # 梨视频
 DOMAIN-SUFFIX, pearvideo.com
 # 皮皮网

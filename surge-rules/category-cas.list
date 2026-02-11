@@ -300,10 +300,6 @@ DOMAIN-SUFFIX, flickr.com
 DOMAIN-SUFFIX, flickr.net
 DOMAIN-SUFFIX, staticflickr.com
 
-DOMAIN-SUFFIX, ads.yahoo.com
-DOMAIN-SUFFIX, gemini.yahoo.com
-DOMAIN-SUFFIX, ysm.yahoo.com
-
 
 # All .yahoo domains
 DOMAIN-SUFFIX, yahoo
@@ -477,6 +473,11 @@ DOMAIN-SUFFIX, ymail.com
 DOMAIN-SUFFIX, yusercontent.com
 
 DOMAIN, cdn.js7k.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, ads.yahoo.com
+DOMAIN-SUFFIX, gemini.yahoo.com
+DOMAIN-SUFFIX, ysm.yahoo.com
 
 
 DOMAIN-SUFFIX, oath.cloud

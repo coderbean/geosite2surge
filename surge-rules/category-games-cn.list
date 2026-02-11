@@ -121,6 +121,9 @@ DOMAIN-SUFFIX, juequling.com
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
 
+# Ads/tracking
+DOMAIN-SUFFIX, log-upload.mihoyo.com
+
 DOMAIN-SUFFIX, battlecare.net
 DOMAIN-SUFFIX, gameitop.com
 DOMAIN-SUFFIX, gameloop.com

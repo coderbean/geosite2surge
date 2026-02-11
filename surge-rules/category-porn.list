@@ -600,10 +600,6 @@ DOMAIN-SUFFIX, uun98.com
 DOMAIN-SUFFIX, uun99.com
 DOMAIN-SUFFIX, uux68.com
 
-DOMAIN-SUFFIX, collector.xhamster.com
-
-
-
 DOMAIN-SUFFIX, xhamster.com
 DOMAIN-SUFFIX, xhamster.desi
 DOMAIN-SUFFIX, xhamster.xxx
@@ -612,10 +608,11 @@ DOMAIN-SUFFIX, xhamster18.desi
 DOMAIN-SUFFIX, xhamsterlive.com
 DOMAIN-SUFFIX, xhcdn.com
 
-
 # xhamsterlive thumbnails
-
 DOMAIN, widgets.stripst.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, collector.xhamster.com
 
 DOMAIN-SUFFIX, avstar01.me
 DOMAIN-SUFFIX, avstar02.me

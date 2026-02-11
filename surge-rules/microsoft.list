@@ -195,9 +195,6 @@ DOMAIN-SUFFIX, th.bing.com
 DOMAIN, bj1.api.bing.com
 DOMAIN, emoi-cncdn.bing.com
 
-DOMAIN-SUFFIX, collector.github.com
-DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
-
 DOMAIN-SUFFIX, githubcopilot.com
 
 DOMAIN-SUFFIX, npm.community
@@ -237,16 +234,9 @@ DOMAIN, github-api.arkoselabs.com
 DOMAIN, github-cloud.s3.amazonaws.com
 URL-REGEX, ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 
+# Ads/tracking
 DOMAIN-SUFFIX, collector.github.com
 DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
-
-
-DOMAIN-SUFFIX, browser.events.data.msn.cn
-DOMAIN-SUFFIX, browser.events.data.msn.com
-DOMAIN-SUFFIX, clarity.ms
-DOMAIN-SUFFIX, microsoftads.com
-DOMAIN-SUFFIX, msads.net
-DOMAIN-SUFFIX, nelreports.net
 
 DOMAIN-SUFFIX, adaptivecards.io
 DOMAIN-SUFFIX, api-extractor.com
@@ -348,6 +338,10 @@ DOMAIN-SUFFIX, msnewskids.org
 DOMAIN-SUFFIX, msnkids.com
 DOMAIN-SUFFIX, microsoftstart.com
 DOMAIN-SUFFIX, start.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, browser.events.data.msn.cn
+DOMAIN-SUFFIX, browser.events.data.msn.com
 
 DOMAIN-SUFFIX, 1drv.com
 DOMAIN-SUFFIX, 1drv.ms
@@ -719,6 +713,12 @@ DOMAIN-SUFFIX, yammer.com
 # Skype CDN
 DOMAIN-SUFFIX, skype-edf.akadns.net
 DOMAIN-SUFFIX, skypedata.akadns.net
+
+# Ads/tracking
+DOMAIN-SUFFIX, clarity.ms
+DOMAIN-SUFFIX, microsoftads.com
+DOMAIN-SUFFIX, msads.net
+DOMAIN-SUFFIX, nelreports.net
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:microsoft@cn"

@@ -36,6 +36,9 @@ DOMAIN-SUFFIX, cainiao.com.cn
 DOMAIN-SUFFIX, cainiaoyizhan.com
 DOMAIN-SUFFIX, guoguo-app.com
 
+# Ads/tracking
+DOMAIN-SUFFIX, v6-adashx.ut.cainiao.com
+
 # 德邦
 # 沪ICP备10005645号
 DOMAIN-SUFFIX, deppon.com

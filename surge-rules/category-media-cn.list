@@ -139,28 +139,13 @@ DOMAIN-SUFFIX, yidianliulan.cn
 DOMAIN-SUFFIX, yidianliulan.com
 DOMAIN-SUFFIX, yuweikuijianzhan.com
 
-DOMAIN-SUFFIX, adnet.sohu.com
-DOMAIN-SUFFIX, ads.sohu.com
-DOMAIN-SUFFIX, adv-sv-show.focus.cn
-DOMAIN-SUFFIX, adv-sv-stat.focus.cn
-DOMAIN-SUFFIX, assp.sohu.com
-DOMAIN-SUFFIX, bdu.focus.cn
-DOMAIN-SUFFIX, fpb.sohu.com
-DOMAIN-SUFFIX, imp.go.sohu.com
+# Ads/tracking
 DOMAIN-SUFFIX, inte.sogou.com
 DOMAIN-SUFFIX, inte.sogoucdn.com
 DOMAIN-SUFFIX, lu.sogou.com
 DOMAIN-SUFFIX, lu.sogoucdn.com
-DOMAIN-SUFFIX, m.aty.sohu.com
-DOMAIN-SUFFIX, p.aty.sohu.com
 DOMAIN-SUFFIX, pb.i.sogou.com
-DOMAIN-SUFFIX, pv.hd.sohu.com
-DOMAIN-SUFFIX, pv.sohu.com
-DOMAIN-SUFFIX, qpb.sohu.com
-DOMAIN-SUFFIX, qpb1.sohu.com
-DOMAIN-SUFFIX, reke.at.sohu.com
 DOMAIN-SUFFIX, theta.sogoucdn.com
-DOMAIN-SUFFIX, track.sohu.com
 DOMAIN-SUFFIX, uranus.sogou.com
 DOMAIN-SUFFIX, wuliao.epro.sogou.com
 
@@ -173,6 +158,24 @@ DOMAIN-SUFFIX, focus.cn
 DOMAIN-SUFFIX, itc.cn
 DOMAIN-SUFFIX, sohu.com
 DOMAIN-SUFFIX, sohucs.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, adnet.sohu.com
+DOMAIN-SUFFIX, ads.sohu.com
+DOMAIN-SUFFIX, adv-sv-show.focus.cn
+DOMAIN-SUFFIX, adv-sv-stat.focus.cn
+DOMAIN-SUFFIX, assp.sohu.com
+DOMAIN-SUFFIX, bdu.focus.cn
+DOMAIN-SUFFIX, fpb.sohu.com
+DOMAIN-SUFFIX, imp.go.sohu.com
+DOMAIN-SUFFIX, m.aty.sohu.com
+DOMAIN-SUFFIX, p.aty.sohu.com
+DOMAIN-SUFFIX, pv.hd.sohu.com
+DOMAIN-SUFFIX, pv.sohu.com
+DOMAIN-SUFFIX, qpb.sohu.com
+DOMAIN-SUFFIX, qpb1.sohu.com
+DOMAIN-SUFFIX, reke.at.sohu.com
+DOMAIN-SUFFIX, track.sohu.com
 
 # Domains belong to 北京灵动新程信息科技有限公司 (京ICP备13040123号)
 
@@ -295,6 +298,8 @@ DOMAIN-SUFFIX, icpcw.com
 DOMAIN-SUFFIX, idcquan.com
 # 艾瑞咨询
 DOMAIN-SUFFIX, iresearch.cn
+# IT168
+DOMAIN-SUFFIX, it168.com
 # 华尔街见闻
 DOMAIN-SUFFIX, jianyuweb.com
 DOMAIN-SUFFIX, wallstcn.com
@@ -323,6 +328,8 @@ DOMAIN-SUFFIX, kksmg.com
 DOMAIN-SUFFIX, statickksmg.com
 # 晚点
 DOMAIN-SUFFIX, latepost.com
+# 今日观察网
+DOMAIN-SUFFIX, miercn.com
 # 快科技
 DOMAIN-SUFFIX, mydrivers.com
 # 南岳新闻网
@@ -341,6 +348,8 @@ DOMAIN-SUFFIX, pchpic.net
 # PConline 太平洋科技
 DOMAIN-SUFFIX, 3conline.com
 DOMAIN-SUFFIX, pconline.com.cn
+# 泡泡网
+DOMAIN-SUFFIX, pcpop.com
 # 人民网
 DOMAIN-SUFFIX, people.cn
 DOMAIN-SUFFIX, people.com.cn
@@ -369,6 +378,8 @@ DOMAIN-SUFFIX, shangyexinzhi.com
 DOMAIN-SUFFIX, solidot.org
 # 南方新闻网
 DOMAIN-SUFFIX, southcn.com
+# 南方财富网
+DOMAIN-SUFFIX, southmoney.com
 # 少数派
 DOMAIN-SUFFIX, sspai.com
 # 证券之星
@@ -390,6 +401,8 @@ DOMAIN-SUFFIX, thecover.cn
 DOMAIN-SUFFIX, thepaper.cn
 # 人人都是产品经理
 DOMAIN-SUFFIX, woshipm.com
+# 西陆网
+DOMAIN-SUFFIX, xilu.com
 # 新快报
 DOMAIN-SUFFIX, xkb.com.cn
 # 第一财经

@@ -22,6 +22,9 @@ DOMAIN-SUFFIX, n0vadesktop.com
 # 絕區零(Zenless Zone Zero)
 DOMAIN-SUFFIX, zenlesszonezero.com
 
+# ads/tracking
+DOMAIN-SUFFIX, log-upload-os.hoyoverse.com
+
 # 米哈游
 DOMAIN-SUFFIX, mhystatic.com
 DOMAIN-SUFFIX, mhyurl.cn
@@ -54,7 +57,6 @@ DOMAIN-SUFFIX, juequling.com
 # Akamai
 URL-REGEX, ^.+-mihayo\.akamaized\.net$
 
-
-DOMAIN-SUFFIX, log-upload-os.hoyoverse.com
+# Ads/tracking
 DOMAIN-SUFFIX, log-upload.mihoyo.com
 

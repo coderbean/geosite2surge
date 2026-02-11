@@ -1,6 +1,3 @@
-DOMAIN-SUFFIX, amazon-adsystem.com
-DOMAIN-SUFFIX, serving-sys.com
-
 DOMAIN-SUFFIX, amazontrust.com
 DOMAIN-SUFFIX, awstrust.com
 DOMAIN-SUFFIX, ss2.us
@@ -278,3 +275,7 @@ DOMAIN-SUFFIX, createspace.com
 
 DOMAIN, images-cn.ssl-images-amazon.com
 DOMAIN, images-cn-8.ssl-images-amazon.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, amazon-adsystem.com
+DOMAIN-SUFFIX, serving-sys.com

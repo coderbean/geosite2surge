@@ -402,9 +402,10 @@ DOMAIN-SUFFIX, workplaceusecases.com
 
 DOMAIN, fbcdn-a.akamaihd.net
 
-DOMAIN-SUFFIX, graph.instagram.com
-DOMAIN-SUFFIX, graph-fallback.instagram.com
-
+# Ads/tracking
+DOMAIN-SUFFIX, analytics.facebook.com
+DOMAIN-SUFFIX, facebookads.com
+DOMAIN-SUFFIX, pixel.facebook.com
 
 DOMAIN-SUFFIX, achat-followers-instagram.com
 DOMAIN-SUFFIX, acheter-followers-instagram.com
@@ -478,6 +479,10 @@ DOMAIN-SUFFIX, online-instagram.com
 DOMAIN-SUFFIX, onlineinstagram.com
 DOMAIN-SUFFIX, web-instagram.net
 DOMAIN-SUFFIX, wwwinstagram.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, graph.instagram.com
+DOMAIN-SUFFIX, graph-fallback.instagram.com
 
 DOMAIN-SUFFIX, bizographics.com
 DOMAIN-SUFFIX, l-0005.dc-msedge.net
