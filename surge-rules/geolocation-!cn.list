@@ -3664,6 +3664,7 @@ DOMAIN-SUFFIX, aave.com
 DOMAIN-SUFFIX, bingx.com
 DOMAIN-SUFFIX, bitbank.cc
 DOMAIN-SUFFIX, bitcoin.org
+DOMAIN-SUFFIX, bitcoincore.org
 DOMAIN-SUFFIX, bitfinex.com
 DOMAIN-SUFFIX, bitget.com
 DOMAIN-SUFFIX, bitmex.com
@@ -6671,6 +6672,19 @@ DOMAIN-SUFFIX, xboxstudios.com
 DOMAIN-SUFFIX, xbx.lv
 
 DOMAIN-SUFFIX, ynoproject.net
+
+# Yostar
+DOMAIN-SUFFIX, yo-star.com
+DOMAIN-SUFFIX, yostar.cn
+DOMAIN-SUFFIX, yostar.co.jp
+DOMAIN-SUFFIX, yostar.net
+DOMAIN-SUFFIX, yostarplat.com
+# Yostar Pictures
+DOMAIN-SUFFIX, yostar-pictures.co.jp
+# Stella Sora
+DOMAIN-SUFFIX, stargazer-games.com
+DOMAIN-SUFFIX, stellasora.global
+DOMAIN-SUFFIX, stellasora.jp
 
 
 DOMAIN-SUFFIX, dinopoloclub.com
@@ -28054,6 +28068,25 @@ DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
 
 # Weather service
 DOMAIN, yandex-pogoda.static-storage.net
+
+# https://crt.sh/?id=23639384976
+DOMAIN-SUFFIX, securecloudtransformation.com
+DOMAIN-SUFFIX, securitypreview.com
+DOMAIN-SUFFIX, threatlabz.com
+DOMAIN-SUFFIX, zdxbeta.net
+DOMAIN-SUFFIX, zdxcloud.net
+DOMAIN-SUFFIX, zpagov.net
+DOMAIN-SUFFIX, zpath.com
+DOMAIN-SUFFIX, zscaler.com
+DOMAIN-SUFFIX, zscaler.jp
+DOMAIN-SUFFIX, zscaler.net
+DOMAIN-SUFFIX, zscalerbeta.net
+DOMAIN-SUFFIX, zscalergov.net
+DOMAIN-SUFFIX, zscalerone.net
+DOMAIN-SUFFIX, zscalershift.com
+DOMAIN-SUFFIX, zscalerthree.net
+DOMAIN-SUFFIX, zscalertwo.net
+DOMAIN-SUFFIX, zscloud.net
 
 
 # Remote Control
