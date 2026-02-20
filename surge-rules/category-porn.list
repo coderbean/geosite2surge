@@ -375,6 +375,7 @@ DOMAIN-SUFFIX, whynotbi.com
 
 DOMAIN-SUFFIX, missav.ai
 DOMAIN-SUFFIX, missav.com
+DOMAIN-SUFFIX, missav.live
 DOMAIN-SUFFIX, missav.uno
 DOMAIN-SUFFIX, missav.vip
 DOMAIN-SUFFIX, missav.ws
@@ -2816,6 +2817,8 @@ DOMAIN-SUFFIX, heavyfetish.com
 DOMAIN-SUFFIX, hegre.com
 DOMAIN-SUFFIX, heiguab.top
 DOMAIN-SUFFIX, heijidi.life
+DOMAIN-SUFFIX, heiliao.com
+DOMAIN-SUFFIX, heiliao88.com
 DOMAIN-SUFFIX, heise360181.buzz
 DOMAIN-SUFFIX, heise360182.buzz
 DOMAIN-SUFFIX, helixstudios.net
@@ -6750,6 +6753,7 @@ URL-REGEX, (^|\.)tqav[1-9][0-9]\.com$
 URL-REGEX, (^|\.)tt[1-2][0-9]\.tv$
 URL-REGEX, (^|\.)ttghg[1-9][0-9]\.xyz$
 URL-REGEX, (^|\.)tttv([1-9][0-9]?|100)\.com$
+URL-REGEX, (^|\.)twav[1-9]\.xyz$
 URL-REGEX, (^|\.)twseb([1-9][0-9]?)?\.com$
 URL-REGEX, (^|\.)uu[a-z][1-9][0-9]?\.com$
 URL-REGEX, (^|\.)whtdh0[1-3]\.cc$

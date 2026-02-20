@@ -6230,7 +6230,9 @@ DOMAIN-SUFFIX, vkvideo.ru
 
 DOMAIN-SUFFIX, boosty.to
 DOMAIN-SUFFIX, donationalerts.com
+DOMAIN-SUFFIX, max.ru
 DOMAIN-SUFFIX, memealerts.com
+DOMAIN-SUFFIX, oneme.ru
 DOMAIN-SUFFIX, tamtam.chat
 
 DOMAIN-SUFFIX, aboutfacebook.com
@@ -8811,6 +8813,7 @@ DOMAIN-SUFFIX, yastatic.net
 # Watching movies, included in the Yandex subscription
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+
 
 # Weather service
 DOMAIN, yandex-pogoda.static-storage.net

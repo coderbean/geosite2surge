@@ -1731,6 +1731,47 @@ DOMAIN-SUFFIX, waveomoney.com.mm
 DOMAIN-SUFFIX, yomabank.com
 DOMAIN-SUFFIX, ysx-mm.com
 
+# Alfa Bank
+DOMAIN-SUFFIX, alfabank.ru
+
+# GazpromBank
+DOMAIN-SUFFIX, gazprombank.ru
+DOMAIN-SUFFIX, gpb.ru
+
+# Mts dengi
+DOMAIN-SUFFIX, dbo-dengi.online
+DOMAIN-SUFFIX, mtsdengi.ru
+
+# PSB Bank
+DOMAIN-SUFFIX, psbank.ru
+
+# RosBank
+DOMAIN-SUFFIX, bankline.ru
+DOMAIN-SUFFIX, rosbank.ru
+
+# RUSSIA Bank
+DOMAIN-SUFFIX, abr.ru
+
+# Russian Agricultural Bank
+DOMAIN-SUFFIX, rshb.ru
+
+# SberBank
+DOMAIN-SUFFIX, sber.ru
+DOMAIN-SUFFIX, sberbank.com
+DOMAIN-SUFFIX, sberbank.ru
+
+# T-Bank (Tinkoff)
+DOMAIN-SUFFIX, cdn-tinkoff.ru
+DOMAIN-SUFFIX, tbank-online.com
+DOMAIN-SUFFIX, tbank.ru
+
+# Tochka bank
+DOMAIN-SUFFIX, tochka-tech.com
+DOMAIN-SUFFIX, tochka.com
+
+# VTB Bank
+DOMAIN-SUFFIX, vtb.ru
+
 
 DOMAIN-SUFFIX, fibank.bg
 DOMAIN-SUFFIX, meawallet.app
@@ -3722,6 +3763,9 @@ DOMAIN-SUFFIX, zapper.fi
 
 
 # E-commerce
+DOMAIN-SUFFIX, avito.ru
+DOMAIN-SUFFIX, avito.st
+
 DOMAIN-SUFFIX, ozon.ru
 DOMAIN-SUFFIX, ozone.ru
 DOMAIN-SUFFIX, ozonusercontent.com
@@ -5661,17 +5705,37 @@ DOMAIN-SUFFIX, snowmiku.com
 # Resource sharing
 DOMAIN-SUFFIX, bowlroll.net
 
+# CDNvideo is a leading CDN provider in Russia and the CIS
+DOMAIN-SUFFIX, cdnvideo.ru
+DOMAIN-SUFFIX, trbcdn.net
+
+# Information about films and series
+DOMAIN-SUFFIX, kinorium.com
+
+# Streaming services for watching TV series and movies
+DOMAIN-SUFFIX, kinopoisk.ru
+DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+
 DOMAIN-SUFFIX, playfamily.ru
 DOMAIN-SUFFIX, okko.sport
 DOMAIN-SUFFIX, okko.tv
 
+DOMAIN-SUFFIX, restream-media.net
+DOMAIN-SUFFIX, wink.ru
+
+DOMAIN-SUFFIX, 24h.tv
+DOMAIN-SUFFIX, amediateka.ru
+DOMAIN-SUFFIX, ivi.ru
+DOMAIN-SUFFIX, premier.one
+DOMAIN-SUFFIX, smotreshka.tv
+DOMAIN-SUFFIX, start.ru
+DOMAIN-SUFFIX, tvigle.ru
+DOMAIN-SUFFIX, viju.ru
+
+# Video hosting
 DOMAIN-SUFFIX, rutube.ru
 DOMAIN-SUFFIX, rutubelist.ru
 DOMAIN-SUFFIX, rtbcdn.ru
-
-DOMAIN-SUFFIX, ngenix.net
-DOMAIN-SUFFIX, restream-media.net
-DOMAIN-SUFFIX, wink.ru
 
 
 DOMAIN-SUFFIX, blizzard.com
@@ -7824,6 +7888,7 @@ DOMAIN-SUFFIX, joox.com
 DOMAIN-SUFFIX, kpacg.com
 DOMAIN-SUFFIX, linetv.tw
 DOMAIN-SUFFIX, megaphone.fm
+DOMAIN-SUFFIX, megogo.net
 DOMAIN-SUFFIX, mikanani.me
 DOMAIN-SUFFIX, moov.hk
 DOMAIN-SUFFIX, odysee.com
@@ -10966,6 +11031,7 @@ DOMAIN-SUFFIX, whynotbi.com
 
 DOMAIN-SUFFIX, missav.ai
 DOMAIN-SUFFIX, missav.com
+DOMAIN-SUFFIX, missav.live
 DOMAIN-SUFFIX, missav.uno
 DOMAIN-SUFFIX, missav.vip
 DOMAIN-SUFFIX, missav.ws
@@ -13407,6 +13473,8 @@ DOMAIN-SUFFIX, heavyfetish.com
 DOMAIN-SUFFIX, hegre.com
 DOMAIN-SUFFIX, heiguab.top
 DOMAIN-SUFFIX, heijidi.life
+DOMAIN-SUFFIX, heiliao.com
+DOMAIN-SUFFIX, heiliao88.com
 DOMAIN-SUFFIX, heise360181.buzz
 DOMAIN-SUFFIX, heise360182.buzz
 DOMAIN-SUFFIX, helixstudios.net
@@ -17341,6 +17409,7 @@ URL-REGEX, (^|\.)tqav[1-9][0-9]\.com$
 URL-REGEX, (^|\.)tt[1-2][0-9]\.tv$
 URL-REGEX, (^|\.)ttghg[1-9][0-9]\.xyz$
 URL-REGEX, (^|\.)tttv([1-9][0-9]?|100)\.com$
+URL-REGEX, (^|\.)twav[1-9]\.xyz$
 URL-REGEX, (^|\.)twseb([1-9][0-9]?)?\.com$
 URL-REGEX, (^|\.)uu[a-z][1-9][0-9]?\.com$
 URL-REGEX, (^|\.)whtdh0[1-3]\.cc$
@@ -25484,7 +25553,9 @@ DOMAIN-SUFFIX, vkvideo.ru
 
 DOMAIN-SUFFIX, boosty.to
 DOMAIN-SUFFIX, donationalerts.com
+DOMAIN-SUFFIX, max.ru
 DOMAIN-SUFFIX, memealerts.com
+DOMAIN-SUFFIX, oneme.ru
 DOMAIN-SUFFIX, tamtam.chat
 
 DOMAIN-SUFFIX, aboutfacebook.com
@@ -28065,6 +28136,7 @@ DOMAIN-SUFFIX, yastatic.net
 # Watching movies, included in the Yandex subscription
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+
 
 # Weather service
 DOMAIN, yandex-pogoda.static-storage.net
