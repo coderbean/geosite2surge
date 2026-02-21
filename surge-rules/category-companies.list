@@ -8022,6 +8022,7 @@ DOMAIN-SUFFIX, quotable.com
 DOMAIN-SUFFIX, radian6.com
 DOMAIN-SUFFIX, relateiq.com
 DOMAIN-SUFFIX, salesforce-setup.com
+DOMAIN-SUFFIX, salesforce-sites.com
 DOMAIN-SUFFIX, salesforce.com
 DOMAIN-SUFFIX, salesforce.org
 DOMAIN-SUFFIX, salesforceiq.com
@@ -8808,6 +8809,7 @@ DOMAIN-SUFFIX, yandexcom.net
 DOMAIN-SUFFIX, yandexmetrica.com
 DOMAIN-SUFFIX, yandexwebcache.org
 DOMAIN-SUFFIX, yastat.net
+DOMAIN-SUFFIX, yastatic-net.ru
 DOMAIN-SUFFIX, yastatic.net
 
 # Watching movies, included in the Yandex subscription
