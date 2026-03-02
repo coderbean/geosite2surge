@@ -2786,6 +2786,7 @@ DOMAIN-SUFFIX, courier-push-apple.com.akadns.net
 DOMAIN, amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN, amp-api-edge-lb.itunes-apple.com.akadns.net
 DOMAIN, amp-api-edge.apps.apple.com
+DOMAIN, amp-api-edge.music.apple.com
 DOMAIN, amp-api-search-edge.apps.apple.com
 DOMAIN, amp-api.apps.apple.com
 DOMAIN, amp-api.music.apple.com
@@ -2816,6 +2817,8 @@ DOMAIN, js-cdn.music.apple.com
 DOMAIN, km.support.apple.com
 DOMAIN, maps.apple.com
 DOMAIN, misc-assets.itunes.apple.com
+DOMAIN, musicstatus.music.apple.com
+DOMAIN, mvod.itunes.apple.com
 DOMAIN, myapp.itunes.apple.com
 DOMAIN, np-edge.itunes.apple.com
 DOMAIN, osxapps.itunes.apple.com
@@ -2828,6 +2831,7 @@ DOMAIN, se2.itunes.apple.com
 DOMAIN, search.itunes.apple.com
 DOMAIN, sf-api-token-service.itunes.apple.com
 DOMAIN, sp.itunes.apple.com
+DOMAIN, speedysub.music.apple.com
 DOMAIN, streamingaudio.itunes.apple.com
 DOMAIN, su.itunes.apple.com
 DOMAIN, sync.itunes.apple.com
@@ -7670,13 +7674,14 @@ DOMAIN-SUFFIX, th.weibo.com
 DOMAIN-SUFFIX, tw.weibo.com
 DOMAIN-SUFFIX, us.weibo.com
 DOMAIN-SUFFIX, videoself.cn
-DOMAIN-SUFFIX, wbimg.com
 DOMAIN-SUFFIX, wbimg.cn
+DOMAIN-SUFFIX, wbimg.com
 DOMAIN-SUFFIX, wcdn.cn
 DOMAIN-SUFFIX, weibo.cn
 DOMAIN-SUFFIX, weibo.com
 DOMAIN-SUFFIX, weibo.com.cn
 DOMAIN-SUFFIX, weibocdn.com
+DOMAIN-SUFFIX, weibopay.com
 DOMAIN-SUFFIX, xhaiwai.com
 
 # Ads/tracking
