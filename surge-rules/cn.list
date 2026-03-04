@@ -1293,6 +1293,8 @@ DOMAIN-SUFFIX, ldmnq.com
 DOMAIN-SUFFIX, lsplayer.com
 DOMAIN-SUFFIX, yeshen.com
 
+# 172Mix 舞曲音乐
+DOMAIN-SUFFIX, 172mix.com
 # 17K小说
 DOMAIN-SUFFIX, 17k.com
 # https://github.com/supzhang/epg
@@ -1312,6 +1314,7 @@ DOMAIN-SUFFIX, bsbsb.top
 DOMAIN-SUFFIX, dmzj.com
 DOMAIN-SUFFIX, muwai.com
 # 懂球帝
+DOMAIN-SUFFIX, dongdianqiu.com
 DOMAIN-SUFFIX, dongqiudi.com
 # 飞卢小说
 DOMAIN-SUFFIX, faloo.com
@@ -3651,6 +3654,10 @@ DOMAIN-SUFFIX, wuyou.net # 无忧启动论坛
 DOMAIN-SUFFIX, x-station.cn # X电站
 DOMAIN-SUFFIX, znds.com # 智能电视网
 
+# DCC Forum（心跳文学部中文论坛）
+DOMAIN-SUFFIX, edgemonix.top # 图床
+DOMAIN-SUFFIX, monika.love
+
 DOMAIN-SUFFIX, 423down.com # 423Down
 DOMAIN-SUFFIX, acwifi.net # 路由器技术分享
 DOMAIN-SUFFIX, appinn.com # 小众软件
@@ -5786,6 +5793,7 @@ DOMAIN-SUFFIX, tiktokv.eu
 DOMAIN-SUFFIX, tiktokv.us
 DOMAIN-SUFFIX, tiktokw.eu
 DOMAIN-SUFFIX, tiktokw.us
+DOMAIN-SUFFIX, ttcdn-us.com
 DOMAIN-SUFFIX, ttlivecdn.com
 DOMAIN-SUFFIX, ttoverseaus.net
 DOMAIN-SUFFIX, ttwstatic.com
@@ -8129,6 +8137,9 @@ DOMAIN-SUFFIX, hlgdata.com
 DOMAIN-SUFFIX, huanleguang.com
 DOMAIN-SUFFIX, ttxsapp.com.cn
 DOMAIN-SUFFIX, xsbapp.cn
+# 凯迪仕
+DOMAIN-SUFFIX, juziwulian.com
+DOMAIN-SUFFIX, kaadas.com
 
 # Telecommunication
 DOMAIN-SUFFIX, 10099.com.cn

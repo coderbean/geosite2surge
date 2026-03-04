@@ -123,6 +123,7 @@ DOMAIN-SUFFIX, cuinc.tw
 DOMAIN-SUFFIX, chobit.cc
 DOMAIN-SUFFIX, ci-en.jp
 DOMAIN-SUFFIX, ci-en.net
+DOMAIN-SUFFIX, dlaf.jp
 DOMAIN-SUFFIX, dlsite.com
 DOMAIN-SUFFIX, dlsite.com.tw
 DOMAIN-SUFFIX, dlsite.jp
@@ -214,9 +215,7 @@ DOMAIN-SUFFIX, slotbitches.com
 DOMAIN-SUFFIX, smutstone.com
 DOMAIN-SUFFIX, townofsins.com
 
-DOMAIN-SUFFIX, illusion.co.jp
-DOMAIN-SUFFIX, illusion.jp
-
+# Dead include:illusion
 DOMAIN-SUFFIX, acgcf.com
 DOMAIN-SUFFIX, acgdg.com
 DOMAIN-SUFFIX, acgdv.com
@@ -246,6 +245,10 @@ DOMAIN-SUFFIX, lliusno.com
 DOMAIN-SUFFIX, noisullifb.com
 DOMAIN-SUFFIX, wnoaissulli1.com
 DOMAIN-SUFFIX, zzycdz.com
+
+# Also known as "Illusion"
+DOMAIN-SUFFIX, illgames.jp
+DOMAIN-SUFFIX, japan-illgames.com
 
 DOMAIN-SUFFIX, cdnlab.live
 DOMAIN-SUFFIX, jable.tv
@@ -3297,6 +3300,7 @@ DOMAIN-SUFFIX, jav.guru
 DOMAIN-SUFFIX, jav.la
 DOMAIN-SUFFIX, jav.land
 DOMAIN-SUFFIX, jav.place
+DOMAIN-SUFFIX, jav.sb
 DOMAIN-SUFFIX, jav.si
 DOMAIN-SUFFIX, jav.wine
 DOMAIN-SUFFIX, jav01.cc
@@ -3359,6 +3363,7 @@ DOMAIN-SUFFIX, javhdporn.net
 DOMAIN-SUFFIX, javher.com
 DOMAIN-SUFFIX, javheroine.com
 DOMAIN-SUFFIX, javhihi.com
+DOMAIN-SUFFIX, javhub.com
 DOMAIN-SUFFIX, javhub.me
 DOMAIN-SUFFIX, javhub.net
 DOMAIN-SUFFIX, javidol.org
@@ -3392,6 +3397,7 @@ DOMAIN-SUFFIX, javprime.net
 DOMAIN-SUFFIX, javpub.me
 DOMAIN-SUFFIX, javpush.com
 DOMAIN-SUFFIX, javqd.com
+DOMAIN-SUFFIX, javquick.com
 DOMAIN-SUFFIX, javrank.com
 DOMAIN-SUFFIX, javrate.com
 DOMAIN-SUFFIX, javrave.club

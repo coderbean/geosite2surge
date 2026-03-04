@@ -870,6 +870,8 @@ DOMAIN-SUFFIX, ldmnq.com
 DOMAIN-SUFFIX, lsplayer.com
 DOMAIN-SUFFIX, yeshen.com
 
+# 172Mix 舞曲音乐
+DOMAIN-SUFFIX, 172mix.com
 # 17K小说
 DOMAIN-SUFFIX, 17k.com
 # https://github.com/supzhang/epg
@@ -889,6 +891,7 @@ DOMAIN-SUFFIX, bsbsb.top
 DOMAIN-SUFFIX, dmzj.com
 DOMAIN-SUFFIX, muwai.com
 # 懂球帝
+DOMAIN-SUFFIX, dongdianqiu.com
 DOMAIN-SUFFIX, dongqiudi.com
 # 飞卢小说
 DOMAIN-SUFFIX, faloo.com
