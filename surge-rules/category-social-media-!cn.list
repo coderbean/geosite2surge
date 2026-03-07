@@ -553,6 +553,9 @@ DOMAIN-SUFFIX, ok.ru
 DOMAIN-SUFFIX, okcdn.ru
 DOMAIN-SUFFIX, mycdn.me
 
+DOMAIN, st-ok-pts.cdn-vk.ru
+DOMAIN, st-ok.cdn-vk.ru
+
 DOMAIN-SUFFIX, threads.com
 DOMAIN-SUFFIX, threads.net
 
@@ -619,6 +622,7 @@ DOMAIN-SUFFIX, vkuservideo.ru
 DOMAIN-SUFFIX, vkvideo.ru
 
 
+DOMAIN-SUFFIX, onlyfans.com
 DOMAIN-SUFFIX, truthsocial.com
 
 # Mastodon

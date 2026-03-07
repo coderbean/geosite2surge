@@ -191,6 +191,7 @@ DOMAIN-SUFFIX, dify.ai
 DOMAIN-SUFFIX, duck.ai
 DOMAIN-SUFFIX, gateway.ai.cloudflare.com
 DOMAIN-SUFFIX, kiro.dev
+DOMAIN-SUFFIX, lovart.ai
 DOMAIN-SUFFIX, meta.ai
 DOMAIN-SUFFIX, mistral.ai
 DOMAIN-SUFFIX, openart.ai
@@ -6764,6 +6765,7 @@ DOMAIN-SUFFIX, joinsquad.com
 DOMAIN-SUFFIX, loverslab.com
 DOMAIN-SUFFIX, minecraft.wiki
 DOMAIN-SUFFIX, mobimon.com.tw
+DOMAIN-SUFFIX, muvluv-girls-garden.com
 DOMAIN-SUFFIX, nexus-cdn.com
 DOMAIN-SUFFIX, nexusmods.com
 DOMAIN-SUFFIX, noxygames.com
@@ -7899,6 +7901,7 @@ DOMAIN-SUFFIX, omobi.cc
 DOMAIN-SUFFIX, oranum.com
 DOMAIN-SUFFIX, overcast.fm
 DOMAIN-SUFFIX, qobuz.com
+DOMAIN-SUFFIX, sendvid.com
 DOMAIN-SUFFIX, syosetu.com
 DOMAIN-SUFFIX, weverse.io
 DOMAIN-SUFFIX, yande.re
@@ -8760,6 +8763,9 @@ DOMAIN-SUFFIX, ok.ru
 DOMAIN-SUFFIX, okcdn.ru
 DOMAIN-SUFFIX, mycdn.me
 
+DOMAIN, st-ok-pts.cdn-vk.ru
+DOMAIN, st-ok.cdn-vk.ru
+
 DOMAIN-SUFFIX, threads.com
 DOMAIN-SUFFIX, threads.net
 
@@ -8826,6 +8832,7 @@ DOMAIN-SUFFIX, vkuservideo.ru
 DOMAIN-SUFFIX, vkvideo.ru
 
 
+DOMAIN-SUFFIX, onlyfans.com
 DOMAIN-SUFFIX, truthsocial.com
 
 # Mastodon
@@ -17607,6 +17614,8 @@ DOMAIN-SUFFIX, apkcombo.com
 
 DOMAIN-SUFFIX, apkmirror.com
 
+DOMAIN, apkmirror.disqus.com
+
 DOMAIN-SUFFIX, apkpure.com
 DOMAIN-SUFFIX, apkpure.net
 DOMAIN-SUFFIX, apkpures.xyz
@@ -17614,6 +17623,10 @@ DOMAIN-SUFFIX, cdnpure.com
 DOMAIN-SUFFIX, pureapk.com
 DOMAIN-SUFFIX, winudf.com
 
+
+# Uptodown
+DOMAIN-SUFFIX, uptodown.com
+DOMAIN-SUFFIX, utdstc.com
 
 DOMAIN-SUFFIX, comodo.com
 DOMAIN-SUFFIX, comodo.net
@@ -25563,6 +25576,9 @@ DOMAIN-SUFFIX, ok.ru
 DOMAIN-SUFFIX, okcdn.ru
 DOMAIN-SUFFIX, mycdn.me
 
+DOMAIN, st-ok-pts.cdn-vk.ru
+DOMAIN, st-ok.cdn-vk.ru
+
 DOMAIN-SUFFIX, cdn-vk.ru
 DOMAIN-SUFFIX, mradx.net
 DOMAIN-SUFFIX, mvk.com
@@ -25607,6 +25623,10 @@ DOMAIN-SUFFIX, max.ru
 DOMAIN-SUFFIX, memealerts.com
 DOMAIN-SUFFIX, oneme.ru
 DOMAIN-SUFFIX, tamtam.chat
+DOMAIN-SUFFIX, youla.io
+DOMAIN-SUFFIX, youla.ru
+
+DOMAIN, youla-web-static.mrgcdn.ru
 
 DOMAIN-SUFFIX, aboutfacebook.com
 DOMAIN-SUFFIX, accessfacebookfromschool.com
@@ -27033,11 +27053,6 @@ DOMAIN-SUFFIX, mdnyalp.dev
 
 DOMAIN, mdn.mozillademos.org
 
-DOMAIN-SUFFIX, rust-lang.org
-DOMAIN-SUFFIX, rustup.rs
-DOMAIN-SUFFIX, crates.io
-DOMAIN-SUFFIX, docs.rs
-
 
 DOMAIN-SUFFIX, mozgcp.net
 DOMAIN-SUFFIX, mozilla.com
@@ -27061,10 +27076,13 @@ DOMAIN-SUFFIX, seamonkey-project.org
 DOMAIN-SUFFIX, thunderbird.net
 
 # Mozilla Location Service
-DOMAIN-SUFFIX, location.services.mozilla.com
+# * Overrided by above `mozilla.com`
+# * In March 2024, Mozilla announced the project was being discontinued
+#location.services.mozilla.com
 
 # Mozilla Push Service
-DOMAIN-SUFFIX, push.services.mozilla.com
+# * Overrided by above `mozilla.com`
+#push.services.mozilla.com
 
 DOMAIN-SUFFIX, msi.cn
 DOMAIN-SUFFIX, msi.com
