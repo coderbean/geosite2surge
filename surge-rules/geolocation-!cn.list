@@ -2795,6 +2795,10 @@ DOMAIN-SUFFIX, zencdn.net
 DOMAIN-SUFFIX, imgix.com
 DOMAIN-SUFFIX, imgix.net
 
+DOMAIN-SUFFIX, esm.run
+DOMAIN-SUFFIX, jsdelivr.com
+DOMAIN-SUFFIX, jsdelivr.net
+
 DOMAIN-SUFFIX, delvenetworks.com
 DOMAIN-SUFFIX, limelight.com
 DOMAIN-SUFFIX, lldns.net
@@ -2821,6 +2825,9 @@ DOMAIN-SUFFIX, vrcdn.video
 DOMAIN-SUFFIX, b-cdn.net
 DOMAIN-SUFFIX, bunny.net
 DOMAIN-SUFFIX, bunnycdn.com
+
+# cdnjs
+DOMAIN-SUFFIX, cdnjs.com
 
 
 DOMAIN-SUFFIX, awempire.com
@@ -5213,8 +5220,6 @@ DOMAIN-SUFFIX, signalprocessingsociety.org
 DOMAIN-SUFFIX, technologyandsociety.org
 DOMAIN-SUFFIX, vtsociety.org
 
-DOMAIN-SUFFIX, knovel.com
-
 # All .mit domains
 DOMAIN-SUFFIX, mit
 
@@ -5542,8 +5547,6 @@ DOMAIN-SUFFIX, kaggleusercontent.com
 
 DOMAIN-SUFFIX, khanacademy.org
 DOMAIN-SUFFIX, kastatic.org
-
-DOMAIN-SUFFIX, knovel.com
 
 DOMAIN-SUFFIX, laracasts.com
 
@@ -18633,6 +18636,10 @@ DOMAIN-SUFFIX, cookielaw.org
 DOMAIN-SUFFIX, onetrust.com
 DOMAIN-SUFFIX, osano.com
 DOMAIN-SUFFIX, usercentrics.eu
+## Dynatrace
+DOMAIN-SUFFIX, dynatrace.com
+## FamilySearch
+DOMAIN-SUFFIX, familysearch.org
 ## Greasy Fork
 DOMAIN-SUFFIX, greasyfork.org
 ## Online LaTeX Editor
@@ -19044,12 +19051,6 @@ DOMAIN-SUFFIX, bintray.com
 
 DOMAIN, d29vzk4ow07wi7.cloudfront.net
 
-DOMAIN-SUFFIX, jsdelivr.com
-DOMAIN-SUFFIX, jsdelivr.net
-DOMAIN-SUFFIX, esm.run
-
-DOMAIN, cdn.jsdelivr.net
-
 DOMAIN-SUFFIX, kubernetes.io
 DOMAIN-SUFFIX, k8s.io
 
@@ -19132,12 +19133,8 @@ DOMAIN-SUFFIX, mongodb.org
 DOMAIN-SUFFIX, nginx.com
 DOMAIN-SUFFIX, nginx.org
 
-DOMAIN-SUFFIX, nixos.org
-
 DOMAIN-SUFFIX, openwrt.org
 DOMAIN-SUFFIX, lede-project.org
-
-DOMAIN-SUFFIX, osdn.net
 
 DOMAIN-SUFFIX, perl.apache.org
 DOMAIN-SUFFIX, perl.org
@@ -19155,8 +19152,6 @@ DOMAIN-SUFFIX, pypi.org
 DOMAIN-SUFFIX, python.org
 DOMAIN-SUFFIX, pythonhosted.org
 
-DOMAIN-SUFFIX, piwheels.org
-
 DOMAIN-SUFFIX, qt.io
 DOMAIN-SUFFIX, qt-project.org
 
@@ -19167,8 +19162,6 @@ DOMAIN-SUFFIX, readthedocs.org
 
 DOMAIN-SUFFIX, redis.io
 DOMAIN-SUFFIX, redislabs.com
-
-DOMAIN-SUFFIX, remirepo.net
 
 DOMAIN-SUFFIX, ruby-lang.org
 DOMAIN-SUFFIX, rubygems.org
@@ -19258,8 +19251,6 @@ DOMAIN-SUFFIX, openjsf.org
 DOMAIN-SUFFIX, lfai.foundation
 DOMAIN-SUFFIX, linuxfoundation.org
 
-DOMAIN-SUFFIX, topcoder.com
-
 DOMAIN-SUFFIX, unity.com
 DOMAIN-SUFFIX, unity3d.com
 
@@ -19270,8 +19261,6 @@ DOMAIN-SUFFIX, unityads.unity3d.com
 DOMAIN-SUFFIX, v8.dev
 DOMAIN-SUFFIX, v8project.org
 
-DOMAIN-SUFFIX, vim.org
-
 
 DOMAIN-SUFFIX, adventofcode.com
 DOMAIN-SUFFIX, alpinelinux.org
@@ -19280,7 +19269,6 @@ DOMAIN-SUFFIX, artixlinux.org
 DOMAIN-SUFFIX, atom.io
 DOMAIN-SUFFIX, badgen.net
 DOMAIN-SUFFIX, bitvise.com
-DOMAIN-SUFFIX, cdnjs.com
 DOMAIN-SUFFIX, centos.org
 DOMAIN-SUFFIX, chocolatey.org
 DOMAIN-SUFFIX, clojure.org
@@ -19332,17 +19320,20 @@ DOMAIN-SUFFIX, notepad-plus-plus.org
 DOMAIN-SUFFIX, openresty.org
 DOMAIN-SUFFIX, openssl.org
 DOMAIN-SUFFIX, opensuse.org
+DOMAIN-SUFFIX, osdn.net
 DOMAIN-SUFFIX, packagecloud.io
 DOMAIN-SUFFIX, packagist.org
 DOMAIN-SUFFIX, pcre.org
 DOMAIN-SUFFIX, phantomjs.org
 DOMAIN-SUFFIX, php.net
+DOMAIN-SUFFIX, piwheels.org
 DOMAIN-SUFFIX, postgresql.org
 DOMAIN-SUFFIX, putty.org
 DOMAIN-SUFFIX, r-project.org
 DOMAIN-SUFFIX, raspberrypi.org
 DOMAIN-SUFFIX, raspbian.org
 DOMAIN-SUFFIX, regex101.com
+DOMAIN-SUFFIX, remirepo.net
 DOMAIN-SUFFIX, rpmfusion.org
 DOMAIN-SUFFIX, scientificlinux.org
 DOMAIN-SUFFIX, scoop.sh
@@ -19352,9 +19343,11 @@ DOMAIN-SUFFIX, sqlite.org
 DOMAIN-SUFFIX, sublimetext.com
 DOMAIN-SUFFIX, tampermonkey.net
 DOMAIN-SUFFIX, termius.com
+DOMAIN-SUFFIX, topcoder.com
 DOMAIN-SUFFIX, unpkg.com
 DOMAIN-SUFFIX, videojs.com
 DOMAIN-SUFFIX, videolan.org
+DOMAIN-SUFFIX, vim.org
 DOMAIN-SUFFIX, wapm.io
 DOMAIN-SUFFIX, wasmer.io
 DOMAIN-SUFFIX, webflow.com

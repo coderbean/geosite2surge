@@ -4261,11 +4261,19 @@ DOMAIN-SUFFIX, woodo.cn
 ## Worktile
 DOMAIN-SUFFIX, worktile.com
 
+DOMAIN-SUFFIX, 1ppt.com
+DOMAIN-SUFFIX, 360doc.com
+DOMAIN-SUFFIX, 52ppt.com
+DOMAIN-SUFFIX, badou.com
+DOMAIN-SUFFIX, book118.com
 DOMAIN-SUFFIX, doc88.com
-
 DOMAIN-SUFFIX, docin.com
 DOMAIN-SUFFIX, douding.cn
-
+DOMAIN-SUFFIX, haohaodoc.com
+DOMAIN-SUFFIX, lazyer.net
+DOMAIN-SUFFIX, renrendoc.com
+DOMAIN-SUFFIX, wenkeju.com
+DOMAIN-SUFFIX, ypppt.com
 
 DOMAIN-SUFFIX, aiqicha.baidu.com
 DOMAIN-SUFFIX, aiqicha.cn
@@ -8318,7 +8326,6 @@ DOMAIN-SUFFIX, 3456.cc
 DOMAIN-SUFFIX, 35.com
 DOMAIN-SUFFIX, 3533.com
 DOMAIN-SUFFIX, 360aiyi.com
-DOMAIN-SUFFIX, 360doc.com
 DOMAIN-SUFFIX, 360jq.com
 DOMAIN-SUFFIX, 360zhyx.com
 DOMAIN-SUFFIX, 365azw.com
@@ -9179,7 +9186,6 @@ DOMAIN-SUFFIX, youxigt.com
 DOMAIN-SUFFIX, youzu.com
 DOMAIN-SUFFIX, yoyojie.com
 DOMAIN-SUFFIX, yoyou.com
-DOMAIN-SUFFIX, ypppt.com
 DOMAIN-SUFFIX, yrz.name
 DOMAIN-SUFFIX, yslyhr.com
 DOMAIN-SUFFIX, ysten.com
