@@ -863,6 +863,9 @@ DOMAIN-SUFFIX, ultracachenode.com
 DOMAIN-SUFFIX, woaihuoshan.com
 DOMAIN-SUFFIX, wohst8.com
 
+# 抖音支付
+DOMAIN-SUFFIX, douyinpay.com
+
 DOMAIN-SUFFIX, douyu.com
 DOMAIN-SUFFIX, douyu.tv
 DOMAIN-SUFFIX, douyucdn.cn
@@ -2720,6 +2723,8 @@ DOMAIN-SUFFIX, tkhealthcare.com
 
 ## 航财通·校园付
 DOMAIN-SUFFIX, cc-pay.cn
+## 合利宝
+DOMAIN-SUFFIX, helipay.com
 ## 徽商期货有限责任公司
 DOMAIN-SUFFIX, hsqh.net
 ## 上海陆金所
@@ -2728,6 +2733,8 @@ DOMAIN-SUFFIX, lufax.com
 DOMAIN-SUFFIX, lufaxcdn.com
 ## 银豹收银系统
 DOMAIN-SUFFIX, pospal.cn
+## 上海付费通
+DOMAIN-SUFFIX, shfft.com
 
 # CDN or SDWAN
 DOMAIN-SUFFIX, bsclink.cn
@@ -4589,7 +4596,10 @@ DOMAIN-SUFFIX, jianshuapi.com
 DOMAIN-SUFFIX, jinshuju.net
 DOMAIN-SUFFIX, jinshujucdn.com
 
+DOMAIN-SUFFIX, calorietech.com
 DOMAIN-SUFFIX, gotokeep.com
+DOMAIN-SUFFIX, keep.com
+DOMAIN-SUFFIX, keep.com.cn
 DOMAIN-SUFFIX, keepcdn.com
 
 DOMAIN-SUFFIX, lagou.com
@@ -5570,6 +5580,9 @@ DOMAIN-SUFFIX, supercachenode.com
 DOMAIN-SUFFIX, ultracachenode.com
 DOMAIN-SUFFIX, woaihuoshan.com
 DOMAIN-SUFFIX, wohst8.com
+
+# 抖音支付
+DOMAIN-SUFFIX, douyinpay.com
 
 DOMAIN-SUFFIX, activity-zhendingtech.com
 DOMAIN-SUFFIX, changdunovel.com
@@ -8139,6 +8152,9 @@ DOMAIN-SUFFIX, miguvideo.com
 # 中移金科
 DOMAIN-SUFFIX, cmft.com.cn
 
+# 中移支付 和包
+DOMAIN-SUFFIX, cmpay.com
+
 # 中移在线
 DOMAIN-SUFFIX, cmcc-cs.cn
 DOMAIN-SUFFIX, online-cmcc.cn
@@ -8164,13 +8180,14 @@ DOMAIN-SUFFIX, ctexcel.us
 
 
 DOMAIN-SUFFIX, 189.cn
+DOMAIN-SUFFIX, bestpay.cn
+DOMAIN-SUFFIX, bestpay.com.cn
 DOMAIN-SUFFIX, chinatelecom-h.com
 DOMAIN-SUFFIX, chinatelecom.com.cn
 DOMAIN-SUFFIX, chinatelecomglobal.com
+DOMAIN-SUFFIX, chinatelecomhk.com
 DOMAIN-SUFFIX, chntel.com
 DOMAIN-SUFFIX, vnet.cn
-
-DOMAIN-SUFFIX, chinatelecomhk.com
 
 # 中国铁塔股份有限公司 京ICP备14039488
 DOMAIN-SUFFIX, chinatowercom.cn
@@ -8199,6 +8216,7 @@ DOMAIN-SUFFIX, cuguplus.com
 DOMAIN-SUFFIX, cuniq.com
 DOMAIN-SUFFIX, cuniq.sg
 DOMAIN-SUFFIX, mychinaunicom.com
+DOMAIN-SUFFIX, unicompayment.com
 DOMAIN-SUFFIX, wo.cn
 DOMAIN-SUFFIX, wo.com.cn
 DOMAIN-SUFFIX, wo116114.com

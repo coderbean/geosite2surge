@@ -490,6 +490,9 @@ DOMAIN-SUFFIX, ultracachenode.com
 DOMAIN-SUFFIX, woaihuoshan.com
 DOMAIN-SUFFIX, wohst8.com
 
+# 抖音支付
+DOMAIN-SUFFIX, douyinpay.com
+
 DOMAIN-SUFFIX, douyu.com
 DOMAIN-SUFFIX, douyu.tv
 DOMAIN-SUFFIX, douyucdn.cn
