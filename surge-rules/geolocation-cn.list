@@ -251,6 +251,7 @@ DOMAIN-SUFFIX, jinrishici.com
 DOMAIN-SUFFIX, openvela.com
 DOMAIN-SUFFIX, pingcode.com
 DOMAIN-SUFFIX, tipdm.org
+DOMAIN-SUFFIX, zuidaima.com
 
 # Electronic
 # Electronic store/company's website with access point in China
@@ -1762,6 +1763,10 @@ DOMAIN-SUFFIX, focus.cn
 DOMAIN-SUFFIX, itc.cn
 DOMAIN-SUFFIX, sohu.com
 DOMAIN-SUFFIX, sohucs.com
+
+# 56网
+DOMAIN-SUFFIX, 56.com
+DOMAIN-SUFFIX, 56img.com
 
 # Ads/tracking
 DOMAIN-SUFFIX, adnet.sohu.com
@@ -3668,9 +3673,11 @@ DOMAIN-SUFFIX, cma.cn
 DOMAIN-SUFFIX, nmc.cn
 
 # Public transportation
+## 中国国际航空
 DOMAIN-SUFFIX, airchina.com.cn # 中国国际航空
 DOMAIN-SUFFIX, airchinacargo.com # 中国国际货运航空
 
+## 海南航空
 DOMAIN-SUFFIX, hainanairlines.com
 DOMAIN-SUFFIX, hnacargo.com
 DOMAIN-SUFFIX, hnair.com
@@ -3678,21 +3685,61 @@ DOMAIN-SUFFIX, hnair.com
 # HNA Telecom
 DOMAIN-SUFFIX, 10044.cn
 
+## 长安航空
+DOMAIN-SUFFIX, airchangan.com
+## 桂林航空
+DOMAIN-SUFFIX, airguilin.com
+## 中国东方航空
+DOMAIN-SUFFIX, ceair.com
+## 春秋航空
+DOMAIN-SUFFIX, ch.com
+DOMAIN-SUFFIX, china-sss.com
+DOMAIN-SUFFIX, springairlines.com
+## 华夏航空
+DOMAIN-SUFFIX, chinaexpressair.com
+## 中国南方航空
+DOMAIN-SUFFIX, csair.com
+## 中国联合航空
+DOMAIN-SUFFIX, flycua.com
+## 广西北部湾航空
+DOMAIN-SUFFIX, gxairlines.com
+## 河北航空
+DOMAIN-SUFFIX, hbhk.com.cn
+## 首都航空
+DOMAIN-SUFFIX, jdair.net
+## 吉祥航空
+DOMAIN-SUFFIX, juneyaoair.com
+## 长龙航空
+DOMAIN-SUFFIX, loongair.cn
+## 祥鹏航空
+DOMAIN-SUFFIX, luckyair.net
+## 山东航空
+DOMAIN-SUFFIX, sda.cn
+## 深圳航空
+DOMAIN-SUFFIX, shenzhenair.com
+## 四川航空
+DOMAIN-SUFFIX, sichuanair.com
+## 天津航空
+DOMAIN-SUFFIX, tianjin-air.com
+## 西藏航空
+DOMAIN-SUFFIX, tibetairlines.com.cn
+## 乌鲁木齐航空
+DOMAIN-SUFFIX, urumqi-air.com
+## 厦门航空
+DOMAIN-SUFFIX, xiamenair.com
 
-# 中国民航局 caac.gov.cn
-DOMAIN-SUFFIX, ceair.com # 中国东方航空
-DOMAIN-SUFFIX, chinaexpressair.com # 华夏航空
-DOMAIN-SUFFIX, csair.com # 中国南方航空
-DOMAIN-SUFFIX, flycua.com # 中国联合航空
-DOMAIN-SUFFIX, hbhk.com.cn # 河北航空
-DOMAIN-SUFFIX, jdair.net # 首都航空
-DOMAIN-SUFFIX, juneyaoair.com # 吉祥航空
-DOMAIN-SUFFIX, luckyair.net # 祥鹏航空
-DOMAIN-SUFFIX, sichuanair.com # 四川航空
-DOMAIN-SUFFIX, tibetairlines.com.cn # 西藏航空
-DOMAIN-SUFFIX, travelskymobile.cn # 信天游（航空电子客票验真）
-DOMAIN-SUFFIX, variflight.com # 飞常准
-DOMAIN-SUFFIX, xiamenair.com # 厦门航空
+## 中国民航局
+DOMAIN-SUFFIX, caac.gov.cn
+## 信天游（航空电子客票验真）
+DOMAIN-SUFFIX, travelskymobile.cn
+## 航旅纵横
+DOMAIN-SUFFIX, umetrip.com
+DOMAIN-SUFFIX, umetrip.com.cn
+DOMAIN-SUFFIX, umetrip.net.cn
+DOMAIN-SUFFIX, ume-trip.cn
+## 飞常准
+DOMAIN-SUFFIX, variflight.com
+
 ## Railway
 DOMAIN-SUFFIX, 12306.cn
 DOMAIN-SUFFIX, 95306.cn
@@ -3707,11 +3754,6 @@ DOMAIN-SUFFIX, kuajing84.com
 DOMAIN-SUFFIX, mygolbs.com
 ## 宁停车
 DOMAIN-SUFFIX, ningtingche.com
-## 航旅纵横
-DOMAIN-SUFFIX, umetrip.com
-DOMAIN-SUFFIX, umetrip.com.cn
-DOMAIN-SUFFIX, umetrip.net.cn
-DOMAIN-SUFFIX, ume-trip.cn
 
 # Science & Technology & Knowledge & Scholar & Press & E-learning & Education
 DOMAIN-SUFFIX, chinesemooc.org
@@ -3889,6 +3931,11 @@ DOMAIN-SUFFIX, llscdn.com
 DOMAIN-SUFFIX, llsserver.com
 # 马哥教育
 DOMAIN-SUFFIX, magedu.com
+# 墨墨背单词
+DOMAIN-SUFFIX, maimemo.com
+DOMAIN-SUFFIX, maimemostatus.com
+# 墨墨记忆卡
+DOMAIN-SUFFIX, markji.com
 # CIS NanoMasters
 DOMAIN-SUFFIX, neoscholar.com
 DOMAIN-SUFFIX, neoschool.com
@@ -4052,6 +4099,7 @@ DOMAIN-SUFFIX, wenxin-ge.com # 文心阁古籍全文数据库
 DOMAIN-SUFFIX, wind.com.cn # Wind 资讯金融
 DOMAIN-SUFFIX, yiigle.com # 中华医学期刊全文数据库
 
+DOMAIN-SUFFIX, allhistory.com
 DOMAIN-SUFFIX, fgo.wiki
 DOMAIN-SUFFIX, jikipedia.com
 DOMAIN-SUFFIX, mbalib.com
@@ -4802,6 +4850,7 @@ DOMAIN-SUFFIX, xbext.com
 DOMAIN-SUFFIX, yinxiang.com
 ## 智联招聘
 DOMAIN-SUFFIX, zhaopin.cn
+DOMAIN-SUFFIX, zhaopin.com
 
 # Tech companies & Orginations
 DOMAIN-SUFFIX, 1tyy.cn
@@ -7011,6 +7060,7 @@ DOMAIN-SUFFIX, static163.net
 DOMAIN-SUFFIX, ydstatic.com
 DOMAIN-SUFFIX, yeah.net
 DOMAIN-SUFFIX, youdao.com
+DOMAIN-SUFFIX, yunxindns.com
 DOMAIN-SUFFIX, yunxinfw.com
 DOMAIN-SUFFIX, zhuanzfx.com
 
@@ -8380,7 +8430,6 @@ DOMAIN-SUFFIX, 52pk.com
 DOMAIN-SUFFIX, 52z.com
 DOMAIN-SUFFIX, 53kf.com
 DOMAIN-SUFFIX, 55.com
-DOMAIN-SUFFIX, 56.com
 DOMAIN-SUFFIX, 5577.com
 DOMAIN-SUFFIX, 55bbs.com
 DOMAIN-SUFFIX, 58pic.com
@@ -8426,8 +8475,6 @@ DOMAIN-SUFFIX, aiemy.com
 DOMAIN-SUFFIX, aiketour.com
 DOMAIN-SUFFIX, aiops.com
 DOMAIN-SUFFIX, aipai.com
-DOMAIN-SUFFIX, airchangan.com
-DOMAIN-SUFFIX, airguilin.com
 DOMAIN-SUFFIX, aiskycn.com
 DOMAIN-SUFFIX, aizhan.com
 DOMAIN-SUFFIX, aldwx.com # 京ICP备17030349号-1
@@ -8491,7 +8538,6 @@ DOMAIN-SUFFIX, cecdc.com
 DOMAIN-SUFFIX, cecport.com
 DOMAIN-SUFFIX, centanet.com
 DOMAIN-SUFFIX, cerambath.org
-DOMAIN-SUFFIX, ch.com
 DOMAIN-SUFFIX, chachaba.com
 DOMAIN-SUFFIX, changba.com
 DOMAIN-SUFFIX, chaojituzi.net
@@ -8676,7 +8722,6 @@ DOMAIN-SUFFIX, gupzs.com
 DOMAIN-SUFFIX, gushiwen.org
 DOMAIN-SUFFIX, guzhangting.com
 DOMAIN-SUFFIX, gwdang.com
-DOMAIN-SUFFIX, gxairlines.com
 DOMAIN-SUFFIX, gxb.io
 DOMAIN-SUFFIX, gzcqs.com
 DOMAIN-SUFFIX, gzwanju.com
@@ -9034,7 +9079,6 @@ DOMAIN-SUFFIX, taoche.com
 DOMAIN-SUFFIX, te5.com
 DOMAIN-SUFFIX, tenxcloud.com
 DOMAIN-SUFFIX, tianjimedia.com
-DOMAIN-SUFFIX, tianjin-air.com
 DOMAIN-SUFFIX, tianlailive.com
 DOMAIN-SUFFIX, tietuku.com
 DOMAIN-SUFFIX, tiexue.net
@@ -9070,7 +9114,6 @@ DOMAIN-SUFFIX, ucbug.com
 DOMAIN-SUFFIX, uggame.com
 DOMAIN-SUFFIX, uoko.com
 DOMAIN-SUFFIX, urselect.com
-DOMAIN-SUFFIX, urumqi-air.com
 DOMAIN-SUFFIX, useso.com
 DOMAIN-SUFFIX, uuu9.com
 DOMAIN-SUFFIX, uzzf.com
@@ -9234,7 +9277,6 @@ DOMAIN-SUFFIX, zhangyoubao.com
 DOMAIN-SUFFIX, zhanzhang.net
 DOMAIN-SUFFIX, zhaodanji.com
 DOMAIN-SUFFIX, zhaokao.net
-DOMAIN-SUFFIX, zhaopin.com
 DOMAIN-SUFFIX, zhcw.com
 DOMAIN-SUFFIX, zhenai.com
 DOMAIN-SUFFIX, zhibo8.cc
@@ -9245,15 +9287,11 @@ DOMAIN-SUFFIX, zhongkao.com
 DOMAIN-SUFFIX, zhuangjiba.com
 DOMAIN-SUFFIX, zhuanyewanjia.com
 DOMAIN-SUFFIX, zhuayoukong.com
-DOMAIN-SUFFIX, zimuzu.io
 DOMAIN-SUFFIX, zixiaomao.com
 DOMAIN-SUFFIX, zixuntop.com
 DOMAIN-SUFFIX, zmengzhu.com
 DOMAIN-SUFFIX, zpb365.com
-DOMAIN-SUFFIX, zrblog.net
-DOMAIN-SUFFIX, zsxq.com
 DOMAIN-SUFFIX, zuhaowan.com
-DOMAIN-SUFFIX, zuidaima.com
 DOMAIN-SUFFIX, zuowen.com
 DOMAIN-SUFFIX, zuowen8.com
 DOMAIN-SUFFIX, zuowenwang.net

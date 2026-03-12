@@ -7413,6 +7413,7 @@ DOMAIN-SUFFIX, static163.net
 DOMAIN-SUFFIX, ydstatic.com
 DOMAIN-SUFFIX, yeah.net
 DOMAIN-SUFFIX, youdao.com
+DOMAIN-SUFFIX, yunxindns.com
 DOMAIN-SUFFIX, yunxinfw.com
 DOMAIN-SUFFIX, zhuanzfx.com
 
@@ -7779,6 +7780,10 @@ DOMAIN-SUFFIX, focus.cn
 DOMAIN-SUFFIX, itc.cn
 DOMAIN-SUFFIX, sohu.com
 DOMAIN-SUFFIX, sohucs.com
+
+# 56网
+DOMAIN-SUFFIX, 56.com
+DOMAIN-SUFFIX, 56img.com
 
 # Ads/tracking
 DOMAIN-SUFFIX, adnet.sohu.com
