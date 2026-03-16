@@ -1310,10 +1310,14 @@ DOMAIN-SUFFIX, anitabi.cn
 # 暴风影音
 DOMAIN-SUFFIX, baofeng.com
 DOMAIN-SUFFIX, baofeng.net
+# 街机地图
+DOMAIN-SUFFIX, bemanicn.com
 # 布咕阅读
 DOMAIN-SUFFIX, bgwxc.com
 # B站空降助手
 DOMAIN-SUFFIX, bsbsb.top
+# CdkeyNoGap
+DOMAIN-SUFFIX, cdkeynogap.com
 # 动漫之家 #703
 DOMAIN-SUFFIX, dmzj.com
 DOMAIN-SUFFIX, muwai.com
@@ -3871,6 +3875,8 @@ DOMAIN-SUFFIX, fenbilantian.cn
 DOMAIN-SUFFIX, fenbilantian.com
 
 
+DOMAIN-SUFFIX, edu.cn
+
 # 雨课堂
 DOMAIN-SUFFIX, rainclassroom.com
 DOMAIN-SUFFIX, yuketang.cn
@@ -3881,8 +3887,6 @@ DOMAIN-SUFFIX, yudou.cn
 DOMAIN-SUFFIX, yushiyan.net
 ## 学堂在线
 DOMAIN-SUFFIX, xuetangx.com
-
-DOMAIN-SUFFIX, edu.cn
 
 # 国家智慧教育公共服务平台
 DOMAIN-SUFFIX, cbern.com.cn
@@ -3995,6 +3999,8 @@ DOMAIN-SUFFIX, oldboyedu.com
 DOMAIN-SUFFIX, pigai.org
 # 公考知识库
 DOMAIN-SUFFIX, saduck.top
+# 外研在线
+DOMAIN-SUFFIX, unipus.cn
 # 未来云校
 DOMAIN-SUFFIX, weilaiyunxiao.com
 # 北京嘉瑞新创教育咨询有限公司
@@ -4205,6 +4211,10 @@ DOMAIN-SUFFIX, guoxuemi.com
 DOMAIN-SUFFIX, zyh365.com
 ## 温州市图书馆
 DOMAIN-SUFFIX, wzlib.cn
+## 中国大百科全书
+DOMAIN-SUFFIX, zgbk.com
+## 浙江图书馆
+DOMAIN-SUFFIX, zjlib.cn
 
 # Services & Softwares
 # 点点 Ai
@@ -5488,6 +5498,7 @@ DOMAIN-SUFFIX, shifen.com
 DOMAIN-SUFFIX, smartapps.cn
 DOMAIN-SUFFIX, tieba.com
 DOMAIN-SUFFIX, tiebaimg.com
+DOMAIN-SUFFIX, xdrtc.com
 DOMAIN-SUFFIX, xianfae.com
 DOMAIN-SUFFIX, xiaodutv.com
 DOMAIN-SUFFIX, yoojia.com

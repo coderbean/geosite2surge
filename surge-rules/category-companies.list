@@ -7862,6 +7862,7 @@ DOMAIN-SUFFIX, tegrazone.com
 DOMAIN-SUFFIX, tegrazone.jp
 DOMAIN-SUFFIX, tegrazone.kr
 
+DOMAIN, nvidia.custhelp.com
 DOMAIN, nvidia.tt.omtrdc.net
 
 # NVIDIA 文件下载服务器中国镜像
@@ -7873,18 +7874,6 @@ DOMAIN-SUFFIX, openweathermap.org
 # All .oracle domains
 DOMAIN-SUFFIX, oracle
 
-DOMAIN-SUFFIX, ateam-oracle.com
-DOMAIN-SUFFIX, bronto.com
-DOMAIN-SUFFIX, covid19-rx.org
-DOMAIN-SUFFIX, covid19rx.org
-DOMAIN-SUFFIX, oracle.com
-DOMAIN-SUFFIX, oraclecloud.com
-DOMAIN-SUFFIX, oraclefoundation.org
-DOMAIN-SUFFIX, oracleimg.com
-DOMAIN-SUFFIX, oracleinfinity.io
-DOMAIN-SUFFIX, sun.com
-DOMAIN-SUFFIX, virtualbox.org
-
 DOMAIN-SUFFIX, addthis.com
 DOMAIN-SUFFIX, addthiscdn.com
 DOMAIN-SUFFIX, addthisedge.com
@@ -7895,6 +7884,19 @@ DOMAIN-SUFFIX, java
 DOMAIN-SUFFIX, java.com
 DOMAIN-SUFFIX, java.net
 
+
+DOMAIN-SUFFIX, ateam-oracle.com
+DOMAIN-SUFFIX, bronto.com
+DOMAIN-SUFFIX, covid19-rx.org
+DOMAIN-SUFFIX, covid19rx.org
+DOMAIN-SUFFIX, custhelp.com
+DOMAIN-SUFFIX, oracle.com
+DOMAIN-SUFFIX, oraclecloud.com
+DOMAIN-SUFFIX, oraclefoundation.org
+DOMAIN-SUFFIX, oracleimg.com
+DOMAIN-SUFFIX, oracleinfinity.io
+DOMAIN-SUFFIX, sun.com
+DOMAIN-SUFFIX, virtualbox.org
 
 # All .panasonic domains
 DOMAIN-SUFFIX, panasonic

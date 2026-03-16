@@ -63,6 +63,8 @@ DOMAIN-SUFFIX, fenbilantian.cn
 DOMAIN-SUFFIX, fenbilantian.com
 
 
+DOMAIN-SUFFIX, edu.cn
+
 # 雨课堂
 DOMAIN-SUFFIX, rainclassroom.com
 DOMAIN-SUFFIX, yuketang.cn
@@ -73,8 +75,6 @@ DOMAIN-SUFFIX, yudou.cn
 DOMAIN-SUFFIX, yushiyan.net
 ## 学堂在线
 DOMAIN-SUFFIX, xuetangx.com
-
-DOMAIN-SUFFIX, edu.cn
 
 # 国家智慧教育公共服务平台
 DOMAIN-SUFFIX, cbern.com.cn
@@ -187,6 +187,8 @@ DOMAIN-SUFFIX, oldboyedu.com
 DOMAIN-SUFFIX, pigai.org
 # 公考知识库
 DOMAIN-SUFFIX, saduck.top
+# 外研在线
+DOMAIN-SUFFIX, unipus.cn
 # 未来云校
 DOMAIN-SUFFIX, weilaiyunxiao.com
 # 北京嘉瑞新创教育咨询有限公司
