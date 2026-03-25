@@ -3784,8 +3784,15 @@ DOMAIN-SUFFIX, zapper.fi
 DOMAIN-SUFFIX, avito.ru
 DOMAIN-SUFFIX, avito.st
 
+DOMAIN-SUFFIX, ozon.by
+DOMAIN-SUFFIX, ozon.com
+DOMAIN-SUFFIX, ozon.com.by
+DOMAIN-SUFFIX, ozon.com.kz
+DOMAIN-SUFFIX, ozon.kz
 DOMAIN-SUFFIX, ozon.ru
+DOMAIN-SUFFIX, ozon.tm
 DOMAIN-SUFFIX, ozone.ru
+DOMAIN-SUFFIX, ozonru.me
 DOMAIN-SUFFIX, ozonusercontent.com
 
 DOMAIN-SUFFIX, geobasket.ru
@@ -18668,6 +18675,8 @@ DOMAIN-SUFFIX, immersivetranslate.com # 沉浸式翻译 (国际版)
 DOMAIN-SUFFIX, originlab.com
 ## OsmAnd
 DOMAIN-SUFFIX, osmand.net
+## Xiaomi Flash (not affiliated with the official Xiaomi)
+DOMAIN-SUFFIX, xiaomiflash.com
 
 # Software development
 DOMAIN-SUFFIX, anaconda.cloud
