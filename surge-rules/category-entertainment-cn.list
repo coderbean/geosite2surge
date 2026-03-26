@@ -278,6 +278,8 @@ DOMAIN-SUFFIX, 9xgame.com
 DOMAIN-SUFFIX, arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX, astral-vector.com
+# 飞火游戏
+DOMAIN-SUFFIX, feihuo.com
 # 九九互动 粤ICP备19068416号
 DOMAIN-SUFFIX, forevernine.com
 # 互动游戏对战平台 粤ICP备18006390号-1
@@ -948,6 +950,8 @@ DOMAIN-SUFFIX, vsread.com
 DOMAIN-SUFFIX, yamibo.com
 # 易有料
 DOMAIN-SUFFIX, yiyouliao.com
+# 游迅网
+DOMAIN-SUFFIX, yxdown.com
 # 战旗直播
 DOMAIN-SUFFIX, zhanqi.tv
 # 逐浪小说
