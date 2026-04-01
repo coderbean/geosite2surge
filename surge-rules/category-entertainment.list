@@ -978,6 +978,18 @@ DOMAIN-SUFFIX, vrchat.cloud
 DOMAIN-SUFFIX, vrchat.com
 DOMAIN-SUFFIX, vrchat.net
 
+DOMAIN-SUFFIX, masteroforion.com
+DOMAIN-SUFFIX, wargaming.com
+DOMAIN-SUFFIX, wargaming.net
+DOMAIN-SUFFIX, wgcdn.co
+DOMAIN-SUFFIX, wgcrowd.io
+DOMAIN-SUFFIX, worldoftanks.com
+DOMAIN-SUFFIX, worldoftanks.eu
+DOMAIN-SUFFIX, worldofwarplanes.com
+DOMAIN-SUFFIX, worldofwarships.com
+DOMAIN-SUFFIX, wotblitz.com
+DOMAIN-SUFFIX, wowsblitz.com
+
 DOMAIN, datarouter.apps.netherrealm.com
 DOMAIN, wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 DOMAIN-SUFFIX, warnerbrosgames.com

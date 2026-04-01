@@ -237,6 +237,13 @@ DOMAIN-SUFFIX, yamal.ru        # Yamal-Nenets Autonomous Area
 # Regional health services
 DOMAIN-SUFFIX, zdrav10.ru      # Republic of Karelia
 
+# Medsi
+DOMAIN-SUFFIX, medsi.com
+DOMAIN-SUFFIX, medsi.pro
+DOMAIN-SUFFIX, medsi.ru
+DOMAIN-SUFFIX, medsi-premium.ru
+DOMAIN-SUFFIX, smartmed.pro
+
 # ABC of Taste
 DOMAIN-SUFFIX, av.ru
 
