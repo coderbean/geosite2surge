@@ -1645,6 +1645,9 @@ DOMAIN-SUFFIX, last.fm
 
 DOMAIN, lastfm.freetls.fastly.net
 
+# API endpoint
+DOMAIN, ws.audioscrobbler.com
+
 # TGC Taiwan Inc.
 DOMAIN-SUFFIX, litv.tv
 DOMAIN-SUFFIX, litvfreepc.akamaized.net

@@ -2836,6 +2836,9 @@ DOMAIN-SUFFIX, bunnycdn.com
 # cdnjs
 DOMAIN-SUFFIX, cdnjs.com
 
+# ESM
+DOMAIN-SUFFIX, esm.sh
+
 # Gcore
 DOMAIN-SUFFIX, gcdn.co
 DOMAIN-SUFFIX, gcore.com
@@ -7363,6 +7366,9 @@ DOMAIN-SUFFIX, theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX, last.fm
 
 DOMAIN, lastfm.freetls.fastly.net
+
+# API endpoint
+DOMAIN, ws.audioscrobbler.com
 
 # TGC Taiwan Inc.
 DOMAIN-SUFFIX, litv.tv
@@ -18831,6 +18837,7 @@ DOMAIN, p-events-delivery.akamaized.net
 
 DOMAIN-SUFFIX, archlinux.org
 DOMAIN-SUFFIX, archlinuxarm.org
+DOMAIN-SUFFIX, pkgbuild.com
 
 # Unofficial
 DOMAIN-SUFFIX, archlinuxcn.org
