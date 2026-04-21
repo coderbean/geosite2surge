@@ -27,6 +27,7 @@ DOMAIN-SUFFIX, kinorium.com
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
 
+DOMAIN-SUFFIX, okkoapi.tv
 DOMAIN-SUFFIX, playfamily.ru
 DOMAIN-SUFFIX, okko.sport
 DOMAIN-SUFFIX, okko.tv
@@ -43,6 +44,9 @@ DOMAIN-SUFFIX, smotreshka.tv
 DOMAIN-SUFFIX, start.ru
 DOMAIN-SUFFIX, tvigle.ru
 DOMAIN-SUFFIX, viju.ru
+
+# Music
+DOMAIN-SUFFIX, promodj.com # Electronic music and DJ community platform
 
 # Video hosting
 DOMAIN-SUFFIX, rutube.ru
@@ -382,6 +386,7 @@ DOMAIN-SUFFIX, unrealengine.com
 DOMAIN-SUFFIX, unrealtournament.com
 
 DOMAIN-SUFFIX, egdownload.fastly-edge.com
+DOMAIN-SUFFIX, fortnite-vod.akamaized.net
 URL-REGEX, ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 URL-REGEX, ^epicgames-download\d\.akamaized\.net$
 URL-REGEX, ^epicgames-download\d-\d+\.file\.myqcloud\.com$

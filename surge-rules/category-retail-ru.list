@@ -4,11 +4,17 @@ DOMAIN-SUFFIX, av.ru
 # Auchan
 DOMAIN-SUFFIX, auchan.ru
 
+# AudioHead
+DOMAIN-SUFFIX, audiohead.ru
+
 # Bristol
 DOMAIN-SUFFIX, bristol.ru
 
 # Children's World
 DOMAIN-SUFFIX, detmir.ru
+
+# Coolera
+DOMAIN-SUFFIX, coolera.ru
 
 # Dixie
 DOMAIN-SUFFIX, dixy.ru
@@ -23,6 +29,9 @@ DOMAIN-SUFFIX, dodostatic.net
 # Dostaevsky
 DOMAIN-SUFFIX, dostaevsky.ru
 
+# Dr.Head / Doctorhead
+DOMAIN-SUFFIX, doctorhead.ru
+
 # Eurasia
 DOMAIN-SUFFIX, evrasia.rest
 
@@ -32,15 +41,36 @@ DOMAIN-SUFFIX, vkusnoitochka.ru
 # Fix Price
 DOMAIN-SUFFIX, fix-price.com
 
+# Lamoda
+DOMAIN-SUFFIX, lamoda.ru
+
 # Lenta
 DOMAIN-SUFFIX, lenta.com
 DOMAIN-SUFFIX, lenta.tech
 
-# Magnet
+# Magnit
+DOMAIN-SUFFIX, kazanexpress.ru
+DOMAIN-SUFFIX, magnit.com
 DOMAIN-SUFFIX, magnit.ru
+DOMAIN-SUFFIX, mm.ru
+
+
+# M.Video
+DOMAIN-SUFFIX, acmvid.com
+DOMAIN-SUFFIX, mvideo.ru
+DOMAIN, mvideo.edna.io
+
 
 # Metro
 DOMAIN-SUFFIX, metro-cc.ru
+
+# NOTIK
+DOMAIN-SUFFIX, notik.ru
+
+# OSKELLY
+DOMAIN-SUFFIX, oskelly.co
+DOMAIN-SUFFIX, oskelly.ru
+
 
 # Pyaterochka, Perekrestok, Chizhik
 DOMAIN-SUFFIX, 5ka.ru
@@ -76,13 +106,17 @@ DOMAIN-SUFFIX, x5q.ru
 DOMAIN-SUFFIX, x5static.net
 DOMAIN-SUFFIX, x5w.ru
 
-# Ads/tracking
-DOMAIN-SUFFIX, domain:ads.x5media.ru
-DOMAIN-SUFFIX, domain:sentry.x5.ru
+# Ads and tracking
+DOMAIN, ads.x5.ru
+DOMAIN, ads.x5media.ru
+DOMAIN, sentry.x5.ru
 
 
 # Red and White
 DOMAIN-SUFFIX, krasnoeibeloe.ru
+
+# Regard
+DOMAIN-SUFFIX, regard.ru
 
 # Rostics
 DOMAIN-SUFFIX, rostics.ru
@@ -94,6 +128,11 @@ DOMAIN-SUFFIX, ilovesakura.ru
 
 # Spar
 DOMAIN-SUFFIX, myspar.ru
+
+# SOKOLOV
+DOMAIN-SUFFIX, sokolov.io
+DOMAIN-SUFFIX, sokolov.ru
+
 
 # Sushi Wok
 DOMAIN-SUFFIX, sushiwok.ru
