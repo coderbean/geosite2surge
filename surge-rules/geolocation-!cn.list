@@ -194,6 +194,7 @@ DOMAIN-SUFFIX, jasper.ai
 DOMAIN-SUFFIX, chutes.ai
 DOMAIN-SUFFIX, clawhub.ai
 DOMAIN-SUFFIX, copilot.microsoft.com
+DOMAIN-SUFFIX, crewai.com
 DOMAIN-SUFFIX, devin.ai
 DOMAIN-SUFFIX, diabrowser.com
 DOMAIN-SUFFIX, diabrowser.engineering
@@ -202,10 +203,13 @@ DOMAIN-SUFFIX, duck.ai
 DOMAIN-SUFFIX, gateway.ai.cloudflare.com
 DOMAIN-SUFFIX, h2o.ai
 DOMAIN-SUFFIX, kiro.dev
+DOMAIN-SUFFIX, langchain.com
+DOMAIN-SUFFIX, lmstudio.ai
 DOMAIN-SUFFIX, lovart.ai
 DOMAIN-SUFFIX, meta.ai
 DOMAIN-SUFFIX, minimax.io
 DOMAIN-SUFFIX, mistral.ai
+DOMAIN-SUFFIX, ollama.com
 DOMAIN-SUFFIX, openart.ai
 DOMAIN-SUFFIX, openclaw.ai
 DOMAIN-SUFFIX, openrouter.ai
