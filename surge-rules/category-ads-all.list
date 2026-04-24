@@ -4504,6 +4504,7 @@ DOMAIN-SUFFIX, labs.google.com
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
+DOMAIN-SUFFIX, aicode.googleapis.com
 DOMAIN-SUFFIX, aida.googleapis.com
 
 # Opal
@@ -4567,6 +4568,7 @@ DOMAIN-SUFFIX, labs.google.com
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
+DOMAIN-SUFFIX, aicode.googleapis.com
 DOMAIN-SUFFIX, aida.googleapis.com
 
 # Opal

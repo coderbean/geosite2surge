@@ -100,6 +100,7 @@ DOMAIN-SUFFIX, labs.google.com
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
+DOMAIN-SUFFIX, aicode.googleapis.com
 DOMAIN-SUFFIX, aida.googleapis.com
 
 # Opal
@@ -191,6 +192,7 @@ DOMAIN-SUFFIX, cohere.com
 DOMAIN-SUFFIX, clipdrop.co
 DOMAIN-SUFFIX, jasper.ai
 
+DOMAIN-SUFFIX, agentclientprotocol.com
 DOMAIN-SUFFIX, chutes.ai
 DOMAIN-SUFFIX, clawhub.ai
 DOMAIN-SUFFIX, copilot.microsoft.com
@@ -213,6 +215,7 @@ DOMAIN-SUFFIX, ollama.com
 DOMAIN-SUFFIX, openart.ai
 DOMAIN-SUFFIX, openclaw.ai
 DOMAIN-SUFFIX, openrouter.ai
+DOMAIN-SUFFIX, plannotator.ai
 DOMAIN-SUFFIX, spicywriter.com
 
 
@@ -8112,6 +8115,7 @@ DOMAIN-SUFFIX, live-video.net
 DOMAIN-SUFFIX, ttvnw.net
 DOMAIN-SUFFIX, twitch.tv
 DOMAIN-SUFFIX, twitchcdn.net
+DOMAIN-SUFFIX, twitchcon.com
 DOMAIN-SUFFIX, twitchsvc.net
 
 DOMAIN, d1g1f25tn8m2e6.cloudfront.net
@@ -24356,6 +24360,7 @@ DOMAIN-SUFFIX, labs.google.com
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
+DOMAIN-SUFFIX, aicode.googleapis.com
 DOMAIN-SUFFIX, aida.googleapis.com
 
 # Opal
@@ -24419,6 +24424,7 @@ DOMAIN-SUFFIX, labs.google.com
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
+DOMAIN-SUFFIX, aicode.googleapis.com
 DOMAIN-SUFFIX, aida.googleapis.com
 
 # Opal
