@@ -2405,6 +2405,7 @@ DOMAIN, streamingaudio.itunes.apple.com
 DOMAIN, su.itunes.apple.com
 DOMAIN, sync.itunes.apple.com
 DOMAIN, tf-feedback.itunes.apple.com
+DOMAIN, universal-activity-service.itunes.apple.com
 DOMAIN, upp.itunes.apple.com
 DOMAIN, www.support.apple.com
 
@@ -3972,9 +3973,11 @@ DOMAIN, www-csb.dell.com
 DOMAIN, www.dell.com
 
 DOMAIN-SUFFIX, digitalocean.com
+DOMAIN-SUFFIX, digitalocean-ui.com
 DOMAIN-SUFFIX, digitaloceanspaces.com
 DOMAIN-SUFFIX, do.co
 DOMAIN-SUFFIX, nginxconfig.io
+DOMAIN-SUFFIX, ondigitalocean.com
 
 DOMAIN-SUFFIX, dmit.io
 DOMAIN-SUFFIX, dmit.sh
@@ -4000,6 +4003,30 @@ DOMAIN-SUFFIX, ads-api.duolingo.com
 DOMAIN-SUFFIX, analytics.vpc.duolingo.com
 DOMAIN-SUFFIX, metrics.duolingo.com
 
+DOMAIN-SUFFIX, bananacall.ru
+DOMAIN-SUFFIX, beesbfl.ru
+DOMAIN-SUFFIX, beescrm.ru
+DOMAIN-SUFFIX, bimsaas.ru
+DOMAIN-SUFFIX, callbackkiller.com
+DOMAIN-SUFFIX, cbkiller.com
+DOMAIN-SUFFIX, envybox.company
+DOMAIN-SUFFIX, envybox.family
+DOMAIN-SUFFIX, envybox.io
+DOMAIN-SUFFIX, envybox.kg
+DOMAIN-SUFFIX, envybox.su
+DOMAIN-SUFFIX, envycdp.com
+DOMAIN-SUFFIX, envycdp.ru
+DOMAIN-SUFFIX, envycrm.com
+DOMAIN-SUFFIX, envyday.ru
+DOMAIN-SUFFIX, killercb.ru
+DOMAIN-SUFFIX, myenvy.ru
+DOMAIN-SUFFIX, quizlink.ru
+DOMAIN-SUFFIX, saas-support.com
+DOMAIN-SUFFIX, whitesaas.com
+
+# IDN ccTLD
+DOMAIN-SUFFIX, xn--90absjljw3g.xn--p1ai # энвибокс.рф
+
 DOMAIN-SUFFIX, clickedu.co.uk
 DOMAIN-SUFFIX, deepfreeze.co.uk
 DOMAIN-SUFFIX, deepfreeze.com
@@ -4019,6 +4046,18 @@ DOMAIN-SUFFIX, faronicswise.co.uk
 DOMAIN-SUFFIX, faronicswise.com
 
 DOMAIN, faronics.kayako.com
+
+DOMAIN-SUFFIX, genetic-technologies.am
+DOMAIN-SUFFIX, genotek.am
+DOMAIN-SUFFIX, genotek.es
+DOMAIN-SUFFIX, genotek.eu
+DOMAIN-SUFFIX, genotek.health
+DOMAIN-SUFFIX, genotek.ru
+
+# Eligens
+DOMAIN-SUFFIX, eligens.cl
+DOMAIN-SUFFIX, eligens.com.br
+DOMAIN-SUFFIX, eligens.io
 
 DOMAIN-SUFFIX, giffgaff.com
 DOMAIN-SUFFIX, giffgaff.design
@@ -5535,6 +5574,39 @@ DOMAIN, www.gstatic.com
 DOMAIN, www.pxcc.com
 DOMAIN, xn--flw351e.com
 
+DOMAIN-SUFFIX, antiphishing.nl
+DOMAIN-SUFFIX, antiphishing.ru
+DOMAIN-SUFFIX, cert-gib.com
+DOMAIN-SUFFIX, cert-gib.ru
+DOMAIN-SUFFIX, cybercrimecon.com
+DOMAIN-SUFFIX, gibdev.net
+DOMAIN-SUFFIX, g-ib.ae
+DOMAIN-SUFFIX, g-ib.ru
+DOMAIN-SUFFIX, g-ib.sg
+DOMAIN-SUFFIX, g-ib.us
+DOMAIN-SUFFIX, gib-global.com
+DOMAIN-SUFFIX, gib.sg
+DOMAIN-SUFFIX, gibtds.ru
+DOMAIN-SUFFIX, group-ib.ae
+DOMAIN-SUFFIX, group-ib.co.uk
+DOMAIN-SUFFIX, group-ib.com
+DOMAIN-SUFFIX, group-ib.de
+DOMAIN-SUFFIX, group-ib.eu
+DOMAIN-SUFFIX, group-ib.ru
+DOMAIN-SUFFIX, group-ib.sg
+DOMAIN-SUFFIX, group-ib.us
+DOMAIN-SUFFIX, groupib.ae
+DOMAIN-SUFFIX, groupib.sg
+DOMAIN-SUFFIX, groupib.us
+
+# F.A.C.C.T.
+DOMAIN-SUFFIX, f6.dev
+DOMAIN-SUFFIX, f6.ru
+DOMAIN-SUFFIX, f6.security
+DOMAIN-SUFFIX, facct.email
+DOMAIN-SUFFIX, facct.ru
+DOMAIN-SUFFIX, future-cs.ru
+
 DOMAIN-SUFFIX, hh.by
 DOMAIN-SUFFIX, hh.kz
 DOMAIN-SUFFIX, hh.ru
@@ -5816,6 +5888,10 @@ DOMAIN-SUFFIX, interactivebrokers.com.hk
 DOMAIN-SUFFIX, interactivebrokers.com.sg
 DOMAIN-SUFFIX, interactivebrokers.eu
 DOMAIN-SUFFIX, interactivebrokers.ie
+
+DOMAIN-SUFFIX, ideco.dev
+DOMAIN-SUFFIX, ideco.ru
+DOMAIN-SUFFIX, idecosoftware.ru
 
 DOMAIN-SUFFIX, inshot.cc
 DOMAIN-SUFFIX, inshot.com
@@ -6431,7 +6507,15 @@ DOMAIN-SUFFIX, dzeninfra.ru
 DOMAIN-SUFFIX, apiok.ru
 DOMAIN-SUFFIX, insideok.ru
 DOMAIN-SUFFIX, odkl.ru
+DOMAIN-SUFFIX, odnoklasniki.by
+DOMAIN-SUFFIX, odnoklasniki.ua
+DOMAIN-SUFFIX, odnoklassniki.am
+DOMAIN-SUFFIX, odnoklassniki.by
+DOMAIN-SUFFIX, odnoklassniki.co.ee
+DOMAIN-SUFFIX, odnoklassniki.eu
+DOMAIN-SUFFIX, odnoklassniki.lv
 DOMAIN-SUFFIX, odnoklassniki.ru
+DOMAIN-SUFFIX, odnoklassniki.tj
 DOMAIN-SUFFIX, ok.me
 DOMAIN-SUFFIX, ok.ru
 DOMAIN-SUFFIX, okl.lt
@@ -6538,6 +6622,12 @@ DOMAIN-SUFFIX, yclients.com
 # IDN ccTLD
 DOMAIN-SUFFIX, xn--80asgb.xn--p1ai # майл.рф
 DOMAIN-SUFFIX, xn--e1aigb.xn--p1ai # мейл.рф
+
+# Unknown-purpose domains with DGA subdomains
+DOMAIN-SUFFIX, justveryok.com
+DOMAIN-SUFFIX, keyboardmen.com
+DOMAIN-SUFFIX, rabbitcounter.com
+DOMAIN-SUFFIX, sayeasy.eu
 
 # Ads and tracking
 DOMAIN-SUFFIX, ad.mail.ru
@@ -6757,6 +6847,21 @@ DOMAIN-SUFFIX, vkplay.live
 ## Youla
 DOMAIN-SUFFIX, youla.io
 DOMAIN-SUFFIX, youla.ru
+
+DOMAIN-SUFFIX, inplat.ru
+DOMAIN-SUFFIX, megafon.com
+DOMAIN-SUFFIX, megafon.ru
+DOMAIN-SUFFIX, megafonpro.ru
+DOMAIN-SUFFIX, mgfn.ru
+DOMAIN-SUFFIX, report-megafon.ru
+DOMAIN-SUFFIX, scartel.ru
+DOMAIN-SUFFIX, yota.ru
+DOMAIN-SUFFIX, yotagamer.ru
+
+# IDN ccTLD
+DOMAIN-SUFFIX, xn--80a9a4b.xn--p1ai # ёта.рф
+DOMAIN-SUFFIX, xn--80aj3b.xn--p1ai  # ета.рф
+DOMAIN-SUFFIX, xn--80arpq.xn--p1ai  # йота.рф
 
 DOMAIN-SUFFIX, aboutfacebook.com
 DOMAIN-SUFFIX, accessfacebookfromschool.com
@@ -7284,9 +7389,6 @@ DOMAIN-SUFFIX, wwwinstagram.com
 DOMAIN-SUFFIX, graph.instagram.com
 DOMAIN-SUFFIX, graph-fallback.instagram.com
 
-DOMAIN-SUFFIX, manus.im
-DOMAIN-SUFFIX, manuscdn.com
-
 DOMAIN-SUFFIX, fbmessenger.com
 DOMAIN-SUFFIX, m.me
 DOMAIN-SUFFIX, messenger.com
@@ -7533,6 +7635,16 @@ DOMAIN, emoi-cncdn.bing.com
 
 DOMAIN-SUFFIX, githubcopilot.com
 
+DOMAIN, copilot-proxy.githubusercontent.com
+DOMAIN, copilot-workspace.githubnext.com
+
+# Azure Blob Storage
+DOMAIN, copilotprodattachments.blob.core.windows.net
+
+# Ads/tracking
+DOMAIN, copilot-telemetry-service.githubusercontent.com
+DOMAIN, copilot-telemetry.githubusercontent.com
+
 DOMAIN-SUFFIX, npm.community
 DOMAIN-SUFFIX, npmjs.com
 DOMAIN-SUFFIX, npmjs.org
@@ -7563,16 +7675,40 @@ DOMAIN-SUFFIX, opensource.guide
 DOMAIN-SUFFIX, repo.new
 DOMAIN-SUFFIX, thegithubshop.com
 
-# GitHub Actions Artifacts
-DOMAIN-SUFFIX, blob.core.windows.net
-
 DOMAIN, github-api.arkoselabs.com
+
+# Amazon S3
 DOMAIN, github-cloud.s3.amazonaws.com
-URL-REGEX, ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
+DOMAIN, github-production-release-asset-2e65be.s3.amazonaws.com
+DOMAIN, github-production-repository-file-5c1aeb.s3.amazonaws.com
+DOMAIN, github-production-repository-image-32fea6.s3.amazonaws.com
+DOMAIN, github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+DOMAIN, github-production-user-asset-6210df.s3.amazonaws.com
+
+# Azure Blob Storage
+DOMAIN, productionresultssa0.blob.core.windows.net
+DOMAIN, productionresultssa1.blob.core.windows.net
+DOMAIN, productionresultssa2.blob.core.windows.net
+DOMAIN, productionresultssa3.blob.core.windows.net
+DOMAIN, productionresultssa4.blob.core.windows.net
+DOMAIN, productionresultssa5.blob.core.windows.net
+DOMAIN, productionresultssa6.blob.core.windows.net
+DOMAIN, productionresultssa7.blob.core.windows.net
+DOMAIN, productionresultssa8.blob.core.windows.net
+DOMAIN, productionresultssa9.blob.core.windows.net
+DOMAIN, productionresultssa10.blob.core.windows.net
+DOMAIN, productionresultssa11.blob.core.windows.net
+DOMAIN, productionresultssa12.blob.core.windows.net
+DOMAIN, productionresultssa13.blob.core.windows.net
+DOMAIN, productionresultssa14.blob.core.windows.net
+DOMAIN, productionresultssa15.blob.core.windows.net
+DOMAIN, productionresultssa16.blob.core.windows.net
+DOMAIN, productionresultssa17.blob.core.windows.net
+DOMAIN, productionresultssa18.blob.core.windows.net
+DOMAIN, productionresultssa19.blob.core.windows.net
 
 # Ads/tracking
 DOMAIN-SUFFIX, collector.github.com
-DOMAIN-SUFFIX, copilot-telemetry.githubusercontent.com
 
 DOMAIN-SUFFIX, adaptivecards.io
 DOMAIN-SUFFIX, api-extractor.com
@@ -8245,6 +8381,29 @@ DOMAIN-SUFFIX, thunderbird.net
 DOMAIN-SUFFIX, msi.cn
 DOMAIN-SUFFIX, msi.com
 
+DOMAIN-SUFFIX, mts-ws.net
+DOMAIN-SUFFIX, mts.ru
+DOMAIN-SUFFIX, mymts.ru
+
+# Ads and tracking
+DOMAIN-SUFFIX, a.mts.ru
+DOMAIN-SUFFIX, obs.mts.ru
+
+# Ecosystem
+
+## Finance
+DOMAIN-SUFFIX, dbo-dengi.online
+DOMAIN-SUFFIX, mtsbank.ru
+DOMAIN-SUFFIX, mtsdengi.ru
+DOMAIN-SUFFIX, tvoyodbo.online
+
+## Kion
+DOMAIN-SUFFIX, kion.ru
+
+## ON Media (MTS Media)
+DOMAIN-SUFFIX, mtsmedia.ru
+DOMAIN-SUFFIX, on-media.ru
+
 DOMAIN-SUFFIX, musixmatch.com
 DOMAIN-SUFFIX, mxmcdn.net
 
@@ -8572,6 +8731,20 @@ DOMAIN-SUFFIX, razerzone.jp
 DOMAIN-SUFFIX, respawnbyrazer.com
 DOMAIN-SUFFIX, rzr.to
 
+DOMAIN-SUFFIX, restream-media.net
+DOMAIN-SUFFIX, restream.ru
+DOMAIN-SUFFIX, more.tv
+DOMAIN-SUFFIX, wink.am
+DOMAIN-SUFFIX, wink.ru
+
+
+DOMAIN-SUFFIX, azbukainterneta.ru
+DOMAIN-SUFFIX, rostelecom.ru
+DOMAIN-SUFFIX, rt.ru
+
+# Tracking
+DOMAIN, sentry.iptv.rt.ru
+
 DOMAIN-SUFFIX, appcloud.com
 DOMAIN-SUFFIX, appexchange.com
 DOMAIN-SUFFIX, attic.io
@@ -8875,6 +9048,10 @@ DOMAIN-SUFFIX, synology.me
 
 DOMAIN-SUFFIX, symantec.com
 DOMAIN-SUFFIX, symantecliveupdate.com
+
+DOMAIN-SUFFIX, b2c-digest.ru
+DOMAIN-SUFFIX, t2.ru
+DOMAIN-SUFFIX, tele2.ru
 
 DOMAIN-SUFFIX, boringcompany.com
 

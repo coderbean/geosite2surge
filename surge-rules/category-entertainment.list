@@ -33,6 +33,9 @@ DOMAIN-SUFFIX, okko.sport
 DOMAIN-SUFFIX, okko.tv
 
 DOMAIN-SUFFIX, restream-media.net
+DOMAIN-SUFFIX, restream.ru
+DOMAIN-SUFFIX, more.tv
+DOMAIN-SUFFIX, wink.am
 DOMAIN-SUFFIX, wink.ru
 
 DOMAIN-SUFFIX, 24h.tv
@@ -922,6 +925,7 @@ DOMAIN-SUFFIX, supercellcreators.com
 DOMAIN-SUFFIX, supercellgames.com
 DOMAIN-SUFFIX, supercellid.com
 DOMAIN-SUFFIX, supercellstore.com
+DOMAIN-SUFFIX, supr.cl
 
 DOMAIN-SUFFIX, 2k.com
 DOMAIN-SUFFIX, 2kcoretech.online
@@ -1927,6 +1931,7 @@ DOMAIN-SUFFIX, themoviedb.org
 DOMAIN-SUFFIX, tmdb.org
 
 DOMAIN, tmdb-image-prod.b-cdn.net
+DOMAIN, tmdb-web-image-prod.b-cdn.net
 
 DOMAIN-SUFFIX, thetvdb.com
 
@@ -1948,6 +1953,7 @@ DOMAIN-SUFFIX, twitchsvc.net
 DOMAIN, d1g1f25tn8m2e6.cloudfront.net
 DOMAIN, d1m7jfoe9zdc1j.cloudfront.net
 DOMAIN, d1mhjrowxxagfy.cloudfront.net
+DOMAIN, d1ndex63qxojbr.cloudfront.net
 DOMAIN, d1oca24q5dwo6d.cloudfront.net
 DOMAIN, d1w2poirtb3as9.cloudfront.net
 DOMAIN, d1xhnb4ptk05mw.cloudfront.net

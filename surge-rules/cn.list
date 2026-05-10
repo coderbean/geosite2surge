@@ -707,6 +707,9 @@ DOMAIN-SUFFIX, 9xgame.com
 DOMAIN-SUFFIX, arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX, astral-vector.com
+# 终末地-协议终端
+DOMAIN, end-api.shallow.ink
+DOMAIN, end.shallow.ink
 # 飞火游戏
 DOMAIN-SUFFIX, feihuo.com
 # 九九互动 粤ICP备19068416号
@@ -1066,6 +1069,7 @@ DOMAIN-SUFFIX, kuaishouzt.com
 DOMAIN-SUFFIX, kwaicdn.com
 DOMAIN-SUFFIX, kwaizt.com
 DOMAIN-SUFFIX, kwimgs.com
+DOMAIN-SUFFIX, viviv.com
 DOMAIN-SUFFIX, wsukwai.com
 DOMAIN-SUFFIX, yximgs.com
 
@@ -1459,8 +1463,80 @@ DOMAIN-SUFFIX, luckincoffeecdn.com
 DOMAIN-SUFFIX, yyds.co
 
 
+# 麦当劳中国
+# https://www.iana.org/domains/root/db/mcd.html
+# mcd (Revoked)
+
+# https://www.iana.org/domains/root/db/mcdonalds.html
+# mcdonalds (Revoked)
+
+# McDonald's Australia
+DOMAIN-SUFFIX, happymeal.com.au
+DOMAIN-SUFFIX, mcdelivery.com.au
+DOMAIN-SUFFIX, mcdonalds.com.au
+
+# McDonald's China
+DOMAIN-SUFFIX, 4008-517-517.cn
+DOMAIN-SUFFIX, mcd.cn
+DOMAIN-SUFFIX, mcdchina.net
+DOMAIN-SUFFIX, mcdonalds.com.cn
+
+# McDonald's Hong Kong
+DOMAIN-SUFFIX, mcdonalds.hk
+DOMAIN-SUFFIX, mcdonalds.com.hk
+
+# McDonald's India
+DOMAIN-SUFFIX, mcdelivery.co.in
+DOMAIN-SUFFIX, mcdindia.com
+
+# McDonald's Indonesia
+DOMAIN-SUFFIX, mcdelivery.co.id
+DOMAIN-SUFFIX, mcdindonesia.com
+DOMAIN-SUFFIX, mcdonalds.co.id
+
+# McDonald's Japan
+DOMAIN-SUFFIX, mcdonalds.co.jp
+DOMAIN-SUFFIX, mcdonalds-online.com
+DOMAIN-SUFFIX, mcd-holdings.co.jp
+
+# McDonald's Korea
+DOMAIN-SUFFIX, mcdelivery.co.kr
+DOMAIN-SUFFIX, mcdonalds.co.kr
+
+# McDonald's Taiwan
+DOMAIN-SUFFIX, mcdelivery.com.tw
+DOMAIN-SUFFIX, mcdonalds.com.tw
+
+DOMAIN-SUFFIX, aboutmcdonalds.com
+DOMAIN-SUFFIX, happymeal.co.nz
+DOMAIN-SUFFIX, happymeal.com
+DOMAIN-SUFFIX, happymealdigital.com
+DOMAIN-SUFFIX, mcd.com
+DOMAIN-SUFFIX, mcdelivery.com.my
+DOMAIN-SUFFIX, mcdelivery.com.ph
+DOMAIN-SUFFIX, mcdelivery.com.sg
+DOMAIN-SUFFIX, mcdonalds.be
+DOMAIN-SUFFIX, mcdonalds.ca
+DOMAIN-SUFFIX, mcdonalds.it
+DOMAIN-SUFFIX, mcdonalds.no
+DOMAIN-SUFFIX, mcdonalds.se
+DOMAIN-SUFFIX, mcdonalds.co.nz
+DOMAIN-SUFFIX, mcdonalds.co.uk
+DOMAIN-SUFFIX, mcdonalds.com
+DOMAIN-SUFFIX, mcdonalds.com.lb
+DOMAIN-SUFFIX, mcdonalds.com.my
+DOMAIN-SUFFIX, mcdonalds.com.ph
+DOMAIN-SUFFIX, mcdonaldsapps.com
+DOMAIN-SUFFIX, mcdonaldsarabia.com
+DOMAIN-SUFFIX, mcdonaldsparties.co.nz
+
+
 DOMAIN-SUFFIX, 3songshu.com
+
+# 海底捞
 DOMAIN-SUFFIX, haidilao.com
+DOMAIN-SUFFIX, hdlcdns.com
+DOMAIN-SUFFIX, kiwa-tech.com
 
 # 喜茶
 DOMAIN-SUFFIX, heytea.com
@@ -1474,6 +1550,47 @@ DOMAIN-SUFFIX, imcome.net
 # 美餐
 DOMAIN-SUFFIX, meican.com
 DOMAIN-SUFFIX, meicanstatic.com
+
+# 农夫山泉/养生堂
+DOMAIN-SUFFIX, nongfuspring.com
+DOMAIN-SUFFIX, yst.com.cn
+
+# 娃哈哈
+DOMAIN-SUFFIX, wahaha.com.cn
+DOMAIN-SUFFIX, whhhealth.com
+
+# 茶百道（四川蜀信云茶）
+DOMAIN-SUFFIX, shuxinyc.com
+
+# 蜜雪冰城
+DOMAIN-SUFFIX, mxbc.com
+DOMAIN-SUFFIX, mxbc.net
+
+# 北京吉野家/DQ
+DOMAIN-SUFFIX, hophing.cn
+DOMAIN-SUFFIX, hophing.com.cn
+
+# 汉堡王
+DOMAIN-SUFFIX, bkchina.cn
+
+# 肯德基/百胜中国
+DOMAIN-SUFFIX, hwwt8.com
+DOMAIN-SUFFIX, kfc.com.cn
+DOMAIN-SUFFIX, yumchina.com
+
+# 企迈/智迈（一堆餐饮企业在用的 CRM）
+DOMAIN-SUFFIX, qmai.com
+DOMAIN-SUFFIX, qmai.cn
+DOMAIN-SUFFIX, qmimg.cn
+
+# 德克士
+DOMAIN-SUFFIX, dicos.com.cn
+
+# Tracking
+DOMAIN-SUFFIX, logger.qmai.cn
+DOMAIN-SUFFIX, tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX, trackingprd.hwwt8.com
+DOMAIN-SUFFIX, trackserver.shuxinyc.com
 
 # 快递物流
 # 百世
@@ -1912,6 +2029,8 @@ DOMAIN-SUFFIX, cqhlw.cn
 DOMAIN-SUFFIX, cqliving.com
 DOMAIN-SUFFIX, cqnews.net
 DOMAIN-SUFFIX, cqsjb.com
+# 中国质量新闻网
+DOMAIN-SUFFIX, cqn.com.cn
 # 中证网
 DOMAIN-SUFFIX, cs.com.cn
 # 极目新闻/楚天都市报
@@ -2031,6 +2150,8 @@ DOMAIN-SUFFIX, mydrivers.com
 DOMAIN-SUFFIX, nanyuenews.com
 # 每日经济新闻报社
 DOMAIN-SUFFIX, nbd.com.cn
+# 新周刊
+DOMAIN-SUFFIX, neweekly.com.cn
 # 新华社
 DOMAIN-SUFFIX, news.cn
 DOMAIN-SUFFIX, xinhuanet.com
@@ -3659,6 +3780,8 @@ DOMAIN-SUFFIX, dmallcdn.com
 ## 微店
 DOMAIN-SUFFIX, geilicdn.com
 DOMAIN-SUFFIX, weidian.com
+## 货摊网
+DOMAIN-SUFFIX, huotan.net
 ## 聚美优品
 DOMAIN-SUFFIX, jmstatic.com
 DOMAIN-SUFFIX, jumei.com
@@ -3785,6 +3908,8 @@ DOMAIN-SUFFIX, mingxuan.store
 DOMAIN-SUFFIX, 12315.cn
 DOMAIN-SUFFIX, 12321.cn
 DOMAIN-SUFFIX, gov.cn
+## 中华全国总工会
+DOMAIN-SUFFIX, acftu.org
 ## 中国气象局
 DOMAIN-SUFFIX, cma.cn
 ## 政务和公益机构域名注册管理中心
@@ -3793,6 +3918,8 @@ DOMAIN-SUFFIX, conac.cn
 DOMAIN-SUFFIX, nmc.cn
 ## 中国互联网联合辟谣平台
 DOMAIN-SUFFIX, piyao.org.cn
+## 中国红十字会
+DOMAIN-SUFFIX, redcross.org.cn
 ## 中国殡葬网
 DOMAIN-SUFFIX, zgbznet.com.cn
 
@@ -4008,6 +4135,9 @@ DOMAIN-SUFFIX, baicizhan.com
 DOMAIN-SUFFIX, baicizhan.org
 DOMAIN-SUFFIX, bczcdn.com
 DOMAIN-SUFFIX, bczeducation.cn
+# 班小二
+DOMAIN-SUFFIX, banxiaoer.com
+DOMAIN-SUFFIX, banxiaoer.net
 # 毕业之家科研服务平台
 DOMAIN-SUFFIX, biyehome.net
 # Burning Vocabulary
@@ -4081,8 +4211,13 @@ DOMAIN-SUFFIX, unipus.cn
 DOMAIN-SUFFIX, weilaiyunxiao.com
 # 北京嘉瑞新创教育咨询有限公司
 DOMAIN-SUFFIX, winyoungreading.com
+# 博茂择优
+DOMAIN-SUFFIX, wjwai.com
+DOMAIN-SUFFIX, zysn.net
 # 时代行云
 DOMAIN-SUFFIX, x-cloud.cc
+# 西柚英语
+DOMAIN-SUFFIX, xiyouyingyu.com
 # 学科网
 DOMAIN-SUFFIX, xkw.com
 DOMAIN-SUFFIX, zxxk.com
@@ -4304,18 +4439,36 @@ DOMAIN-SUFFIX, deepseek.com
 # non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX, butterfly-static.cn
 DOMAIN-SUFFIX, butterflyai.cn
+DOMAIN-SUFFIX, coze-dns-01.com
 DOMAIN-SUFFIX, coze.cn
+DOMAIN-SUFFIX, coze.email
 DOMAIN-SUFFIX, coze.site
+DOMAIN-SUFFIX, cozeapp.net
 DOMAIN-SUFFIX, cozebaas.cn
+DOMAIN-SUFFIX, cozebuild.com
+DOMAIN-SUFFIX, cozecdn.com
+DOMAIN-SUFFIX, cozedeploy.com
 DOMAIN-SUFFIX, cozefn.cn
 DOMAIN-SUFFIX, cozeide.cn
+DOMAIN-SUFFIX, cozesdk.com
+DOMAIN-SUFFIX, cozetest.cn
+DOMAIN-SUFFIX, cozetest2.cn
+DOMAIN-SUFFIX, cozetest3.cn
+DOMAIN-SUFFIX, dbbuilding.fun
+DOMAIN-SUFFIX, building.fun
+DOMAIN-SUFFIX, instreet.com
+DOMAIN-SUFFIX, doubao-dev.com
 DOMAIN-SUFFIX, doubao.com
 DOMAIN-SUFFIX, doubaocdn.com
 DOMAIN-SUFFIX, hi-butterfly.cn
 DOMAIN-SUFFIX, maoxiangai.com
 DOMAIN-SUFFIX, myparallelstory.com
+DOMAIN-SUFFIX, oceancloudapi.com
+DOMAIN-SUFFIX, obriccloud.com
+DOMAIN-SUFFIX, obricclouddw.com
 DOMAIN-SUFFIX, picpic-ai.cn
 DOMAIN-SUFFIX, pixeldance.com
+DOMAIN-SUFFIX, api-building.fun
 
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
 # non-cn domains is added to bytedance-ai-!cn
@@ -4424,6 +4577,9 @@ DOMAIN-SUFFIX, clawhub-mirror.com
 
 # Skillhub (tencent)
 DOMAIN-SUFFIX, skillhub.cn
+
+# SafeSkill (微步在线)
+DOMAIN-SUFFIX, safeskill.cn
 
 # 智合 AI 沪ICP备2024060320号-4
 DOMAIN-SUFFIX, zhiexa.com
@@ -5001,8 +5157,6 @@ DOMAIN-SUFFIX, zhangyuecdn.com
 DOMAIN-SUFFIX, moseeker.com
 ## 小能智慧云客服
 DOMAIN-SUFFIX, ntalker.com
-## OneDNS 微步在线
-DOMAIN-SUFFIX, onedns.net
 ## 心知天气
 DOMAIN-SUFFIX, sencdn.com
 DOMAIN-SUFFIX, seniverse.com
@@ -5329,6 +5483,7 @@ DOMAIN-SUFFIX, alimebot.com
 DOMAIN-SUFFIX, alimei.com
 DOMAIN-SUFFIX, alimmdn.com
 DOMAIN-SUFFIX, alios.cn
+DOMAIN-SUFFIX, alipay-eco.com
 DOMAIN-SUFFIX, alipay.cn
 DOMAIN-SUFFIX, alipay.com
 DOMAIN-SUFFIX, alipay.com.cn
@@ -5735,18 +5890,36 @@ DOMAIN-SUFFIX, trae.ai
 # non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX, butterfly-static.cn
 DOMAIN-SUFFIX, butterflyai.cn
+DOMAIN-SUFFIX, coze-dns-01.com
 DOMAIN-SUFFIX, coze.cn
+DOMAIN-SUFFIX, coze.email
 DOMAIN-SUFFIX, coze.site
+DOMAIN-SUFFIX, cozeapp.net
 DOMAIN-SUFFIX, cozebaas.cn
+DOMAIN-SUFFIX, cozebuild.com
+DOMAIN-SUFFIX, cozecdn.com
+DOMAIN-SUFFIX, cozedeploy.com
 DOMAIN-SUFFIX, cozefn.cn
 DOMAIN-SUFFIX, cozeide.cn
+DOMAIN-SUFFIX, cozesdk.com
+DOMAIN-SUFFIX, cozetest.cn
+DOMAIN-SUFFIX, cozetest2.cn
+DOMAIN-SUFFIX, cozetest3.cn
+DOMAIN-SUFFIX, dbbuilding.fun
+DOMAIN-SUFFIX, building.fun
+DOMAIN-SUFFIX, instreet.com
+DOMAIN-SUFFIX, doubao-dev.com
 DOMAIN-SUFFIX, doubao.com
 DOMAIN-SUFFIX, doubaocdn.com
 DOMAIN-SUFFIX, hi-butterfly.cn
 DOMAIN-SUFFIX, maoxiangai.com
 DOMAIN-SUFFIX, myparallelstory.com
+DOMAIN-SUFFIX, oceancloudapi.com
+DOMAIN-SUFFIX, obriccloud.com
+DOMAIN-SUFFIX, obricclouddw.com
 DOMAIN-SUFFIX, picpic-ai.cn
 DOMAIN-SUFFIX, pixeldance.com
+DOMAIN-SUFFIX, api-building.fun
 
 # 北京抖音科技有限公司 京ICP备16016397号
 # 抖音、抖音火山版、汽水音乐
@@ -5971,7 +6144,6 @@ DOMAIN-SUFFIX, bytexns.net  # 京ICP备16045432号-22 视频云开放平台
 DOMAIN-SUFFIX, bytexopen.com  # 京ICP备16045432号-43 企业服务平台
 DOMAIN-SUFFIX, bytexservice.com  # 京ICP备16045432号-44 企业服务平台
 DOMAIN-SUFFIX, meegobeta.com  # 京ICP备16045432号-162 Meego产品Beta测试
-DOMAIN-SUFFIX, oceancloudapi.com  # 京ICP备16045432号-70 Ocean云
 DOMAIN-SUFFIX, okr.cn  # 京ICP备16045432号-52 OKR网站
 DOMAIN-SUFFIX, okr.com  # 京ICP备16045432号-51 OKR网站
 DOMAIN-SUFFIX, okr.com.cn  # 京ICP备16045432号-50 OKR网站
@@ -7116,6 +7288,7 @@ DOMAIN-SUFFIX, ksmobile.com
 DOMAIN-SUFFIX, ksosoft.com
 
 # Kingsoft Cloud
+DOMAIN-SUFFIX, kcdnvip.com
 DOMAIN-SUFFIX, ks-cdn.com
 DOMAIN-SUFFIX, ks-cdn1.com
 DOMAIN-SUFFIX, ksyun.com
@@ -7314,6 +7487,15 @@ DOMAIN-SUFFIX, realmebbs.com
 DOMAIN-SUFFIX, realmemobile.com
 DOMAIN-SUFFIX, shopoppo.cn
 DOMAIN-SUFFIX, shopoppo.com.cn
+
+# 奇安信 奇安信科技集团股份有限公司 京ICP备16020626号
+DOMAIN-SUFFIX, 95015.com
+DOMAIN-SUFFIX, ceati.org.cn # CEATI 联盟
+DOMAIN-SUFFIX, datacon.org.cn # DataCon
+DOMAIN-SUFFIX, qianxin.com
+DOMAIN-SUFFIX, qianxincdn.com
+DOMAIN-SUFFIX, seclab.online # SecLab
+DOMAIN-SUFFIX, tianshucup.com # 天枢杯
 
 # StarWorld Games is a wholly owned subsidiary of Qihoo 360
 
@@ -8206,6 +8388,7 @@ DOMAIN-SUFFIX, mgslb.com
 DOMAIN-SUFFIX, mi-idc.com
 DOMAIN-SUFFIX, mi-img.com
 DOMAIN-SUFFIX, mi.com
+DOMAIN-SUFFIX, mieco.net
 DOMAIN-SUFFIX, mifile.cn
 DOMAIN-SUFFIX, mijia.tech
 DOMAIN-SUFFIX, mitvos.com
@@ -8300,6 +8483,10 @@ DOMAIN-SUFFIX, thundercdn.com
 DOMAIN-SUFFIX, xycloud.com
 DOMAIN-SUFFIX, xycdn.com
 
+# 光鸭云盘
+DOMAIN-SUFFIX, guangyacdn.com
+DOMAIN-SUFFIX, guangyapan.com
+
 DOMAIN-SUFFIX, aitcfw.com
 DOMAIN-SUFFIX, aizgtc.com
 DOMAIN-SUFFIX, hangzhouyq.cn
@@ -8340,23 +8527,29 @@ DOMAIN-SUFFIX, suzuki-china.com # 铃木中国官网
 DOMAIN-SUFFIX, udesk.cn # 沃丰科技
 DOMAIN-SUFFIX, ysjf.com # 影视飓风
 
-# 飞牛
+## 飞牛
 DOMAIN-SUFFIX, fnnas.com
 DOMAIN-SUFFIX, fnnas.net
 DOMAIN-SUFFIX, fnos.net
-# 稿定（厦门）信息服务有限公司
-## 花瓣网 闽ICP备2021013850号
+## 稿定（厦门）信息服务有限公司
+### 花瓣网 闽ICP备2021013850号
 DOMAIN-SUFFIX, huaban.com
 DOMAIN-SUFFIX, huabanimg.com
-## 闽ICP备12002004号
+### 闽ICP备12002004号
 DOMAIN-SUFFIX, dancf.com
 DOMAIN-SUFFIX, hlgdata.com
 DOMAIN-SUFFIX, huanleguang.com
 DOMAIN-SUFFIX, ttxsapp.com.cn
 DOMAIN-SUFFIX, xsbapp.cn
-# 凯迪仕
+## 凯迪仕
 DOMAIN-SUFFIX, juziwulian.com
 DOMAIN-SUFFIX, kaadas.com
+## 微步在线 / 步刻科技
+DOMAIN-SUFFIX, onedns.net
+#safeskill.cn
+DOMAIN-SUFFIX, shellpub.com
+DOMAIN-SUFFIX, threatbook.cn
+DOMAIN-SUFFIX, threatbook.com
 
 # Telecommunication
 DOMAIN-SUFFIX, 10099.com.cn
@@ -8541,7 +8734,6 @@ DOMAIN-SUFFIX, sinopec.com
 DOMAIN-SUFFIX, sinopecgroup.com
 DOMAIN-SUFFIX, sinopecnews.com.cn
 DOMAIN-SUFFIX, sinopecsales.com
-
 
 
 # 应城门户网站
@@ -9535,13 +9727,12 @@ DOMAIN-SUFFIX, zuowenwang.net
 DOMAIN-SUFFIX, zysou.com # 苏ICP备2024112174号-1
 DOMAIN-SUFFIX, zztfly.com
 
+# 爱赞助 粤ICP备18040645号
+DOMAIN-SUFFIX, azz.net
+
 # 京ICP备12006877号-1
-DOMAIN-SUFFIX, fm3838.com
-DOMAIN-SUFFIX, larsonlimited.com
 DOMAIN-SUFFIX, runsheng.com
 DOMAIN-SUFFIX, vzuu.com
-DOMAIN-SUFFIX, zoom3g.com
-DOMAIN-SUFFIX, zoomyou.cn
 
 # 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
 DOMAIN-SUFFIX, kujiale.com

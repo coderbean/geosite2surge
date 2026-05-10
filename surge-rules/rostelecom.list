@@ -3,3 +3,11 @@ DOMAIN-SUFFIX, restream.ru
 DOMAIN-SUFFIX, more.tv
 DOMAIN-SUFFIX, wink.am
 DOMAIN-SUFFIX, wink.ru
+
+
+DOMAIN-SUFFIX, azbukainterneta.ru
+DOMAIN-SUFFIX, rostelecom.ru
+DOMAIN-SUFFIX, rt.ru
+
+# Tracking
+DOMAIN, sentry.iptv.rt.ru

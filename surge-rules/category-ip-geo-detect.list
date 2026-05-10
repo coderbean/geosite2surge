@@ -36,6 +36,7 @@ DOMAIN-SUFFIX, getipintel.net
 DOMAIN-SUFFIX, greip.io
 DOMAIN-SUFFIX, hackertarget.com
 DOMAIN-SUFFIX, httpbin.org
+DOMAIN-SUFFIX, i.pn
 DOMAIN-SUFFIX, icanhazip.com
 DOMAIN-SUFFIX, ident.me
 DOMAIN-SUFFIX, ifconfig.co
@@ -73,6 +74,7 @@ DOMAIN-SUFFIX, ipecho.net
 DOMAIN-SUFFIX, ipfind.io
 DOMAIN-SUFFIX, ipfinder.io
 DOMAIN-SUFFIX, ipgeolocation.io
+DOMAIN-SUFFIX, ipify.cn
 DOMAIN-SUFFIX, ipify.org
 DOMAIN-SUFFIX, ipinfo.io
 DOMAIN-SUFFIX, iplark.com
@@ -154,5 +156,7 @@ DOMAIN-SUFFIX, ip.pe.kr
 DOMAIN-SUFFIX, ip.tyk.nu
 DOMAIN-SUFFIX, ipgeo.vercel.app
 DOMAIN-SUFFIX, ipv4-internet.yandex.net
+DOMAIN-SUFFIX, ipv4.internet.yandex.net
 DOMAIN-SUFFIX, ipv6-internet.yandex.net
+DOMAIN-SUFFIX, ipv6.internet.yandex.net
 DOMAIN-SUFFIX, whois.pconline.com.cn

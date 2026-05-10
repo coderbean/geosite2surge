@@ -18,8 +18,80 @@ DOMAIN-SUFFIX, luckincoffeecdn.com
 DOMAIN-SUFFIX, yyds.co
 
 
+# 麦当劳中国
+# https://www.iana.org/domains/root/db/mcd.html
+# mcd (Revoked)
+
+# https://www.iana.org/domains/root/db/mcdonalds.html
+# mcdonalds (Revoked)
+
+# McDonald's Australia
+DOMAIN-SUFFIX, happymeal.com.au
+DOMAIN-SUFFIX, mcdelivery.com.au
+DOMAIN-SUFFIX, mcdonalds.com.au
+
+# McDonald's China
+DOMAIN-SUFFIX, 4008-517-517.cn
+DOMAIN-SUFFIX, mcd.cn
+DOMAIN-SUFFIX, mcdchina.net
+DOMAIN-SUFFIX, mcdonalds.com.cn
+
+# McDonald's Hong Kong
+DOMAIN-SUFFIX, mcdonalds.hk
+DOMAIN-SUFFIX, mcdonalds.com.hk
+
+# McDonald's India
+DOMAIN-SUFFIX, mcdelivery.co.in
+DOMAIN-SUFFIX, mcdindia.com
+
+# McDonald's Indonesia
+DOMAIN-SUFFIX, mcdelivery.co.id
+DOMAIN-SUFFIX, mcdindonesia.com
+DOMAIN-SUFFIX, mcdonalds.co.id
+
+# McDonald's Japan
+DOMAIN-SUFFIX, mcdonalds.co.jp
+DOMAIN-SUFFIX, mcdonalds-online.com
+DOMAIN-SUFFIX, mcd-holdings.co.jp
+
+# McDonald's Korea
+DOMAIN-SUFFIX, mcdelivery.co.kr
+DOMAIN-SUFFIX, mcdonalds.co.kr
+
+# McDonald's Taiwan
+DOMAIN-SUFFIX, mcdelivery.com.tw
+DOMAIN-SUFFIX, mcdonalds.com.tw
+
+DOMAIN-SUFFIX, aboutmcdonalds.com
+DOMAIN-SUFFIX, happymeal.co.nz
+DOMAIN-SUFFIX, happymeal.com
+DOMAIN-SUFFIX, happymealdigital.com
+DOMAIN-SUFFIX, mcd.com
+DOMAIN-SUFFIX, mcdelivery.com.my
+DOMAIN-SUFFIX, mcdelivery.com.ph
+DOMAIN-SUFFIX, mcdelivery.com.sg
+DOMAIN-SUFFIX, mcdonalds.be
+DOMAIN-SUFFIX, mcdonalds.ca
+DOMAIN-SUFFIX, mcdonalds.it
+DOMAIN-SUFFIX, mcdonalds.no
+DOMAIN-SUFFIX, mcdonalds.se
+DOMAIN-SUFFIX, mcdonalds.co.nz
+DOMAIN-SUFFIX, mcdonalds.co.uk
+DOMAIN-SUFFIX, mcdonalds.com
+DOMAIN-SUFFIX, mcdonalds.com.lb
+DOMAIN-SUFFIX, mcdonalds.com.my
+DOMAIN-SUFFIX, mcdonalds.com.ph
+DOMAIN-SUFFIX, mcdonaldsapps.com
+DOMAIN-SUFFIX, mcdonaldsarabia.com
+DOMAIN-SUFFIX, mcdonaldsparties.co.nz
+
+
 DOMAIN-SUFFIX, 3songshu.com
+
+# 海底捞
 DOMAIN-SUFFIX, haidilao.com
+DOMAIN-SUFFIX, hdlcdns.com
+DOMAIN-SUFFIX, kiwa-tech.com
 
 # 喜茶
 DOMAIN-SUFFIX, heytea.com
@@ -33,3 +105,44 @@ DOMAIN-SUFFIX, imcome.net
 # 美餐
 DOMAIN-SUFFIX, meican.com
 DOMAIN-SUFFIX, meicanstatic.com
+
+# 农夫山泉/养生堂
+DOMAIN-SUFFIX, nongfuspring.com
+DOMAIN-SUFFIX, yst.com.cn
+
+# 娃哈哈
+DOMAIN-SUFFIX, wahaha.com.cn
+DOMAIN-SUFFIX, whhhealth.com
+
+# 茶百道（四川蜀信云茶）
+DOMAIN-SUFFIX, shuxinyc.com
+
+# 蜜雪冰城
+DOMAIN-SUFFIX, mxbc.com
+DOMAIN-SUFFIX, mxbc.net
+
+# 北京吉野家/DQ
+DOMAIN-SUFFIX, hophing.cn
+DOMAIN-SUFFIX, hophing.com.cn
+
+# 汉堡王
+DOMAIN-SUFFIX, bkchina.cn
+
+# 肯德基/百胜中国
+DOMAIN-SUFFIX, hwwt8.com
+DOMAIN-SUFFIX, kfc.com.cn
+DOMAIN-SUFFIX, yumchina.com
+
+# 企迈/智迈（一堆餐饮企业在用的 CRM）
+DOMAIN-SUFFIX, qmai.com
+DOMAIN-SUFFIX, qmai.cn
+DOMAIN-SUFFIX, qmimg.cn
+
+# 德克士
+DOMAIN-SUFFIX, dicos.com.cn
+
+# Tracking
+DOMAIN-SUFFIX, logger.qmai.cn
+DOMAIN-SUFFIX, tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX, trackingprd.hwwt8.com
+DOMAIN-SUFFIX, trackserver.shuxinyc.com

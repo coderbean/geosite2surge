@@ -240,6 +240,9 @@ DOMAIN-SUFFIX, okko.sport
 DOMAIN-SUFFIX, okko.tv
 
 DOMAIN-SUFFIX, restream-media.net
+DOMAIN-SUFFIX, restream.ru
+DOMAIN-SUFFIX, more.tv
+DOMAIN-SUFFIX, wink.am
 DOMAIN-SUFFIX, wink.ru
 
 DOMAIN-SUFFIX, 24h.tv
@@ -287,6 +290,7 @@ DOMAIN-SUFFIX, kremlin.ru      # Online representation of the President of Russi
 DOMAIN-SUFFIX, mil.ru          # Ministry of Defense of the Russian Federation
 DOMAIN-SUFFIX, nalog.ru        # Federal Tax Service
 DOMAIN-SUFFIX, xn--80ajghhoc2aj1c8b.xn--p1ai # Honest Sign - State Labeling System
+DOMAIN-SUFFIX, xn--b1afabzvcegckfhg.xn--p1ai # Military Registration Register
 
 #
 # Regional sites and Public Services
@@ -679,6 +683,95 @@ DOMAIN-SUFFIX, ad-cdek.ru
 DOMAIN-SUFFIX, cdek.shopping
 DOMAIN-SUFFIX, cdek.ru
 
+DOMAIN-SUFFIX, comss.club
+DOMAIN-SUFFIX, comss.info
+DOMAIN-SUFFIX, comss.me
+DOMAIN-SUFFIX, comss.net
+DOMAIN-SUFFIX, comss.news
+DOMAIN-SUFFIX, comss.one
+DOMAIN-SUFFIX, comss.online
+DOMAIN-SUFFIX, comss.org
+DOMAIN-SUFFIX, comss.ru
+
+DOMAIN-SUFFIX, bananacall.ru
+DOMAIN-SUFFIX, beesbfl.ru
+DOMAIN-SUFFIX, beescrm.ru
+DOMAIN-SUFFIX, bimsaas.ru
+DOMAIN-SUFFIX, callbackkiller.com
+DOMAIN-SUFFIX, cbkiller.com
+DOMAIN-SUFFIX, envybox.company
+DOMAIN-SUFFIX, envybox.family
+DOMAIN-SUFFIX, envybox.io
+DOMAIN-SUFFIX, envybox.kg
+DOMAIN-SUFFIX, envybox.su
+DOMAIN-SUFFIX, envycdp.com
+DOMAIN-SUFFIX, envycdp.ru
+DOMAIN-SUFFIX, envycrm.com
+DOMAIN-SUFFIX, envyday.ru
+DOMAIN-SUFFIX, killercb.ru
+DOMAIN-SUFFIX, myenvy.ru
+DOMAIN-SUFFIX, quizlink.ru
+DOMAIN-SUFFIX, saas-support.com
+DOMAIN-SUFFIX, whitesaas.com
+
+# IDN ccTLD
+DOMAIN-SUFFIX, xn--90absjljw3g.xn--p1ai # энвибокс.рф
+
+DOMAIN-SUFFIX, genetic-technologies.am
+DOMAIN-SUFFIX, genotek.am
+DOMAIN-SUFFIX, genotek.es
+DOMAIN-SUFFIX, genotek.eu
+DOMAIN-SUFFIX, genotek.health
+DOMAIN-SUFFIX, genotek.ru
+
+# Eligens
+DOMAIN-SUFFIX, eligens.cl
+DOMAIN-SUFFIX, eligens.com.br
+DOMAIN-SUFFIX, eligens.io
+
+DOMAIN-SUFFIX, gismeteo.by
+DOMAIN-SUFFIX, gismeteo.com
+DOMAIN-SUFFIX, gismeteo.net
+DOMAIN-SUFFIX, gismeteo.ru
+DOMAIN-SUFFIX, gismeteo.st
+
+# Meteofor
+DOMAIN-SUFFIX, meteofor.com
+DOMAIN-SUFFIX, meteofor.st
+
+DOMAIN-SUFFIX, antiphishing.nl
+DOMAIN-SUFFIX, antiphishing.ru
+DOMAIN-SUFFIX, cert-gib.com
+DOMAIN-SUFFIX, cert-gib.ru
+DOMAIN-SUFFIX, cybercrimecon.com
+DOMAIN-SUFFIX, gibdev.net
+DOMAIN-SUFFIX, g-ib.ae
+DOMAIN-SUFFIX, g-ib.ru
+DOMAIN-SUFFIX, g-ib.sg
+DOMAIN-SUFFIX, g-ib.us
+DOMAIN-SUFFIX, gib-global.com
+DOMAIN-SUFFIX, gib.sg
+DOMAIN-SUFFIX, gibtds.ru
+DOMAIN-SUFFIX, group-ib.ae
+DOMAIN-SUFFIX, group-ib.co.uk
+DOMAIN-SUFFIX, group-ib.com
+DOMAIN-SUFFIX, group-ib.de
+DOMAIN-SUFFIX, group-ib.eu
+DOMAIN-SUFFIX, group-ib.ru
+DOMAIN-SUFFIX, group-ib.sg
+DOMAIN-SUFFIX, group-ib.us
+DOMAIN-SUFFIX, groupib.ae
+DOMAIN-SUFFIX, groupib.sg
+DOMAIN-SUFFIX, groupib.us
+
+# F.A.C.C.T.
+DOMAIN-SUFFIX, f6.dev
+DOMAIN-SUFFIX, f6.ru
+DOMAIN-SUFFIX, f6.security
+DOMAIN-SUFFIX, facct.email
+DOMAIN-SUFFIX, facct.ru
+DOMAIN-SUFFIX, future-cs.ru
+
 DOMAIN-SUFFIX, hh.by
 DOMAIN-SUFFIX, hh.kz
 DOMAIN-SUFFIX, hh.ru
@@ -687,6 +780,10 @@ DOMAIN-SUFFIX, rabota.by
 DOMAIN-SUFFIX, setka.ru
 DOMAIN-SUFFIX, talantix.ru
 DOMAIN-SUFFIX, zarplata.ru
+
+DOMAIN-SUFFIX, ideco.dev
+DOMAIN-SUFFIX, ideco.ru
+DOMAIN-SUFFIX, idecosoftware.ru
 
 DOMAIN-SUFFIX, kaspersky-labs.com
 DOMAIN-SUFFIX, kaspersky.com
@@ -845,7 +942,15 @@ DOMAIN-SUFFIX, dzeninfra.ru
 DOMAIN-SUFFIX, apiok.ru
 DOMAIN-SUFFIX, insideok.ru
 DOMAIN-SUFFIX, odkl.ru
+DOMAIN-SUFFIX, odnoklasniki.by
+DOMAIN-SUFFIX, odnoklasniki.ua
+DOMAIN-SUFFIX, odnoklassniki.am
+DOMAIN-SUFFIX, odnoklassniki.by
+DOMAIN-SUFFIX, odnoklassniki.co.ee
+DOMAIN-SUFFIX, odnoklassniki.eu
+DOMAIN-SUFFIX, odnoklassniki.lv
 DOMAIN-SUFFIX, odnoklassniki.ru
+DOMAIN-SUFFIX, odnoklassniki.tj
 DOMAIN-SUFFIX, ok.me
 DOMAIN-SUFFIX, ok.ru
 DOMAIN-SUFFIX, okl.lt
@@ -952,6 +1057,12 @@ DOMAIN-SUFFIX, yclients.com
 # IDN ccTLD
 DOMAIN-SUFFIX, xn--80asgb.xn--p1ai # майл.рф
 DOMAIN-SUFFIX, xn--e1aigb.xn--p1ai # мейл.рф
+
+# Unknown-purpose domains with DGA subdomains
+DOMAIN-SUFFIX, justveryok.com
+DOMAIN-SUFFIX, keyboardmen.com
+DOMAIN-SUFFIX, rabbitcounter.com
+DOMAIN-SUFFIX, sayeasy.eu
 
 # Ads and tracking
 DOMAIN-SUFFIX, ad.mail.ru
@@ -1714,16 +1825,6 @@ DOMAIN-SUFFIX, netmonet.co
 DOMAIN-SUFFIX, tips.tips
 
 # Telecom operators
-DOMAIN-SUFFIX, beeline.ru
-DOMAIN-SUFFIX, dom.ru
-DOMAIN-SUFFIX, mts.ru
-DOMAIN-SUFFIX, mymts.ru
-DOMAIN-SUFFIX, rostelecom.ru
-DOMAIN-SUFFIX, rt.ru
-DOMAIN-SUFFIX, t2.ru
-DOMAIN-SUFFIX, tele2.ru
-
-## Megafon
 DOMAIN-SUFFIX, inplat.ru
 DOMAIN-SUFFIX, megafon.com
 DOMAIN-SUFFIX, megafon.ru
@@ -1734,59 +1835,78 @@ DOMAIN-SUFFIX, scartel.ru
 DOMAIN-SUFFIX, yota.ru
 DOMAIN-SUFFIX, yotagamer.ru
 
-### IDN ccTLD
+# IDN ccTLD
 DOMAIN-SUFFIX, xn--80a9a4b.xn--p1ai # ёта.рф
-DOMAIN-SUFFIX, xn--80aj3b.xn--p1ai # ета.рф
-DOMAIN-SUFFIX, xn--80arpq.xn--p1ai # йота.рф
+DOMAIN-SUFFIX, xn--80aj3b.xn--p1ai  # ета.рф
+DOMAIN-SUFFIX, xn--80arpq.xn--p1ai  # йота.рф
 
-# Other domains
-DOMAIN-SUFFIX, apptrackpets.com # Pet GPS tracker service (Yandex Cloud, reg.ru)
-DOMAIN-SUFFIX, gazfond-pn.ru    # Non-state pension fund GAZFOND pension savings
-DOMAIN-SUFFIX, litres.ru        # E-book and audiobook service
-DOMAIN-SUFFIX, meteoinfo.ru     # Hydrometeorological Center of Russia
-DOMAIN-SUFFIX, ngenix.net       # NGENIX is a Russian provider of acceleration and security services for public web resources
-DOMAIN-SUFFIX, pochta.ru        # Russian post
-DOMAIN-SUFFIX, qms.ru           # Russian internet speed testing service
-DOMAIN-SUFFIX, roistat.com
-DOMAIN-SUFFIX, srv-hub.org      # Website buider
-DOMAIN-SUFFIX, t1.cloud         # Russian cloud storage provider
-DOMAIN-SUFFIX, taxsee.com       # Taxi for business (self-employed drivers)
+DOMAIN-SUFFIX, mts-ws.net
+DOMAIN-SUFFIX, mts.ru
+DOMAIN-SUFFIX, mymts.ru
+
+# Ads and tracking
+DOMAIN-SUFFIX, a.mts.ru
+DOMAIN-SUFFIX, obs.mts.ru
+
+# Ecosystem
+
+## Finance
+DOMAIN-SUFFIX, dbo-dengi.online
+DOMAIN-SUFFIX, mtsbank.ru
+DOMAIN-SUFFIX, mtsdengi.ru
+DOMAIN-SUFFIX, tvoyodbo.online
+
+## Kion
+DOMAIN-SUFFIX, kion.ru
+
+## ON Media (MTS Media)
+DOMAIN-SUFFIX, mtsmedia.ru
+DOMAIN-SUFFIX, on-media.ru
+
+DOMAIN-SUFFIX, restream-media.net
+DOMAIN-SUFFIX, restream.ru
+DOMAIN-SUFFIX, more.tv
+DOMAIN-SUFFIX, wink.am
+DOMAIN-SUFFIX, wink.ru
+
+
+DOMAIN-SUFFIX, azbukainterneta.ru
+DOMAIN-SUFFIX, rostelecom.ru
+DOMAIN-SUFFIX, rt.ru
+
+# Tracking
+DOMAIN, sentry.iptv.rt.ru
+
+DOMAIN-SUFFIX, b2c-digest.ru
+DOMAIN-SUFFIX, t2.ru
+DOMAIN-SUFFIX, tele2.ru
+
+DOMAIN-SUFFIX, beeline.ru
+DOMAIN-SUFFIX, dom.ru
 
 # Other services
-DOMAIN-SUFFIX, comss.club
-DOMAIN-SUFFIX, comss.info
-DOMAIN-SUFFIX, comss.me
-DOMAIN-SUFFIX, comss.net
-DOMAIN-SUFFIX, comss.news
-DOMAIN-SUFFIX, comss.one
-DOMAIN-SUFFIX, comss.online
-DOMAIN-SUFFIX, comss.org
-DOMAIN-SUFFIX, comss.ru
+DOMAIN-SUFFIX, 3ebra.net          # Zebra Net Bureau, web development agency
+DOMAIN-SUFFIX, apptrackpets.com   # Pet GPS tracker service (Yandex Cloud, reg.ru)
+DOMAIN-SUFFIX, flomni.com         # Omnichannel communications platform
+DOMAIN-SUFFIX, gazfond-pn.ru      # Non-state pension fund GAZFOND pension savings
+DOMAIN-SUFFIX, kinescopecdn.net   # Kinescope video hosting CDN
+DOMAIN-SUFFIX, litres.ru          # E-book and audiobook service
+DOMAIN-SUFFIX, meteoinfo.ru       # Hydrometeorological Center of Russia
+DOMAIN-SUFFIX, ngenix.net         # NGENIX is a Russian provider of acceleration and security services for public web resources
+DOMAIN-SUFFIX, ognihome.com       # OGNI HOME resident portal
+DOMAIN-SUFFIX, pochta.ru          # Russian post
+DOMAIN-SUFFIX, qms.ru             # Russian internet speed testing service
+DOMAIN-SUFFIX, srv-hub.org        # Website buider
+DOMAIN-SUFFIX, t1.cloud           # Russian cloud storage provider
+DOMAIN-SUFFIX, taxsee.com         # Taxi for business (self-employed drivers)
+DOMAIN-SUFFIX, yourgood.app       # CRM for small business
 
-DOMAIN-SUFFIX, eligens.cl
-DOMAIN-SUFFIX, eligens.com.br
-DOMAIN-SUFFIX, eligens.io
-DOMAIN-SUFFIX, genetic-technologies.am
-DOMAIN-SUFFIX, genotek.am
-DOMAIN-SUFFIX, genotek.health
-DOMAIN-SUFFIX, genotek.ru
-
-DOMAIN-SUFFIX, gismeteo.net
-DOMAIN-SUFFIX, gismeteo.ru
-DOMAIN-SUFFIX, gismeteo.st
-
-DOMAIN-SUFFIX, ideco.dev
-DOMAIN-SUFFIX, ideco.ru
-DOMAIN-SUFFIX, idecosoftware.ru
-
-DOMAIN-SUFFIX, 3ebra.net           # Zebra Net Bureau, web development agency
-DOMAIN-SUFFIX, envybox.io
-DOMAIN-SUFFIX, flomni.com          # Omnichannel communications platform
+## Ads and tracking
+DOMAIN-SUFFIX, adriver.ru
 DOMAIN-SUFFIX, flocktory.com
-DOMAIN-SUFFIX, group-ib.com        # Group-IB cybersecurity company
-DOMAIN-SUFFIX, kinescopecdn.net    # Kinescope video hosting CDN
-DOMAIN-SUFFIX, ognihome.com        # OGNI HOME resident portal
-DOMAIN-SUFFIX, saas-support.com
+DOMAIN-SUFFIX, roistat.com
 DOMAIN-SUFFIX, targetads.io
-DOMAIN-SUFFIX, whitesaas.com
-DOMAIN-SUFFIX, yourgood.app        # CRM for small business
+
+## Planeta Zdorov'ya pharmacy
+DOMAIN-SUFFIX, planetazdorovo.ru
+DOMAIN-SUFFIX, pz.help
