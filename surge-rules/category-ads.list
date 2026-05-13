@@ -545,9 +545,6 @@ DOMAIN-SUFFIX, mmstat.com
 
 DOMAIN-SUFFIX, soku.com
 
-# youku video cdn
-DOMAIN-SUFFIX, cibntv.net
-
 # Ads/tracking
 DOMAIN-SUFFIX, ad.api.3g.youku.com
 DOMAIN-SUFFIX, ad.api.mobile.youku.com
@@ -3306,6 +3303,7 @@ DOMAIN-SUFFIX, douyinpay.com
 
 DOMAIN-SUFFIX, activity-zhendingtech.com
 DOMAIN-SUFFIX, changdunovel.com
+DOMAIN-SUFFIX, fanqiecopyright.com
 DOMAIN-SUFFIX, fanqienovel.com
 DOMAIN-SUFFIX, fanqieopen.com
 DOMAIN-SUFFIX, fanqieopenpic.com
@@ -3322,6 +3320,7 @@ DOMAIN-SUFFIX, fqnovelop.com
 DOMAIN-SUFFIX, fqnovelpic.com
 DOMAIN-SUFFIX, fqnovelstatic.com
 DOMAIN-SUFFIX, fqnovelvod.com
+DOMAIN-SUFFIX, fqopenplatform.com
 DOMAIN-SUFFIX, ihaohaoxuexi.com
 DOMAIN-SUFFIX, muyewx.com
 DOMAIN-SUFFIX, novelfm.com
@@ -6656,6 +6655,7 @@ DOMAIN-SUFFIX, hrtek.ru
 DOMAIN-SUFFIX, koddobra.ru
 DOMAIN-SUFFIX, lovina.app
 DOMAIN-SUFFIX, mail.ru
+DOMAIN-SUFFIX, mcs.st
 DOMAIN-SUFFIX, mediumquality.ru
 DOMAIN-SUFFIX, memealerts.com
 DOMAIN-SUFFIX, movika.com
@@ -6668,6 +6668,7 @@ DOMAIN-SUFFIX, vk-apps.ru
 DOMAIN-SUFFIX, vk-records.ru
 DOMAIN-SUFFIX, vk-stadium.ru
 DOMAIN-SUFFIX, vk.company
+DOMAIN-SUFFIX, vk.kz
 DOMAIN-SUFFIX, vk.team
 DOMAIN-SUFFIX, vkclips.app
 DOMAIN-SUFFIX, vkcs.cloud
@@ -6675,6 +6676,7 @@ DOMAIN-SUFFIX, vkfest.ru
 DOMAIN-SUFFIX, vkgo.app
 DOMAIN-SUFFIX, vklive.app
 DOMAIN-SUFFIX, vkvideo.ru
+DOMAIN-SUFFIX, vkworkspace.kz
 DOMAIN-SUFFIX, yclients.com
 
 # IDN ccTLD
@@ -6896,6 +6898,10 @@ DOMAIN-SUFFIX, uma.media
 ## Viqeo
 DOMAIN-SUFFIX, viqeo.tv
 DOMAIN-SUFFIX, viqeotv.com
+
+## VK Cloud KZ (joint venture with QazCloud)
+DOMAIN-SUFFIX, vkcloud-static.kz
+DOMAIN-SUFFIX, vkcloud.kz
 
 ## VK Play
 DOMAIN-SUFFIX, vkplay-arena.ru
@@ -9645,6 +9651,7 @@ DOMAIN-SUFFIX, qidian.com
 DOMAIN-SUFFIX, readnovel.com
 DOMAIN-SUFFIX, rongshuxia.com
 DOMAIN-SUFFIX, tingbook.com
+DOMAIN-SUFFIX, wting.info
 DOMAIN-SUFFIX, xs.cn
 DOMAIN-SUFFIX, xs8.cn
 DOMAIN-SUFFIX, xxsy.net

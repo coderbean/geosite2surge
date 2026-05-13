@@ -1490,7 +1490,12 @@ DOMAIN-SUFFIX, dlsitestudio.com
 DOMAIN-SUFFIX, nijiyome.jp
 DOMAIN-SUFFIX, triokini.com
 
+DOMAIN-SUFFIX, fanfictionero.com
+DOMAIN-SUFFIX, fic.fan
+DOMAIN-SUFFIX, ficador.com
 DOMAIN-SUFFIX, ficbook.net
+DOMAIN-SUFFIX, ficmania.com
+DOMAIN-SUFFIX, teinon.net
 
 DOMAIN-SUFFIX, gimy.cc
 DOMAIN-SUFFIX, gimy.co
@@ -1508,6 +1513,9 @@ DOMAIN, scc.ott.hinet.net
 DOMAIN, static-hamivideo.cdn.hinet.net
 DOMAIN, tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN, weblive-hamivideo.cdn.hinet.net
+
+# All .hbo domains
+DOMAIN-SUFFIX, hbo
 
 DOMAIN-SUFFIX, beforeigners.com
 DOMAIN-SUFFIX, brightline.tv
