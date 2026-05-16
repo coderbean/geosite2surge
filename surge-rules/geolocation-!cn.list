@@ -2259,6 +2259,9 @@ DOMAIN-SUFFIX, hsbc.co.jp
 DOMAIN-SUFFIX, hsbc.fr
 DOMAIN-SUFFIX, hsbctrinkaus.de
 
+# PayMe by HSBC
+DOMAIN-SUFFIX, vv1865.com
+
 DOMAIN-SUFFIX, ibkr.ca
 DOMAIN-SUFFIX, ibkr.co.in
 DOMAIN-SUFFIX, ibkr.co.uk
@@ -29937,6 +29940,7 @@ DOMAIN-SUFFIX, rustdesk.com
 
 DOMAIN-SUFFIX, auth0.com
 DOMAIN-SUFFIX, civitai.com
+DOMAIN-SUFFIX, fussengroup.com
 DOMAIN-SUFFIX, porkbun.com
 
 
