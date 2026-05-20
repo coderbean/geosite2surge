@@ -125,6 +125,10 @@ DOMAIN-SUFFIX, slackcertified.com
 DOMAIN-SUFFIX, slackdemo.com
 DOMAIN-SUFFIX, slackhq.com
 
+DOMAIN-SUFFIX, myteamspeak.com
+DOMAIN-SUFFIX, teamspeak.com
+DOMAIN-SUFFIX, teamspeak-services.com
+
 DOMAIN-SUFFIX, cdn-telegram.org
 DOMAIN-SUFFIX, comments.app
 DOMAIN-SUFFIX, contest.com
