@@ -2339,6 +2339,12 @@ DOMAIN-SUFFIX, standardchartered.com
 DOMAIN, standchartbank.sc.omtrdc.net
 DOMAIN, standchartbank.tt.omtrdc.net
 
+DOMAIN-SUFFIX, link.com
+DOMAIN-SUFFIX, stripe-terminal-local-reader.net
+DOMAIN-SUFFIX, stripe.com
+DOMAIN-SUFFIX, stripe.network
+DOMAIN-SUFFIX, stripecdn.com
+
 DOMAIN-SUFFIX, transferwise.com
 DOMAIN-SUFFIX, wise.com
 
