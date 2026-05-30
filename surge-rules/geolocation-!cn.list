@@ -205,6 +205,7 @@ DOMAIN-SUFFIX, jasper.ai
 
 DOMAIN-SUFFIX, agentclientprotocol.com
 DOMAIN-SUFFIX, anythingllm.com
+DOMAIN-SUFFIX, arena.ai
 DOMAIN-SUFFIX, chutes.ai
 DOMAIN-SUFFIX, clawhub.ai
 DOMAIN-SUFFIX, copilot.microsoft.com
@@ -28592,6 +28593,12 @@ DOMAIN-SUFFIX, mozillafoundation.org
 DOMAIN-SUFFIX, mzl.la
 DOMAIN-SUFFIX, seamonkey-project.org
 DOMAIN-SUFFIX, thunderbird.net
+
+# Ads/tracking
+DOMAIN, ads-img.mozilla.org
+DOMAIN, ads.mozilla.org
+DOMAIN, incoming.telemetry.mozilla.org
+DOMAIN, incoming-telemetry.thunderbird.net
 
 DOMAIN-SUFFIX, msi.cn
 DOMAIN-SUFFIX, msi.com
