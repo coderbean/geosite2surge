@@ -44,6 +44,12 @@ DOMAIN-SUFFIX, ukwhoswho.com
 DOMAIN-SUFFIX, universitypressscholarship.com
 DOMAIN-SUFFIX, veryshortintroductions.com
 
+# University of liverpool
+DOMAIN-SUFFIX, liv.ac.uk
+DOMAIN-SUFFIX, liverpool.ac.uk
+DOMAIN-SUFFIX, livinno.org
+DOMAIN-SUFFIX, opac-project.eu
+
 
 # https://iridis.uk/ac-uk-domain-registration/
 # https://community.jisc.ac.uk/library/janet-services-documentation/terms-and-conditions-acuk
