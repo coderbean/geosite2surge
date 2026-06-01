@@ -5,6 +5,8 @@ DOMAIN-SUFFIX, epicbrowser.com
 DOMAIN-SUFFIX, firefox.com
 DOMAIN-SUFFIX, firefoxusercontent.com
 
+DOMAIN, mozilla-ohttp.fastly-edge.com
+
 DOMAIN-SUFFIX, torproject.org
 
 
