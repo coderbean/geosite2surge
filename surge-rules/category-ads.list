@@ -563,7 +563,6 @@ DOMAIN-SUFFIX, soku.com
 DOMAIN-SUFFIX, tudou.com
 DOMAIN-SUFFIX, ykimg.com
 DOMAIN-SUFFIX, youku.com
-DOMAIN-SUFFIX, zimgs.cn
 
 # Ads/tracking
 DOMAIN-SUFFIX, ad.api.3g.youku.com
@@ -687,6 +686,7 @@ DOMAIN-SUFFIX, yowhale.com
 DOMAIN-SUFFIX, yunos-inc.com
 DOMAIN-SUFFIX, yunos.com
 DOMAIN-SUFFIX, yushanfang.com
+DOMAIN-SUFFIX, zimgs.cn
 DOMAIN-SUFFIX, zuodao.com
 
 # AliExpress
@@ -4107,17 +4107,6 @@ DOMAIN-SUFFIX, 517lppz.com
 DOMAIN-SUFFIX, lppz.com
 DOMAIN-SUFFIX, lppzimg.com
 
-# 叮咚买菜 上海壹佰米网络科技有限公司
-DOMAIN-SUFFIX, 100.me
-DOMAIN-SUFFIX, ddcorp.net
-DOMAIN-SUFFIX, ddfresh.net
-DOMAIN-SUFFIX, ddimg.mobi
-DOMAIN-SUFFIX, ddmaicai.net
-DOMAIN-SUFFIX, ddmc.mobi
-DOMAIN-SUFFIX, dduser.mobi
-DOMAIN-SUFFIX, ddxq.mobi
-DOMAIN-SUFFIX, imaicai.mobi
-
 DOMAIN-SUFFIX, lkcoffee.com
 DOMAIN-SUFFIX, luckincoffeecdn.com
 DOMAIN-SUFFIX, yyds.co
@@ -4191,7 +4180,81 @@ DOMAIN-SUFFIX, mcdonaldsarabia.com
 DOMAIN-SUFFIX, mcdonaldsparties.co.nz
 
 
+# 星巴克中国
+DOMAIN-SUFFIX, sbux.com.my
+DOMAIN-SUFFIX, sbuxcard.com
+DOMAIN-SUFFIX, starbucks-stars.com
+DOMAIN-SUFFIX, starbucks.ad
+DOMAIN-SUFFIX, starbucks.at
+DOMAIN-SUFFIX, starbucks.be
+DOMAIN-SUFFIX, starbucks.bg
+DOMAIN-SUFFIX, starbucks.ca
+DOMAIN-SUFFIX, starbucks.ch
+DOMAIN-SUFFIX, starbucks.co.id
+DOMAIN-SUFFIX, starbucks.co.jp
+DOMAIN-SUFFIX, starbucks.co.nz
+DOMAIN-SUFFIX, starbucks.co.th
+DOMAIN-SUFFIX, starbucks.co.uk
+DOMAIN-SUFFIX, starbucks.co.za
+DOMAIN-SUFFIX, starbucks.com
+DOMAIN-SUFFIX, starbucks.com.ar
+DOMAIN-SUFFIX, starbucks.com.bn
+DOMAIN-SUFFIX, starbucks.com.cn
+DOMAIN-SUFFIX, starbucks.com.co
+DOMAIN-SUFFIX, starbucks.com.cy
+DOMAIN-SUFFIX, starbucks.com.gr
+DOMAIN-SUFFIX, starbucks.com.hk
+DOMAIN-SUFFIX, starbucks.com.kh
+DOMAIN-SUFFIX, starbucks.com.kz
+DOMAIN-SUFFIX, starbucks.com.mx
+DOMAIN-SUFFIX, starbucks.com.my
+DOMAIN-SUFFIX, starbucks.com.pe
+DOMAIN-SUFFIX, starbucks.com.sg
+DOMAIN-SUFFIX, starbucks.com.tr
+DOMAIN-SUFFIX, starbucks.com.uy
+DOMAIN-SUFFIX, starbucks.de
+DOMAIN-SUFFIX, starbucks.dk
+DOMAIN-SUFFIX, starbucks.es
+DOMAIN-SUFFIX, starbucks.fr
+DOMAIN-SUFFIX, starbucks.hu
+DOMAIN-SUFFIX, starbucks.ie
+DOMAIN-SUFFIX, starbucks.in
+DOMAIN-SUFFIX, starbucks.it
+DOMAIN-SUFFIX, starbucks.nl
+DOMAIN-SUFFIX, starbucks.no
+DOMAIN-SUFFIX, starbucks.ph
+DOMAIN-SUFFIX, starbucks.pl
+DOMAIN-SUFFIX, starbucks.pt
+DOMAIN-SUFFIX, starbucks.rs
+DOMAIN-SUFFIX, starbucks.ru
+DOMAIN-SUFFIX, starbucks.se
+DOMAIN-SUFFIX, starbucks.tt
+DOMAIN-SUFFIX, starbucks.vn
+DOMAIN-SUFFIX, starbucksathome.com
+DOMAIN-SUFFIX, starbucksavie.ca
+DOMAIN-SUFFIX, starbuckscard.ph
+DOMAIN-SUFFIX, starbuckscardb2b.com
+DOMAIN-SUFFIX, starbuckscoffee.cz
+DOMAIN-SUFFIX, starbuckscoffeegear.com
+DOMAIN-SUFFIX, starbuckscoffeegearstore.com
+DOMAIN-SUFFIX, starbucksforlife.ca
+DOMAIN-SUFFIX, starbucksforlife.com
+DOMAIN-SUFFIX, starbuckspoq.com
+DOMAIN-SUFFIX, starbucksreserve.com
+DOMAIN-SUFFIX, starbucksrewardsstarland.ca
+DOMAIN-SUFFIX, starbucksrewardsstarland.com
+DOMAIN-SUFFIX, starbucksromania.ro
+DOMAIN-SUFFIX, starbucksrtd.com
+DOMAIN-SUFFIX, starbucksslovakia.sk
+DOMAIN-SUFFIX, starbuckssummergame.ca
+DOMAIN-SUFFIX, starbuckssummergame.com
+
+
+# 三只松鼠
 DOMAIN-SUFFIX, 3songshu.com
+
+# 百草味
+DOMAIN-SUFFIX, vipbcw.com
 
 # 海底捞
 DOMAIN-SUFFIX, haidilao.com
@@ -4249,6 +4312,39 @@ DOMAIN-SUFFIX, dicos.com.cn
 # 陈克明食品
 DOMAIN-SUFFIX, kemen.cn
 
+# 中粮集团
+DOMAIN-SUFFIX, chinatea.com.cn
+DOMAIN-SUFFIX, cofco.com
+DOMAIN-SUFFIX, greatwallwine.com.cn
+
+# 北大荒
+DOMAIN-SUFFIX, chinabdh.com
+DOMAIN-SUFFIX, hacl.cn
+
+# 光明乳业
+DOMAIN-SUFFIX, 4008117117.com
+DOMAIN-SUFFIX, brightdairy.com
+DOMAIN-SUFFIX, brighticecream.com
+DOMAIN-SUFFIX, chinacow.com
+
+# 伊利
+DOMAIN-SUFFIX, yili.com
+
+# 蒙牛
+DOMAIN-SUFFIX, mengniu.com.cn
+
+# 君乐宝
+DOMAIN-SUFFIX, junlebaoruye.com
+
+# 益海嘉里金龙鱼
+DOMAIN-SUFFIX, yihaikerry.net.cn
+
+# 鲁花
+DOMAIN-SUFFIX, luhua.cn
+
+# 双汇集团
+DOMAIN-SUFFIX, shuanghui.net
+
 # Tracking
 DOMAIN-SUFFIX, logger.qmai.cn
 DOMAIN-SUFFIX, tracking.mcdonalds.com.cn
@@ -4257,6 +4353,7 @@ DOMAIN-SUFFIX, trackserver.shuxinyc.com
 
 DOMAIN-SUFFIX, cctv.cn
 DOMAIN-SUFFIX, cctv.com
+DOMAIN-SUFFIX, cctv4g.com
 DOMAIN-SUFFIX, cctvlib.cn
 DOMAIN-SUFFIX, cctvlib.com.cn
 DOMAIN-SUFFIX, cctvlibrary.cn
@@ -4711,72 +4808,6 @@ DOMAIN-SUFFIX, antigravity-unleash.goog
 
 # Stitch
 DOMAIN-SUFFIX, stitch.withgoogle.com
-
-# This list is for backward compatibility
-
-# Google DeepMind
-DOMAIN-SUFFIX, deepmind.com
-DOMAIN-SUFFIX, deepmind.google
-
-# Google Generative Language API
-DOMAIN-SUFFIX, geller-pa.googleapis.com
-DOMAIN-SUFFIX, generativelanguage.googleapis.com
-DOMAIN-SUFFIX, proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX, robinfrontend-pa.googleapis.com
-
-# Google AI Studio
-DOMAIN, ai.google.dev
-DOMAIN, alkalicore-pa.clients6.google.com
-DOMAIN, alkalimakersuite-pa.clients6.google.com
-DOMAIN, webchannel-alkalimakersuite-pa.clients6.google.com
-DOMAIN-SUFFIX, generativeai.google
-DOMAIN-SUFFIX, makersuite.google.com
-
-DOMAIN-SUFFIX, ai.studio
-DOMAIN-SUFFIX, aistudio.google.com
-DOMAIN-SUFFIX, bard.google.com
-DOMAIN-SUFFIX, gemini.google
-DOMAIN-SUFFIX, gemini.google.com
-DOMAIN-SUFFIX, gemini.gstatic.com
-
-# Gemini Code Assist
-# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
-DOMAIN, cloudaicompanion.googleapis.com
-DOMAIN, cloudcode-pa.googleapis.com
-DOMAIN, daily-cloudcode-pa.googleapis.com
-
-# NotebookLM
-DOMAIN, notebooklm-pa.googleapis.com
-DOMAIN, notebooklm.googleapis.com
-DOMAIN-SUFFIX, notebooklm.google
-DOMAIN-SUFFIX, notebooklm.google.com
-
-# Jules
-DOMAIN-SUFFIX, jules.google
-DOMAIN-SUFFIX, jules.google.com
-
-# Google AI Labs
-DOMAIN-SUFFIX, labs.google
-DOMAIN-SUFFIX, labs.google.com
-DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
-
-# Android Studio Gemini Code Assist
-DOMAIN-SUFFIX, aicode.googleapis.com
-DOMAIN-SUFFIX, aida.googleapis.com
-
-# Opal
-DOMAIN-SUFFIX, opal.google
-DOMAIN-SUFFIX, opal.google.com
-
-# Antigravity
-DOMAIN, antigravity-pa.googleapis.com
-DOMAIN, antigravity.googleapis.com
-DOMAIN-SUFFIX, antigravity.google
-DOMAIN-SUFFIX, antigravity-unleash.goog
-
-# Stitch
-DOMAIN-SUFFIX, stitch.withgoogle.com
-
 
 DOMAIN-SUFFIX, googleplay.com
 DOMAIN-SUFFIX, play-fe.googleapis.com
@@ -5361,7 +5392,6 @@ DOMAIN-SUFFIX, 0emm.com
 DOMAIN-SUFFIX, 1e100.net
 DOMAIN-SUFFIX, 1ucrs.com
 DOMAIN-SUFFIX, 466453.com
-DOMAIN-SUFFIX, abc.xyz
 DOMAIN-SUFFIX, adgoogle.net
 DOMAIN-SUFFIX, admeld.com
 DOMAIN-SUFFIX, angulardart.org
@@ -5499,7 +5529,6 @@ DOMAIN-SUFFIX, gstatic.cn
 DOMAIN-SUFFIX, gstatic.com
 DOMAIN-SUFFIX, gstaticcnapps.cn
 DOMAIN-SUFFIX, gsuite.com
-DOMAIN-SUFFIX, gv.com
 DOMAIN-SUFFIX, gvt0.com
 DOMAIN-SUFFIX, gvt1.com
 DOMAIN-SUFFIX, gvt2.com
@@ -5589,6 +5618,7 @@ DOMAIN-SUFFIX, stxmosquitoproject.com
 DOMAIN-SUFFIX, stxmosquitoproject.net
 DOMAIN-SUFFIX, stxmosquitoproject.org
 DOMAIN-SUFFIX, synergyse.com
+DOMAIN-SUFFIX, tenor.com
 DOMAIN-SUFFIX, tensorflow.org
 DOMAIN-SUFFIX, tfhub.dev
 DOMAIN-SUFFIX, thecleversense.com
@@ -5604,13 +5634,11 @@ DOMAIN-SUFFIX, useplannr.com
 DOMAIN-SUFFIX, usvimosquito.com
 DOMAIN-SUFFIX, usvimosquitoproject.com
 DOMAIN-SUFFIX, velostrata.com
-DOMAIN-SUFFIX, verily.com
 DOMAIN-SUFFIX, verilylifesciences.com
 DOMAIN-SUFFIX, verilystudyhub.com
 DOMAIN-SUFFIX, verilystudywatch.com
 DOMAIN-SUFFIX, verilystudywatch.org
 DOMAIN-SUFFIX, wallet.com
-DOMAIN-SUFFIX, waymo.com
 DOMAIN-SUFFIX, waze.com
 DOMAIN-SUFFIX, web.app
 DOMAIN-SUFFIX, web.dev
@@ -8371,7 +8399,13 @@ DOMAIN, api.mindbox.ru
 DOMAIN, sentry.mindbox.ru
 DOMAIN, sentry.popmechanic.ru
 
+# https://wiki.mozilla.org/Websites/Domain_List/Mozilla_Owned
+# https://support.mozilla.org/fr/questions/1352614
+
+DOMAIN-SUFFIX, extendfirefox.com
 DOMAIN-SUFFIX, firefox.com
+DOMAIN-SUFFIX, firefox.hu
+DOMAIN-SUFFIX, firefoxtweetmachine.com
 DOMAIN-SUFFIX, firefoxusercontent.com
 
 DOMAIN, mozilla-ohttp.fastly-edge.com
@@ -8388,19 +8422,60 @@ DOMAIN-SUFFIX, mdnyalp.dev
 DOMAIN, mdn.mozillademos.org
 
 
+DOMAIN-SUFFIX, allizom.net
+DOMAIN-SUFFIX, allizom.org
 DOMAIN-SUFFIX, bugzilla.org
+DOMAIN-SUFFIX, detodosparatodos.org
+DOMAIN-SUFFIX, discovershiretoko.org
+DOMAIN-SUFFIX, ecmascript.org
 DOMAIN-SUFFIX, extensionworkshop.com
+DOMAIN-SUFFIX, foxkeh.com
+DOMAIN-SUFFIX, foxkeh.jp
+DOMAIN-SUFFIX, getfirebug.com
+DOMAIN-SUFFIX, getpersonas.com
 DOMAIN-SUFFIX, getpocket.com
+DOMAIN-SUFFIX, hackasaurus.org
+DOMAIN-SUFFIX, interforest.org
+DOMAIN-SUFFIX, itisatrap.org
+DOMAIN-SUFFIX, learningfreedomandtheweb.org
+DOMAIN-SUFFIX, lizardwrangler.com
+DOMAIN-SUFFIX, mecha-mozilla.org
+DOMAIN-SUFFIX, mozaws.net
 DOMAIN-SUFFIX, mozgcp.net
+DOMAIN-SUFFIX, mozilla-europe.org
+DOMAIN-SUFFIX, mozilla-hispano.org
+DOMAIN-SUFFIX, mozilla-mexico.org
 DOMAIN-SUFFIX, mozilla.ai
 DOMAIN-SUFFIX, mozilla.com
 DOMAIN-SUFFIX, mozilla.community
+DOMAIN-SUFFIX, mozilla.cz
+DOMAIN-SUFFIX, mozilla.de
+DOMAIN-SUFFIX, mozilla.jp
+DOMAIN-SUFFIX, mozilla.lt
 DOMAIN-SUFFIX, mozilla.net
 DOMAIN-SUFFIX, mozilla.org
+DOMAIN-SUFFIX, mozilla.org.uk
+DOMAIN-SUFFIX, mozilla.pe
+DOMAIN-SUFFIX, mozilla.pt
+DOMAIN-SUFFIX, mozilla.ro
+DOMAIN-SUFFIX, mozillabd.org
+DOMAIN-SUFFIX, mozillademos.org
+DOMAIN-SUFFIX, mozillafactory.org
 DOMAIN-SUFFIX, mozillafoundation.org
+DOMAIN-SUFFIX, mozillaignite.org
+DOMAIN-SUFFIX, mozillalabs.com
+DOMAIN-SUFFIX, mozillaquebec.org
+DOMAIN-SUFFIX, mozillazine.jp
+DOMAIN-SUFFIX, mozillians.org
+DOMAIN-SUFFIX, mozit.cloud
 DOMAIN-SUFFIX, mzl.la
+DOMAIN-SUFFIX, onemozilla.org
+DOMAIN-SUFFIX, opentimetable.jp
+DOMAIN-SUFFIX, popcornjs.org
+DOMAIN-SUFFIX, publicsuffix.org
 DOMAIN-SUFFIX, seamonkey-project.org
 DOMAIN-SUFFIX, thunderbird.net
+DOMAIN-SUFFIX, webmademovies.org
 
 # Ads/tracking
 DOMAIN, ads-img.mozilla.org
@@ -9131,6 +9206,32 @@ DOMAIN-SUFFIX, euads-o.api.leiniao.com
 DOMAIN-SUFFIX, hwads-t.api.my7v.com
 DOMAIN-SUFFIX, testads.api.my7v.com
 
+DOMAIN-SUFFIX, fanxingliveshow.com
+DOMAIN-SUFFIX, kgimg.com
+DOMAIN-SUFFIX, kglink.cn
+DOMAIN-SUFFIX, ktv.com
+DOMAIN-SUFFIX, kugoo.com
+DOMAIN-SUFFIX, kugou.com
+DOMAIN-SUFFIX, kugou.net
+DOMAIN-SUFFIX, kugouaudio.com
+DOMAIN-SUFFIX, kugouipv6.com
+DOMAIN-SUFFIX, kugoukid.com
+DOMAIN-SUFFIX, kugouliveshow.com
+DOMAIN-SUFFIX, kugouringtone.com
+DOMAIN-SUFFIX, kugousenior.com
+DOMAIN-SUFFIX, kugoustore.com
+DOMAIN-SUFFIX, kugouvoice.com
+DOMAIN-SUFFIX, kugouyouth.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, ads.service.kugou.com
+DOMAIN-SUFFIX, adserviceretry.kglink.cn
+DOMAIN-SUFFIX, adserviceretry.kugou.com
+
+DOMAIN-SUFFIX, koowo.cn
+DOMAIN-SUFFIX, koowo.com
+DOMAIN-SUFFIX, kuwo.cn
+
 DOMAIN-SUFFIX, comsenz.com
 DOMAIN-SUFFIX, discuz.net
 DOMAIN-SUFFIX, discuz.org
@@ -9681,6 +9782,14 @@ DOMAIN-SUFFIX, anticheatexpert.com
 # 洛克王国
 DOMAIN-SUFFIX, 17roco.com
 DOMAIN-SUFFIX, roco.qq.com
+
+DOMAIN-SUFFIX, ximalaya.com
+DOMAIN-SUFFIX, xmcdn.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, adbehavior.ximalaya.com
+DOMAIN-SUFFIX, adse.wsa.ximalaya.com
+DOMAIN-SUFFIX, adse.ximalaya.com
 
 DOMAIN-SUFFIX, webnovel.com
 

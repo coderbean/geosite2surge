@@ -2,17 +2,6 @@ DOMAIN-SUFFIX, 517lppz.com
 DOMAIN-SUFFIX, lppz.com
 DOMAIN-SUFFIX, lppzimg.com
 
-# 叮咚买菜 上海壹佰米网络科技有限公司
-DOMAIN-SUFFIX, 100.me
-DOMAIN-SUFFIX, ddcorp.net
-DOMAIN-SUFFIX, ddfresh.net
-DOMAIN-SUFFIX, ddimg.mobi
-DOMAIN-SUFFIX, ddmaicai.net
-DOMAIN-SUFFIX, ddmc.mobi
-DOMAIN-SUFFIX, dduser.mobi
-DOMAIN-SUFFIX, ddxq.mobi
-DOMAIN-SUFFIX, imaicai.mobi
-
 DOMAIN-SUFFIX, lkcoffee.com
 DOMAIN-SUFFIX, luckincoffeecdn.com
 DOMAIN-SUFFIX, yyds.co
@@ -86,7 +75,81 @@ DOMAIN-SUFFIX, mcdonaldsarabia.com
 DOMAIN-SUFFIX, mcdonaldsparties.co.nz
 
 
+# 星巴克中国
+DOMAIN-SUFFIX, sbux.com.my
+DOMAIN-SUFFIX, sbuxcard.com
+DOMAIN-SUFFIX, starbucks-stars.com
+DOMAIN-SUFFIX, starbucks.ad
+DOMAIN-SUFFIX, starbucks.at
+DOMAIN-SUFFIX, starbucks.be
+DOMAIN-SUFFIX, starbucks.bg
+DOMAIN-SUFFIX, starbucks.ca
+DOMAIN-SUFFIX, starbucks.ch
+DOMAIN-SUFFIX, starbucks.co.id
+DOMAIN-SUFFIX, starbucks.co.jp
+DOMAIN-SUFFIX, starbucks.co.nz
+DOMAIN-SUFFIX, starbucks.co.th
+DOMAIN-SUFFIX, starbucks.co.uk
+DOMAIN-SUFFIX, starbucks.co.za
+DOMAIN-SUFFIX, starbucks.com
+DOMAIN-SUFFIX, starbucks.com.ar
+DOMAIN-SUFFIX, starbucks.com.bn
+DOMAIN-SUFFIX, starbucks.com.cn
+DOMAIN-SUFFIX, starbucks.com.co
+DOMAIN-SUFFIX, starbucks.com.cy
+DOMAIN-SUFFIX, starbucks.com.gr
+DOMAIN-SUFFIX, starbucks.com.hk
+DOMAIN-SUFFIX, starbucks.com.kh
+DOMAIN-SUFFIX, starbucks.com.kz
+DOMAIN-SUFFIX, starbucks.com.mx
+DOMAIN-SUFFIX, starbucks.com.my
+DOMAIN-SUFFIX, starbucks.com.pe
+DOMAIN-SUFFIX, starbucks.com.sg
+DOMAIN-SUFFIX, starbucks.com.tr
+DOMAIN-SUFFIX, starbucks.com.uy
+DOMAIN-SUFFIX, starbucks.de
+DOMAIN-SUFFIX, starbucks.dk
+DOMAIN-SUFFIX, starbucks.es
+DOMAIN-SUFFIX, starbucks.fr
+DOMAIN-SUFFIX, starbucks.hu
+DOMAIN-SUFFIX, starbucks.ie
+DOMAIN-SUFFIX, starbucks.in
+DOMAIN-SUFFIX, starbucks.it
+DOMAIN-SUFFIX, starbucks.nl
+DOMAIN-SUFFIX, starbucks.no
+DOMAIN-SUFFIX, starbucks.ph
+DOMAIN-SUFFIX, starbucks.pl
+DOMAIN-SUFFIX, starbucks.pt
+DOMAIN-SUFFIX, starbucks.rs
+DOMAIN-SUFFIX, starbucks.ru
+DOMAIN-SUFFIX, starbucks.se
+DOMAIN-SUFFIX, starbucks.tt
+DOMAIN-SUFFIX, starbucks.vn
+DOMAIN-SUFFIX, starbucksathome.com
+DOMAIN-SUFFIX, starbucksavie.ca
+DOMAIN-SUFFIX, starbuckscard.ph
+DOMAIN-SUFFIX, starbuckscardb2b.com
+DOMAIN-SUFFIX, starbuckscoffee.cz
+DOMAIN-SUFFIX, starbuckscoffeegear.com
+DOMAIN-SUFFIX, starbuckscoffeegearstore.com
+DOMAIN-SUFFIX, starbucksforlife.ca
+DOMAIN-SUFFIX, starbucksforlife.com
+DOMAIN-SUFFIX, starbuckspoq.com
+DOMAIN-SUFFIX, starbucksreserve.com
+DOMAIN-SUFFIX, starbucksrewardsstarland.ca
+DOMAIN-SUFFIX, starbucksrewardsstarland.com
+DOMAIN-SUFFIX, starbucksromania.ro
+DOMAIN-SUFFIX, starbucksrtd.com
+DOMAIN-SUFFIX, starbucksslovakia.sk
+DOMAIN-SUFFIX, starbuckssummergame.ca
+DOMAIN-SUFFIX, starbuckssummergame.com
+
+
+# 三只松鼠
 DOMAIN-SUFFIX, 3songshu.com
+
+# 百草味
+DOMAIN-SUFFIX, vipbcw.com
 
 # 海底捞
 DOMAIN-SUFFIX, haidilao.com
@@ -143,6 +206,39 @@ DOMAIN-SUFFIX, dicos.com.cn
 
 # 陈克明食品
 DOMAIN-SUFFIX, kemen.cn
+
+# 中粮集团
+DOMAIN-SUFFIX, chinatea.com.cn
+DOMAIN-SUFFIX, cofco.com
+DOMAIN-SUFFIX, greatwallwine.com.cn
+
+# 北大荒
+DOMAIN-SUFFIX, chinabdh.com
+DOMAIN-SUFFIX, hacl.cn
+
+# 光明乳业
+DOMAIN-SUFFIX, 4008117117.com
+DOMAIN-SUFFIX, brightdairy.com
+DOMAIN-SUFFIX, brighticecream.com
+DOMAIN-SUFFIX, chinacow.com
+
+# 伊利
+DOMAIN-SUFFIX, yili.com
+
+# 蒙牛
+DOMAIN-SUFFIX, mengniu.com.cn
+
+# 君乐宝
+DOMAIN-SUFFIX, junlebaoruye.com
+
+# 益海嘉里金龙鱼
+DOMAIN-SUFFIX, yihaikerry.net.cn
+
+# 鲁花
+DOMAIN-SUFFIX, luhua.cn
+
+# 双汇集团
+DOMAIN-SUFFIX, shuanghui.net
 
 # Tracking
 DOMAIN-SUFFIX, logger.qmai.cn

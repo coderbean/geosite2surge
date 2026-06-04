@@ -1,3 +1,29 @@
+DOMAIN-SUFFIX, fanxingliveshow.com
+DOMAIN-SUFFIX, kgimg.com
+DOMAIN-SUFFIX, kglink.cn
+DOMAIN-SUFFIX, ktv.com
+DOMAIN-SUFFIX, kugoo.com
+DOMAIN-SUFFIX, kugou.com
+DOMAIN-SUFFIX, kugou.net
+DOMAIN-SUFFIX, kugouaudio.com
+DOMAIN-SUFFIX, kugouipv6.com
+DOMAIN-SUFFIX, kugoukid.com
+DOMAIN-SUFFIX, kugouliveshow.com
+DOMAIN-SUFFIX, kugouringtone.com
+DOMAIN-SUFFIX, kugousenior.com
+DOMAIN-SUFFIX, kugoustore.com
+DOMAIN-SUFFIX, kugouvoice.com
+DOMAIN-SUFFIX, kugouyouth.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, ads.service.kugou.com
+DOMAIN-SUFFIX, adserviceretry.kglink.cn
+DOMAIN-SUFFIX, adserviceretry.kugou.com
+
+DOMAIN-SUFFIX, koowo.cn
+DOMAIN-SUFFIX, koowo.com
+DOMAIN-SUFFIX, kuwo.cn
+
 DOMAIN-SUFFIX, comsenz.com
 DOMAIN-SUFFIX, discuz.net
 DOMAIN-SUFFIX, discuz.org
@@ -548,6 +574,14 @@ DOMAIN-SUFFIX, anticheatexpert.com
 # 洛克王国
 DOMAIN-SUFFIX, 17roco.com
 DOMAIN-SUFFIX, roco.qq.com
+
+DOMAIN-SUFFIX, ximalaya.com
+DOMAIN-SUFFIX, xmcdn.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, adbehavior.ximalaya.com
+DOMAIN-SUFFIX, adse.wsa.ximalaya.com
+DOMAIN-SUFFIX, adse.ximalaya.com
 
 DOMAIN-SUFFIX, webnovel.com
 
