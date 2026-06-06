@@ -3061,6 +3061,11 @@ DOMAIN-SUFFIX, iadsdk.apple.com
 DOMAIN-SUFFIX, iad.apple.com
 DOMAIN-SUFFIX, qwapi.com
 
+DOMAIN-SUFFIX, avito.ru
+DOMAIN-SUFFIX, avito.st
+
+DOMAIN, stats.avito.ru
+
 DOMAIN-SUFFIX, zuoyebang.cc
 DOMAIN-SUFFIX, zuoyebang.com
 DOMAIN-SUFFIX, zybang.com
@@ -10595,6 +10600,7 @@ DOMAIN, clck.yandex.com
 DOMAIN, clck.yandex.net
 DOMAIN, clck.yango.com
 DOMAIN, informer.yandex.ru
+DOMAIN, log.strm.yandex.ru
 DOMAIN, mc.yandex.com
 DOMAIN, mc.yandex.net
 DOMAIN, mc.yango.com
@@ -10692,6 +10698,9 @@ DOMAIN-SUFFIX, pbmp.ali213.net
 DOMAIN-SUFFIX, applovin.com
 DOMAIN-SUFFIX, applvn.com
 
+# AppsFlyer
+DOMAIN-SUFFIX, appsflyersdk.com
+
 # Caixin
 # regexp:^pinggai\d\.caixin\.com$
 DOMAIN, pinggai0.caixin.com
@@ -10746,6 +10755,9 @@ DOMAIN-SUFFIX, ad.unimhk.com
 
 # UCloud
 DOMAIN-SUFFIX, das-rpt-log.ucloud.cn
+
+# Vungle
+DOMAIN, logs.ads.vungle.com
 
 # 数字精准广告
 DOMAIN-SUFFIX, telecome.cn

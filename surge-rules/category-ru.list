@@ -36,6 +36,8 @@ DOMAIN-SUFFIX, winlinebet.ru
 DOMAIN-SUFFIX, avito.ru
 DOMAIN-SUFFIX, avito.st
 
+DOMAIN, stats.avito.ru
+
 DOMAIN-SUFFIX, ewisdom.us.kg
 DOMAIN-SUFFIX, o3.ru
 DOMAIN-SUFFIX, o3t.ru
@@ -1745,6 +1747,7 @@ DOMAIN, clck.yandex.com
 DOMAIN, clck.yandex.net
 DOMAIN, clck.yango.com
 DOMAIN, informer.yandex.ru
+DOMAIN, log.strm.yandex.ru
 DOMAIN, mc.yandex.com
 DOMAIN, mc.yandex.net
 DOMAIN, mc.yango.com
