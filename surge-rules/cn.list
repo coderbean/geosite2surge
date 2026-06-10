@@ -2289,6 +2289,9 @@ DOMAIN-SUFFIX, eeo.com.cn
 DOMAIN-SUFFIX, expreview.com
 # FreeBuf 网络安全行业门户
 DOMAIN-SUFFIX, freebuf.com
+# 极客邦
+DOMAIN-SUFFIX, geekbang.org
+DOMAIN-SUFFIX, infoq.cn
 # 极客公园
 DOMAIN-SUFFIX, geekpark.net
 # 光明网
@@ -9684,9 +9687,6 @@ DOMAIN-SUFFIX, imgcdc.com
 DOMAIN-SUFFIX, imooc.com
 DOMAIN-SUFFIX, indienova.com
 DOMAIN-SUFFIX, infini-fantasy.com # 沪ICP备2025147287号-3
-DOMAIN-SUFFIX, infoq.com
-DOMAIN-SUFFIX, infoqstatic.com
-DOMAIN-SUFFIX, ip-cdn.com
 DOMAIN-SUFFIX, iranshao.com
 DOMAIN-SUFFIX, irs01.com
 DOMAIN-SUFFIX, istoreos.com # 粤ICP备20024441号-9

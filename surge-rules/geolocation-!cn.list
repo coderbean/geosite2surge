@@ -8222,6 +8222,11 @@ DOMAIN, dqrpb9wgowsf5.cloudfront.net
 DOMAIN, ds0h3roq6wcgc.cloudfront.net
 DOMAIN, dykkng5hnh52u.cloudfront.net
 
+DOMAIN-SUFFIX, nxtv.jp
+DOMAIN-SUFFIX, unext-info.jp
+DOMAIN-SUFFIX, unext.co.jp
+DOMAIN-SUFFIX, unext.jp
+
 DOMAIN-SUFFIX, vhx.tv
 DOMAIN-SUFFIX, vhxqa1.com
 DOMAIN-SUFFIX, vhxqa2.com
@@ -11321,6 +11326,7 @@ DOMAIN-SUFFIX, hkcnews.com
 DOMAIN-SUFFIX, hkej.com
 DOMAIN-SUFFIX, hkgpao.com
 DOMAIN-SUFFIX, hongkongfp.com
+DOMAIN-SUFFIX, infoq.com
 DOMAIN-SUFFIX, inmediahk.net
 DOMAIN-SUFFIX, inquirer.net
 DOMAIN-SUFFIX, inside.com.tw
