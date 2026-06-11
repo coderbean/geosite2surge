@@ -108,6 +108,10 @@ DOMAIN-SUFFIX, kraken.onl
 DOMAIN-SUFFIX, kucoin.com
 DOMAIN-SUFFIX, kucoin.plus
 
+DOMAIN-SUFFIX, lighter.exchange
+DOMAIN-SUFFIX, lighter.xyz
+DOMAIN-SUFFIX, zklighter.elliot.ai
+
 DOMAIN-SUFFIX, localbitcoins.com
 DOMAIN-SUFFIX, localbitcoinschain.com
 
@@ -178,6 +182,7 @@ DOMAIN-SUFFIX, clearpool.finance
 DOMAIN-SUFFIX, coinalyze.net
 DOMAIN-SUFFIX, coinbase.com
 DOMAIN-SUFFIX, coindesk.com
+DOMAIN-SUFFIX, coingate.com
 DOMAIN-SUFFIX, coingecko.com
 DOMAIN-SUFFIX, coinglass.com
 DOMAIN-SUFFIX, coinmap.org
@@ -195,6 +200,7 @@ DOMAIN-SUFFIX, gemini.com
 DOMAIN-SUFFIX, gmgn.ai
 DOMAIN-SUFFIX, guardarian.com
 DOMAIN-SUFFIX, hashflow.com
+DOMAIN-SUFFIX, hyperliquid.xyz
 DOMAIN-SUFFIX, infura.io
 DOMAIN-SUFFIX, invity.io
 DOMAIN-SUFFIX, maple.finance

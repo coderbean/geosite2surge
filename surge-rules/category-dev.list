@@ -145,6 +145,10 @@ DOMAIN-SUFFIX, dartpad.dev
 DOMAIN-SUFFIX, debian.org
 DOMAIN-SUFFIX, dotdeb.org
 
+DOMAIN-SUFFIX, discourse-cdn.com
+DOMAIN-SUFFIX, discourse.group
+DOMAIN-SUFFIX, discourse.org
+
 DOMAIN-SUFFIX, compose-spec.io
 DOMAIN-SUFFIX, docker.com
 DOMAIN-SUFFIX, docker.io
@@ -281,6 +285,7 @@ DOMAIN-SUFFIX, atom.io
 DOMAIN-SUFFIX, dependabot.com
 DOMAIN-SUFFIX, gh.io
 DOMAIN-SUFFIX, ghcr.io
+DOMAIN-SUFFIX, ghe.com
 DOMAIN-SUFFIX, git.io
 DOMAIN-SUFFIX, github.ai
 DOMAIN-SUFFIX, github.blog
@@ -645,6 +650,17 @@ DOMAIN-SUFFIX, unityads.unity3d.com
 DOMAIN-SUFFIX, v8.dev
 DOMAIN-SUFFIX, v8project.org
 
+DOMAIN-SUFFIX, videopress.com
+DOMAIN-SUFFIX, w.org
+DOMAIN-SUFFIX, wordcamp.org
+DOMAIN-SUFFIX, wordpress.com
+DOMAIN-SUFFIX, wordpress.net
+DOMAIN-SUFFIX, wordpress.org
+DOMAIN-SUFFIX, wordpress.tv
+DOMAIN-SUFFIX, wp-themes.com
+DOMAIN-SUFFIX, wp.com
+DOMAIN-SUFFIX, wpvip.com
+
 
 DOMAIN-SUFFIX, adventofcode.com
 DOMAIN-SUFFIX, alpinelinux.org
@@ -754,3 +770,9 @@ DOMAIN-SUFFIX, xposed.info
 DOMAIN-SUFFIX, yarnpkg.com
 DOMAIN-SUFFIX, ziglang.org
 DOMAIN-SUFFIX, zsh.org
+
+# WordPress plugins
+DOMAIN-SUFFIX, elegantthemes.com
+DOMAIN-SUFFIX, hivepress.io
+DOMAIN-SUFFIX, motopress.com
+DOMAIN-SUFFIX, wpmailsmtp.com

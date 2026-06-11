@@ -900,6 +900,19 @@ DOMAIN-SUFFIX, comss.online
 DOMAIN-SUFFIX, comss.org
 DOMAIN-SUFFIX, comss.ru
 
+DOMAIN-SUFFIX, drweb.by
+DOMAIN-SUFFIX, drweb.cn
+DOMAIN-SUFFIX, drweb.co.jp
+DOMAIN-SUFFIX, drweb.com
+DOMAIN-SUFFIX, drweb.fr
+DOMAIN-SUFFIX, drweb.kz
+DOMAIN-SUFFIX, drweb.ru
+DOMAIN-SUFFIX, drweb.uz
+DOMAIN-SUFFIX, drweb-av.de
+DOMAIN-SUFFIX, drweb-av.es
+DOMAIN-SUFFIX, drweb-av.it
+DOMAIN-SUFFIX, drweb-av.pl
+
 DOMAIN-SUFFIX, bananacall.ru
 DOMAIN-SUFFIX, beesbfl.ru
 DOMAIN-SUFFIX, beescrm.ru
@@ -1754,6 +1767,10 @@ DOMAIN, mc.yango.com
 DOMAIN, pixel.yandex.com
 DOMAIN, report.ap.yandex-net.ru
 
+
+## LiveJournal
+DOMAIN-SUFFIX, livejournal.com
+DOMAIN-SUFFIX, livejournal.net
 
 # Bank & Finance & Insurance & Securities
 # Alfa Bank

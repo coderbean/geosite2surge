@@ -1160,6 +1160,14 @@ DOMAIN-SUFFIX, newsmax.com
 DOMAIN-SUFFIX, newsmax.in
 DOMAIN-SUFFIX, newsmaxtv.com
 
+# https://en.wikipedia.org/wiki/NHK#External_links
+# https://nic.nhk/
+
+DOMAIN-SUFFIX, nhk
+DOMAIN-SUFFIX, nhk.jp
+DOMAIN-SUFFIX, nhk.or.jp
+DOMAIN-SUFFIX, nhkworld.jp
+
 DOMAIN-SUFFIX, gendai.net
 DOMAIN-SUFFIX, nikkan-gendai.com
 
