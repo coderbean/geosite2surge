@@ -1768,10 +1768,6 @@ DOMAIN, pixel.yandex.com
 DOMAIN, report.ap.yandex-net.ru
 
 
-## LiveJournal
-DOMAIN-SUFFIX, livejournal.com
-DOMAIN-SUFFIX, livejournal.net
-
 # Bank & Finance & Insurance & Securities
 # Alfa Bank
 DOMAIN-SUFFIX, alfa.me

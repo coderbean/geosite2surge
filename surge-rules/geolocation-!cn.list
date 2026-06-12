@@ -3906,6 +3906,7 @@ DOMAIN-SUFFIX, okex.com
 DOMAIN-SUFFIX, okx-dns.com
 DOMAIN-SUFFIX, okx-dns1.com
 DOMAIN-SUFFIX, okx-dns2.com
+DOMAIN-SUFFIX, okx.ac
 DOMAIN-SUFFIX, okx.cab
 DOMAIN-SUFFIX, okx.com
 DOMAIN-SUFFIX, okx.com.cdn.cloudflare.net
@@ -7101,7 +7102,11 @@ DOMAIN-SUFFIX, steamserver.net
 DOMAIN-SUFFIX, steamstatic.com
 DOMAIN-SUFFIX, steamusercontent.com
 DOMAIN-SUFFIX, underlords.com
+DOMAIN-SUFFIX, valve.net
 DOMAIN-SUFFIX, valvesoftware.com
+
+# Dota 2
+DOMAIN-SUFFIX, dota2.com
 
 # edgecast
 DOMAIN-SUFFIX, edge.steam-dns.top.comcast.net
@@ -8879,6 +8884,8 @@ DOMAIN-SUFFIX, doom9.org
 DOMAIN-SUFFIX, eyny.com
 DOMAIN-SUFFIX, gab.com
 DOMAIN-SUFFIX, hydrogenaud.io
+DOMAIN-SUFFIX, livejournal.com
+DOMAIN-SUFFIX, livejournal.net
 DOMAIN-SUFFIX, mewe.com
 DOMAIN-SUFFIX, parler.com
 DOMAIN-SUFFIX, pincong.rocks
@@ -19849,11 +19856,13 @@ DOMAIN-SUFFIX, fedorapeople.org
 DOMAIN-SUFFIX, fedoraproject.org
 DOMAIN-SUFFIX, getfedora.org
 
+DOMAIN-SUFFIX, crashlytics.com
 DOMAIN-SUFFIX, firebase.com
 DOMAIN-SUFFIX, firebase.io
 DOMAIN-SUFFIX, firebaseapp.com
 DOMAIN-SUFFIX, firebaseio.com
 
+DOMAIN, crashlyticsreports-pa.googleapis.com
 DOMAIN, firebase-settings.crashlytics.com
 DOMAIN, firebase.google.com
 DOMAIN, firebase.googleapis.com
@@ -19867,6 +19876,7 @@ DOMAIN, firebaselogging-pa.googleapis.com
 DOMAIN, firebaselogging.googleapis.com
 DOMAIN, firebaseperusertopics-pa.googleapis.com
 DOMAIN, firebaseremoteconfig.googleapis.com
+DOMAIN, update.crashlytics.com
 
 DOMAIN-SUFFIX, flathub.org
 DOMAIN-SUFFIX, flatpak.org
@@ -20274,7 +20284,15 @@ DOMAIN-SUFFIX, unity.com
 DOMAIN-SUFFIX, unity3d.com
 
 # Ads/tracking
+# https://github.com/v2fly/domain-list-community/pull/3716
+DOMAIN-SUFFIX, analytics.cloud.unity3d.com
+DOMAIN-SUFFIX, api2.amplitude.com
+DOMAIN-SUFFIX, config.uca.cloud.unity3d.com
+DOMAIN-SUFFIX, cdp.cloud.unity3d.com
+DOMAIN-SUFFIX, prd-lender.cdp.internal.unity3d.com
 DOMAIN-SUFFIX, iads.unity3d.com
+DOMAIN-SUFFIX, perf.cloud.unity3d.com
+DOMAIN-SUFFIX, perf-events.cloud.unity3d.com
 DOMAIN-SUFFIX, unityads.unity3d.com
 
 DOMAIN-SUFFIX, v8.dev
@@ -20838,11 +20856,13 @@ DOMAIN-SUFFIX, dartpad.dev
 DOMAIN-SUFFIX, fastlane.ci
 DOMAIN-SUFFIX, fastlane.tools
 
+DOMAIN-SUFFIX, crashlytics.com
 DOMAIN-SUFFIX, firebase.com
 DOMAIN-SUFFIX, firebase.io
 DOMAIN-SUFFIX, firebaseapp.com
 DOMAIN-SUFFIX, firebaseio.com
 
+DOMAIN, crashlyticsreports-pa.googleapis.com
 DOMAIN, firebase-settings.crashlytics.com
 DOMAIN, firebase.google.com
 DOMAIN, firebase.googleapis.com
@@ -20856,6 +20876,7 @@ DOMAIN, firebaselogging-pa.googleapis.com
 DOMAIN, firebaselogging.googleapis.com
 DOMAIN, firebaseperusertopics-pa.googleapis.com
 DOMAIN, firebaseremoteconfig.googleapis.com
+DOMAIN, update.crashlytics.com
 
 DOMAIN-SUFFIX, flutter.dev
 DOMAIN-SUFFIX, flutterapp.com
@@ -21853,15 +21874,18 @@ DOMAIN, analytics.google.com
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
+DOMAIN-SUFFIX, 265.com
 DOMAIN-SUFFIX, gvt1-cn.com
 DOMAIN-SUFFIX, gvt2-cn.com
+DOMAIN, recaptcha-cn.net
+DOMAIN, recaptcha.net
+DOMAIN, www.recaptcha-cn.net
 DOMAIN, www.recaptcha.net
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
 # Revision: 94f89bb5065cdff0777ef3a116ecfecb14ca1f56
 # Duplicates removed
 # Use in config file like this: "geosite:google@cn"
-DOMAIN, 265.com
 DOMAIN, 2mdn-cn.net
 DOMAIN, 2mdn.net
 DOMAIN, admob-cn.com
@@ -21886,7 +21910,6 @@ DOMAIN, clickserver.googleads.com
 DOMAIN, clientservices.googleapis.com
 DOMAIN, cn.widevine.com
 DOMAIN, connectivitycheck.gstatic.com
-DOMAIN, crashlyticsreports-pa.googleapis.com
 DOMAIN, csi.gstatic.com
 DOMAIN, dartsearch-cn.net
 DOMAIN, dg-meta.video.google.com
@@ -21935,8 +21958,6 @@ DOMAIN, prod-databe.floonet.goog
 DOMAIN, prod.databe.floonet.goog
 DOMAIN, qiao-cn.com
 DOMAIN, qpx.googleflights.net
-DOMAIN, recaptcha-cn.net
-DOMAIN, recaptcha.net
 DOMAIN, redirector.bdn.dev
 DOMAIN, redirector.c.chat.google.com
 DOMAIN, redirector.c.mail.google.com
@@ -21957,7 +21978,6 @@ DOMAIN, staging-databe.floonet.goog
 DOMAIN, staging.databe.floonet.goog
 DOMAIN, tac.googleapis.com
 DOMAIN, tools.google.com
-DOMAIN, update.crashlytics.com
 DOMAIN, update.googleapis.com
 DOMAIN, wear.googleapis.com
 DOMAIN, www-google-analytics.l.google.com
@@ -29799,6 +29819,19 @@ DOMAIN-SUFFIX, wisecoin.com
 DOMAIN-SUFFIX, wiseid.com
 DOMAIN-SUFFIX, wisekey.com
 DOMAIN-SUFFIX, wisekey.com.hk
+
+DOMAIN-SUFFIX, v.ps
+DOMAIN-SUFFIX, vps.hosting
+DOMAIN-SUFFIX, xtom.au
+DOMAIN-SUFFIX, xtom.com
+DOMAIN-SUFFIX, xtom.de
+DOMAIN-SUFFIX, xtom.ee
+DOMAIN-SUFFIX, xtom.hk
+DOMAIN-SUFFIX, xtom.jp
+DOMAIN-SUFFIX, xtom.nl
+DOMAIN-SUFFIX, xtom.sg
+DOMAIN-SUFFIX, xtom.social
+DOMAIN-SUFFIX, xtom.us
 
 # All .flickr domains
 DOMAIN-SUFFIX, flickr
