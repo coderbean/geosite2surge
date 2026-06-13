@@ -1,7 +1,3 @@
-# Russian websites
-DOMAIN-SUFFIX, ru.com
-DOMAIN-SUFFIX, ru.net
-
 # Russian TLDs
 DOMAIN-SUFFIX, moscow
 DOMAIN-SUFFIX, ru
@@ -15,6 +11,15 @@ DOMAIN-SUFFIX, xn--d1acj3b
 DOMAIN-SUFFIX, xn--p1acf
 DOMAIN-SUFFIX, xn--p1ai
 
+DOMAIN-SUFFIX, ru.com
+DOMAIN-SUFFIX, ru.net
+
+# - There is `[domain:]ru` in this list (from tld-ru), which matches all `*.ru` domains
+# - Redundant subdomains (full/domain type without attr) will be trimed by main.go
+#   In this list, `*.ru` domains without attr are redundant for the program and will not contribute to `geosite:category-ru`
+# - You can still add `*.ru` domains here if you want
+
+# Subcategories
 DOMAIN-SUFFIX, betboom.ru
 DOMAIN-SUFFIX, mobile-bb.com
 
@@ -1149,6 +1154,8 @@ DOMAIN-SUFFIX, kontur-inc.com
 DOMAIN, metrika.kontur.ru
 DOMAIN, sentry.kontur.host
 
+# Not include:habr #3087
+# Not include:livejournal #3715
 # VK Group, formerly known as Mail.ru Group, a Russian technology company
 DOMAIN-SUFFIX, dzen.ru
 
@@ -2113,6 +2120,9 @@ DOMAIN-SUFFIX, vtbglobalperspectives.com
 DOMAIN-SUFFIX, credit-zenit.ru
 DOMAIN-SUFFIX, zenit-card.ru
 DOMAIN-SUFFIX, zenit.ru
+
+# NSPK (QR-code payments)
+DOMAIN-SUFFIX, nspk.ru
 
 # Other
 DOMAIN-SUFFIX, absolutbank.ru
