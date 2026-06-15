@@ -3837,17 +3837,25 @@ DOMAIN-SUFFIX, binancezh.top
 # API
 DOMAIN-SUFFIX, binanceapi.com
 DOMAIN-SUFFIX, binanceru.net
+DOMAIN-SUFFIX, bmwweb.solutions
+DOMAIN-SUFFIX, bnappweb.black
 DOMAIN-SUFFIX, bnbstatic.com
+DOMAIN-SUFFIX, bnbchain.org
 DOMAIN-SUFFIX, bntrace.com
+DOMAIN-SUFFIX, bsappapi.cc
 DOMAIN-SUFFIX, bsappapi.com
+DOMAIN-SUFFIX, bscdnweb.com
 DOMAIN-SUFFIX, nftstatic.com
 
 # saas
-DOMAIN-SUFFIX, appsflayer.com
 DOMAIN-SUFFIX, saasexch.cc
 DOMAIN-SUFFIX, saasexch.co
 DOMAIN-SUFFIX, saasexch.com
+DOMAIN-SUFFIX, saasexch.info
 DOMAIN-SUFFIX, saasexch.io
+
+DOMAIN, zftksc.cdn-settings.appsflyersdk.com
+DOMAIN, zftksc.launches.appsflyersdk.com
 
 DOMAIN-SUFFIX, bitflyer.com
 DOMAIN-SUFFIX, bitflyer.jp
@@ -3929,6 +3937,7 @@ DOMAIN-SUFFIX, okx.ac
 DOMAIN-SUFFIX, okx.cab
 DOMAIN-SUFFIX, okx.com
 DOMAIN-SUFFIX, okx.com.cdn.cloudflare.net
+DOMAIN-SUFFIX, xlayer.tech
 
 # OKC Browser
 DOMAIN-SUFFIX, oklink.com
@@ -3944,6 +3953,9 @@ DOMAIN-SUFFIX, redotpay.zendesk.com
 DOMAIN-SUFFIX, pod-15-sunco-ws.zendesk.com
 DOMAIN-SUFFIX, xhpjc6-cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX, rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+
+DOMAIN-SUFFIX, isafepal.com
+DOMAIN-SUFFIX, safepal.com
 
 DOMAIN-SUFFIX, straitsx.com
 
@@ -3968,20 +3980,24 @@ DOMAIN-SUFFIX, zb.live
 
 DOMAIN-SUFFIX, 1inch.io
 DOMAIN-SUFFIX, aave.com
+DOMAIN-SUFFIX, base.org
 DOMAIN-SUFFIX, bingx.com
 DOMAIN-SUFFIX, bitbank.cc
 DOMAIN-SUFFIX, bitcoin.org
 DOMAIN-SUFFIX, bitcoincore.org
 DOMAIN-SUFFIX, bitfinex.com
 DOMAIN-SUFFIX, bitget.com
+DOMAIN-SUFFIX, bitlayer.org
 DOMAIN-SUFFIX, bitmex.com
 DOMAIN-SUFFIX, bitquick.co
 DOMAIN-SUFFIX, bitstamp.net
 DOMAIN-SUFFIX, bittrex.com
+DOMAIN-SUFFIX, blast.io
 DOMAIN-SUFFIX, blockchain.com
 DOMAIN-SUFFIX, blockfrost.io
 DOMAIN-SUFFIX, btcbox.co.jp
 DOMAIN-SUFFIX, cex.io
+DOMAIN-SUFFIX, chainid.network
 DOMAIN-SUFFIX, clearpool.finance
 DOMAIN-SUFFIX, coinalyze.net
 DOMAIN-SUFFIX, coinbase.com
@@ -3991,6 +4007,7 @@ DOMAIN-SUFFIX, coingecko.com
 DOMAIN-SUFFIX, coinglass.com
 DOMAIN-SUFFIX, coinmap.org
 DOMAIN-SUFFIX, coinmarketcap.com
+DOMAIN-SUFFIX, coredao.org
 DOMAIN-SUFFIX, crypto.com
 DOMAIN-SUFFIX, cryptocompare.com
 DOMAIN-SUFFIX, cryptomus.com
@@ -3998,7 +4015,12 @@ DOMAIN-SUFFIX, curve.fi
 DOMAIN-SUFFIX, cyberx.com
 DOMAIN-SUFFIX, debank.com
 DOMAIN-SUFFIX, dogecoin.com
+DOMAIN-SUFFIX, drpc.org
 DOMAIN-SUFFIX, dydx.exchange
+DOMAIN-SUFFIX, fantom.foundation
+DOMAIN-SUFFIX, fantom.network
+DOMAIN-SUFFIX, fiat24.com
+DOMAIN-SUFFIX, flare.network
 DOMAIN-SUFFIX, fundingrates.xyz
 DOMAIN-SUFFIX, gemini.com
 DOMAIN-SUFFIX, gmgn.ai
@@ -4008,18 +4030,29 @@ DOMAIN-SUFFIX, hyperliquid.xyz
 DOMAIN-SUFFIX, infura.io
 DOMAIN-SUFFIX, invity.io
 DOMAIN-SUFFIX, maple.finance
+DOMAIN-SUFFIX, megaeth.com
+DOMAIN-SUFFIX, merkl.xyz
 DOMAIN-SUFFIX, metalpha.finance
+DOMAIN-SUFFIX, metamask.io
+DOMAIN-SUFFIX, mexc.co
 DOMAIN-SUFFIX, mexc.com
 DOMAIN-SUFFIX, mexcsensors.com
 DOMAIN-SUFFIX, mytokenapi.com
+DOMAIN-SUFFIX, nodereal.io
+DOMAIN-SUFFIX, oasis.io
+DOMAIN-SUFFIX, onfinality.io
 DOMAIN-SUFFIX, opensea.io
 DOMAIN-SUFFIX, osl.com
 DOMAIN-SUFFIX, paxful.com
 DOMAIN-SUFFIX, polymarket.com
 DOMAIN-SUFFIX, ripple.com
+DOMAIN-SUFFIX, rsk.co
 DOMAIN-SUFFIX, satoshilabs.com
+DOMAIN-SUFFIX, solidifi.app
 DOMAIN-SUFFIX, stealthex.io
+DOMAIN-SUFFIX, taiko.xyz
 DOMAIN-SUFFIX, theblock.co
+DOMAIN-SUFFIX, thirdweb.com
 DOMAIN-SUFFIX, trezor.io
 DOMAIN-SUFFIX, truefi.io
 DOMAIN-SUFFIX, unisat.io
@@ -7114,6 +7147,7 @@ DOMAIN-SUFFIX, steam-api.com
 DOMAIN-SUFFIX, steam-chat.com
 DOMAIN-SUFFIX, steamcommunity.com
 DOMAIN-SUFFIX, steamcontent.com
+DOMAIN-SUFFIX, steamconnecttest.com
 DOMAIN-SUFFIX, steamdeck.com
 DOMAIN-SUFFIX, steamgames.com
 DOMAIN-SUFFIX, steampowered.com
@@ -28928,6 +28962,11 @@ DOMAIN-SUFFIX, prismlive.com
 
 DOMAIN-SUFFIX, neuralink.com
 
+DOMAIN-SUFFIX, nichost.ru
+DOMAIN-SUFFIX, nic.ru
+DOMAIN-SUFFIX, r01.ru
+DOMAIN-SUFFIX, sweb.ru
+
 DOMAIN-SUFFIX, geforce.cn
 DOMAIN-SUFFIX, geforce.co.kr
 DOMAIN-SUFFIX, geforce.co.uk
@@ -29173,6 +29212,10 @@ DOMAIN-SUFFIX, razerzone.com
 DOMAIN-SUFFIX, razerzone.jp
 DOMAIN-SUFFIX, respawnbyrazer.com
 DOMAIN-SUFFIX, rzr.to
+
+DOMAIN-SUFFIX, reg.cloud
+DOMAIN-SUFFIX, reg.com
+DOMAIN-SUFFIX, reg.ru
 
 DOMAIN-SUFFIX, restream-media.net
 DOMAIN-SUFFIX, restream.ru
