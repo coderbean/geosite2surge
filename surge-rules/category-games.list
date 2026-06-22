@@ -328,6 +328,11 @@ DOMAIN-SUFFIX, gameabc.com
 DOMAIN-SUFFIX, gamemei.com
 # Enhance Gaming
 DOMAIN-SUFFIX, heavenlywind.cc
+# 完美世界 (Note: geosite:wanmei contains more non-game domains)
+DOMAIN-SUFFIX, laohu.com
+DOMAIN-SUFFIX, wanmei.com
+DOMAIN-SUFFIX, wmsj.cn
+DOMAIN-SUFFIX, wmupd.com
 # 乐都网 浙ICP备2024091002号-2
 DOMAIN-SUFFIX, ledu.com
 # 龙图游戏 京ICP备11023195号
@@ -345,9 +350,6 @@ DOMAIN-SUFFIX, tgpro.top
 DOMAIN-SUFFIX, tgprocs.net
 # 途游
 DOMAIN-SUFFIX, tuyoo.com
-# 完美世界
-DOMAIN-SUFFIX, wanmei.com
-DOMAIN-SUFFIX, wmsj.cn
 # Wine游戏助手 京ICP备18041936号
 DOMAIN-SUFFIX, winegame.net
 # 畅玩空间 冀ICP备20019223号
@@ -733,11 +735,17 @@ DOMAIN-SUFFIX, garenanow.com
 DOMAIN-SUFFIX, seagroup.com
 
 DOMAIN-SUFFIX, gog.com
+DOMAIN-SUFFIX, gog-services.com
 DOMAIN-SUFFIX, gog-statics.com
+DOMAIN-SUFFIX, gogalaxy.com
 
 DOMAIN, gog.qtlglb.com
 DOMAIN, gog-cdn-lumen.secure2.footprint.net
 DOMAIN, gog-cdn.akamaized.net
+
+# Ads/tracking
+## https://www.gog.com/forum/general/telemetry_in_gog_galaxy_20/page1
+DOMAIN-SUFFIX, insights-collector.gog.com
 
 # 原神
 DOMAIN-SUFFIX, genshinimpact.com
@@ -1190,7 +1198,9 @@ DOMAIN, steamcloudsweden.blob.core.windows.net
 DOMAIN, steamugcquincy.blob.core.windows.net
 
 # 完美
+DOMAIN-SUFFIX, csgo.com.cn
 DOMAIN-SUFFIX, csgo.wmsj.cn
+DOMAIN-SUFFIX, dota2.com.cn
 DOMAIN-SUFFIX, dota2.wmsj.cn
 DOMAIN-SUFFIX, wmsjsteam.com
 

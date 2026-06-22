@@ -330,6 +330,11 @@ DOMAIN-SUFFIX, gameabc.com
 DOMAIN-SUFFIX, gamemei.com
 # Enhance Gaming
 DOMAIN-SUFFIX, heavenlywind.cc
+# 完美世界 (Note: geosite:wanmei contains more non-game domains)
+DOMAIN-SUFFIX, laohu.com
+DOMAIN-SUFFIX, wanmei.com
+DOMAIN-SUFFIX, wmsj.cn
+DOMAIN-SUFFIX, wmupd.com
 # 乐都网 浙ICP备2024091002号-2
 DOMAIN-SUFFIX, ledu.com
 # 龙图游戏 京ICP备11023195号
@@ -347,9 +352,6 @@ DOMAIN-SUFFIX, tgpro.top
 DOMAIN-SUFFIX, tgprocs.net
 # 途游
 DOMAIN-SUFFIX, tuyoo.com
-# 完美世界
-DOMAIN-SUFFIX, wanmei.com
-DOMAIN-SUFFIX, wmsj.cn
 # Wine游戏助手 京ICP备18041936号
 DOMAIN-SUFFIX, winegame.net
 # 畅玩空间 冀ICP备20019223号
@@ -781,10 +783,12 @@ DOMAIN-SUFFIX, 11222.cn
 DOMAIN-SUFFIX, aliwx.com.cn
 DOMAIN-SUFFIX, aliwx.net
 DOMAIN-SUFFIX, ishuqi.com
+DOMAIN-SUFFIX, newstjk.com
 DOMAIN-SUFFIX, shuqi.com
 DOMAIN-SUFFIX, shuqiapi.com
 DOMAIN-SUFFIX, shuqiread.com
 DOMAIN-SUFFIX, shuqireader.com
+DOMAIN-SUFFIX, shuqistat.com
 DOMAIN-SUFFIX, sqreader.com
 
 # 太合音乐集团
@@ -1006,6 +1010,9 @@ DOMAIN-SUFFIX, 6rooms.com
 DOMAIN-SUFFIX, xiu123.cn
 # 动画巡礼
 DOMAIN-SUFFIX, anitabi.cn
+# 咔叽相机
+DOMAIN-SUFFIX, b612kaji.com
+DOMAIN-SUFFIX, kajicam.com
 # 暴风影音
 DOMAIN-SUFFIX, baofeng.com
 DOMAIN-SUFFIX, baofeng.net
@@ -1060,8 +1067,6 @@ DOMAIN-SUFFIX, inke.cn
 DOMAIN-SUFFIX, ikstatic.cn
 # 晋江文学城
 DOMAIN-SUFFIX, jjwxc.net
-# 咔叽相机
-DOMAIN-SUFFIX, kajicam.com
 # 酷匠网
 DOMAIN-SUFFIX, kjcdn.com
 DOMAIN-SUFFIX, kujiang.com
