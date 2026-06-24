@@ -6581,6 +6581,7 @@ DOMAIN, log-sdk.gifshow.com
 DOMAIN, wlog.kuaishou.com
 
 DOMAIN-SUFFIX, kurobbs.com
+DOMAIN-SUFFIX, kurogame-service.com
 DOMAIN-SUFFIX, kurogame.com
 DOMAIN-SUFFIX, kurogame.net
 DOMAIN-SUFFIX, kurogame.xyz
@@ -7775,6 +7776,7 @@ DOMAIN-SUFFIX, ghe.com
 DOMAIN-SUFFIX, git.io
 DOMAIN-SUFFIX, github.ai
 DOMAIN-SUFFIX, github.blog
+DOMAIN-SUFFIX, github.career
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, github.community
 DOMAIN-SUFFIX, github.dev
@@ -7851,8 +7853,8 @@ DOMAIN-SUFFIX, microsoftreactor.info
 DOMAIN-SUFFIX, microsoftreactor.net
 DOMAIN-SUFFIX, microsoftreactor.org
 DOMAIN-SUFFIX, microsoftsilverlight.com
-DOMAIN-SUFFIX, microsoftsilverlight.org
 DOMAIN-SUFFIX, microsoftsilverlight.net
+DOMAIN-SUFFIX, microsoftsilverlight.org
 DOMAIN-SUFFIX, microsoftsqlserver.com
 DOMAIN-SUFFIX, mmdnn.com
 DOMAIN-SUFFIX, mono-project.com
@@ -7870,18 +7872,21 @@ DOMAIN-SUFFIX, sankie.net
 DOMAIN-SUFFIX, sqlserveronlinux.com
 DOMAIN-SUFFIX, timelinestoryteller.com
 DOMAIN-SUFFIX, uwpcommunitytoolkit.com
-DOMAIN-SUFFIX, visualstudio-staging.com
-DOMAIN-SUFFIX, visualstudio.com
-DOMAIN-SUFFIX, visualstudio.co
-DOMAIN-SUFFIX, visualstudio.co.uk
-DOMAIN-SUFFIX, visualstudio.eu
-DOMAIN-SUFFIX, visualstudio.net
 DOMAIN-SUFFIX, vfsforgit.com
 DOMAIN-SUFFIX, vfsforgit.org
+DOMAIN-SUFFIX, visualstudio-staging.com
+DOMAIN-SUFFIX, visualstudio.co
+DOMAIN-SUFFIX, visualstudio.co.uk
+DOMAIN-SUFFIX, visualstudio.com
+DOMAIN-SUFFIX, visualstudio.eu
+DOMAIN-SUFFIX, visualstudio.net
 DOMAIN-SUFFIX, vsassets.io
-DOMAIN-SUFFIX, vscode.dev
 DOMAIN-SUFFIX, vscode-cdn.net
 DOMAIN-SUFFIX, vscode-unpkg.net
+DOMAIN-SUFFIX, vscode-webview.net
+DOMAIN-SUFFIX, vscode.dev
+DOMAIN-SUFFIX, vscodeedu.app
+DOMAIN-SUFFIX, vscodeedu.com
 DOMAIN-SUFFIX, xamarin.com
 
 DOMAIN, az764295.vo.msecnd.net
@@ -8094,6 +8099,7 @@ DOMAIN-SUFFIX, dynamics.cn
 DOMAIN-SUFFIX, dynamics.com
 DOMAIN-SUFFIX, efproject.net
 DOMAIN-SUFFIX, engkoo.com
+DOMAIN-SUFFIX, exp-tas.com
 DOMAIN-SUFFIX, fasttrackreadysupport.com
 DOMAIN-SUFFIX, fluidpreview.com
 DOMAIN-SUFFIX, footprintdns.com
@@ -8923,15 +8929,18 @@ DOMAIN-SUFFIX, game-platform.net
 DOMAIN-SUFFIX, knoxemm.com
 DOMAIN-SUFFIX, ospserver.net
 DOMAIN-SUFFIX, samsung.com
+DOMAIN-SUFFIX, samsung.com.cn
 DOMAIN-SUFFIX, samsungadhub.com
 DOMAIN-SUFFIX, samsungads.com
 DOMAIN-SUFFIX, samsungapps.com
 DOMAIN-SUFFIX, samsungcloud.com
+DOMAIN-SUFFIX, samsungcloudcn.com
 DOMAIN-SUFFIX, samsungconsent.com
 DOMAIN-SUFFIX, samsungdm.com
 DOMAIN-SUFFIX, samsungeshop.com.cn
 DOMAIN-SUFFIX, samsunggalaxyfriends.com
 DOMAIN-SUFFIX, samsunghealth.com
+DOMAIN-SUFFIX, samsunghealthcn.com
 DOMAIN-SUFFIX, samsungiotcloud.com
 DOMAIN-SUFFIX, samsungiots.com
 DOMAIN-SUFFIX, samsungknox.com
@@ -9179,19 +9188,21 @@ DOMAIN-SUFFIX, reke.at.sohu.com
 DOMAIN-SUFFIX, track.sohu.com
 
 DOMAIN-SUFFIX, byspotify.com
+DOMAIN-SUFFIX, lifeatspotify.com
 DOMAIN-SUFFIX, pscdn.co
 DOMAIN-SUFFIX, scdn.co
 DOMAIN-SUFFIX, spoti.fi
 DOMAIN-SUFFIX, spotify-everywhere.com
 DOMAIN-SUFFIX, spotify.com
 DOMAIN-SUFFIX, spotify.design
+DOMAIN-SUFFIX, spotify.link
 DOMAIN-SUFFIX, spotifycdn.com
 DOMAIN-SUFFIX, spotifycdn.net
 DOMAIN-SUFFIX, spotifycharts.com
 DOMAIN-SUFFIX, spotifycodes.com
 DOMAIN-SUFFIX, spotifyforbrands.com
+DOMAIN-SUFFIX, spotifyforvendors.com
 DOMAIN-SUFFIX, spotifyjobs.com
-DOMAIN-SUFFIX, spotify.link
 DOMAIN-SUFFIX, tospotify.com
 
 DOMAIN, audio-ak-spotify-com.akamaized.net
