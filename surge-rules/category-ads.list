@@ -341,6 +341,11 @@ DOMAIN-SUFFIX, alibabacloud.com.sg
 DOMAIN-SUFFIX, alibabacloud.com.tw
 DOMAIN-SUFFIX, alicloud.com
 
+DOMAIN, account-cn.alibabacloud.com
+DOMAIN, api.alibabacloud.com
+DOMAIN, cn.alibabacloud.com
+DOMAIN, status.alibabacloud.com
+
 DOMAIN-SUFFIX, 9game.cn
 DOMAIN-SUFFIX, aligames.com
 DOMAIN-SUFFIX, jiaoyimao.cn
@@ -390,6 +395,10 @@ DOMAIN-SUFFIX, kunlunwe.com
 DOMAIN-SUFFIX, mxhichina.com
 DOMAIN-SUFFIX, myalicdn.com
 
+#865 #882 aliyuncs.com
+DOMAIN-SUFFIX, ap-southeast-1.aliyuncs.com
+DOMAIN-SUFFIX, cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX, cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-south-1.aliyuncs.com
@@ -8342,7 +8351,6 @@ DOMAIN, collaborateppe.download.prss.microsoft.com
 DOMAIN, ctldl.windowsupdate.com
 DOMAIN, developer.microsoft.com
 DOMAIN, download.microsoft.com
-DOMAIN, download.visualstudio.microsoft.com
 DOMAIN, dreamspark.download.prss.microsoft.com
 DOMAIN, dreamsparkuat.download.prss.microsoft.com
 DOMAIN, f.c2r.ts.cdn.office.net
