@@ -7745,7 +7745,6 @@ DOMAIN-SUFFIX, bingsandbox.com
 DOMAIN-SUFFIX, bingvisualsearch.com
 DOMAIN-SUFFIX, bingworld.com
 DOMAIN-SUFFIX, bluehatnights.com
-DOMAIN-SUFFIX, copilot.microsoft.com
 DOMAIN-SUFFIX, dictate.ms
 DOMAIN-SUFFIX, flipwithsurface.com
 DOMAIN-SUFFIX, masalladeloslimites.com
@@ -7761,6 +7760,9 @@ DOMAIN-SUFFIX, office365tw.com
 DOMAIN-SUFFIX, renovacionoffice.com
 DOMAIN-SUFFIX, sprinklesapp.com
 
+# Copilot
+DOMAIN-SUFFIX, copilot.com
+DOMAIN-SUFFIX, copilot.microsoft.com
 DOMAIN, location.microsoft.com
 
 DOMAIN-SUFFIX, cn.bing.com
@@ -8694,6 +8696,7 @@ DOMAIN-SUFFIX, sora.com
 # CDN & API
 DOMAIN-SUFFIX, openai.com.cdn.cloudflare.net
 DOMAIN, openaiapi-site.azureedge.net
+DOMAIN, openaiassets.blob.core.windows.net
 DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN, openaicom.imgix.net
 DOMAIN, openaicomproductionae4b.blob.core.windows.net
@@ -8701,8 +8704,9 @@ DOMAIN, production-openaicom-storage.azureedge.net
 URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 
 # tracking
-DOMAIN, o33249.ingest.sentry.io
 DOMAIN, browser-intake-datadoghq.com
+DOMAIN, o33249.ingest.sentry.io
+DOMAIN, openai.qualtrics.com
 
 # Advanced Voice
 DOMAIN-SUFFIX, chatgpt.livekit.cloud
