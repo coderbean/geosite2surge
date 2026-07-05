@@ -28,6 +28,11 @@ DOMAIN-SUFFIX, okjike.com
 DOMAIN-SUFFIX, okjk.co
 DOMAIN-SUFFIX, ruguoapp.com
 
+# TLDs
+DOMAIN-SUFFIX, sina
+DOMAIN-SUFFIX, weibo
+DOMAIN-SUFFIX, xn--9krt00a # 微博
+
 DOMAIN-SUFFIX, 97973.com
 DOMAIN-SUFFIX, hk.weibo.com
 DOMAIN-SUFFIX, my.weibo.com
