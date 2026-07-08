@@ -120,6 +120,16 @@ DOMAIN-SUFFIX, zuihuimai.com
 # All .sohu domains
 DOMAIN-SUFFIX, sohu
 
+# 搜狐畅游
+DOMAIN-SUFFIX, 17173.com
+DOMAIN-SUFFIX, 17173cdn.com
+DOMAIN-SUFFIX, changyou.com
+DOMAIN-SUFFIX, cy.com
+DOMAIN-SUFFIX, playcool.com
+DOMAIN-SUFFIX, yeyou.com
+DOMAIN-SUFFIX, yeyoucdn.com
+
+
 DOMAIN-SUFFIX, focus-img.cn
 DOMAIN-SUFFIX, focus.cn
 DOMAIN-SUFFIX, itc.cn

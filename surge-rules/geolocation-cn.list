@@ -72,6 +72,7 @@ DOMAIN-SUFFIX, aloys233.top # 蜀ICP备2023035383号-1
 DOMAIN-SUFFIX, fanmingming.com # 范明明's Blog 蒙ICP备18004194号
 DOMAIN-SUFFIX, huangyuhui.net # 粤ICP备18071565号-1
 DOMAIN-SUFFIX, lg3000.top # 立更君的壁纸博客 粤ICP备2021128603号-1
+DOMAIN-SUFFIX, lovestu.com # 蜀ICP备16029882号-1
 DOMAIN-SUFFIX, misaka-net.top # Misaka Network 浙ICP备2026032951号-1
 DOMAIN-SUFFIX, moliranran.com # 莫离然然
 DOMAIN-SUFFIX, mryys.cn
@@ -85,6 +86,7 @@ DOMAIN-SUFFIX, tai3.cn # 粤ICP备2024275151号-1
 DOMAIN-SUFFIX, tianhw.top # THW's Blog 鲁ICP备2026002442号-1
 DOMAIN-SUFFIX, topwd.top # 典典丹丹 桂ICP备19003645号-1
 DOMAIN-SUFFIX, vtdd.vip # Zero 粤ICP备2025451620号
+DOMAIN-SUFFIX, xrbk.cn # 新锐博客 苏ICP备2024091362号-3
 DOMAIN-SUFFIX, zway.top # longjuan's Blog 粤ICP备2020094784号-1
 
 # Software development related
@@ -484,6 +486,15 @@ DOMAIN-SUFFIX, biligame.net
 # From reverse 1999
 DOMAIN-SUFFIX, sl916.com
 
+# 搜狐畅游
+DOMAIN-SUFFIX, 17173.com
+DOMAIN-SUFFIX, 17173cdn.com
+DOMAIN-SUFFIX, changyou.com
+DOMAIN-SUFFIX, cy.com
+DOMAIN-SUFFIX, playcool.com
+DOMAIN-SUFFIX, yeyou.com
+DOMAIN-SUFFIX, yeyoucdn.com
+
 DOMAIN-SUFFIX, cowlevel.net
 DOMAIN-SUFFIX, cdncl.net
 
@@ -719,10 +730,6 @@ DOMAIN-SUFFIX, astral-vector.com
 # 橙光
 DOMAIN-SUFFIX, 66rpg.com
 DOMAIN-SUFFIX, cgyouxi.com
-# 畅游 (sohu)
-DOMAIN-SUFFIX, changyou.com
-DOMAIN-SUFFIX, cy.com
-DOMAIN-SUFFIX, playcool.com
 # 终末地-协议终端
 DOMAIN, end-api.shallow.ink
 DOMAIN, end.shallow.ink
@@ -752,12 +759,22 @@ DOMAIN-SUFFIX, morefreegame.com
 # 途游
 DOMAIN-SUFFIX, nalrer.cn
 DOMAIN-SUFFIX, tuyoo.com
+# 叠纸游戏
+DOMAIN-SUFFIX, nikkigames.cn
+DOMAIN-SUFFIX, nikkigames.com.cn
+DOMAIN-SUFFIX, papegames.cn
+DOMAIN-SUFFIX, papegames.com
 # Phira
 DOMAIN-SUFFIX, phira.cn
 # 盛趣游戏 浙ICP备17039406号-1
 DOMAIN-SUFFIX, sdo.com
 DOMAIN-SUFFIX, shengqugames.com
 DOMAIN-SUFFIX, zjshulong.com
+# 贪玩游戏
+DOMAIN-SUFFIX, tanwan.com
+DOMAIN-SUFFIX, twyx.cn
+DOMAIN-SUFFIX, twyxh.com
+DOMAIN-SUFFIX, zx.com
 # 沪ICP备18041304号-1
 DOMAIN-SUFFIX, tgpro.top
 DOMAIN-SUFFIX, tgprocs.net
@@ -1519,6 +1536,8 @@ DOMAIN-SUFFIX, sfacg.com
 DOMAIN-SUFFIX, shuhai.com
 # 塔读小说
 DOMAIN-SUFFIX, tadu.com
+# 看理想
+DOMAIN-SUFFIX, vistopia.com.cn
 # 江山文学
 DOMAIN-SUFFIX, vsread.com
 # 树梦
@@ -1548,9 +1567,6 @@ DOMAIN-SUFFIX, tgbus.com
 DOMAIN-SUFFIX, vgtime.com
 
 
-## 17173网 (sohu)
-DOMAIN-SUFFIX, 17173.com
-DOMAIN-SUFFIX, 17173cdn.com
 ## 18183网
 DOMAIN-SUFFIX, 18183.com
 ## 3DM游戏网
@@ -2160,6 +2176,16 @@ DOMAIN-SUFFIX, zuihuimai.com
 # All .sohu domains
 DOMAIN-SUFFIX, sohu
 
+# 搜狐畅游
+DOMAIN-SUFFIX, 17173.com
+DOMAIN-SUFFIX, 17173cdn.com
+DOMAIN-SUFFIX, changyou.com
+DOMAIN-SUFFIX, cy.com
+DOMAIN-SUFFIX, playcool.com
+DOMAIN-SUFFIX, yeyou.com
+DOMAIN-SUFFIX, yeyoucdn.com
+
+
 DOMAIN-SUFFIX, focus-img.cn
 DOMAIN-SUFFIX, focus.cn
 DOMAIN-SUFFIX, itc.cn
@@ -2639,11 +2665,8 @@ DOMAIN-SUFFIX, weibo
 DOMAIN-SUFFIX, xn--9krt00a # 微博
 
 DOMAIN-SUFFIX, 97973.com
-DOMAIN-SUFFIX, hk.weibo.com
-DOMAIN-SUFFIX, my.weibo.com
-DOMAIN-SUFFIX, overseas.weibo.com
+DOMAIN-SUFFIX, krcom.cn
 DOMAIN-SUFFIX, picself.cn
-DOMAIN-SUFFIX, sg.weibo.com
 DOMAIN-SUFFIX, sina.cn
 DOMAIN-SUFFIX, sina.com
 DOMAIN-SUFFIX, sina.com.cn
@@ -2655,9 +2678,6 @@ DOMAIN-SUFFIX, sinaimg.com
 DOMAIN-SUFFIX, sinajs.cn
 DOMAIN-SUFFIX, sinajs.com
 DOMAIN-SUFFIX, t.cn
-DOMAIN-SUFFIX, th.weibo.com
-DOMAIN-SUFFIX, tw.weibo.com
-DOMAIN-SUFFIX, us.weibo.com
 DOMAIN-SUFFIX, videoself.cn
 DOMAIN-SUFFIX, wbimg.cn
 DOMAIN-SUFFIX, wbimg.com
@@ -2668,6 +2688,14 @@ DOMAIN-SUFFIX, weibo.com.cn
 DOMAIN-SUFFIX, weibocdn.com
 DOMAIN-SUFFIX, weibopay.com
 DOMAIN-SUFFIX, xhaiwai.com
+
+DOMAIN-SUFFIX, hk.weibo.com
+DOMAIN-SUFFIX, my.weibo.com
+DOMAIN-SUFFIX, overseas.weibo.com
+DOMAIN-SUFFIX, sg.weibo.com
+DOMAIN-SUFFIX, th.weibo.com
+DOMAIN-SUFFIX, tw.weibo.com
+DOMAIN-SUFFIX, us.weibo.com
 
 # Ads/tracking
 DOMAIN-SUFFIX, ad.sina.com.cn
@@ -3445,6 +3473,8 @@ DOMAIN-SUFFIX, chuangcdn.com
 DOMAIN-SUFFIX, dfyun.com.cn
 # FUNCDN
 DOMAIN-SUFFIX, funcdn.com
+# 火毅盾
+DOMAIN-SUFFIX, hydun.com
 # 北京知道创宇信息技术股份有限公司
 DOMAIN-SUFFIX, jiashule.com
 DOMAIN-SUFFIX, jiasule.com
@@ -3673,6 +3703,8 @@ DOMAIN-SUFFIX, suu-fun.com
 # Cloud Service
 ## 华栖云
 DOMAIN-SUFFIX, chinamcloud.com
+## CmsTop 媒体云
+DOMAIN-SUFFIX, cjyun.org
 ## 安徽大家网络科技
 DOMAIN-SUFFIX, cnwza.cn
 DOMAIN-SUFFIX, govwza.cn
@@ -5011,6 +5043,12 @@ DOMAIN-SUFFIX, tongyi.com
 DOMAIN-SUFFIX, antafu.com
 DOMAIN-SUFFIX, antaq.com
 
+# Happy Horse
+DOMAIN-SUFFIX, aorizon.cn
+DOMAIN-SUFFIX, happyhorse.cn
+DOMAIN-SUFFIX, happyshrimp.cn
+DOMAIN-SUFFIX, sleeplesshorizon.cn
+
 # 文心一言
 DOMAIN-SUFFIX, yiyan.baidu.com
 
@@ -5930,6 +5968,7 @@ DOMAIN-SUFFIX, myalicdn.com
 DOMAIN-SUFFIX, ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX, cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX, cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX, log-global.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-south-1.aliyuncs.com
@@ -7443,6 +7482,7 @@ DOMAIN-SUFFIX, zjbyte.net
 DOMAIN-SUFFIX, zjcdn.com
 DOMAIN-SUFFIX, zjfcdn.com
 DOMAIN-SUFFIX, zjgslb.com
+DOMAIN-SUFFIX, zlinkurl.cn
 
 DOMAIN, bytedance.map.fastly.net
 

@@ -400,6 +400,7 @@ DOMAIN-SUFFIX, myalicdn.com
 DOMAIN-SUFFIX, ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX, cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX, cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX, log-global.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-south-1.aliyuncs.com
@@ -4125,6 +4126,7 @@ DOMAIN-SUFFIX, zjbyte.net
 DOMAIN-SUFFIX, zjcdn.com
 DOMAIN-SUFFIX, zjfcdn.com
 DOMAIN-SUFFIX, zjgslb.com
+DOMAIN-SUFFIX, zlinkurl.cn
 
 DOMAIN, bytedance.map.fastly.net
 
@@ -9273,11 +9275,8 @@ DOMAIN-SUFFIX, weibo
 DOMAIN-SUFFIX, xn--9krt00a # 微博
 
 DOMAIN-SUFFIX, 97973.com
-DOMAIN-SUFFIX, hk.weibo.com
-DOMAIN-SUFFIX, my.weibo.com
-DOMAIN-SUFFIX, overseas.weibo.com
+DOMAIN-SUFFIX, krcom.cn
 DOMAIN-SUFFIX, picself.cn
-DOMAIN-SUFFIX, sg.weibo.com
 DOMAIN-SUFFIX, sina.cn
 DOMAIN-SUFFIX, sina.com
 DOMAIN-SUFFIX, sina.com.cn
@@ -9289,9 +9288,6 @@ DOMAIN-SUFFIX, sinaimg.com
 DOMAIN-SUFFIX, sinajs.cn
 DOMAIN-SUFFIX, sinajs.com
 DOMAIN-SUFFIX, t.cn
-DOMAIN-SUFFIX, th.weibo.com
-DOMAIN-SUFFIX, tw.weibo.com
-DOMAIN-SUFFIX, us.weibo.com
 DOMAIN-SUFFIX, videoself.cn
 DOMAIN-SUFFIX, wbimg.cn
 DOMAIN-SUFFIX, wbimg.com
@@ -9302,6 +9298,14 @@ DOMAIN-SUFFIX, weibo.com.cn
 DOMAIN-SUFFIX, weibocdn.com
 DOMAIN-SUFFIX, weibopay.com
 DOMAIN-SUFFIX, xhaiwai.com
+
+DOMAIN-SUFFIX, hk.weibo.com
+DOMAIN-SUFFIX, my.weibo.com
+DOMAIN-SUFFIX, overseas.weibo.com
+DOMAIN-SUFFIX, sg.weibo.com
+DOMAIN-SUFFIX, th.weibo.com
+DOMAIN-SUFFIX, tw.weibo.com
+DOMAIN-SUFFIX, us.weibo.com
 
 # Ads/tracking
 DOMAIN-SUFFIX, ad.sina.com.cn
@@ -9341,6 +9345,16 @@ DOMAIN, impala-media-production.s3.amazonaws.com
 
 # All .sohu domains
 DOMAIN-SUFFIX, sohu
+
+# 搜狐畅游
+DOMAIN-SUFFIX, 17173.com
+DOMAIN-SUFFIX, 17173cdn.com
+DOMAIN-SUFFIX, changyou.com
+DOMAIN-SUFFIX, cy.com
+DOMAIN-SUFFIX, playcool.com
+DOMAIN-SUFFIX, yeyou.com
+DOMAIN-SUFFIX, yeyoucdn.com
+
 
 DOMAIN-SUFFIX, focus-img.cn
 DOMAIN-SUFFIX, focus.cn

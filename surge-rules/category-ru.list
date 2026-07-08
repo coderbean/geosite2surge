@@ -20,6 +20,38 @@ DOMAIN-SUFFIX, ru.net
 # - You can still add `*.ru` domains here if you want
 
 # Subcategories
+# Aiesa (AI assistant)
+DOMAIN-SUFFIX, aiesa.ru
+
+# Yandex Alice
+DOMAIN-SUFFIX, alice.yandex.net
+DOMAIN-SUFFIX, alice.yandex.ru
+DOMAIN-SUFFIX, alicepro.yandex.ru
+
+# CopyMonkey (AI copywriter)
+DOMAIN-SUFFIX, copymonkey.app
+
+# Gerwin (AI copywriter)
+DOMAIN-SUFFIX, gerwin.io
+
+# Sberbank GigaChat
+DOMAIN-SUFFIX, giga.chat
+
+# GPTunnel (LLM aggregator)
+DOMAIN-SUFFIX, gptunnel.ru
+
+# Polza (LLM aggregator)
+DOMAIN-SUFFIX, polza.ai
+
+# RoboText (AI text generator)
+DOMAIN-SUFFIX, robotext.io
+
+# RuGPT (AI text generator)
+DOMAIN-SUFFIX, rugpt.io
+
+# Tokenator (LLM aggregator)
+DOMAIN-SUFFIX, tokenator.top
+
 DOMAIN-SUFFIX, betboom.ru
 DOMAIN-SUFFIX, mobile-bb.com
 
@@ -42,6 +74,13 @@ DOMAIN-SUFFIX, avito.ru
 DOMAIN-SUFFIX, avito.st
 
 DOMAIN, stats.avito.ru
+
+DOMAIN-SUFFIX, flowwow-images.com
+DOMAIN-SUFFIX, flowwow.com
+
+DOMAIN-SUFFIX, funpay.com
+DOMAIN-SUFFIX, funpay.ru
+DOMAIN-SUFFIX, sfunpay.com
 
 DOMAIN-SUFFIX, ewisdom.us.kg
 DOMAIN-SUFFIX, o3.ru
@@ -1596,6 +1635,7 @@ DOMAIN-SUFFIX, tilda.ru
 DOMAIN-SUFFIX, tilda.ws
 DOMAIN-SUFFIX, tildaapi.com
 DOMAIN-SUFFIX, tildacdn.com
+DOMAIN-SUFFIX, tildacdn.net
 
 DOMAIN-SUFFIX, timeweb.cloud
 DOMAIN-SUFFIX, timeweb.com
