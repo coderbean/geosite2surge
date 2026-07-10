@@ -1225,6 +1225,36 @@ DOMAIN-SUFFIX, gogocdn.net # image hosting site
 # hidive
 DOMAIN-SUFFIX, hidive.com
 
+DOMAIN-SUFFIX, applemusic.berlin
+DOMAIN-SUFFIX, applemusic.co
+DOMAIN-SUFFIX, applemusic.com
+DOMAIN-SUFFIX, applemusic.com.au
+DOMAIN-SUFFIX, applemusic.hamburg
+DOMAIN-SUFFIX, applemusic.wang
+DOMAIN-SUFFIX, applemusicconnect.com
+DOMAIN-SUFFIX, applemusicfestival.com
+DOMAIN-SUFFIX, musickit.net
+DOMAIN-SUFFIX, wwwapplemusic.com
+
+DOMAIN-SUFFIX, music.apple.com
+
+# Domains and services below are available in China mainland
+DOMAIN, amp-api-edge.music.apple.com
+DOMAIN, amp-api.music.apple.com
+DOMAIN, js-cdn.music.apple.com
+DOMAIN, music.apple.com
+DOMAIN, musicstatus.music.apple.com
+DOMAIN, play.music.apple.com
+DOMAIN, speedysub.music.apple.com
+
+DOMAIN-SUFFIX, applepodcasts.com
+
+DOMAIN-SUFFIX, podcasts.apple.com
+
+# Domains and services below are available in China mainland
+DOMAIN, amp-api.podcasts.apple.com
+DOMAIN, podcasts.apple.com
+
 # Apple TV+
 DOMAIN, apple-tv-plus-press.apple.com
 DOMAIN, hls-amt.itunes.apple.com
@@ -1773,7 +1803,9 @@ DOMAIN, np-edge.itunes.apple.com
 DOMAIN, osxapps.itunes.apple.com
 DOMAIN, pd-nk.itunes.apple.com
 DOMAIN, pd.itunes.apple.com
+DOMAIN, play-edge.itunes.apple.com
 DOMAIN, play.itunes.apple.com
+DOMAIN, podcasts.itunes.apple.com
 DOMAIN, se-edge.itunes.apple.com
 DOMAIN, se2.itunes.apple.com
 DOMAIN, search.itunes.apple.com

@@ -7549,6 +7549,36 @@ DOMAIN-SUFFIX, gogocdn.net # image hosting site
 # hidive
 DOMAIN-SUFFIX, hidive.com
 
+DOMAIN-SUFFIX, applemusic.berlin
+DOMAIN-SUFFIX, applemusic.co
+DOMAIN-SUFFIX, applemusic.com
+DOMAIN-SUFFIX, applemusic.com.au
+DOMAIN-SUFFIX, applemusic.hamburg
+DOMAIN-SUFFIX, applemusic.wang
+DOMAIN-SUFFIX, applemusicconnect.com
+DOMAIN-SUFFIX, applemusicfestival.com
+DOMAIN-SUFFIX, musickit.net
+DOMAIN-SUFFIX, wwwapplemusic.com
+
+DOMAIN-SUFFIX, music.apple.com
+
+# Domains and services below are available in China mainland
+DOMAIN, amp-api-edge.music.apple.com
+DOMAIN, amp-api.music.apple.com
+DOMAIN, js-cdn.music.apple.com
+DOMAIN, music.apple.com
+DOMAIN, musicstatus.music.apple.com
+DOMAIN, play.music.apple.com
+DOMAIN, speedysub.music.apple.com
+
+DOMAIN-SUFFIX, applepodcasts.com
+
+DOMAIN-SUFFIX, podcasts.apple.com
+
+# Domains and services below are available in China mainland
+DOMAIN, amp-api.podcasts.apple.com
+DOMAIN, podcasts.apple.com
+
 # Apple TV+
 DOMAIN, apple-tv-plus-press.apple.com
 DOMAIN, hls-amt.itunes.apple.com
@@ -8097,7 +8127,9 @@ DOMAIN, np-edge.itunes.apple.com
 DOMAIN, osxapps.itunes.apple.com
 DOMAIN, pd-nk.itunes.apple.com
 DOMAIN, pd.itunes.apple.com
+DOMAIN, play-edge.itunes.apple.com
 DOMAIN, play.itunes.apple.com
+DOMAIN, podcasts.itunes.apple.com
 DOMAIN, se-edge.itunes.apple.com
 DOMAIN, se2.itunes.apple.com
 DOMAIN, search.itunes.apple.com
@@ -22642,6 +22674,28 @@ DOMAIN, p-events-delivery.akamaized.net
 
 
 # Not include:apple-intelligence
+DOMAIN-SUFFIX, applemusic.berlin
+DOMAIN-SUFFIX, applemusic.co
+DOMAIN-SUFFIX, applemusic.com
+DOMAIN-SUFFIX, applemusic.com.au
+DOMAIN-SUFFIX, applemusic.hamburg
+DOMAIN-SUFFIX, applemusic.wang
+DOMAIN-SUFFIX, applemusicconnect.com
+DOMAIN-SUFFIX, applemusicfestival.com
+DOMAIN-SUFFIX, musickit.net
+DOMAIN-SUFFIX, wwwapplemusic.com
+
+DOMAIN-SUFFIX, music.apple.com
+
+# Domains and services below are available in China mainland
+DOMAIN, amp-api-edge.music.apple.com
+DOMAIN, amp-api.music.apple.com
+DOMAIN, js-cdn.music.apple.com
+DOMAIN, music.apple.com
+DOMAIN, musicstatus.music.apple.com
+DOMAIN, play.music.apple.com
+DOMAIN, speedysub.music.apple.com
+
 DOMAIN, certs-lb.apple.com.akadns.net
 DOMAIN, certs.apple.com
 DOMAIN, crl-lb.apple.com.akadns.net
@@ -22650,6 +22704,14 @@ DOMAIN, ocsp.apple.com
 DOMAIN, ocsp2.apple.com
 DOMAIN, valid.apple.com
 DOMAIN, valid.origin-apple.com.akadns.net
+
+DOMAIN-SUFFIX, applepodcasts.com
+
+DOMAIN-SUFFIX, podcasts.apple.com
+
+# Domains and services below are available in China mainland
+DOMAIN, amp-api.podcasts.apple.com
+DOMAIN, podcasts.apple.com
 
 # Apple TV+
 DOMAIN, apple-tv-plus-press.apple.com
@@ -23546,7 +23608,9 @@ DOMAIN, np-edge.itunes.apple.com
 DOMAIN, osxapps.itunes.apple.com
 DOMAIN, pd-nk.itunes.apple.com
 DOMAIN, pd.itunes.apple.com
+DOMAIN, play-edge.itunes.apple.com
 DOMAIN, play.itunes.apple.com
+DOMAIN, podcasts.itunes.apple.com
 DOMAIN, se-edge.itunes.apple.com
 DOMAIN, se2.itunes.apple.com
 DOMAIN, search.itunes.apple.com
@@ -23666,6 +23730,93 @@ DOMAIN-SUFFIX, apple.xn--czr694b # apple.商标
 DOMAIN-SUFFIX, apple.xn--fiqs8s # apple.中国
 DOMAIN-SUFFIX, apple.xyz
 
+# App Store
+DOMAIN-SUFFIX, app-store.wang
+DOMAIN-SUFFIX, appe-store.com
+DOMAIN-SUFFIX, apple-appstore.cn
+DOMAIN-SUFFIX, appleappstore.cn
+DOMAIN-SUFFIX, appleappstore.net
+DOMAIN-SUFFIX, appleappstore.tv
+DOMAIN-SUFFIX, appsto.re
+DOMAIN-SUFFIX, appstore.co.id
+DOMAIN-SUFFIX, appstore.hk
+DOMAIN-SUFFIX, appstore.my
+DOMAIN-SUFFIX, appstore.ph
+DOMAIN-SUFFIX, appstoreapple.cn
+DOMAIN-SUFFIX, asto.re
+DOMAIN-SUFFIX, tvappstore.net
+
+# Apple Care
+DOMAIN-SUFFIX, applecare.berlin
+DOMAIN-SUFFIX, applecare.cc
+DOMAIN-SUFFIX, applecare.eu
+DOMAIN-SUFFIX, applecare.hamburg
+DOMAIN-SUFFIX, applecare.wang
+
+# Apple ID
+DOMAIN-SUFFIX, appleaccount.net
+DOMAIN-SUFFIX, appleid-applemx.com
+DOMAIN-SUFFIX, appleid-applemx.us
+DOMAIN-SUFFIX, appleid-iclou.com
+DOMAIN-SUFFIX, appleid-uk.us
+DOMAIN-SUFFIX, appleid.berlin
+DOMAIN-SUFFIX, appleid.com
+DOMAIN-SUFFIX, appleid.hamburg
+DOMAIN-SUFFIX, appleid.hk
+DOMAIN-SUFFIX, ids-apple.com
+DOMAIN-SUFFIX, myappleid.com
+
+# Apple News
+DOMAIN-SUFFIX, apple.comscoreresearch.com
+DOMAIN-SUFFIX, apple.news
+DOMAIN-SUFFIX, appleenews.com
+DOMAIN-SUFFIX, applenews.berlin
+DOMAIN-SUFFIX, applenews.hamburg
+DOMAIN-SUFFIX, applenews.tv
+DOMAIN-SUFFIX, applenewsformat.com
+
+# Apple One
+DOMAIN-SUFFIX, appleone.audio
+DOMAIN-SUFFIX, appleone.blog
+DOMAIN-SUFFIX, appleone.chat
+DOMAIN-SUFFIX, appleone.cloud
+DOMAIN-SUFFIX, appleone.club
+DOMAIN-SUFFIX, appleone.community
+DOMAIN-SUFFIX, appleone.film
+DOMAIN-SUFFIX, appleone.guide
+DOMAIN-SUFFIX, appleone.host
+DOMAIN-SUFFIX, appleone.space
+DOMAIN-SUFFIX, appleone.tech
+DOMAIN-SUFFIX, appleone.website
+
+# Apple Pay
+DOMAIN-SUFFIX, apple-pay.com
+DOMAIN-SUFFIX, apple-pay.rs
+DOMAIN-SUFFIX, apple-pay.wang
+DOMAIN-SUFFIX, applepay.berlin
+DOMAIN-SUFFIX, applepay.co.rs
+DOMAIN-SUFFIX, applepay.com.tw
+DOMAIN-SUFFIX, applepay.hamburg
+DOMAIN-SUFFIX, applepay.hk
+DOMAIN-SUFFIX, applepay.info
+DOMAIN-SUFFIX, applepay.jp
+DOMAIN-SUFFIX, applepay.rs
+DOMAIN-SUFFIX, applepay.tv
+DOMAIN-SUFFIX, applepaycash.cn
+DOMAIN-SUFFIX, applepaycash.com.cn
+DOMAIN-SUFFIX, applepaycash.net
+DOMAIN-SUFFIX, applepaycash.tv
+DOMAIN-SUFFIX, applepaymerchantsupplies.info
+DOMAIN-SUFFIX, applepaysupplies.berlin
+DOMAIN-SUFFIX, applepaysupplies.cn
+DOMAIN-SUFFIX, applepaysupplies.com
+DOMAIN-SUFFIX, applepaysupplies.com.cn
+DOMAIN-SUFFIX, applepaysupplies.info
+DOMAIN-SUFFIX, applepaysupplies.net
+DOMAIN-SUFFIX, applepaysupplies.tv
+DOMAIN-SUFFIX, applewallet.com
+DOMAIN-SUFFIX, applewallet.tv
+
 # Apple Store
 DOMAIN-SUFFIX, aplestore.com
 DOMAIN-SUFFIX, apple-store.cn
@@ -23713,21 +23864,33 @@ DOMAIN-SUFFIX, applestoreonline.com
 DOMAIN-SUFFIX, applestorepro.eu
 DOMAIN-SUFFIX, onlineapplestore.com
 
-# App Store
-DOMAIN-SUFFIX, app-store.wang
-DOMAIN-SUFFIX, appe-store.com
-DOMAIN-SUFFIX, apple-appstore.cn
-DOMAIN-SUFFIX, appleappstore.cn
-DOMAIN-SUFFIX, appleappstore.net
-DOMAIN-SUFFIX, appleappstore.tv
-DOMAIN-SUFFIX, appsto.re
-DOMAIN-SUFFIX, appstore.co.id
-DOMAIN-SUFFIX, appstore.hk
-DOMAIN-SUFFIX, appstore.my
-DOMAIN-SUFFIX, appstore.ph
-DOMAIN-SUFFIX, appstoreapple.cn
-DOMAIN-SUFFIX, asto.re
-DOMAIN-SUFFIX, tvappstore.net
+# Apple TV
+DOMAIN-SUFFIX, appletv.com
+DOMAIN-SUFFIX, appletv.fr
+DOMAIN-SUFFIX, appletv.wang
+DOMAIN-SUFFIX, appletv4.cn
+DOMAIN-SUFFIX, appletv4.com.cn
+DOMAIN-SUFFIX, appletvapp.apple
+
+# Apple Watch
+DOMAIN-SUFFIX, apple-watch.com.ru
+DOMAIN-SUFFIX, applewatch.hk
+DOMAIN-SUFFIX, applewatch.tv
+DOMAIN-SUFFIX, applewatch.tw
+DOMAIN-SUFFIX, applewatch.wang
+DOMAIN-SUFFIX, applewatchedition.com
+DOMAIN-SUFFIX, applewatchseries3.net
+DOMAIN-SUFFIX, applewatchsport.com
+
+# iBook
+DOMAIN-SUFFIX, i-book.com
+DOMAIN-SUFFIX, i-book.net
+DOMAIN-SUFFIX, ibook.co.nz
+DOMAIN-SUFFIX, ibook.com
+DOMAIN-SUFFIX, ibook.eu
+DOMAIN-SUFFIX, ibook.net
+DOMAIN-SUFFIX, ibookpartner.com
+DOMAIN-SUFFIX, ibooksauthor.com
 
 # iMac
 DOMAIN-SUFFIX, apple-imac.com
@@ -23743,6 +23906,11 @@ DOMAIN-SUFFIX, imac.one
 DOMAIN-SUFFIX, imac.rs
 DOMAIN-SUFFIX, imacapple.com
 DOMAIN-SUFFIX, imacapplecomputer.com
+
+# iMovie
+DOMAIN-SUFFIX, imovie.eu
+DOMAIN-SUFFIX, imoviegallery.com
+DOMAIN-SUFFIX, imoviestage.com
 
 # iPad
 DOMAIN-SUFFIX, ebookforipad.com
@@ -23769,6 +23937,54 @@ DOMAIN-SUFFIX, ipadmini.com.lk
 DOMAIN-SUFFIX, ipadmini.lk
 DOMAIN-SUFFIX, ipadpro.buzz
 DOMAIN-SUFFIX, ukipad.com
+
+# iPod
+DOMAIN-SUFFIX, aplleipods.com
+DOMAIN-SUFFIX, appleclassicipod.com
+DOMAIN-SUFFIX, downloadsforipod.com
+DOMAIN-SUFFIX, ipod.ca
+DOMAIN-SUFFIX, ipod.ch
+DOMAIN-SUFFIX, ipod.cm
+DOMAIN-SUFFIX, ipod.co
+DOMAIN-SUFFIX, ipod.co.nz
+DOMAIN-SUFFIX, ipod.co.uk
+DOMAIN-SUFFIX, ipod.co.za
+DOMAIN-SUFFIX, ipod.com
+DOMAIN-SUFFIX, ipod.com.au
+DOMAIN-SUFFIX, ipod.com.cn
+DOMAIN-SUFFIX, ipod.com.fr
+DOMAIN-SUFFIX, ipod.com.hk
+DOMAIN-SUFFIX, ipod.com.sg
+DOMAIN-SUFFIX, ipod.com.tw
+DOMAIN-SUFFIX, ipod.de
+DOMAIN-SUFFIX, ipod.es
+DOMAIN-SUFFIX, ipod.eu
+DOMAIN-SUFFIX, ipod.fr
+DOMAIN-SUFFIX, ipod.gr
+DOMAIN-SUFFIX, ipod.hk
+DOMAIN-SUFFIX, ipod.is
+DOMAIN-SUFFIX, ipod.net
+DOMAIN-SUFFIX, ipod.no
+DOMAIN-SUFFIX, ipod.pk
+DOMAIN-SUFFIX, ipod.rs
+DOMAIN-SUFFIX, ipod.ru
+DOMAIN-SUFFIX, ipod.tw
+DOMAIN-SUFFIX, ipodcentre.nl
+DOMAIN-SUFFIX, ipodcleaner.com
+DOMAIN-SUFFIX, ipoditouch.com
+DOMAIN-SUFFIX, ipodnano.com
+DOMAIN-SUFFIX, ipodnano.net
+DOMAIN-SUFFIX, ipodprices.com
+DOMAIN-SUFFIX, ipodrip.ca
+DOMAIN-SUFFIX, ipodrocks.com.au
+DOMAIN-SUFFIX, ipods.com
+DOMAIN-SUFFIX, ipodshop.com.au
+DOMAIN-SUFFIX, ipodtouch.co
+DOMAIN-SUFFIX, ipodtouch.com
+DOMAIN-SUFFIX, myipod.net
+DOMAIN-SUFFIX, offrezdesipods.com
+DOMAIN-SUFFIX, simplyipod.com
+DOMAIN-SUFFIX, wwwipodlounge.com
 
 # iPhone
 DOMAIN-SUFFIX, appleiphone.hu
@@ -23830,53 +24046,11 @@ DOMAIN-SUFFIX, iphoneunlockimei.com
 DOMAIN-SUFFIX, iphonexs.tv
 DOMAIN-SUFFIX, onlyiphone5case.com
 
-# iPod
-DOMAIN-SUFFIX, aplleipods.com
-DOMAIN-SUFFIX, appleclassicipod.com
-DOMAIN-SUFFIX, downloadsforipod.com
-DOMAIN-SUFFIX, ipod.ca
-DOMAIN-SUFFIX, ipod.ch
-DOMAIN-SUFFIX, ipod.cm
-DOMAIN-SUFFIX, ipod.co
-DOMAIN-SUFFIX, ipod.co.nz
-DOMAIN-SUFFIX, ipod.co.uk
-DOMAIN-SUFFIX, ipod.co.za
-DOMAIN-SUFFIX, ipod.com
-DOMAIN-SUFFIX, ipod.com.au
-DOMAIN-SUFFIX, ipod.com.cn
-DOMAIN-SUFFIX, ipod.com.fr
-DOMAIN-SUFFIX, ipod.com.hk
-DOMAIN-SUFFIX, ipod.com.sg
-DOMAIN-SUFFIX, ipod.com.tw
-DOMAIN-SUFFIX, ipod.de
-DOMAIN-SUFFIX, ipod.es
-DOMAIN-SUFFIX, ipod.eu
-DOMAIN-SUFFIX, ipod.fr
-DOMAIN-SUFFIX, ipod.gr
-DOMAIN-SUFFIX, ipod.hk
-DOMAIN-SUFFIX, ipod.is
-DOMAIN-SUFFIX, ipod.net
-DOMAIN-SUFFIX, ipod.no
-DOMAIN-SUFFIX, ipod.pk
-DOMAIN-SUFFIX, ipod.rs
-DOMAIN-SUFFIX, ipod.ru
-DOMAIN-SUFFIX, ipod.tw
-DOMAIN-SUFFIX, ipodcentre.nl
-DOMAIN-SUFFIX, ipodcleaner.com
-DOMAIN-SUFFIX, ipoditouch.com
-DOMAIN-SUFFIX, ipodnano.com
-DOMAIN-SUFFIX, ipodnano.net
-DOMAIN-SUFFIX, ipodprices.com
-DOMAIN-SUFFIX, ipodrip.ca
-DOMAIN-SUFFIX, ipodrocks.com.au
-DOMAIN-SUFFIX, ipods.com
-DOMAIN-SUFFIX, ipodshop.com.au
-DOMAIN-SUFFIX, ipodtouch.co
-DOMAIN-SUFFIX, ipodtouch.com
-DOMAIN-SUFFIX, myipod.net
-DOMAIN-SUFFIX, offrezdesipods.com
-DOMAIN-SUFFIX, simplyipod.com
-DOMAIN-SUFFIX, wwwipodlounge.com
+# iPhoto
+DOMAIN-SUFFIX, iphoto.eu
+DOMAIN-SUFFIX, iphoto.no
+DOMAIN-SUFFIX, iphoto.se
+DOMAIN-SUFFIX, iphoto.wang
 
 # MacBook
 DOMAIN-SUFFIX, imacsources.com
@@ -23907,134 +24081,19 @@ DOMAIN-SUFFIX, macbookpros.com
 DOMAIN-SUFFIX, macbooksale.com
 DOMAIN-SUFFIX, wwwmacbookair.com
 
-# Apple Watch
-DOMAIN-SUFFIX, apple-watch.com.ru
-DOMAIN-SUFFIX, applewatch.hk
-DOMAIN-SUFFIX, applewatch.tv
-DOMAIN-SUFFIX, applewatch.tw
-DOMAIN-SUFFIX, applewatch.wang
-DOMAIN-SUFFIX, applewatchedition.com
-DOMAIN-SUFFIX, applewatchseries3.net
-DOMAIN-SUFFIX, applewatchsport.com
-
-# Apple Music
-DOMAIN-SUFFIX, applemusic.berlin
-DOMAIN-SUFFIX, applemusic.co
-DOMAIN-SUFFIX, applemusic.com
-DOMAIN-SUFFIX, applemusic.com.au
-DOMAIN-SUFFIX, applemusic.hamburg
-DOMAIN-SUFFIX, applemusic.wang
-DOMAIN-SUFFIX, applemusicconnect.com
-DOMAIN-SUFFIX, applemusicfestival.com
-DOMAIN-SUFFIX, musickit.net
-DOMAIN-SUFFIX, wwwapplemusic.com
-
-# Apple News
-DOMAIN-SUFFIX, apple.comscoreresearch.com
-DOMAIN-SUFFIX, apple.news
-DOMAIN-SUFFIX, appleenews.com
-DOMAIN-SUFFIX, applenews.berlin
-DOMAIN-SUFFIX, applenews.hamburg
-DOMAIN-SUFFIX, applenews.tv
-DOMAIN-SUFFIX, applenewsformat.com
-
-# Apple Pay
-DOMAIN-SUFFIX, apple-pay.com
-DOMAIN-SUFFIX, apple-pay.rs
-DOMAIN-SUFFIX, apple-pay.wang
-DOMAIN-SUFFIX, applepay.berlin
-DOMAIN-SUFFIX, applepay.co.rs
-DOMAIN-SUFFIX, applepay.com.tw
-DOMAIN-SUFFIX, applepay.hamburg
-DOMAIN-SUFFIX, applepay.hk
-DOMAIN-SUFFIX, applepay.info
-DOMAIN-SUFFIX, applepay.jp
-DOMAIN-SUFFIX, applepay.rs
-DOMAIN-SUFFIX, applepay.tv
-DOMAIN-SUFFIX, applepaycash.cn
-DOMAIN-SUFFIX, applepaycash.com.cn
-DOMAIN-SUFFIX, applepaycash.net
-DOMAIN-SUFFIX, applepaycash.tv
-DOMAIN-SUFFIX, applepaymerchantsupplies.info
-DOMAIN-SUFFIX, applepaysupplies.berlin
-DOMAIN-SUFFIX, applepaysupplies.cn
-DOMAIN-SUFFIX, applepaysupplies.com
-DOMAIN-SUFFIX, applepaysupplies.com.cn
-DOMAIN-SUFFIX, applepaysupplies.info
-DOMAIN-SUFFIX, applepaysupplies.net
-DOMAIN-SUFFIX, applepaysupplies.tv
-DOMAIN-SUFFIX, applewallet.com
-DOMAIN-SUFFIX, applewallet.tv
-
-# iBook
-DOMAIN-SUFFIX, i-book.com
-DOMAIN-SUFFIX, i-book.net
-DOMAIN-SUFFIX, ibook.co.nz
-DOMAIN-SUFFIX, ibook.com
-DOMAIN-SUFFIX, ibook.eu
-DOMAIN-SUFFIX, ibook.net
-DOMAIN-SUFFIX, ibookpartner.com
-DOMAIN-SUFFIX, ibooksauthor.com
-
-# iPhoto
-DOMAIN-SUFFIX, iphoto.eu
-DOMAIN-SUFFIX, iphoto.no
-DOMAIN-SUFFIX, iphoto.se
-DOMAIN-SUFFIX, iphoto.wang
-
-# iMovie
-DOMAIN-SUFFIX, imovie.eu
-DOMAIN-SUFFIX, imoviegallery.com
-DOMAIN-SUFFIX, imoviestage.com
-
-# Apple Care
-DOMAIN-SUFFIX, applecare.berlin
-DOMAIN-SUFFIX, applecare.cc
-DOMAIN-SUFFIX, applecare.eu
-DOMAIN-SUFFIX, applecare.hamburg
-DOMAIN-SUFFIX, applecare.wang
-
 # macOS
+DOMAIN-SUFFIX, apple-darwin.com
+DOMAIN-SUFFIX, apple-darwin.net
+DOMAIN-SUFFIX, apple-darwin.org
 DOMAIN-SUFFIX, appledarwin.com
 DOMAIN-SUFFIX, appledarwin.net
 DOMAIN-SUFFIX, darwinsource.com
 DOMAIN-SUFFIX, darwinsource.org
 DOMAIN-SUFFIX, darwinsourcecode.com
-
-# Apple ID
-DOMAIN-SUFFIX, appleaccount.net
-DOMAIN-SUFFIX, appleid-applemx.com
-DOMAIN-SUFFIX, appleid-applemx.us
-DOMAIN-SUFFIX, appleid-iclou.com
-DOMAIN-SUFFIX, appleid-uk.us
-DOMAIN-SUFFIX, appleid.berlin
-DOMAIN-SUFFIX, appleid.com
-DOMAIN-SUFFIX, appleid.hamburg
-DOMAIN-SUFFIX, appleid.hk
-DOMAIN-SUFFIX, ids-apple.com
-DOMAIN-SUFFIX, myappleid.com
-
-# Apple TV
-DOMAIN-SUFFIX, appletv.com
-DOMAIN-SUFFIX, appletv.fr
-DOMAIN-SUFFIX, appletv.wang
-DOMAIN-SUFFIX, appletv4.cn
-DOMAIN-SUFFIX, appletv4.com.cn
-DOMAIN-SUFFIX, appletvapp.apple
-
-# Apple One
-DOMAIN-SUFFIX, appleone.audio
-DOMAIN-SUFFIX, appleone.blog
-DOMAIN-SUFFIX, appleone.chat
-DOMAIN-SUFFIX, appleone.cloud
-DOMAIN-SUFFIX, appleone.club
-DOMAIN-SUFFIX, appleone.community
-DOMAIN-SUFFIX, appleone.film
-DOMAIN-SUFFIX, appleone.guide
-DOMAIN-SUFFIX, appleone.host
-DOMAIN-SUFFIX, appleone.space
-DOMAIN-SUFFIX, appleone.tech
-DOMAIN-SUFFIX, appleone.website
+DOMAIN-SUFFIX, macos.com.au
+DOMAIN-SUFFIX, macossierra.com
+DOMAIN-SUFFIX, macosx.info
+DOMAIN-SUFFIX, macosxlion.com
 
 # Shazam
 DOMAIN-SUFFIX, shazam.com
@@ -24062,9 +24121,6 @@ DOMAIN-SUFFIX, appl-e.com
 DOMAIN-SUFFIX, appl.com
 DOMAIN-SUFFIX, appl4e.com
 DOMAIN-SUFFIX, appla.com
-DOMAIN-SUFFIX, apple-darwin.com
-DOMAIN-SUFFIX, apple-darwin.net
-DOMAIN-SUFFIX, apple-darwin.org
 DOMAIN-SUFFIX, apple-dns.cn
 DOMAIN-SUFFIX, apple-dns.com
 DOMAIN-SUFFIX, apple-dns.com.cn
@@ -24134,7 +24190,6 @@ DOMAIN-SUFFIX, appleonline.net
 DOMAIN-SUFFIX, appleoriginalproductions.com
 DOMAIN-SUFFIX, appleos.tv
 DOMAIN-SUFFIX, applepencil.net
-DOMAIN-SUFFIX, applepodcasts.com
 DOMAIN-SUFFIX, applepremiumreseller.com.au
 DOMAIN-SUFFIX, applepremiumresellers.com.au
 DOMAIN-SUFFIX, applereach.com
@@ -24252,10 +24307,6 @@ DOMAIN-SUFFIX, machos.net
 DOMAIN-SUFFIX, macintosh.eu
 DOMAIN-SUFFIX, macintoshsoftware.com
 DOMAIN-SUFFIX, macmini.com
-DOMAIN-SUFFIX, macos.com.au
-DOMAIN-SUFFIX, macossierra.com
-DOMAIN-SUFFIX, macosx.info
-DOMAIN-SUFFIX, macosxlion.com
 DOMAIN-SUFFIX, macpazar.com
 DOMAIN-SUFFIX, macreach.com
 DOMAIN-SUFFIX, macreach.net
@@ -24314,12 +24365,9 @@ DOMAIN-SUFFIX, courier-push-apple.com.akadns.net
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:apple@cn"
 DOMAIN, amp-api-edge.apps.apple.com
-DOMAIN, amp-api-edge.music.apple.com
 DOMAIN, amp-api-search-edge.apps.apple.com
 DOMAIN, amp-api.apps.apple.com
-DOMAIN, amp-api.music.apple.com
 DOMAIN, api-edge.apps.apple.com
-DOMAIN, auth.music.apple.com
 DOMAIN, communities.apple.com
 DOMAIN, discussionschinese.apple.com
 DOMAIN, fides-pol.apple.com
@@ -24328,12 +24376,8 @@ DOMAIN, gspe12-cn-ssl.ls.apple.com
 DOMAIN, gspe85-cn-ssl.ls.apple.com
 DOMAIN, init.gc-lb.apple.com.akadns.net
 DOMAIN, init.gc.apple.com
-DOMAIN, js-cdn.music.apple.com
 DOMAIN, km.support.apple.com
 DOMAIN, maps.apple.com
-DOMAIN, musicstatus.music.apple.com
-DOMAIN, play.music.apple.com
-DOMAIN, speedysub.music.apple.com
 DOMAIN, www.support.apple.com
 
 # regexp:^a[1-5]\.mzstatic\.com$
@@ -24391,7 +24435,7 @@ DOMAIN, s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
 # Revision: c3c9839e5e71f04fc170b5645d7a162631985e2d
-# Duplicates removed
+# Duplicates removed; some domains were added to dedicated lists like itunes/apple-music
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
 DOMAIN, adcdownload.apple.com
@@ -24461,7 +24505,6 @@ DOMAIN, mesu-cdn.apple.com.akadns.net
 DOMAIN, mesu-china.apple.com.akadns.net
 DOMAIN, mesu.apple.com
 DOMAIN, ml.cdn-apple.com
-DOMAIN, music.apple.com
 DOMAIN, oscdn.apple.com
 DOMAIN, oscdn.origin-apple.com.akadns.net
 DOMAIN, pancake.apple.com
