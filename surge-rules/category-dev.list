@@ -567,6 +567,8 @@ DOMAIN-SUFFIX, redhat.org
 DOMAIN-SUFFIX, scala-lang.org
 DOMAIN-SUFFIX, scala-sbt.org
 
+DOMAIN-SUFFIX, getsentry.com
+DOMAIN-SUFFIX, sentry.dev
 DOMAIN-SUFFIX, sentry.io
 DOMAIN-SUFFIX, sentry-cdn.com
 

@@ -4032,7 +4032,6 @@ DOMAIN-SUFFIX, icphoto.cn
 DOMAIN-SUFFIX, iluckysf.net
 DOMAIN-SUFFIX, itmanager.club
 DOMAIN-SUFFIX, itoutiaoliving.com
-DOMAIN-SUFFIX, jianying.com
 DOMAIN-SUFFIX, jokecommunity.cn
 DOMAIN-SUFFIX, jokecommunity.com
 DOMAIN-SUFFIX, jokecommunity.net
@@ -4139,6 +4138,13 @@ DOMAIN-SUFFIX, zjgslb.com
 DOMAIN-SUFFIX, zlinkurl.cn
 
 DOMAIN, bytedance.map.fastly.net
+
+# 即梦/剪映
+DOMAIN-SUFFIX, jianying.com
+DOMAIN-SUFFIX, jimeng.com
+DOMAIN-SUFFIX, vlabimg.com
+DOMAIN-SUFFIX, vlabstatic.com
+DOMAIN-SUFFIX, vlabvod.com
 
 # 今日头条
 DOMAIN-SUFFIX, toutiao.com
@@ -8647,6 +8653,17 @@ DOMAIN, api.mindbox.ru
 DOMAIN, sentry.mindbox.ru
 DOMAIN, sentry.popmechanic.ru
 
+# 墨迹天气
+DOMAIN-SUFFIX, airnut.com
+DOMAIN-SUFFIX, moji.com
+DOMAIN-SUFFIX, moji001.com
+DOMAIN-SUFFIX, moji002.com
+DOMAIN-SUFFIX, mojicdn.com
+DOMAIN-SUFFIX, mojichina.com
+
+# Ads
+DOMAIN-SUFFIX, ad.api.moji.com
+
 # https://wiki.mozilla.org/Websites/Domain_List/Mozilla_Owned
 # https://support.mozilla.org/fr/questions/1352614
 
@@ -9378,6 +9395,9 @@ DOMAIN-SUFFIX, sohucs.com
 # 56网
 DOMAIN-SUFFIX, 56.com
 DOMAIN-SUFFIX, 56img.com
+
+# 快站
+DOMAIN-SUFFIX, kuaizhan.com
 
 # Ads/tracking
 DOMAIN-SUFFIX, adnet.sohu.com
@@ -10958,7 +10978,6 @@ DOMAIN-SUFFIX, 51y5.net
 DOMAIN-SUFFIX, a.adtng.com
 DOMAIN-SUFFIX, aaxads.com
 DOMAIN-SUFFIX, ad-srv.net
-DOMAIN-SUFFIX, ad.api.moji.com
 DOMAIN-SUFFIX, ad.wang502.com
 DOMAIN-SUFFIX, adbutter.net
 DOMAIN-SUFFIX, addthisedge.com
