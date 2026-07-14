@@ -65,11 +65,7 @@ DOMAIN, lm.licenses.adobe.com
 DOMAIN, lmlicenses.wip4.adobe.com
 DOMAIN, na1r.services.adobe.com
 DOMAIN, ood.opsource.net
-DOMAIN, practivate.adobe
 DOMAIN, practivate.adobe.com
-DOMAIN, practivate.adobe.ipp
-DOMAIN, practivate.adobe.newoa
-DOMAIN, practivate.adobe.ntp
 DOMAIN, wip.adobe.com
 DOMAIN, wip1.adobe.com
 DOMAIN, wip2.adobe.com
@@ -5387,9 +5383,6 @@ DOMAIN-SUFFIX, gle
 # All .gmail domains
 DOMAIN-SUFFIX, gmail
 
-# All .goo domains
-DOMAIN-SUFFIX, goo
-
 # All .goog domains
 DOMAIN-SUFFIX, goog
 
@@ -8861,6 +8854,7 @@ URL-REGEX, ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 # Main domain
 DOMAIN-SUFFIX, chat.com
 DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, chatgpt.site
 DOMAIN-SUFFIX, crixet.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaistatsig.com

@@ -1,11 +1,18 @@
 DOMAIN-SUFFIX, kino.pub
+DOMAIN-SUFFIX, kino.watch
 DOMAIN-SUFFIX, kinopub.online
 DOMAIN-SUFFIX, kpdl.link
 
 # Mirror sites
 DOMAIN-SUFFIX, ahc.ovh # sub domains mirror
 DOMAIN-SUFFIX, gfw.ovh # sub domains mirror
+DOMAIN-SUFFIX, tsx.ovh # sub domains mirror
 DOMAIN-SUFFIX, mos-gorsud.co # kinopub domain to generate a mirror site through gfw.ovh
+
+# kinopub API services
+DOMAIN-SUFFIX, api.alador.space
+DOMAIN-SUFFIX, m.alador.space
+DOMAIN-SUFFIX, support-kp.com
 
 # kinopub CDN servers
 DOMAIN-SUFFIX, cdn-service.space

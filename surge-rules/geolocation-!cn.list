@@ -143,6 +143,7 @@ DOMAIN-SUFFIX, manuscdn.com
 # Main domain
 DOMAIN-SUFFIX, chat.com
 DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, chatgpt.site
 DOMAIN-SUFFIX, crixet.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaistatsig.com
@@ -1797,7 +1798,6 @@ DOMAIN-SUFFIX, alfabank.ru
 DOMAIN-SUFFIX, alfabank.st
 DOMAIN-SUFFIX, alfadirect.ru
 DOMAIN-SUFFIX, myapelsin.ru
-DOMAIN-SUFFIX, domain:alfabank.oavdo.amc
 
 # BBR
 DOMAIN-SUFFIX, bbr.ru
@@ -6820,9 +6820,6 @@ DOMAIN, hb.imgix.net
 DOMAIN-SUFFIX, itch.io
 DOMAIN-SUFFIX, itch.zone
 
-# All .konami domains
-DOMAIN-SUFFIX, konami
-
 DOMAIN-SUFFIX, 573.jp
 DOMAIN-SUFFIX, kgisystems.com
 DOMAIN-SUFFIX, kiwi.jp
@@ -8167,6 +8164,8 @@ DOMAIN, osxapps.itunes.g.aaplimg.com
 
 DOMAIN-SUFFIX, iyf.tv
 DOMAIN-SUFFIX, yfsp.tv
+
+DOMAIN-SUFFIX, kick.com
 
 DOMAIN-SUFFIX, kingkong.com.tw
 DOMAIN-SUFFIX, kingkongapp.com
@@ -20769,11 +20768,7 @@ DOMAIN, lm.licenses.adobe.com
 DOMAIN, lmlicenses.wip4.adobe.com
 DOMAIN, na1r.services.adobe.com
 DOMAIN, ood.opsource.net
-DOMAIN, practivate.adobe
 DOMAIN, practivate.adobe.com
-DOMAIN, practivate.adobe.ipp
-DOMAIN, practivate.adobe.newoa
-DOMAIN, practivate.adobe.ntp
 DOMAIN, wip.adobe.com
 DOMAIN, wip1.adobe.com
 DOMAIN, wip2.adobe.com
@@ -21598,9 +21593,6 @@ DOMAIN-SUFFIX, gle
 
 # All .gmail domains
 DOMAIN-SUFFIX, gmail
-
-# All .goo domains
-DOMAIN-SUFFIX, goo
 
 # All .goog domains
 DOMAIN-SUFFIX, goog
@@ -26579,9 +26571,6 @@ DOMAIN-SUFFIX, clearlinux.org
 DOMAIN-SUFFIX, ospray.net
 DOMAIN-SUFFIX, ospray.org
 
-
-# All .intel domains
-DOMAIN-SUFFIX, intel
 
 DOMAIN-SUFFIX, intel.ac
 DOMAIN-SUFFIX, intel.ae

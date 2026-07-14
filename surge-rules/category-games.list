@@ -814,9 +814,6 @@ DOMAIN, hb.imgix.net
 DOMAIN-SUFFIX, itch.io
 DOMAIN-SUFFIX, itch.zone
 
-# All .konami domains
-DOMAIN-SUFFIX, konami
-
 DOMAIN-SUFFIX, 573.jp
 DOMAIN-SUFFIX, kgisystems.com
 DOMAIN-SUFFIX, kiwi.jp

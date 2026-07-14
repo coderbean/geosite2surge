@@ -482,9 +482,6 @@ DOMAIN, hb.imgix.net
 DOMAIN-SUFFIX, itch.io
 DOMAIN-SUFFIX, itch.zone
 
-# All .konami domains
-DOMAIN-SUFFIX, konami
-
 DOMAIN-SUFFIX, 573.jp
 DOMAIN-SUFFIX, kgisystems.com
 DOMAIN-SUFFIX, kiwi.jp
@@ -1829,6 +1826,8 @@ DOMAIN, osxapps.itunes.g.aaplimg.com
 
 DOMAIN-SUFFIX, iyf.tv
 DOMAIN-SUFFIX, yfsp.tv
+
+DOMAIN-SUFFIX, kick.com
 
 DOMAIN-SUFFIX, kingkong.com.tw
 DOMAIN-SUFFIX, kingkongapp.com
