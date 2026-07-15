@@ -342,6 +342,7 @@ DOMAIN-SUFFIX, openvela.com
 DOMAIN-SUFFIX, php.cn
 DOMAIN-SUFFIX, pingcode.com
 DOMAIN-SUFFIX, tipdm.org
+DOMAIN-SUFFIX, weboss.hk # 网博士
 DOMAIN-SUFFIX, zuidaima.com
 
 # Electronic
@@ -1606,6 +1607,13 @@ DOMAIN-SUFFIX, mtime.com
 DOMAIN-SUFFIX, pearvideo.com
 # 皮皮网
 DOMAIN-SUFFIX, pipi.cn
+# 人人视频
+DOMAIN-SUFFIX, rrmj.plus
+DOMAIN-SUFFIX, rrsp.app
+DOMAIN-SUFFIX, rrsp.com.cn
+DOMAIN-SUFFIX, qwapp.top
+DOMAIN-SUFFIX, qwdjapp.com
+DOMAIN-SUFFIX, yichengwlkj.com
 # SF轻小说二次元
 DOMAIN-SUFFIX, sfacg.com
 # 书海小说
@@ -4798,10 +4806,14 @@ DOMAIN-SUFFIX, offcn.com
 DOMAIN-SUFFIX, zggqzp.com
 DOMAIN-SUFFIX, zgjsks.com
 DOMAIN-SUFFIX, zgsydw.com
+# 高绩网
+DOMAIN-SUFFIX, gaojidata.com
 # 高考100
 DOMAIN-SUFFIX, gk100.com
 # 智德通达
 DOMAIN-SUFFIX, guojibk.com
+# 广州应用科技学院
+DOMAIN-SUFFIX, gzasc.com
 # 华图
 DOMAIN-SUFFIX, huatu.com
 DOMAIN-SUFFIX, sydw8.com
@@ -10689,7 +10701,6 @@ DOMAIN-SUFFIX, qudong.com
 DOMAIN-SUFFIX, qugame.com
 DOMAIN-SUFFIX, qunjielong.com # 桂ICP备14006138号-2
 DOMAIN-SUFFIX, rockyenglish.com
-DOMAIN-SUFFIX, rrmj.plus
 DOMAIN-SUFFIX, rtbasia.com
 DOMAIN-SUFFIX, ruan8.com
 DOMAIN-SUFFIX, ruiwen.com
