@@ -5777,6 +5777,8 @@ DOMAIN-SUFFIX, 7moor-fs1.com
 DOMAIN-SUFFIX, 7moor.com
 ## 在意空气
 DOMAIN-SUFFIX, air-matters.com
+## Hover Translate #3854
+DOMAIN, api.blipsandchitz.me
 ## Alook 浏览器
 DOMAIN-SUFFIX, alookweb.com
 ## AniXPlayer
@@ -10986,3 +10988,6 @@ DOMAIN-SUFFIX, wanji.net.cn
 
 # 杭州烨彬科技有限公司 浙ICP备2024084590号
 DOMAIN-SUFFIX, yebinnet.com
+
+# 杭州实科金人科技有限公司/杭州钱塘区人才就业服务网
+DOMAIN-SUFFIX, hrsecn.com
