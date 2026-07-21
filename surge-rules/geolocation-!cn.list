@@ -332,11 +332,15 @@ DOMAIN-SUFFIX, vpngate.jp
 DOMAIN-SUFFIX, vpngate.net
 
 
+DOMAIN, trojan-gfw.github.io
+DOMAIN, xtls.github.io
+
 DOMAIN-SUFFIX, ahmia.fi
 DOMAIN-SUFFIX, akasha.world
 DOMAIN-SUFFIX, browserleaks.com
 DOMAIN-SUFFIX, bypasscensorship.org
 DOMAIN-SUFFIX, censorship.ai
+DOMAIN-SUFFIX, clashyun.com
 DOMAIN-SUFFIX, dat.foundation
 DOMAIN-SUFFIX, democracy.earth
 DOMAIN-SUFFIX, eff.org
@@ -352,6 +356,7 @@ DOMAIN-SUFFIX, happ.su
 DOMAIN-SUFFIX, hiddify.com
 DOMAIN-SUFFIX, jitsi.org
 DOMAIN-SUFFIX, lokinet.org
+DOMAIN-SUFFIX, metacubex.one
 DOMAIN-SUFFIX, ntc.party
 DOMAIN-SUFFIX, onionshare.org
 DOMAIN-SUFFIX, ooni.org
@@ -361,8 +366,8 @@ DOMAIN-SUFFIX, proxifier.com
 DOMAIN-SUFFIX, psiphon.ca
 DOMAIN-SUFFIX, psiphon3.com
 DOMAIN-SUFFIX, sagernet.org
-DOMAIN-SUFFIX, sing-box.app
 DOMAIN-SUFFIX, shadowsocks.org
+DOMAIN-SUFFIX, sing-box.app
 DOMAIN-SUFFIX, sspanel.net
 DOMAIN-SUFFIX, stunnel.org
 DOMAIN-SUFFIX, telex.cc
@@ -376,10 +381,7 @@ DOMAIN-SUFFIX, vuvuzela.io
 DOMAIN-SUFFIX, whonix.org
 DOMAIN-SUFFIX, wikileaks.org
 DOMAIN-SUFFIX, wireguard.com
-DOMAIN-SUFFIX, xtls.github.io
-DOMAIN-SUFFIX, trojan-gfw.github.io
 DOMAIN-SUFFIX, zeronet.io
-DOMAIN-SUFFIX, metacubex.one
 
 DOMAIN-SUFFIX, equinox.io
 DOMAIN-SUFFIX, ngrok-agent.com
@@ -2152,6 +2154,7 @@ DOMAIN-SUFFIX, bank-arzamas.ru
 DOMAIN-SUFFIX, bank-credit-suisse-moscow.ru
 DOMAIN-SUFFIX, bank131.com
 DOMAIN-SUFFIX, bankermak.ru
+DOMAIN-SUFFIX, best2pay.net
 DOMAIN-SUFFIX, bfa.ru
 DOMAIN-SUFFIX, blanc.ru
 DOMAIN-SUFFIX, bm-bank.ru
@@ -2160,6 +2163,7 @@ DOMAIN-SUFFIX, commerzbank.ru
 DOMAIN-SUFFIX, finambank.ru
 DOMAIN-SUFFIX, forshtadt.ru
 DOMAIN-SUFFIX, homecredit.ru
+DOMAIN-SUFFIX, hva.im # Sovcombank Halva
 DOMAIN-SUFFIX, ibamoscow.ru
 DOMAIN-SUFFIX, jpmorgan.ru
 DOMAIN-SUFFIX, korona.com
@@ -2171,6 +2175,8 @@ DOMAIN-SUFFIX, primbank.ru
 DOMAIN-SUFFIX, prvbank.ru
 DOMAIN-SUFFIX, pskb.ru
 DOMAIN-SUFFIX, pvubank.com
+DOMAIN-SUFFIX, rbsgate.com
+DOMAIN-SUFFIX, rbsuat.com
 DOMAIN-SUFFIX, rencapbank.ru
 DOMAIN-SUFFIX, rencredit.ru
 DOMAIN-SUFFIX, rncoluminis.ru
@@ -7900,6 +7906,10 @@ DOMAIN-SUFFIX, ficador.com
 DOMAIN-SUFFIX, ficbook.net
 DOMAIN-SUFFIX, ficmania.com
 DOMAIN-SUFFIX, teinon.net
+
+DOMAIN-SUFFIX, formula1.com
+DOMAIN-SUFFIX, f1.com
+DOMAIN-SUFFIX, f1tv.com
 
 DOMAIN-SUFFIX, gimy.cc
 DOMAIN-SUFFIX, gimy.co
