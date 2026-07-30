@@ -272,6 +272,7 @@ DOMAIN, web-analytics.wildberries.ru
 # CDNvideo is a leading CDN provider in Russia and the CIS
 DOMAIN-SUFFIX, cdnvideo.ru
 DOMAIN-SUFFIX, cdnvideohub.com
+DOMAIN-SUFFIX, kinescopecdn.net
 DOMAIN-SUFFIX, trbcdn.net
 
 # Information about films and series
@@ -296,6 +297,7 @@ DOMAIN-SUFFIX, 24h.tv
 DOMAIN-SUFFIX, amediateka.ru
 DOMAIN-SUFFIX, beeline.tv
 DOMAIN-SUFFIX, ivi.ru
+DOMAIN-SUFFIX, ivicdn.tv
 DOMAIN-SUFFIX, premier.one
 DOMAIN-SUFFIX, smotreshka.tv
 DOMAIN-SUFFIX, start.ru
@@ -667,7 +669,11 @@ DOMAIN-SUFFIX, eadaily.org
 DOMAIN-SUFFIX, eadaily.su
 DOMAIN-SUFFIX, eurasiadaily.su
 
-# BudZdorov
+# iXBT
+DOMAIN-SUFFIX, ixbt.com
+DOMAIN-SUFFIX, ixbt.site
+
+# BudZdorov – network of multidisciplinary medical clinics
 DOMAIN-SUFFIX, klinikabudzdorov.ru
 
 # EMIAS – Moscow city polyclinics and medical institutions
@@ -705,12 +711,47 @@ DOMAIN-SUFFIX, polyclinika.ru
 ## Dentistry Zub Ru – network of dental clinics in Moscow
 DOMAIN-SUFFIX, zub.ru
 
-# Reaviz
+# Reaviz - private medical clinics of the university
 DOMAIN-SUFFIX, reaviz.com
 DOMAIN-SUFFIX, reaviz.ru
 
 # St. Petersburg city polyclinics and medical institutions
 DOMAIN-SUFFIX, gorzdrav.spb.ru
+
+#
+# Pharmacies
+#
+
+# Apteka
+DOMAIN-SUFFIX, apteka.ru
+
+# Apteka April
+DOMAIN-SUFFIX, apteka-april.ru
+
+# Apteki Plus
+DOMAIN-SUFFIX, aptekiplus.ru
+
+# Farmlend
+DOMAIN-SUFFIX, farmlend.ru
+
+# GorZdrav
+DOMAIN-SUFFIX, gorzdrav.org
+
+# Megapteka
+DOMAIN-SUFFIX, megapteka.ru
+
+# Planeta Zdorov'ya
+DOMAIN-SUFFIX, planetazdorovo.ru
+DOMAIN-SUFFIX, pz.help
+
+# Stolichki
+DOMAIN-SUFFIX, stolichki.ru
+
+# Uteka
+DOMAIN-SUFFIX, uteka.ru
+
+# Zdravcity
+DOMAIN-SUFFIX, zdravcity.ru
 
 # ABC of Taste
 DOMAIN-SUFFIX, av.ru
@@ -785,6 +826,9 @@ DOMAIN-SUFFIX, notik.ru
 DOMAIN-SUFFIX, oskelly.co
 DOMAIN-SUFFIX, oskelly.ru
 
+
+# O'STIN
+DOMAIN-SUFFIX, ostin.com
 
 # Pyaterochka, Perekrestok, Chizhik
 DOMAIN-SUFFIX, 5ka.ru
@@ -868,6 +912,9 @@ DOMAIN-SUFFIX, blablacar.ru
 
 # Bus stations
 DOMAIN-SUFFIX, avtovokzaly.ru
+
+# Grey Wall Pass (Business lounges)
+DOMAIN-SUFFIX, greywallpass.com
 
 # Ostrovok
 DOMAIN-SUFFIX, ostrovok.ru
@@ -1589,6 +1636,17 @@ DOMAIN, sentry.popmechanic.ru
 DOMAIN-SUFFIX, myoffice.ru
 DOMAIN-SUFFIX, myoffice.team
 
+# Netcraze (formerly Keenetic in Russia)
+
+## CrazeDNS service
+DOMAIN-SUFFIX, crazedns.ru
+DOMAIN-SUFFIX, netcraze.club
+DOMAIN-SUFFIX, netcraze.link
+DOMAIN-SUFFIX, netcraze.pro
+
+## Official website
+DOMAIN-SUFFIX, netcraze.ru
+
 DOMAIN-SUFFIX, nichost.ru
 DOMAIN-SUFFIX, nic.ru
 DOMAIN-SUFFIX, r01.ru
@@ -1948,15 +2006,16 @@ DOMAIN-SUFFIX, megamarket.ru
 DOMAIN-SUFFIX, megamarket.tech
 DOMAIN-SUFFIX, sberauto.com
 DOMAIN-SUFFIX, sberbank-insurance.ru
+DOMAIN-SUFFIX, sberbank-tele.com
+DOMAIN-SUFFIX, sberbankaktivno.ru
+DOMAIN-SUFFIX, sberbankins.ru
 DOMAIN-SUFFIX, sbercloud.ru
 DOMAIN-SUFFIX, sbercloud.tech
 DOMAIN-SUFFIX, sberdevices.ru
 DOMAIN-SUFFIX, sberdisk.ru
 DOMAIN-SUFFIX, sberfactoring.ru
-DOMAIN-SUFFIX, sberindex.ru
-DOMAIN-SUFFIX, sberbankaktivno.ru
-DOMAIN-SUFFIX, sberbankins.ru
 DOMAIN-SUFFIX, sberhealth.ru
+DOMAIN-SUFFIX, sberindex.ru
 DOMAIN-SUFFIX, sberleasing.ru
 DOMAIN-SUFFIX, sberlogistics.ru
 DOMAIN-SUFFIX, sbermegamarket.ru
@@ -2333,7 +2392,6 @@ DOMAIN-SUFFIX, apptrackpets.com   # Pet GPS tracker service (Yandex Cloud, reg.r
 DOMAIN-SUFFIX, flomni.com         # Omnichannel communications platform
 DOMAIN-SUFFIX, foto-planeta.com   # Photo encyclopedia of settlements
 DOMAIN-SUFFIX, gazfond-pn.ru      # Non-state pension fund GAZFOND pension savings
-DOMAIN-SUFFIX, kinescopecdn.net   # Kinescope video hosting CDN
 DOMAIN-SUFFIX, litres.ru          # E-book and audiobook service
 DOMAIN-SUFFIX, meteoinfo.ru       # Hydrometeorological Center of Russia
 DOMAIN-SUFFIX, ngenix.net         # NGENIX is a Russian provider of acceleration and security services for public web resources
@@ -2346,14 +2404,21 @@ DOMAIN-SUFFIX, randomgodbot.com   # Telegram randomizer bot
 DOMAIN-SUFFIX, srv-hub.org        # Website buider
 DOMAIN-SUFFIX, t1.cloud           # Russian cloud storage provider
 DOMAIN-SUFFIX, taxsee.com         # Taxi for business (self-employed drivers)
+DOMAIN-SUFFIX, vimu.tv            # Vimu Media Player
 DOMAIN-SUFFIX, yourgood.app       # CRM for small business
+
+## eXpress corporate messenger
+DOMAIN-SUFFIX, corp.express
+DOMAIN-SUFFIX, express.ms
+DOMAIN-SUFFIX, public.express
+DOMAIN-SUFFIX, xlnk.ms
+
+## Russian 2FA/MFA provider
+DOMAIN-SUFFIX, mfa.center
+DOMAIN-SUFFIX, multifactor.ru
 
 ## Ads and tracking
 DOMAIN-SUFFIX, adriver.ru
 DOMAIN-SUFFIX, flocktory.com
 DOMAIN-SUFFIX, roistat.com
 DOMAIN-SUFFIX, targetads.io
-
-## Planeta Zdorov'ya pharmacy
-DOMAIN-SUFFIX, planetazdorovo.ru
-DOMAIN-SUFFIX, pz.help

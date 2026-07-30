@@ -4987,6 +4987,7 @@ DOMAIN-SUFFIX, openjudge.cn
 DOMAIN-SUFFIX, rqnoj.cn
 DOMAIN-SUFFIX, uoj.ac
 DOMAIN-SUFFIX, vijos.org
+DOMAIN-SUFFIX, xmoj.tech
 
 # This list contains scholarly domains that have access point in China Mainland.
 
@@ -5155,6 +5156,8 @@ DOMAIN-SUFFIX, guoxuedashi.com
 DOMAIN-SUFFIX, guoxuemi.com
 ## 科普中国
 DOMAIN-SUFFIX, kepuchina.cn
+## 路标 Wiki 豫ICP备2024043594号-2
+DOMAIN-SUFFIX, lubiao.wiki
 ## 国家图书馆
 DOMAIN-SUFFIX, nlc.cn
 ## 四川省文物考古研究院
