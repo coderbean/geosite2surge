@@ -732,6 +732,18 @@ DOMAIN-SUFFIX, lizhiinc.com
 DOMAIN-SUFFIX, lz310.com
 DOMAIN-SUFFIX, lzpipi.com
 
+# 漫画人/动漫屋 瑞安市我喜欢网络有限公司
+DOMAIN-SUFFIX, 1kkk.com
+DOMAIN-SUFFIX, cdndm5.com
+DOMAIN-SUFFIX, dm5.cn
+DOMAIN-SUFFIX, dm5.com
+DOMAIN-SUFFIX, dm9.com
+DOMAIN-SUFFIX, gmanhua.com
+DOMAIN-SUFFIX, hkmanga.com
+DOMAIN-SUFFIX, manben.com
+DOMAIN-SUFFIX, manbenapi.com
+DOMAIN-SUFFIX, manhuaren.com
+
 DOMAIN-SUFFIX, pplive.cn
 DOMAIN-SUFFIX, pplive.com
 DOMAIN-SUFFIX, pptv.com
@@ -923,7 +935,6 @@ DOMAIN-SUFFIX, podcast.xyz
 # youku uses some alicdn services, so this must use with domain list "alibaba"
 DOMAIN-SUFFIX, 9xsecndns.cn
 DOMAIN-SUFFIX, kumiao.com
-DOMAIN-SUFFIX, mmstat.com
 DOMAIN-SUFFIX, soku.com
 DOMAIN-SUFFIX, tudou.com
 DOMAIN-SUFFIX, ykimg.com
@@ -931,6 +942,8 @@ DOMAIN-SUFFIX, youku.com
 DOMAIN-SUFFIX, youku.tv
 DOMAIN-SUFFIX, youkuhonor.com
 DOMAIN-SUFFIX, youkuplay.com
+
+DOMAIN, ykimg.alicdn.com
 
 # Ads/tracking
 DOMAIN-SUFFIX, ad.api.3g.youku.com

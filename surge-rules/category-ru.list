@@ -70,10 +70,24 @@ DOMAIN-SUFFIX, winline.ru
 DOMAIN-SUFFIX, winlinebet.ru
 
 
+DOMAIN-SUFFIX, apiauto.ru
+DOMAIN-SUFFIX, auto.ru
+DOMAIN-SUFFIX, autoru.me
+DOMAIN-SUFFIX, avto.ru
+DOMAIN-SUFFIX, cm.expert
+
 DOMAIN-SUFFIX, avito.ru
 DOMAIN-SUFFIX, avito.st
 
 DOMAIN, stats.avito.ru
+
+DOMAIN-SUFFIX, cian.ru
+DOMAIN-SUFFIX, cian.site
+DOMAIN-SUFFIX, ciangroup.ru
+DOMAIN-SUFFIX, dmir.ru
+DOMAIN-SUFFIX, poudobnee.com
+DOMAIN-SUFFIX, xn--80aaafbpzn5blfby1p.xn--p1ai
+DOMAIN-SUFFIX, xn--80aaeib8abrryx4k.xn--p1ai
 
 DOMAIN-SUFFIX, flowwow-images.com
 DOMAIN-SUFFIX, flowwow.com
@@ -269,6 +283,32 @@ DOMAIN, sentry.wb.ru
 DOMAIN, web-analytics.wildberries.ru
 
 
+# drom
+DOMAIN-SUFFIX, drom.ru
+DOMAIN-SUFFIX, rdrom.ru
+
+DOMAIN-SUFFIX, gramotei.online      # Platform for learning russian
+DOMAIN-SUFFIX, kakpishem.ru         # Website about russian language literacy
+DOMAIN-SUFFIX, kartaslov.ru         # Online dictionary of russian words and phrases
+DOMAIN-SUFFIX, mel.fm               # Website about proper spelling in russian
+DOMAIN-SUFFIX, melfm.ru
+DOMAIN-SUFFIX, pishi-pravilno.ru    # Website about proper spelling in russian
+DOMAIN-SUFFIX, pravilno-pishem.ru   # Website about proper spelling in russian
+DOMAIN-SUFFIX, tak-pravilno.com     # Website about proper spelling in russian
+
+# "Networked city" — an russian automated information system that integrates educational institutions of all types into a single information network
+DOMAIN-SUFFIX, altaiobr04.ru
+DOMAIN-SUFFIX, chelyabinsk-sgo-edu-74.ru
+DOMAIN-SUFFIX, obr03.ru
+DOMAIN-SUFFIX, setevoygorodkrasnodar.ru
+DOMAIN-SUFFIX, sgo-egov66.ru
+DOMAIN-SUFFIX, sgo.tvobr.ru
+DOMAIN-SUFFIX, sgo12.ru
+DOMAIN-SUFFIX, sgo171.ru
+DOMAIN-SUFFIX, sgo41.ru
+DOMAIN-SUFFIX, sgoedu74.ru
+DOMAIN-SUFFIX, ulyanovsk-sgo-cit73.ru
+
 # CDNvideo is a leading CDN provider in Russia and the CIS
 DOMAIN-SUFFIX, cdnvideo.ru
 DOMAIN-SUFFIX, cdnvideohub.com
@@ -313,20 +353,39 @@ DOMAIN-SUFFIX, rutubelist.ru
 DOMAIN-SUFFIX, rtbcdn.ru
 
 
+DOMAIN-SUFFIX, dtf.ru           # Platform for discussing games, movies, development, technology and everything else in the world
+DOMAIN-SUFFIX, opennet.dev      # Website about open source, linux, BSD and unix systems
+DOMAIN-SUFFIX, opennet.ru       # Opennent`s alternative domain
+DOMAIN-SUFFIX, prodota.ru       # Website about Dota 2
+DOMAIN-SUFFIX, pikabu.ru        # Popular forum
+DOMAIN-SUFFIX, tischenko.su     # Opennent`s alternative domain
+DOMAIN-SUFFIX, vc.ru            # Popular forum
+DOMAIN-SUFFIX, yapfiles.ru      # Free file storage service
+DOMAIN-SUFFIX, yaplakal.com     # Entertainment forum
+DOMAIN-SUFFIX, yap.ru           # Yaplakal`s alternative domain
+
 # Federal Gov.
-DOMAIN-SUFFIX, government.ru
-DOMAIN-SUFFIX, gov.ru
+DOMAIN-SUFFIX, gov.ru          # Russian government server
+DOMAIN-SUFFIX, government.ru   # The official website of the Russian government
 
 # Federal Public Services
-DOMAIN-SUFFIX, gosuslugi.ru
-DOMAIN-SUFFIX, gu-st.ru
+DOMAIN-SUFFIX, gosuslugi.ru    # Government services portal
+DOMAIN-SUFFIX, gu-st.ru        # Government services portal old version
 
 # Federal Healthcare Services
-DOMAIN-SUFFIX, emias.info
-DOMAIN-SUFFIX, mgfoms.ru
+DOMAIN-SUFFIX, emias.info      # Making an appointment at a municipal clinic in Moscow
+DOMAIN-SUFFIX, mgfoms.ru       # The mandatory health insurance system in Moscow
 
 # Federal Educational Services
-DOMAIN-SUFFIX, edu.ru
+DOMAIN-SUFFIX, edu-74.ru       # Education in the Chelyabinsk region
+DOMAIN-SUFFIX, edu.ru          # Russian digital school
+DOMAIN-SUFFIX, edu22.info      # Official portal of the Altai krai education system
+DOMAIN-SUFFIX, netschool.website  # Students online journal
+DOMAIN-SUFFIX, ooc-school.ru   # "Schooll" general education portal
+DOMAIN-SUFFIX, prim-edu.ru     # Primorsky Krai education services portal
+DOMAIN-SUFFIX, ro-edu.ru       # Russian education federal portal
+DOMAIN-SUFFIX, tomedu.ru       # Tomsk education portal
+DOMAIN-SUFFIX, zabedu.ru       # Education portal of the Trans-baikal region
 
 # Other Federal Resources
 DOMAIN-SUFFIX, cbr.ru          # Central Bank of Russia
@@ -338,8 +397,10 @@ DOMAIN-SUFFIX, izbirkom.ru     # Information on ongoing elections and referendum
 DOMAIN-SUFFIX, kremlin.ru      # Online representation of the President of Russia
 DOMAIN-SUFFIX, mil.ru          # Ministry of Defense of the Russian Federation
 DOMAIN-SUFFIX, nalog.ru        # Federal Tax Service
-DOMAIN-SUFFIX, xn--80ajghhoc2aj1c8b.xn--p1ai # Honest Sign - State Labeling System
-DOMAIN-SUFFIX, xn--b1afabzvcegckfhg.xn--p1ai # Military Registration Register
+DOMAIN-SUFFIX, xn--80ajghhoc2aj1c8b.xn--p1ai     # Honest Sign - State Labeling System
+DOMAIN-SUFFIX, xn--90aivcdt6dxbc.xn--p1ai        # Explaining Russia - A website with answers to questions
+DOMAIN-SUFFIX, xn--b1afabzvcegckfhg.xn--p1ai     # Military Registration Register
+DOMAIN-SUFFIX, xn--d1acchc3adyj9k.xn--p1ai       # Achievements of the counrty and regions
 
 #
 # Regional sites and Public Services
@@ -357,22 +418,25 @@ DOMAIN-SUFFIX, xn--b1afabzvcegckfhg.xn--p1ai # Military Registration Register
 # Federal Cities (Cities of Federal Importance)
 DOMAIN-SUFFIX, mos.ru          # Moscow
 DOMAIN-SUFFIX, mosreg.ru       # Moscow Region
-DOMAIN-SUFFIX, spb.ru          # St. Petersburg
 DOMAIN-SUFFIX, sevastopol.ru   # Sevastopol
+DOMAIN-SUFFIX, spb.ru          # St. Petersburg
 
 # Republics
 DOMAIN-SUFFIX, adygeya.ru      # Republic of Adygea
 DOMAIN-SUFFIX, bashkiria.ru    # Republic of Bashkortostan
 DOMAIN-SUFFIX, buryatia.ru     # Republic of Buryatia
+DOMAIN-SUFFIX, cap.ru          # Chuvash Republic
 DOMAIN-SUFFIX, chuvashia.ru    # Chuvash Republic
 DOMAIN-SUFFIX, crimea.ru       # Republic of Crimea
 DOMAIN-SUFFIX, dagestan.ru     # Republic of Dagestan
+DOMAIN-SUFFIX, e-yakutia.ru    # Republic of Sakha (Yakutia)
 DOMAIN-SUFFIX, grozny.ru       # Grozny City, Chechen Republic
 DOMAIN-SUFFIX, i-ola.ru        # Yoshkar-Ola City, Republic of Mari El
 DOMAIN-SUFFIX, izhevsk.ru      # Izhevsk City, Republic of Udmurtia
 DOMAIN-SUFFIX, kalmykia.ru     # Republic of Kalmykia
 DOMAIN-SUFFIX, karelia.ru      # Republic of Karelia
 DOMAIN-SUFFIX, kazan.ru        # Kazan City, Republic of Tatarstan
+DOMAIN-SUFFIX, kchgov.ru       # Karachay-Cherkess Republic
 DOMAIN-SUFFIX, kchr.ru         # Karachay-Cherkessia
 DOMAIN-SUFFIX, khakassia.ru    # Republic of Khakassia
 DOMAIN-SUFFIX, mari-el.ru      # Republic of Mari El
@@ -416,7 +480,6 @@ DOMAIN-SUFFIX, cbg.ru          # Voronezh Region
 DOMAIN-SUFFIX, chel.ru         # Chelyabinsk Region
 DOMAIN-SUFFIX, chelyabinsk.ru  # Chelyabinsk Region
 DOMAIN-SUFFIX, ekburg.ru       # Ekaterinburg City, Sverdlovsk Region
-DOMAIN-SUFFIX, xn--80acgfbsl1azdqr.xn--p1ai # екатеринбург.рф / Ekaterinburg City, Sverdlovsk Region
 DOMAIN-SUFFIX, irk.ru          # Irkutsk Region
 DOMAIN-SUFFIX, irkutsk.ru      # Irkutsk Region
 DOMAIN-SUFFIX, ivanovo.ru      # Ivanovo Region
@@ -458,11 +521,13 @@ DOMAIN-SUFFIX, tver.ru         # Tver Region
 DOMAIN-SUFFIX, tyumen.ru       # Tyumen Region
 DOMAIN-SUFFIX, vladimir.ru     # Vladimir Region
 DOMAIN-SUFFIX, vlg.ru          # Volgograd Region
+DOMAIN-SUFFIX, volganet.net    # Volgograd Oblast
 DOMAIN-SUFFIX, volgograd.ru    # Volgograd Region
 DOMAIN-SUFFIX, vologda.ru      # Vologda Region
 DOMAIN-SUFFIX, voronezh.ru     # Voronezh Region
 DOMAIN-SUFFIX, vrn.ru          # Voronezh Region
 DOMAIN-SUFFIX, vyatka.ru       # Kirov Region
+DOMAIN-SUFFIX, xn--80acgfbsl1azdqr.xn--p1ai # екатеринбург.рф / Ekaterinburg City, Sverdlovsk Region
 DOMAIN-SUFFIX, yaroslavl.ru    # Yaroslavl Region
 DOMAIN-SUFFIX, yuzhno-sakhalinsk.ru # Yuzhno-Sakhalinsk City, Sakhalin Region
 
@@ -471,6 +536,7 @@ DOMAIN-SUFFIX, chukotka.ru     # Chukotka Autonomous Area
 DOMAIN-SUFFIX, jamal.ru        # Yamal-Nenets Autonomous Area
 DOMAIN-SUFFIX, surgut.ru       # Khanty-Mansi Autonomous Area – Yugra
 DOMAIN-SUFFIX, yamal.ru        # Yamal-Nenets Autonomous Area
+DOMAIN-SUFFIX, yanao.ru        # Yamalo-Nenets Autonomous Okrug
 
 # Regional health services
 DOMAIN-SUFFIX, zdrav10.ru      # Republic of Karelia
@@ -661,6 +727,13 @@ DOMAIN-SUFFIX, ruptly.tv
 DOMAIN-SUFFIX, ruptly.video
 
 
+DOMAIN-SUFFIX, 72.ru            # News from Tyumen and the Tyumen region
+DOMAIN-SUFFIX, amic.ru          # News from the Altai Krai
+DOMAIN-SUFFIX, e1.ru            # News from Yekaterinburg and the Sverdlovsk region
+DOMAIN-SUFFIX, ekat.ru          # e1`s alternative domain
+DOMAIN-SUFFIX, gazeta.ru        # A media outlet owned by Russian It giant "Sber"
+DOMAIN-SUFFIX, rambler.ru       # A media outlet owned by Russian It giant "Sber"
+
 # EurAsia Daily (EADaily, EAD), allegedly a state-controlled news outlet
 DOMAIN-SUFFIX, eadaily.com
 DOMAIN-SUFFIX, eadaily.info
@@ -668,10 +741,6 @@ DOMAIN-SUFFIX, eadaily.net
 DOMAIN-SUFFIX, eadaily.org
 DOMAIN-SUFFIX, eadaily.su
 DOMAIN-SUFFIX, eurasiadaily.su
-
-# iXBT
-DOMAIN-SUFFIX, ixbt.com
-DOMAIN-SUFFIX, ixbt.site
 
 # BudZdorov – network of multidisciplinary medical clinics
 DOMAIN-SUFFIX, klinikabudzdorov.ru
@@ -710,6 +779,9 @@ DOMAIN-SUFFIX, mosgorzdrav.ru
 DOMAIN-SUFFIX, polyclinika.ru
 ## Dentistry Zub Ru – network of dental clinics in Moscow
 DOMAIN-SUFFIX, zub.ru
+
+# Psychologists' website
+DOMAIN-SUFFIX, b17.ru
 
 # Reaviz - private medical clinics of the university
 DOMAIN-SUFFIX, reaviz.com
@@ -768,11 +840,18 @@ DOMAIN-SUFFIX, bristol.ru
 # Children's World
 DOMAIN-SUFFIX, detmir.ru
 
+# Citilink
+DOMAIN-SUFFIX, citilink.ru
+
 # Coolera
 DOMAIN-SUFFIX, coolera.ru
 
 # Dixie
 DOMAIN-SUFFIX, dixy.ru
+
+# DNS internet shop
+DOMAIN-SUFFIX, dns-shop.ru
+DOMAIN-SUFFIX, dns-com.ru
 
 # Dodo Pizza
 DOMAIN-SUFFIX, dodois.com
@@ -900,6 +979,45 @@ DOMAIN-SUFFIX, winelab.ru
 
 # VkusVill
 DOMAIN-SUFFIX, vkusvill.ru
+
+DOMAIN-SUFFIX, ixbt.com      # Independent online publication about technology
+DOMAIN-SUFFIX, ixbt.games    # Russian website about computer and mobile games and digital technologies
+DOMAIN-SUFFIX, ixbt.pro      # Everything about business in the IT
+DOMAIN-SUFFIX, ixbt.ru       # Media about digital technologies
+DOMAIN-SUFFIX, ixbt.market   # Media about the information technology market
+DOMAIN-SUFFIX, ixbt.media    # Information about the media group IXBT
+DOMAIN-SUFFIX, ixbt.shop     # IXBT`s merch
+DOMAIN-SUFFIX, ixbt.site
+DOMAIN-SUFFIX, ixbt.video    # Videos by IXBT
+
+# Media about digital and information technologies
+DOMAIN-SUFFIX, ovcl.ru
+DOMAIN-SUFFIX, overclockers.ru
+DOMAIN-SUFFIX, overclock.ru
+DOMAIN-SUFFIX, overclocker.ru
+DOMAIN-SUFFIX, overclocking.ru
+DOMAIN-SUFFIX, overi.ru
+DOMAIN-SUFFIX, xn--80AGLFYFK.xn--p1ai
+DOMAIN-SUFFIX, xn--80aglzei.xn--p1ai
+DOMAIN-SUFFIX, xn--b1agatafrepfl.xn--p1ai
+DOMAIN-SUFFIX, xn--b1agpaeoen.xn--p1ai
+DOMAIN-SUFFIX, xn--b1agzk.xn--p1ai
+DOMAIN-SUFFIX, xn--b1agzk9c.xn--p1ai
+
+
+DOMAIN-SUFFIX, 3dnews.ru
+DOMAIN-SUFFIX, cnconf.ru
+DOMAIN-SUFFIX, cnews.ru
+DOMAIN-SUFFIX, cnewsforum.ru
+DOMAIN-SUFFIX, durovscode.com
+DOMAIN-SUFFIX, ferra.ru
+DOMAIN-SUFFIX, hacksoft.ru
+DOMAIN-SUFFIX, hardware.ru
+DOMAIN-SUFFIX, iguides.ru
+DOMAIN-SUFFIX, kod.ru
+DOMAIN-SUFFIX, seclab.lat
+DOMAIN-SUFFIX, securitylab.ru
+DOMAIN-SUFFIX, servernews.ru
 
 # Aviasales
 DOMAIN-SUFFIX, avs.io
@@ -1477,13 +1595,16 @@ DOMAIN-SUFFIX, algoritmika.org
 DOMAIN-SUFFIX, code-class.ru
 DOMAIN-SUFFIX, gb.ru
 DOMAIN-SUFFIX, lerna.ru
+DOMAIN-SUFFIX, o-uchi.ru
 DOMAIN-SUFFIX, skbx.pro # Probably a CDN
 DOMAIN-SUFFIX, skillbox.pro
 DOMAIN-SUFFIX, skillbox.ru
 DOMAIN-SUFFIX, skillfactory.ru
 DOMAIN-SUFFIX, tetrika-school.ru
 DOMAIN-SUFFIX, uchi.ru
+DOMAIN-SUFFIX, uchilk.ru
 DOMAIN-SUFFIX, umschool.net
+DOMAIN-SUFFIX, xn----otbzjdu.xn--p1ai
 DOMAIN-SUFFIX, yaklass.ru
 
 ## ESforce
@@ -1506,8 +1627,8 @@ DOMAIN-SUFFIX, icq.at
 DOMAIN-SUFFIX, icq.biz
 DOMAIN-SUFFIX, icq.com
 DOMAIN-SUFFIX, icq.de
-DOMAIN-SUFFIX, icq.fr
 DOMAIN-SUFFIX, icq.eu
+DOMAIN-SUFFIX, icq.fr
 DOMAIN-SUFFIX, icq.im
 DOMAIN-SUFFIX, icq.lt
 DOMAIN-SUFFIX, icq.mobi
@@ -1776,6 +1897,7 @@ DOMAIN-SUFFIX, hayya.ae
 DOMAIN-SUFFIX, meteum.ai
 DOMAIN-SUFFIX, my-manager-account.com
 DOMAIN-SUFFIX, naydex.net
+DOMAIN-SUFFIX, realtyverif.ru
 DOMAIN-SUFFIX, rostaxi.org
 DOMAIN-SUFFIX, shedevrum.ai
 DOMAIN-SUFFIX, sourcecraft.dev
@@ -1848,6 +1970,7 @@ DOMAIN-SUFFIX, yastat.net
 DOMAIN-SUFFIX, yastatic-net.ru
 DOMAIN-SUFFIX, yastatic.net
 DOMAIN-SUFFIX, yccdn.ru
+DOMAIN-SUFFIX, yndx.net
 
 # Ads and tracking
 DOMAIN-SUFFIX, adfox.ru

@@ -4102,10 +4102,24 @@ DOMAIN-SUFFIX, zapper.fi
 
 
 # E-commerce
+DOMAIN-SUFFIX, apiauto.ru
+DOMAIN-SUFFIX, auto.ru
+DOMAIN-SUFFIX, autoru.me
+DOMAIN-SUFFIX, avto.ru
+DOMAIN-SUFFIX, cm.expert
+
 DOMAIN-SUFFIX, avito.ru
 DOMAIN-SUFFIX, avito.st
 
 DOMAIN, stats.avito.ru
+
+DOMAIN-SUFFIX, cian.ru
+DOMAIN-SUFFIX, cian.site
+DOMAIN-SUFFIX, ciangroup.ru
+DOMAIN-SUFFIX, dmir.ru
+DOMAIN-SUFFIX, poudobnee.com
+DOMAIN-SUFFIX, xn--80aaafbpzn5blfby1p.xn--p1ai
+DOMAIN-SUFFIX, xn--80aaeib8abrryx4k.xn--p1ai
 
 DOMAIN-SUFFIX, flowwow-images.com
 DOMAIN-SUFFIX, flowwow.com
@@ -4300,6 +4314,10 @@ DOMAIN, marketplace-sentry.wb.ru
 DOMAIN, sentry.wb.ru
 DOMAIN, web-analytics.wildberries.ru
 
+
+# drom
+DOMAIN-SUFFIX, drom.ru
+DOMAIN-SUFFIX, rdrom.ru
 
 
 DOMAIN-SUFFIX, adidas.ae
@@ -7679,6 +7697,9 @@ DOMAIN-SUFFIX, wwr-stardom.com
 
 DOMAIN-SUFFIX, catchplay.com
 DOMAIN-SUFFIX, tra-ww000-cp.akamaized.net
+
+DOMAIN-SUFFIX, chess.com
+DOMAIN-SUFFIX, chesscomfiles.com
 
 DOMAIN-SUFFIX, 2025copy.com
 DOMAIN-SUFFIX, copy-manga.com
@@ -19098,6 +19119,7 @@ DOMAIN-SUFFIX, firefoxtweetmachine.com
 DOMAIN-SUFFIX, firefoxusercontent.com
 
 DOMAIN, mozilla-ohttp.fastly-edge.com
+DOMAIN, mozilla.map.fastly.net
 
 DOMAIN-SUFFIX, torproject.org
 
@@ -27438,13 +27460,16 @@ DOMAIN-SUFFIX, algoritmika.org
 DOMAIN-SUFFIX, code-class.ru
 DOMAIN-SUFFIX, gb.ru
 DOMAIN-SUFFIX, lerna.ru
+DOMAIN-SUFFIX, o-uchi.ru
 DOMAIN-SUFFIX, skbx.pro # Probably a CDN
 DOMAIN-SUFFIX, skillbox.pro
 DOMAIN-SUFFIX, skillbox.ru
 DOMAIN-SUFFIX, skillfactory.ru
 DOMAIN-SUFFIX, tetrika-school.ru
 DOMAIN-SUFFIX, uchi.ru
+DOMAIN-SUFFIX, uchilk.ru
 DOMAIN-SUFFIX, umschool.net
+DOMAIN-SUFFIX, xn----otbzjdu.xn--p1ai
 DOMAIN-SUFFIX, yaklass.ru
 
 ## ESforce
@@ -27467,8 +27492,8 @@ DOMAIN-SUFFIX, icq.at
 DOMAIN-SUFFIX, icq.biz
 DOMAIN-SUFFIX, icq.com
 DOMAIN-SUFFIX, icq.de
-DOMAIN-SUFFIX, icq.fr
 DOMAIN-SUFFIX, icq.eu
+DOMAIN-SUFFIX, icq.fr
 DOMAIN-SUFFIX, icq.im
 DOMAIN-SUFFIX, icq.lt
 DOMAIN-SUFFIX, icq.mobi
@@ -29134,6 +29159,7 @@ DOMAIN-SUFFIX, firefoxtweetmachine.com
 DOMAIN-SUFFIX, firefoxusercontent.com
 
 DOMAIN, mozilla-ohttp.fastly-edge.com
+DOMAIN, mozilla.map.fastly.net
 
 DOMAIN-SUFFIX, developer.allizom.org
 DOMAIN-SUFFIX, developer.mozilla.org
@@ -30468,6 +30494,7 @@ DOMAIN-SUFFIX, hayya.ae
 DOMAIN-SUFFIX, meteum.ai
 DOMAIN-SUFFIX, my-manager-account.com
 DOMAIN-SUFFIX, naydex.net
+DOMAIN-SUFFIX, realtyverif.ru
 DOMAIN-SUFFIX, rostaxi.org
 DOMAIN-SUFFIX, shedevrum.ai
 DOMAIN-SUFFIX, sourcecraft.dev
@@ -30540,6 +30567,7 @@ DOMAIN-SUFFIX, yastat.net
 DOMAIN-SUFFIX, yastatic-net.ru
 DOMAIN-SUFFIX, yastatic.net
 DOMAIN-SUFFIX, yccdn.ru
+DOMAIN-SUFFIX, yndx.net
 
 # Ads and tracking
 DOMAIN-SUFFIX, adfox.ru

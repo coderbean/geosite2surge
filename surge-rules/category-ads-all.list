@@ -495,6 +495,7 @@ DOMAIN-SUFFIX, eleme.io
 DOMAIN-SUFFIX, elemecdn.cn
 DOMAIN-SUFFIX, elemecdn.com
 DOMAIN-SUFFIX, elenet.me
+DOMAIN-SUFFIX, fengniaojipei.net
 
 # Ads/tracking
 DOMAIN-SUFFIX, adashx.ut.ele.me
@@ -572,7 +573,6 @@ DOMAIN-SUFFIX, z.gds.cnzz.com
 # youku uses some alicdn services, so this must use with domain list "alibaba"
 DOMAIN-SUFFIX, 9xsecndns.cn
 DOMAIN-SUFFIX, kumiao.com
-DOMAIN-SUFFIX, mmstat.com
 DOMAIN-SUFFIX, soku.com
 DOMAIN-SUFFIX, tudou.com
 DOMAIN-SUFFIX, ykimg.com
@@ -580,6 +580,8 @@ DOMAIN-SUFFIX, youku.com
 DOMAIN-SUFFIX, youku.tv
 DOMAIN-SUFFIX, youkuhonor.com
 DOMAIN-SUFFIX, youkuplay.com
+
+DOMAIN, ykimg.alicdn.com
 
 # Ads/tracking
 DOMAIN-SUFFIX, ad.api.3g.youku.com
@@ -614,9 +616,12 @@ DOMAIN-SUFFIX, alibaba-inc.com
 DOMAIN-SUFFIX, alibaba.com
 DOMAIN-SUFFIX, alibabacapital.com
 DOMAIN-SUFFIX, alibabachengdun.com
+DOMAIN-SUFFIX, alibabachengdun.net
 DOMAIN-SUFFIX, alibabacorp.com
 DOMAIN-SUFFIX, alibabadesign.com
 DOMAIN-SUFFIX, alibabadoctor.com
+DOMAIN-SUFFIX, alibabafonts.com
+DOMAIN-SUFFIX, alibabafoundation.com
 DOMAIN-SUFFIX, alibabafuturehotel.com
 DOMAIN-SUFFIX, alibabagroup.com
 DOMAIN-SUFFIX, alibabapictures.com
@@ -655,6 +660,7 @@ DOMAIN-SUFFIX, aliwork.com
 DOMAIN-SUFFIX, alixiaomi.com
 DOMAIN-SUFFIX, alizhaopin.com
 DOMAIN-SUFFIX, alyms.cn
+DOMAIN-SUFFIX, alysm.cn
 DOMAIN-SUFFIX, asczwa.com
 DOMAIN-SUFFIX, asczxcefsv.com
 DOMAIN-SUFFIX, asmlink.cn
@@ -674,6 +680,8 @@ DOMAIN-SUFFIX, dratio.com
 DOMAIN-SUFFIX, emas-poc.com
 DOMAIN-SUFFIX, gongyi.xin
 DOMAIN-SUFFIX, hupan.com
+DOMAIN-SUFFIX, hzchengdun.com
+DOMAIN-SUFFIX, hzchengdun.net
 DOMAIN-SUFFIX, ialicdn.com
 DOMAIN-SUFFIX, iconfont.cn
 DOMAIN-SUFFIX, ics.design
@@ -690,6 +698,7 @@ DOMAIN-SUFFIX, mdeer.com
 DOMAIN-SUFFIX, mei.com
 DOMAIN-SUFFIX, miaostreet.com
 DOMAIN-SUFFIX, miaoya.cn
+DOMAIN-SUFFIX, mmstat.com
 DOMAIN-SUFFIX, mshare.cc
 DOMAIN-SUFFIX, nic.xin
 DOMAIN-SUFFIX, philanthropy.xin
@@ -707,6 +716,7 @@ DOMAIN-SUFFIX, tanx.com
 DOMAIN-SUFFIX, ttpod.com
 DOMAIN-SUFFIX, xin.xin
 DOMAIN-SUFFIX, xinlingshou.cn
+DOMAIN-SUFFIX, xixikf.cn
 DOMAIN-SUFFIX, yowhale.com
 DOMAIN-SUFFIX, yunos-inc.com
 DOMAIN-SUFFIX, yunos.com
@@ -753,6 +763,7 @@ DOMAIN-SUFFIX, antgroup-inc.cn
 
 # 神马搜索
 DOMAIN-SUFFIX, sm.cn
+DOMAIN-SUFFIX, yisou.com
 
 # 淘宝
 DOMAIN-SUFFIX, 1688.com
@@ -768,11 +779,13 @@ DOMAIN-SUFFIX, taobao.org
 DOMAIN-SUFFIX, taobaocdn.com
 DOMAIN-SUFFIX, taobizhong.com
 DOMAIN-SUFFIX, taopiaopiao.com
+DOMAIN-SUFFIX, taotian.com
 DOMAIN-SUFFIX, tb.cn
 DOMAIN-SUFFIX, tbcache.com
 DOMAIN-SUFFIX, tbcdn.cn
 DOMAIN-SUFFIX, tburl.in
 DOMAIN-SUFFIX, tmall.com
+DOMAIN-SUFFIX, tmall.hk
 DOMAIN-SUFFIX, tmall.ru
 DOMAIN-SUFFIX, tmalltv.com
 DOMAIN-SUFFIX, tmjl.ai
@@ -4108,6 +4121,7 @@ DOMAIN-SUFFIX, volcdns-test.net
 DOMAIN-SUFFIX, voleai.com
 DOMAIN-SUFFIX, wtturl.cn
 DOMAIN-SUFFIX, xsgtvacct.com
+DOMAIN-SUFFIX, yhgfb-cn-static.com
 DOMAIN-SUFFIX, zijieapi.cn
 DOMAIN-SUFFIX, zijieapi.com
 DOMAIN-SUFFIX, zijieapi.net
@@ -4248,12 +4262,14 @@ DOMAIN-SUFFIX, rsproxy.cn
 DOMAIN-SUFFIX, ad.toutiao.com
 DOMAIN-SUFFIX, bds.snssdk.com
 DOMAIN-SUFFIX, byteadverts.com
+DOMAIN-SUFFIX, csjplatform.com
 DOMAIN-SUFFIX, ctobsnssdk.com
 DOMAIN-SUFFIX, dig.bdurl.net
 DOMAIN-SUFFIX, extlog.snssdk.com
 DOMAIN-SUFFIX, i.snssdk.com
 DOMAIN-SUFFIX, log.zijieapi.com
 DOMAIN-SUFFIX, mcs.snssdk.com
+DOMAIN-SUFFIX, pangle.cn
 DOMAIN-SUFFIX, pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX, pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX, pangolin-hl.snssdk.com
@@ -4568,6 +4584,7 @@ DOMAIN-SUFFIX, cnms.net.cn
 DOMAIN-SUFFIX, cntv.cn
 DOMAIN-SUFFIX, cntv.com.cn
 DOMAIN-SUFFIX, cntvwb.cn
+DOMAIN-SUFFIX, cri.cn
 DOMAIN-SUFFIX, gjgbdszt.cn
 DOMAIN-SUFFIX, gjgbdszt.com.cn
 DOMAIN-SUFFIX, gjgbdszt.net.cn
@@ -4593,6 +4610,7 @@ DOMAIN-SUFFIX, zggbdszt.com.cn
 DOMAIN-SUFFIX, zggbdszt.net.cn
 DOMAIN-SUFFIX, zygbdszt.net.cn
 
+# Ads/tracking
 DOMAIN-SUFFIX, ad.cctv.com
 
 # American Broadcasting Company
@@ -7023,13 +7041,16 @@ DOMAIN-SUFFIX, algoritmika.org
 DOMAIN-SUFFIX, code-class.ru
 DOMAIN-SUFFIX, gb.ru
 DOMAIN-SUFFIX, lerna.ru
+DOMAIN-SUFFIX, o-uchi.ru
 DOMAIN-SUFFIX, skbx.pro # Probably a CDN
 DOMAIN-SUFFIX, skillbox.pro
 DOMAIN-SUFFIX, skillbox.ru
 DOMAIN-SUFFIX, skillfactory.ru
 DOMAIN-SUFFIX, tetrika-school.ru
 DOMAIN-SUFFIX, uchi.ru
+DOMAIN-SUFFIX, uchilk.ru
 DOMAIN-SUFFIX, umschool.net
+DOMAIN-SUFFIX, xn----otbzjdu.xn--p1ai
 DOMAIN-SUFFIX, yaklass.ru
 
 ## ESforce
@@ -7052,8 +7073,8 @@ DOMAIN-SUFFIX, icq.at
 DOMAIN-SUFFIX, icq.biz
 DOMAIN-SUFFIX, icq.com
 DOMAIN-SUFFIX, icq.de
-DOMAIN-SUFFIX, icq.fr
 DOMAIN-SUFFIX, icq.eu
+DOMAIN-SUFFIX, icq.fr
 DOMAIN-SUFFIX, icq.im
 DOMAIN-SUFFIX, icq.lt
 DOMAIN-SUFFIX, icq.mobi
@@ -8677,6 +8698,7 @@ DOMAIN-SUFFIX, firefoxtweetmachine.com
 DOMAIN-SUFFIX, firefoxusercontent.com
 
 DOMAIN, mozilla-ohttp.fastly-edge.com
+DOMAIN, mozilla.map.fastly.net
 
 DOMAIN-SUFFIX, developer.allizom.org
 DOMAIN-SUFFIX, developer.mozilla.org
@@ -8795,6 +8817,7 @@ DOMAIN-SUFFIX, 321fenx.com
 DOMAIN-SUFFIX, easebar.com
 DOMAIN-SUFFIX, haowu.link
 DOMAIN-SUFFIX, icourse163.org
+DOMAIN-SUFFIX, kada.com
 DOMAIN-SUFFIX, lf126.net
 DOMAIN-SUFFIX, lf127.net
 DOMAIN-SUFFIX, lofter.com
@@ -10852,6 +10875,7 @@ DOMAIN-SUFFIX, hayya.ae
 DOMAIN-SUFFIX, meteum.ai
 DOMAIN-SUFFIX, my-manager-account.com
 DOMAIN-SUFFIX, naydex.net
+DOMAIN-SUFFIX, realtyverif.ru
 DOMAIN-SUFFIX, rostaxi.org
 DOMAIN-SUFFIX, shedevrum.ai
 DOMAIN-SUFFIX, sourcecraft.dev
@@ -10924,6 +10948,7 @@ DOMAIN-SUFFIX, yastat.net
 DOMAIN-SUFFIX, yastatic-net.ru
 DOMAIN-SUFFIX, yastatic.net
 DOMAIN-SUFFIX, yccdn.ru
+DOMAIN-SUFFIX, yndx.net
 
 # Ads and tracking
 DOMAIN-SUFFIX, adfox.ru
