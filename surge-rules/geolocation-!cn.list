@@ -423,17 +423,6 @@ DOMAIN-SUFFIX, dynacw.com.cn
 DOMAIN-SUFFIX, dynacw.com.hk
 DOMAIN-SUFFIX, dynacw.com.tw
 
-# All .flickr domains
-DOMAIN-SUFFIX, flickr
-
-DOMAIN-SUFFIX, flic.kr
-DOMAIN-SUFFIX, flickr.com
-DOMAIN-SUFFIX, flickr.net
-DOMAIN-SUFFIX, staticflickr.com
-
-DOMAIN-SUFFIX, fonts.com
-DOMAIN-SUFFIX, fonts.net
-
 DOMAIN-SUFFIX, fontsinuse.com
 
 DOMAIN-SUFFIX, gettyimages.ae
@@ -2403,11 +2392,6 @@ DOMAIN-SUFFIX, jivara.global
 DOMAIN-SUFFIX, mql5.com
 DOMAIN-SUFFIX, tradingview.com
 
-DOMAIN-SUFFIX, djreprints.com
-DOMAIN-SUFFIX, dowjones.com
-DOMAIN-SUFFIX, dowjones.io
-DOMAIN-SUFFIX, dowjoneson.com
-
 DOMAIN-SUFFIX, mastercard.ae
 DOMAIN-SUFFIX, mastercard.at
 DOMAIN-SUFFIX, mastercard.az
@@ -2897,12 +2881,6 @@ DOMAIN-SUFFIX, softbanktelecom.com
 DOMAIN-SUFFIX, softbankusa.net
 DOMAIN-SUFFIX, softbankventuresasia.com
 DOMAIN-SUFFIX, softbankworld.com
-
-DOMAIN-SUFFIX, link.com
-DOMAIN-SUFFIX, stripe-terminal-local-reader.net
-DOMAIN-SUFFIX, stripe.com
-DOMAIN-SUFFIX, stripe.network
-DOMAIN-SUFFIX, stripecdn.com
 
 DOMAIN-SUFFIX, visa.be
 DOMAIN-SUFFIX, visa.ca
@@ -6205,11 +6183,6 @@ DOMAIN-SUFFIX, embl.org
 DOMAIN-SUFFIX, emblstatic.net
 
 DOMAIN-SUFFIX, freecodecamp.org
-
-DOMAIN-SUFFIX, kaggle.com
-DOMAIN-SUFFIX, kaggle.io
-DOMAIN-SUFFIX, kaggle.net
-DOMAIN-SUFFIX, kaggleusercontent.com
 
 DOMAIN-SUFFIX, khanacademy.org
 DOMAIN-SUFFIX, kastatic.org
@@ -9884,34 +9857,6 @@ DOMAIN-SUFFIX, mastodon.social
 DOMAIN-SUFFIX, pawoo.net
 
 
-# IPFS
-# Reference: https://ipfs.github.io/public-gateway-checker/
-
-DOMAIN-SUFFIX, cf-ipfs.com
-DOMAIN-SUFFIX, cloudflare-ipfs.com
-
-
-DOMAIN-SUFFIX, 4everland.io
-DOMAIN-SUFFIX, c4rex.co
-DOMAIN-SUFFIX, crustwebsites.net
-DOMAIN-SUFFIX, dweb.link
-DOMAIN-SUFFIX, gateway.pinata.cloud
-DOMAIN-SUFFIX, ipfs-gateway.cloud
-DOMAIN-SUFFIX, ipfs.anonymize.com
-DOMAIN-SUFFIX, ipfs.best-practice.se
-DOMAIN-SUFFIX, ipfs.eternum.io
-DOMAIN-SUFFIX, ipfs.eth.aragon.network
-DOMAIN-SUFFIX, ipfs.fleek.co
-DOMAIN-SUFFIX, ipfs.io
-DOMAIN-SUFFIX, ipfs.lain.la
-DOMAIN-SUFFIX, ipfs.runfission.com
-DOMAIN-SUFFIX, ipfs.tech
-DOMAIN-SUFFIX, ipns.co
-DOMAIN-SUFFIX, jorropo.net
-DOMAIN-SUFFIX, nftstorage.link
-DOMAIN-SUFFIX, via0.com
-
-
 # Media & News & Press
 # Entertainment(games) oriented media should be added in category-entertainment[-cn]
 DOMAIN-SUFFIX, 9to5google.com
@@ -12373,16 +12318,6 @@ DOMAIN, ad-display.diwodiwo.xyz
 
 DOMAIN-SUFFIX, playboy.com
 DOMAIN-SUFFIX, playboy.com.uk
-
-DOMAIN-SUFFIX, gaytube.com
-DOMAIN-SUFFIX, phncdn.com
-DOMAIN-SUFFIX, phprcdn.com
-DOMAIN-SUFFIX, porngub.com
-DOMAIN-SUFFIX, pornhub-deutsch.net
-DOMAIN-SUFFIX, pornhubapparel.com
-DOMAIN-SUFFIX, pornhub.com
-DOMAIN-SUFFIX, pornhub.org
-DOMAIN-SUFFIX, pornhubpremium.com
 
 DOMAIN-SUFFIX, pornpros.com
 DOMAIN-SUFFIX, pornprosnetwork.com
@@ -18765,146 +18700,6 @@ URL-REGEX, (^|\.)zztt[1-6][0-9]\.com$
 URL-REGEX, (^|\.)zzz[1-9][0-9]\.top$
 
 
-# Religion
-DOMAIN-SUFFIX, dajiyuan.com
-DOMAIN-SUFFIX, dajiyuan.eu
-DOMAIN-SUFFIX, edninfo.com
-DOMAIN-SUFFIX, epoch.cloud
-DOMAIN-SUFFIX, epoch.org.il
-DOMAIN-SUFFIX, epochbase.com
-DOMAIN-SUFFIX, epochbuy.com
-DOMAIN-SUFFIX, epochcar.com
-DOMAIN-SUFFIX, epochhk.com
-DOMAIN-SUFFIX, epochmall.com
-DOMAIN-SUFFIX, epochmediagroup.com
-DOMAIN-SUFFIX, epochshop.com
-DOMAIN-SUFFIX, epochstories.com
-DOMAIN-SUFFIX, epochtime.com
-DOMAIN-SUFFIX, epochtimes-bg.com
-DOMAIN-SUFFIX, epochtimes-romania.com
-DOMAIN-SUFFIX, epochtimes.bg
-DOMAIN-SUFFIX, epochtimes.co.il
-DOMAIN-SUFFIX, epochtimes.co.kr
-DOMAIN-SUFFIX, epochtimes.co.uk
-DOMAIN-SUFFIX, epochtimes.com
-DOMAIN-SUFFIX, epochtimes.com.au
-DOMAIN-SUFFIX, epochtimes.com.br
-DOMAIN-SUFFIX, epochtimes.com.sg
-DOMAIN-SUFFIX, epochtimes.com.tw
-DOMAIN-SUFFIX, epochtimes.com.ua
-DOMAIN-SUFFIX, epochtimes.cz
-DOMAIN-SUFFIX, epochtimes.de
-DOMAIN-SUFFIX, epochtimes.eu
-DOMAIN-SUFFIX, epochtimes.fr
-DOMAIN-SUFFIX, epochtimes.it
-DOMAIN-SUFFIX, epochtimes.jp
-DOMAIN-SUFFIX, epochtimes.nl
-DOMAIN-SUFFIX, epochtimes.pl
-DOMAIN-SUFFIX, epochtimes.ru
-DOMAIN-SUFFIX, epochtimes.se
-DOMAIN-SUFFIX, epochtimeshk.org
-DOMAIN-SUFFIX, epochtimestr.com
-DOMAIN-SUFFIX, epochweek.com
-DOMAIN-SUFFIX, epochweekly.com
-DOMAIN-SUFFIX, erabaru.net
-DOMAIN-SUFFIX, etviet.com
-DOMAIN-SUFFIX, lagranepoca.com
-DOMAIN-SUFFIX, minghui.org
-DOMAIN-SUFFIX, ntd.com
-DOMAIN-SUFFIX, ntd.tv
-DOMAIN-SUFFIX, ntdca.com
-DOMAIN-SUFFIX, ntdimg.com
-DOMAIN-SUFFIX, ntdtv-dc.com
-DOMAIN-SUFFIX, ntdtv.ca
-DOMAIN-SUFFIX, ntdtv.co.il
-DOMAIN-SUFFIX, ntdtv.co.kr
-DOMAIN-SUFFIX, ntdtv.com
-DOMAIN-SUFFIX, ntdtv.com.tw
-DOMAIN-SUFFIX, ntdtv.fr
-DOMAIN-SUFFIX, ntdtv.jp
-DOMAIN-SUFFIX, ntdtv.kr
-DOMAIN-SUFFIX, ntdtv.org
-DOMAIN-SUFFIX, ntdtv.ru
-DOMAIN-SUFFIX, ntdtv.se
-DOMAIN-SUFFIX, ntdtvla.com
-DOMAIN-SUFFIX, ntdvideo.tw
-DOMAIN-SUFFIX, ntdvn.com
-DOMAIN-SUFFIX, persianepochtimes.com
-DOMAIN-SUFFIX, renminbao.com
-DOMAIN-SUFFIX, theepochtimes.com
-DOMAIN-SUFFIX, theepochtimessubscribe.com
-DOMAIN-SUFFIX, velkaepocha.cz
-
-DOMAIN-SUFFIX, es-visiontimes.com
-DOMAIN-SUFFIX, kannewyork.com
-DOMAIN-SUFFIX, kanzhongguo.com
-DOMAIN-SUFFIX, kanzhongguo.eu
-DOMAIN-SUFFIX, secretchina.com
-DOMAIN-SUFFIX, trithucvn.net
-DOMAIN-SUFFIX, trithucvn.org
-DOMAIN-SUFFIX, vct.news
-DOMAIN-SUFFIX, visiontimes.com
-DOMAIN-SUFFIX, visiontimes.de
-DOMAIN-SUFFIX, visiontimes.fr
-DOMAIN-SUFFIX, visiontimes.it
-DOMAIN-SUFFIX, visiontimes.net
-DOMAIN-SUFFIX, visiontimesjp.com
-DOMAIN-SUFFIX, vtvan.com
-DOMAIN-SUFFIX, watchinese.com
-
-DOMAIN-SUFFIX, bayvoice.net
-DOMAIN-SUFFIX, ozvoice.org
-DOMAIN-SUFFIX, sohcradio.com
-DOMAIN-SUFFIX, sohfrance.org
-DOMAIN-SUFFIX, soundofhope.eu
-DOMAIN-SUFFIX, soundofhope.kr
-DOMAIN-SUFFIX, soundofhope.org
-DOMAIN-SUFFIX, wanokokorosoh.com
-
-
-DOMAIN-SUFFIX, aboluowang.com
-DOMAIN-SUFFIX, bannedbook.net
-DOMAIN-SUFFIX, bannedbook.org
-DOMAIN-SUFFIX, broadpressinc.com
-DOMAIN-SUFFIX, chinaaffairs.org
-DOMAIN-SUFFIX, dafahao.com
-DOMAIN-SUFFIX, donatecarsoh.org
-DOMAIN-SUFFIX, dongtaiwang.com
-DOMAIN-SUFFIX, falundafa.org
-DOMAIN-SUFFIX, falundafa.org.tw
-DOMAIN-SUFFIX, falundafamuseum.org
-DOMAIN-SUFFIX, falungong.club
-DOMAIN-SUFFIX, faluninfo.net
-DOMAIN-SUFFIX, fawanghuihui.org
-DOMAIN-SUFFIX, fayuanbooks.com
-DOMAIN-SUFFIX, fgmtv.org
-DOMAIN-SUFFIX, ganjing.com
-DOMAIN-SUFFIX, ganjing.world
-DOMAIN-SUFFIX, ganjingworld.com
-DOMAIN-SUFFIX, guangming.org
-DOMAIN-SUFFIX, mhradio.org
-DOMAIN-SUFFIX, ninecommentaries.com
-DOMAIN-SUFFIX, starp2p.com
-DOMAIN-SUFFIX, tiandixing.org
-DOMAIN-SUFFIX, tiantibooks.org
-DOMAIN-SUFFIX, tuidang.org
-DOMAIN-SUFFIX, upholdjustice.org
-DOMAIN-SUFFIX, wujieliulan.com
-DOMAIN-SUFFIX, xinsheng.net
-DOMAIN-SUFFIX, yuanming.net
-DOMAIN-SUFFIX, yuming.qxbbs.org
-DOMAIN-SUFFIX, zhengjian.org
-DOMAIN-SUFFIX, zhengwunet.org
-DOMAIN-SUFFIX, zhenxiang.biz
-DOMAIN-SUFFIX, zhuichaguoji.org
-
-# 神韻
-DOMAIN-SUFFIX, shenyun.com
-DOMAIN-SUFFIX, shenyun.org
-DOMAIN-SUFFIX, shenyuncreations.com
-DOMAIN-SUFFIX, shenyunperformingarts.org
-
-
 # Services & Softwares
 DOMAIN-SUFFIX, apkcombo.com
 
@@ -19493,10 +19288,6 @@ DOMAIN-SUFFIX, getadblock.com
 
 DOMAIN-SUFFIX, adblockplus.org
 
-DOMAIN-SUFFIX, addthis.com
-DOMAIN-SUFFIX, addthiscdn.com
-DOMAIN-SUFFIX, addthisedge.com
-
 DOMAIN-SUFFIX, addtoany.com
 
 DOMAIN-SUFFIX, adguard.app
@@ -19564,13 +19355,6 @@ DOMAIN-SUFFIX, contentful.com
 DOMAIN-SUFFIX, ctfassets.net
 
 DOMAIN-SUFFIX, cutt.ly
-
-DOMAIN-SUFFIX, digitalocean.com
-DOMAIN-SUFFIX, digitalocean-ui.com
-DOMAIN-SUFFIX, digitaloceanspaces.com
-DOMAIN-SUFFIX, do.co
-DOMAIN-SUFFIX, nginxconfig.io
-DOMAIN-SUFFIX, ondigitalocean.com
 
 # Disqus, Inc.
 # Disqus offers the best add-on tools for websites to increase engagement.
@@ -19779,15 +19563,6 @@ DOMAIN-SUFFIX, www.sb
 DOMAIN-SUFFIX, setapp.com
 
 DOMAIN-SUFFIX, sharethis.com
-
-DOMAIN-SUFFIX, myshopify.com
-DOMAIN-SUFFIX, shop.app
-DOMAIN-SUFFIX, shopify.com
-DOMAIN-SUFFIX, shopify.dev
-DOMAIN-SUFFIX, shopifycdn.com
-DOMAIN-SUFFIX, shopifycloud.com
-DOMAIN-SUFFIX, shopifystatus.com
-DOMAIN-SUFFIX, shopifysvc.com
 
 DOMAIN-SUFFIX, slideshare.com
 DOMAIN-SUFFIX, slideshare.net
@@ -31455,39 +31230,6 @@ DOMAIN-SUFFIX, reckittbenckiser.com.cn
 DOMAIN-SUFFIX, reckittbenckiser.net
 DOMAIN-SUFFIX, reckittbenckiser.tv
 DOMAIN-SUFFIX, reckittprofessional.com
-
-DOMAIN-SUFFIX, flatmates.com.au
-DOMAIN-SUFFIX, hackday.com.au
-DOMAIN-SUFFIX, hometrack.com.au
-DOMAIN-SUFFIX, housing.com
-DOMAIN-SUFFIX, housingcdn.com
-DOMAIN-SUFFIX, inventorship.com.au
-DOMAIN-SUFFIX, ippstatic.com
-DOMAIN-SUFFIX, iproperty.com
-DOMAIN-SUFFIX, iproperty.com.my
-DOMAIN-SUFFIX, iproperty.com.sg
-DOMAIN-SUFFIX, makaan.com
-DOMAIN-SUFFIX, move.com
-DOMAIN-SUFFIX, moveaws.com
-DOMAIN-SUFFIX, myfun.com
-DOMAIN-SUFFIX, property.com.au
-DOMAIN-SUFFIX, proptiger.com
-DOMAIN-SUFFIX, rea-asia.com
-DOMAIN-SUFFIX, rea-group.com
-DOMAIN-SUFFIX, rea.design
-DOMAIN-SUFFIX, rea.global
-DOMAIN-SUFFIX, rea.io
-DOMAIN-SUFFIX, rea.tech
-DOMAIN-SUFFIX, realcommercial.com.au
-DOMAIN-SUFFIX, realestate.com.au
-DOMAIN-SUFFIX, realtor.com
-DOMAIN-SUFFIX, reastatic.net
-DOMAIN-SUFFIX, rumah123.com
-DOMAIN-SUFFIX, smartexpos.com
-DOMAIN-SUFFIX, smartline.com.au
-DOMAIN-SUFFIX, spacely.com.au
-DOMAIN-SUFFIX, squarefoot.com.hk
-DOMAIN-SUFFIX, thinkofliving.com
 
 DOMAIN-SUFFIX, predb.me
 DOMAIN-SUFFIX, scenesource.me

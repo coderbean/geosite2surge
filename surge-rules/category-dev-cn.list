@@ -57,9 +57,6 @@ DOMAIN-SUFFIX, linyaps.org.cn
 DOMAIN-SUFFIX, uniontech.cn
 DOMAIN-SUFFIX, uniontech.com
 
-DOMAIN-SUFFIX, gitee.com
-DOMAIN-SUFFIX, gitee.io
-
 # go mod proxy
 DOMAIN-SUFFIX, goproxy.cn
 DOMAIN-SUFFIX, goproxy.io
