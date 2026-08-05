@@ -2935,6 +2935,9 @@ DOMAIN, init.gc-lb.apple.com.akadns.net
 DOMAIN, init.gc.apple.com
 DOMAIN, km.support.apple.com
 DOMAIN, maps.apple.com
+DOMAIN, tj-pod1-smp-device.apple.com
+DOMAIN, tj-pod2-smp-device.apple.com
+DOMAIN, tj-pod3-smp-device.apple.com
 DOMAIN, www.support.apple.com
 
 # regexp:^a[1-5]\.mzstatic\.com$
@@ -3097,7 +3100,6 @@ DOMAIN, swdist.apple.com.akadns.net
 DOMAIN, swscan-cdn.apple.com.akadns.net
 DOMAIN, swscan.apple.com
 DOMAIN, sylvan.apple.com
-DOMAIN, tj-pod1-smp-device.apple.com
 DOMAIN, updates-http.cdn-apple.com
 DOMAIN, updates-http.cdn-apple.com.akadns.net
 DOMAIN, updates.cdn-apple.com
@@ -8927,14 +8929,17 @@ DOMAIN-SUFFIX, ocourier.ru
 DOMAIN-SUFFIX, ozon-dostavka.ru
 DOMAIN-SUFFIX, ozon-credit.ru
 DOMAIN-SUFFIX, ozon-tech.ru
+DOMAIN-SUFFIX, ozon.app
 DOMAIN-SUFFIX, ozon.by
 DOMAIN-SUFFIX, ozon.com
 DOMAIN-SUFFIX, ozon.com.by
 DOMAIN-SUFFIX, ozon.com.kz
 DOMAIN-SUFFIX, ozon.dev
 DOMAIN-SUFFIX, ozon.express
+DOMAIN-SUFFIX, ozon.global
 DOMAIN-SUFFIX, ozon.kz
 DOMAIN-SUFFIX, ozon.li
+DOMAIN-SUFFIX, ozon.market
 DOMAIN-SUFFIX, ozon.ru
 DOMAIN-SUFFIX, ozon.tech
 DOMAIN-SUFFIX, ozon.tm
