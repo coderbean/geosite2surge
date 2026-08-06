@@ -619,8 +619,6 @@ DOMAIN-SUFFIX, foxuv.com
 DOMAIN-SUFFIX, foxweatherwatch.com
 DOMAIN-SUFFIX, fssta.com
 DOMAIN-SUFFIX, fxn.ws
-DOMAIN-SUFFIX, fxnetwork.com
-DOMAIN-SUFFIX, fxnetworks.com
 
 # Bento Box Entertainment
 DOMAIN-SUFFIX, bentobox.tv
@@ -816,9 +814,6 @@ DOMAIN-SUFFIX, hket.com
 DOMAIN-SUFFIX, hketgroup.com
 DOMAIN-SUFFIX, ulifestyle.com.hk
 DOMAIN-SUFFIX, umagazine.com.hk
-
-DOMAIN-SUFFIX, hkopentv.com
-DOMAIN-SUFFIX, fantv.hk
 
 DOMAIN-SUFFIX, huffingtonpost.ca
 DOMAIN-SUFFIX, huffingtonpost.co.uk
@@ -1592,12 +1587,12 @@ DOMAIN-SUFFIX, tokyo-sports.co.jp
 DOMAIN-SUFFIX, tospo-keiba.jp
 
 DOMAIN-SUFFIX, mytvsuper.com
-DOMAIN-SUFFIX, tvb.com
 
 
 DOMAIN-SUFFIX, bigbigchannel.com.hk
 DOMAIN-SUFFIX, bigbigshop.com
 DOMAIN-SUFFIX, encoretvb.com
+DOMAIN-SUFFIX, neigbuy.com
 DOMAIN-SUFFIX, tvb.com
 DOMAIN-SUFFIX, tvb.com.au
 DOMAIN-SUFFIX, tvbanywhere.com
@@ -1720,7 +1715,6 @@ DOMAIN-SUFFIX, the-japan-news.com
 DOMAIN-SUFFIX, ync.ne.jp
 DOMAIN-SUFFIX, yomikyo.or.jp
 DOMAIN-SUFFIX, yomilogi.com
-DOMAIN-SUFFIX, yomiuri-johkai.co.jp
 DOMAIN-SUFFIX, yomiuri-johkai.co.jp
 DOMAIN-SUFFIX, yomiuri-ryokou.co.jp
 DOMAIN-SUFFIX, yomiuri-shimbun.pressreader.com

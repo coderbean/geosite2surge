@@ -2125,6 +2125,9 @@ DOMAIN-SUFFIX, 36kr.com
 DOMAIN-SUFFIX, 36krcdn.com
 DOMAIN-SUFFIX, 36krcnd.com
 
+# Ads
+DOMAIN-SUFFIX, adx.36kr.com
+
 DOMAIN-SUFFIX, cctv.cn
 DOMAIN-SUFFIX, cctv.com
 DOMAIN-SUFFIX, cctv4g.com
@@ -6117,6 +6120,17 @@ DOMAIN-SUFFIX, sinopecnews.com.cn
 DOMAIN-SUFFIX, sinopecsales.com
 
 
+## 国家电网
+DOMAIN-SUFFIX, 95598.cn
+DOMAIN-SUFFIX, 95598pay.com
+DOMAIN-SUFFIX, echargenet.com
+DOMAIN-SUFFIX, esgcc.com.cn
+DOMAIN-SUFFIX, sgcc.com.cn
+## 南方电网
+DOMAIN-SUFFIX, csg.cn
+DOMAIN-SUFFIX, ecsg.com.cn
+DOMAIN-SUFFIX, poweremarket.com
+
 # Tech companies & Orginations
 DOMAIN-SUFFIX, 1tyy.cn
 DOMAIN-SUFFIX, bbdc.cn
@@ -7184,7 +7198,6 @@ DOMAIN-SUFFIX, okr.com.cn  # 京ICP备16045432号-50 OKR网站
 DOMAIN-SUFFIX, vscenevideo.com  # 京ICP备16045432号-1 北京维境视讯信息技术有限公司网站
 
 DOMAIN-SUFFIX, bytedapm.com
-DOMAIN-SUFFIX, byteoversea.com
 DOMAIN-SUFFIX, muscdn.com
 DOMAIN-SUFFIX, musical.ly
 DOMAIN-SUFFIX, tik-tokapi.com
@@ -7789,6 +7802,10 @@ DOMAIN-SUFFIX, vlabimg.com
 DOMAIN-SUFFIX, vlabstatic.com
 DOMAIN-SUFFIX, vlabvod.com
 
+# CapCut
+DOMAIN-SUFFIX, capcut.com
+DOMAIN-SUFFIX, capcutcdn-us.com
+
 # 今日头条
 DOMAIN-SUFFIX, toutiao.com
 DOMAIN-SUFFIX, toutiaoapi.com
@@ -7948,6 +7965,15 @@ DOMAIN-SUFFIX, djiops.com
 DOMAIN-SUFFIX, djiservice.org
 DOMAIN-SUFFIX, skypixel.com
 DOMAIN-SUFFIX, robomaster.com
+
+# 焦点科技股份有限公司 (Focus Technology Co., Ltd.)
+# Stock: 002315.SZ
+# Includes: Made-in-China.com, Trade Messenger, etc.
+DOMAIN-SUFFIX, focuschina.com
+DOMAIN-SUFFIX, made-in-china.com
+DOMAIN-SUFFIX, micstatic.com
+DOMAIN-SUFFIX, trademessenger.com
+DOMAIN-SUFFIX, vemic.com
 
 # 珠海格力
 DOMAIN-SUFFIX, gree.cn

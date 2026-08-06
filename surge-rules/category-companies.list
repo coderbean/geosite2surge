@@ -215,7 +215,6 @@ DOMAIN-SUFFIX, authorxml.com
 DOMAIN-SUFFIX, businesscatalyst.com
 DOMAIN-SUFFIX, ccnsite.com
 DOMAIN-SUFFIX, ccpsx.com
-DOMAIN-SUFFIX, demdex.net
 DOMAIN-SUFFIX, dollarfotoclub.com
 DOMAIN-SUFFIX, dollarphotoclub.com
 DOMAIN-SUFFIX, dollarphotosclub.com
@@ -311,6 +310,7 @@ DOMAIN-SUFFIX, adobestats.io
 
 # Ads/tracking
 DOMAIN-SUFFIX, advertising.adobe.com
+DOMAIN-SUFFIX, demdex.net
 DOMAIN-SUFFIX, tubemogul.com
 
 DOMAIN-SUFFIX, alibabacloud.co.in
@@ -1952,6 +1952,18 @@ DOMAIN-SUFFIX, macruby.org
 # MapKit
 DOMAIN-SUFFIX, apple-mapkit.com
 
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
+DOMAIN, cdn.apple-mapkit.com
+DOMAIN, cdn1.apple-mapkit.com
+DOMAIN, cdn2.apple-mapkit.com
+DOMAIN, cdn3.apple-mapkit.com
+DOMAIN, cdn4.apple-mapkit.com
+DOMAIN, cdn-cn.apple-mapkit.com
+DOMAIN, cdn-cn1.apple-mapkit.com
+DOMAIN, cdn-cn2.apple-mapkit.com
+DOMAIN, cdn-cn3.apple-mapkit.com
+DOMAIN, cdn-cn4.apple-mapkit.com
+
 # Playgrounds
 DOMAIN-SUFFIX, playgrounds-cdn.apple.com
 
@@ -3440,7 +3452,6 @@ DOMAIN-SUFFIX, apple-hk.com
 DOMAIN-SUFFIX, apple-ibooks.cn
 DOMAIN-SUFFIX, apple-inc.net
 DOMAIN-SUFFIX, apple-livephotoskit.com
-DOMAIN-SUFFIX, apple-mapkit.com
 DOMAIN-SUFFIX, apple-maps.cn
 DOMAIN-SUFFIX, apple-online.com
 DOMAIN-SUFFIX, apple-studies.com
@@ -3698,18 +3709,6 @@ DOMAIN, a3.mzstatic.com
 DOMAIN, a4.mzstatic.com
 DOMAIN, a5.mzstatic.com
 
-# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
-DOMAIN, cdn.apple-mapkit.com
-DOMAIN, cdn1.apple-mapkit.com
-DOMAIN, cdn2.apple-mapkit.com
-DOMAIN, cdn3.apple-mapkit.com
-DOMAIN, cdn4.apple-mapkit.com
-DOMAIN, cdn-cn.apple-mapkit.com
-DOMAIN, cdn-cn1.apple-mapkit.com
-DOMAIN, cdn-cn2.apple-mapkit.com
-DOMAIN, cdn-cn3.apple-mapkit.com
-DOMAIN, cdn-cn4.apple-mapkit.com
-
 # regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
 DOMAIN, cl1-cdn.origin-apple.com.akadns.net
 DOMAIN, cl2-cdn.origin-apple.com.akadns.net
@@ -3890,6 +3889,15 @@ DOMAIN-SUFFIX, ss-inf.net
 DOMAIN-SUFFIX, statuspage.io
 
 # AT&T Inc.
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
+DOMAIN-SUFFIX, att.tv
+DOMAIN-SUFFIX, atttvnow.com
+DOMAIN-SUFFIX, attwatchtv.com
+DOMAIN-SUFFIX, dtvce.com
+DOMAIN-SUFFIX, nettyinternet.com
+
 
 DOMAIN-SUFFIX, accbusiness.com
 DOMAIN-SUFFIX, atandt.com
@@ -3902,7 +3910,6 @@ DOMAIN-SUFFIX, att.cn
 DOMAIN-SUFFIX, att.com
 DOMAIN-SUFFIX, att.jobs
 DOMAIN-SUFFIX, att.net
-DOMAIN-SUFFIX, att.tv
 DOMAIN-SUFFIX, attalascom.com
 DOMAIN-SUFFIX, attbelieves.com
 DOMAIN-SUFFIX, attbusiness.net
@@ -3924,7 +3931,6 @@ DOMAIN-SUFFIX, attspecial.com
 DOMAIN-SUFFIX, attssl.com
 DOMAIN-SUFFIX, attstadium.com
 DOMAIN-SUFFIX, attsuppliers.com
-DOMAIN-SUFFIX, atttvnow.com
 DOMAIN-SUFFIX, attuverseoffers.com
 DOMAIN-SUFFIX, attuverseonline.com
 DOMAIN-SUFFIX, attvoip.com
@@ -3942,7 +3948,6 @@ DOMAIN-SUFFIX, enterprisepaging.com
 DOMAIN-SUFFIX, itcanwait.com
 DOMAIN-SUFFIX, mymmode.com
 DOMAIN-SUFFIX, naturalvoices.com
-DOMAIN-SUFFIX, nettyinternet.com
 DOMAIN-SUFFIX, openapiplatform.com
 DOMAIN-SUFFIX, openapiservice.com
 DOMAIN-SUFFIX, patentgold.net
@@ -3963,6 +3968,8 @@ DOMAIN-SUFFIX, attdns.net
 DOMAIN-SUFFIX, na-att-idns.net
 
 # Direct TV
+# AT&T and DIRECTV are completely separate companies now.
+# We may add a separate list for DIRECTV
 DOMAIN-SUFFIX, audiencenetwork.com
 DOMAIN-SUFFIX, audiencenetwork.tv
 DOMAIN-SUFFIX, cabletvdirectv.com
@@ -6104,7 +6111,6 @@ DOMAIN-SUFFIX, niosii.net
 DOMAIN-SUFFIX, omekinteractive.com
 DOMAIN-SUFFIX, omnitek.tv
 DOMAIN-SUFFIX, openamt.com
-DOMAIN-SUFFIX, opendroneid.org
 DOMAIN-SUFFIX, optanedifference.com
 DOMAIN-SUFFIX, passwordday.org
 DOMAIN-SUFFIX, pc.com
@@ -6287,7 +6293,6 @@ DOMAIN-SUFFIX, kaspersky.co.za
 DOMAIN-SUFFIX, kaspersky.com.au
 DOMAIN-SUFFIX, kaspersky.com.br
 DOMAIN-SUFFIX, kaspersky.com.cn
-DOMAIN-SUFFIX, kaspersky.com.hk
 DOMAIN-SUFFIX, kaspersky.com.hk
 DOMAIN-SUFFIX, kaspersky.com.pl
 DOMAIN-SUFFIX, kaspersky.com.tr
@@ -7192,7 +7197,6 @@ DOMAIN-SUFFIX, nextstop.com
 DOMAIN-SUFFIX, online-deals.net
 DOMAIN-SUFFIX, opencreate.org
 DOMAIN-SUFFIX, reachtheworldonfacebook.com
-DOMAIN-SUFFIX, rocksdb.org
 DOMAIN-SUFFIX, shopfacebook.com
 DOMAIN-SUFFIX, sportsfacebook.com
 DOMAIN-SUFFIX, sportstream.com

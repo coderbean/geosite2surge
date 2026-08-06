@@ -11,6 +11,14 @@ DOMAIN-SUFFIX, tapsell.ir
 DOMAIN-SUFFIX, yektanet.com
 
 
+DOMAIN-SUFFIX, 36dianping.com
+DOMAIN-SUFFIX, 36kr.com
+DOMAIN-SUFFIX, 36krcdn.com
+DOMAIN-SUFFIX, 36krcnd.com
+
+# Ads
+DOMAIN-SUFFIX, adx.36kr.com
+
 # Beijing Danmu Network Technology Co., Ltd.
 
 DOMAIN-SUFFIX, ac.fun
@@ -219,7 +227,6 @@ DOMAIN-SUFFIX, authorxml.com
 DOMAIN-SUFFIX, businesscatalyst.com
 DOMAIN-SUFFIX, ccnsite.com
 DOMAIN-SUFFIX, ccpsx.com
-DOMAIN-SUFFIX, demdex.net
 DOMAIN-SUFFIX, dollarfotoclub.com
 DOMAIN-SUFFIX, dollarphotoclub.com
 DOMAIN-SUFFIX, dollarphotosclub.com
@@ -315,6 +322,7 @@ DOMAIN-SUFFIX, adobestats.io
 
 # Ads/tracking
 DOMAIN-SUFFIX, advertising.adobe.com
+DOMAIN-SUFFIX, demdex.net
 DOMAIN-SUFFIX, tubemogul.com
 
 # All .alibaba domains
@@ -1200,6 +1208,18 @@ DOMAIN-SUFFIX, macruby.org
 
 # MapKit
 DOMAIN-SUFFIX, apple-mapkit.com
+
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
+DOMAIN, cdn.apple-mapkit.com
+DOMAIN, cdn1.apple-mapkit.com
+DOMAIN, cdn2.apple-mapkit.com
+DOMAIN, cdn3.apple-mapkit.com
+DOMAIN, cdn4.apple-mapkit.com
+DOMAIN, cdn-cn.apple-mapkit.com
+DOMAIN, cdn-cn1.apple-mapkit.com
+DOMAIN, cdn-cn2.apple-mapkit.com
+DOMAIN, cdn-cn3.apple-mapkit.com
+DOMAIN, cdn-cn4.apple-mapkit.com
 
 # Playgrounds
 DOMAIN-SUFFIX, playgrounds-cdn.apple.com
@@ -2689,7 +2709,6 @@ DOMAIN-SUFFIX, apple-hk.com
 DOMAIN-SUFFIX, apple-ibooks.cn
 DOMAIN-SUFFIX, apple-inc.net
 DOMAIN-SUFFIX, apple-livephotoskit.com
-DOMAIN-SUFFIX, apple-mapkit.com
 DOMAIN-SUFFIX, apple-maps.cn
 DOMAIN-SUFFIX, apple-online.com
 DOMAIN-SUFFIX, apple-studies.com
@@ -2946,18 +2965,6 @@ DOMAIN, a2.mzstatic.com
 DOMAIN, a3.mzstatic.com
 DOMAIN, a4.mzstatic.com
 DOMAIN, a5.mzstatic.com
-
-# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$
-DOMAIN, cdn.apple-mapkit.com
-DOMAIN, cdn1.apple-mapkit.com
-DOMAIN, cdn2.apple-mapkit.com
-DOMAIN, cdn3.apple-mapkit.com
-DOMAIN, cdn4.apple-mapkit.com
-DOMAIN, cdn-cn.apple-mapkit.com
-DOMAIN, cdn-cn1.apple-mapkit.com
-DOMAIN, cdn-cn2.apple-mapkit.com
-DOMAIN, cdn-cn3.apple-mapkit.com
-DOMAIN, cdn-cn4.apple-mapkit.com
 
 # regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$
 DOMAIN, cl1-cdn.origin-apple.com.akadns.net
@@ -3555,7 +3562,6 @@ DOMAIN-SUFFIX, okr.com.cn  # 京ICP备16045432号-50 OKR网站
 DOMAIN-SUFFIX, vscenevideo.com  # 京ICP备16045432号-1 北京维境视讯信息技术有限公司网站
 
 DOMAIN-SUFFIX, bytedapm.com
-DOMAIN-SUFFIX, byteoversea.com
 DOMAIN-SUFFIX, muscdn.com
 DOMAIN-SUFFIX, musical.ly
 DOMAIN-SUFFIX, tik-tokapi.com
@@ -4160,6 +4166,10 @@ DOMAIN-SUFFIX, vlabimg.com
 DOMAIN-SUFFIX, vlabstatic.com
 DOMAIN-SUFFIX, vlabvod.com
 
+# CapCut
+DOMAIN-SUFFIX, capcut.com
+DOMAIN-SUFFIX, capcutcdn-us.com
+
 # 今日头条
 DOMAIN-SUFFIX, toutiao.com
 DOMAIN-SUFFIX, toutiaoapi.com
@@ -4619,9 +4629,11 @@ DOMAIN-SUFFIX, ad.cctv.com
 
 DOMAIN-SUFFIX, abc-studios.com
 DOMAIN-SUFFIX, abc.com
+DOMAIN-SUFFIX, abcnews.com
 DOMAIN-SUFFIX, edgedatg.com
 
 DOMAIN-SUFFIX, bamgrid.com
+DOMAIN-SUFFIX, bamtech.net
 DOMAIN-SUFFIX, dmed.technology
 
 DOMAIN-SUFFIX, dtci.co
@@ -4644,6 +4656,55 @@ DOMAIN-SUFFIX, hotstarext.com
 DOMAIN-SUFFIX, hsprepack.akamaized.net
 
 URL-REGEX, ^hses[1-7]?\.akamaized\.net$
+
+DOMAIN-SUFFIX, 112263.com
+DOMAIN-SUFFIX, callhulu.com
+DOMAIN-SUFFIX, findyourlimits.com
+DOMAIN-SUFFIX, freehulu.com
+DOMAIN-SUFFIX, hooloo.tv
+DOMAIN-SUFFIX, hoolu.com
+DOMAIN-SUFFIX, hoolu.tv
+DOMAIN-SUFFIX, hu1u.com
+DOMAIN-SUFFIX, huloo.cc
+DOMAIN-SUFFIX, huloo.tv
+DOMAIN-SUFFIX, hulu.com
+DOMAIN-SUFFIX, hulu.jp
+DOMAIN-SUFFIX, hulu.tv
+DOMAIN-SUFFIX, hulu.us
+DOMAIN-SUFFIX, huluaction.com
+DOMAIN-SUFFIX, huluad.com
+DOMAIN-SUFFIX, huluapp.com
+DOMAIN-SUFFIX, huluasks.com
+DOMAIN-SUFFIX, hulucall.com
+DOMAIN-SUFFIX, hulufree.com
+DOMAIN-SUFFIX, hulugans.com
+DOMAIN-SUFFIX, hulugermany.com
+DOMAIN-SUFFIX, hulugo.com
+DOMAIN-SUFFIX, huluim.com
+DOMAIN-SUFFIX, huluinstantmessenger.com
+DOMAIN-SUFFIX, huluitaly.com
+DOMAIN-SUFFIX, hulunet.com
+DOMAIN-SUFFIX, hulunetwork.com
+DOMAIN-SUFFIX, huluplus.com
+DOMAIN-SUFFIX, hulupremium.com
+DOMAIN-SUFFIX, hulupurchase.com
+DOMAIN-SUFFIX, huluqa.com
+DOMAIN-SUFFIX, hulurussia.com
+DOMAIN-SUFFIX, huluspain.com
+DOMAIN-SUFFIX, hulusports.com
+DOMAIN-SUFFIX, hulustream.com
+DOMAIN-SUFFIX, huluteam.com
+DOMAIN-SUFFIX, hulutv.com
+DOMAIN-SUFFIX, huluusa.com
+DOMAIN-SUFFIX, joinmaidez.com
+DOMAIN-SUFFIX, mushymush.tv
+DOMAIN-SUFFIX, myhulu.com
+DOMAIN-SUFFIX, originalhulu.com
+DOMAIN-SUFFIX, payhulu.com
+DOMAIN-SUFFIX, registerhulu.com
+DOMAIN-SUFFIX, thehulubraintrust.com
+DOMAIN-SUFFIX, wwwhuluplus.com
+DOMAIN, hulu.playback.edge.bamgrid.com
 
 DOMAIN-SUFFIX, marvel.com
 DOMAIN-SUFFIX, marvel10thanniversary.com
@@ -4709,15 +4770,31 @@ DOMAIN-SUFFIX, disney.ru
 DOMAIN-SUFFIX, disney.se
 DOMAIN-SUFFIX, disney.sg
 
+# https://thewaltdisneycompany.com/about/
+DOMAIN-SUFFIX, disneyanimation.com
+DOMAIN-SUFFIX, fxnetwork.com
+DOMAIN-SUFFIX, fxnetworks.com
+DOMAIN-SUFFIX, lucasfilm.com
+DOMAIN-SUFFIX, pixar.com
+DOMAIN-SUFFIX, searchlightpictures.com
+DOMAIN-SUFFIX, thewaltdisneycompany.com
+DOMAIN-SUFFIX, waltdisneystudios.com
+
+DOMAIN-SUFFIX, disneylandparis.com
+DOMAIN-SUFFIX, hongkongdisneyland.com
+DOMAIN-SUFFIX, shanghaidisneyresort.com
+DOMAIN-SUFFIX, tokyodisneyresort.jp
+
 # Others
+DOMAIN-SUFFIX, 20thcenturystudios.com
 DOMAIN-SUFFIX, 20thcenturystudios.com.au
 DOMAIN-SUFFIX, 20thcenturystudios.com.br
 DOMAIN-SUFFIX, 20thcenturystudios.jp
 DOMAIN-SUFFIX, adventuresbydisney.com
 DOMAIN-SUFFIX, babble.com
 DOMAIN-SUFFIX, babyzone.com
-DOMAIN-SUFFIX, bamgrid.com
 DOMAIN-SUFFIX, beautyandthebeastmusical.co.uk
+DOMAIN-SUFFIX, detpress.com
 DOMAIN-SUFFIX, dilcdn.com
 DOMAIN-SUFFIX, disney-asia.com
 DOMAIN-SUFFIX, disney-discount.com
@@ -4725,6 +4802,7 @@ DOMAIN-SUFFIX, disney-plus.net
 DOMAIN-SUFFIX, disney-portal.my.onetrust.com
 DOMAIN-SUFFIX, disney-studio.com
 DOMAIN-SUFFIX, disney-studio.net
+DOMAIN-SUFFIX, disneyaccount.com
 DOMAIN-SUFFIX, disneyadsales.com
 DOMAIN-SUFFIX, disneyarena.com
 DOMAIN-SUFFIX, disneyaulani.com
@@ -4761,17 +4839,19 @@ DOMAIN-SUFFIX, disneynow.com
 DOMAIN-SUFFIX, disneypeoplesurveys.com
 DOMAIN-SUFFIX, disneyplus.bn5x.net
 DOMAIN-SUFFIX, disneyplus.com
-DOMAIN-SUFFIX, disneyplus.com.ssl.sc.omtrdc.net
+DOMAIN-SUFFIX, disneyprivacycenter.com
 DOMAIN-SUFFIX, disneyredirects.com
 DOMAIN-SUFFIX, disneysrivieraresort.com
 DOMAIN-SUFFIX, disneystore.com
 DOMAIN-SUFFIX, disneystreaming.com
 DOMAIN-SUFFIX, disneysubscription.com
+DOMAIN-SUFFIX, disneytermsofuse.com
 DOMAIN-SUFFIX, disneytickets.co.uk
 DOMAIN-SUFFIX, disneyturkiye.com.tr
 DOMAIN-SUFFIX, disneytvajobs.com
 DOMAIN-SUFFIX, disneyworld-go.com
 DOMAIN-SUFFIX, dssott.com
+DOMAIN-SUFFIX, freeform.com
 DOMAIN-SUFFIX, go-disneyworldgo.com
 DOMAIN-SUFFIX, go.com
 DOMAIN-SUFFIX, mickey.tv
@@ -4791,6 +4871,8 @@ DOMAIN-SUFFIX, streamingdisney.net
 DOMAIN-SUFFIX, thestationbymaker.com
 DOMAIN-SUFFIX, thisispolaris.com
 DOMAIN-SUFFIX, watchdisneyfe.com
+
+DOMAIN, disneyplus.com.ssl.sc.omtrdc.net
 
 # tracking
 DOMAIN, disney.my.sentry.io
@@ -7551,7 +7633,6 @@ DOMAIN-SUFFIX, nextstop.com
 DOMAIN-SUFFIX, online-deals.net
 DOMAIN-SUFFIX, opencreate.org
 DOMAIN-SUFFIX, reachtheworldonfacebook.com
-DOMAIN-SUFFIX, rocksdb.org
 DOMAIN-SUFFIX, shopfacebook.com
 DOMAIN-SUFFIX, sportsfacebook.com
 DOMAIN-SUFFIX, sportstream.com
@@ -11023,7 +11104,6 @@ DOMAIN-SUFFIX, aaxads.com
 DOMAIN-SUFFIX, ad-srv.net
 DOMAIN-SUFFIX, ad.wang502.com
 DOMAIN-SUFFIX, adbutter.net
-DOMAIN-SUFFIX, addthisedge.com
 DOMAIN-SUFFIX, ads.huan.tv
 DOMAIN-SUFFIX, ads.huantest.com
 DOMAIN-SUFFIX, ads.trafficjunky.net
@@ -11032,7 +11112,6 @@ DOMAIN-SUFFIX, adservice.sigmob.cn
 DOMAIN-SUFFIX, adtechus.com
 DOMAIN-SUFFIX, adtrue.com
 DOMAIN-SUFFIX, adxprtz.com
-DOMAIN-SUFFIX, cdn.advertserve.com
 DOMAIN-SUFFIX, cdn.banclip.com
 DOMAIN-SUFFIX, cfts1tifqr.com
 DOMAIN-SUFFIX, contentabc.com
@@ -11081,9 +11160,6 @@ DOMAIN-SUFFIX, wwads.cn
 # 12306
 DOMAIN-SUFFIX, ad.12306.cn
 
-# 36Kr
-DOMAIN-SUFFIX, adx.36kr.com
-
 # AdHub
 DOMAIN-SUFFIX, hubcloud.com.cn
 
@@ -11100,23 +11176,6 @@ DOMAIN-SUFFIX, applvn.com
 
 # AppsFlyer
 DOMAIN-SUFFIX, appsflyersdk.com
-
-# Caixin
-# regexp:^pinggai\d\.caixin\.com$
-DOMAIN, pinggai0.caixin.com
-DOMAIN, pinggai1.caixin.com
-DOMAIN, pinggai2.caixin.com
-DOMAIN, pinggai3.caixin.com
-DOMAIN, pinggai4.caixin.com
-DOMAIN, pinggai5.caixin.com
-DOMAIN, pinggai6.caixin.com
-DOMAIN, pinggai7.caixin.com
-DOMAIN, pinggai8.caixin.com
-DOMAIN, pinggai9.caixin.com
-
-# Chinaso
-DOMAIN-SUFFIX, adq.chinaso.com
-DOMAIN-SUFFIX, stat.chinaso.com
 
 # hiido
 DOMAIN-SUFFIX, mlog.hiido.com
@@ -11139,22 +11198,9 @@ DOMAIN-SUFFIX, ironbeast.io
 DOMAIN-SUFFIX, advapi.joyplus.tv
 DOMAIN-SUFFIX, advapikj.joyplus.tv
 
-# pocoiq
-DOMAIN-SUFFIX, cdn.pocoiq.cn
-DOMAIN-SUFFIX, oct.pocoiq.cn
-
-# Qiniu
-DOMAIN-SUFFIX, dn-growing.qbox.me
-
 # tagtic
 DOMAIN-SUFFIX, g1.tagtic.cn
 DOMAIN-SUFFIX, xy-log.tagtic.cn
-
-# UNI Marketing
-DOMAIN-SUFFIX, ad.unimhk.com
-
-# UCloud
-DOMAIN-SUFFIX, das-rpt-log.ucloud.cn
 
 # Vungle
 DOMAIN, logs.ads.vungle.com
@@ -11216,6 +11262,10 @@ DOMAIN-SUFFIX, sensors.umetrip.com.cn
 DOMAIN-SUFFIX, pub.network
 
 
+DOMAIN-SUFFIX, addthis.com
+DOMAIN-SUFFIX, addthiscdn.com
+DOMAIN-SUFFIX, addthisedge.com
+
 DOMAIN-SUFFIX, adjust.com
 DOMAIN-SUFFIX, adjust.io
 DOMAIN-SUFFIX, adjust.net.in
@@ -11276,13 +11326,11 @@ DOMAIN-SUFFIX, ad-delivery.net
 DOMAIN-SUFFIX, adcolony.com
 DOMAIN-SUFFIX, adinplay.com
 DOMAIN-SUFFIX, adnxs.com
-DOMAIN-SUFFIX, ads.trafficjunky.net
 DOMAIN-SUFFIX, advertserve.com
 DOMAIN-SUFFIX, adview.cn
 DOMAIN-SUFFIX, casalemedia.com
 DOMAIN-SUFFIX, contextual.media.net
 DOMAIN-SUFFIX, cpmstar.com
-DOMAIN-SUFFIX, demdex.net
 DOMAIN-SUFFIX, httpool.com
 DOMAIN-SUFFIX, lijit.com
 DOMAIN-SUFFIX, mfadsrvr.com

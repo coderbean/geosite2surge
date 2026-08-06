@@ -145,10 +145,8 @@ DOMAIN-SUFFIX, bejewled-stars.com
 DOMAIN-SUFFIX, bejeweledstars.com
 DOMAIN-SUFFIX, capitalgames.com
 DOMAIN-SUFFIX, chillingo.com
-DOMAIN-SUFFIX, commandandconquer.com
 DOMAIN-SUFFIX, conquerwithcharacter.com
 DOMAIN-SUFFIX, crysis.jp
-DOMAIN-SUFFIX, dawngate.com
 DOMAIN-SUFFIX, dawngatechronicles.com
 DOMAIN-SUFFIX, dicela.com
 DOMAIN-SUFFIX, dicela.net
@@ -188,15 +186,11 @@ DOMAIN-SUFFIX, playapex.com
 DOMAIN-SUFFIX, pogo.com
 DOMAIN-SUFFIX, pogobeta.com
 DOMAIN-SUFFIX, popcap.com
-DOMAIN-SUFFIX, projectapex.com
-DOMAIN-SUFFIX, pvzheroes.com
-DOMAIN-SUFFIX, spearhead.kr
 DOMAIN-SUFFIX, speedhunters.com
 DOMAIN-SUFFIX, spore.com
 DOMAIN-SUFFIX, ssx3.com
 DOMAIN-SUFFIX, starwarsbattlefront.com
 DOMAIN-SUFFIX, starwarsbattlefront2.com
-DOMAIN-SUFFIX, tiberiumalliances.com
 DOMAIN-SUFFIX, tiburon.com
 DOMAIN-SUFFIX, tnt-ea.com
 DOMAIN-SUFFIX, ultimaforever.com
@@ -360,8 +354,11 @@ DOMAIN-SUFFIX, embark-studios.com
 DOMAIN-SUFFIX, embark.games
 DOMAIN-SUFFIX, reachthefinals.com
 
-DOMAIN-SUFFIX, 3lateral.com
 DOMAIN-SUFFIX, artstation.com
+DOMAIN-SUFFIX, artstationmedia.com
+
+
+DOMAIN-SUFFIX, 3lateral.com
 DOMAIN-SUFFIX, capturingreality.com
 DOMAIN-SUFFIX, cubicmotion.com
 DOMAIN-SUFFIX, battlebreakers.com
@@ -1271,10 +1268,12 @@ DOMAIN-SUFFIX, archiveofourown.org
 DOMAIN-SUFFIX, archiveofourown.com
 DOMAIN-SUFFIX, archiveofourown.net
 
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
 DOMAIN-SUFFIX, att.tv
 DOMAIN-SUFFIX, atttvnow.com
 DOMAIN-SUFFIX, attwatchtv.com
-DOMAIN-SUFFIX, directv.com
 DOMAIN-SUFFIX, dtvce.com
 DOMAIN-SUFFIX, nettyinternet.com
 
@@ -1376,9 +1375,11 @@ DOMAIN-SUFFIX, discoveryplus.com
 
 DOMAIN-SUFFIX, abc-studios.com
 DOMAIN-SUFFIX, abc.com
+DOMAIN-SUFFIX, abcnews.com
 DOMAIN-SUFFIX, edgedatg.com
 
 DOMAIN-SUFFIX, bamgrid.com
+DOMAIN-SUFFIX, bamtech.net
 DOMAIN-SUFFIX, dmed.technology
 
 DOMAIN-SUFFIX, dtci.co
@@ -1401,6 +1402,55 @@ DOMAIN-SUFFIX, hotstarext.com
 DOMAIN-SUFFIX, hsprepack.akamaized.net
 
 URL-REGEX, ^hses[1-7]?\.akamaized\.net$
+
+DOMAIN-SUFFIX, 112263.com
+DOMAIN-SUFFIX, callhulu.com
+DOMAIN-SUFFIX, findyourlimits.com
+DOMAIN-SUFFIX, freehulu.com
+DOMAIN-SUFFIX, hooloo.tv
+DOMAIN-SUFFIX, hoolu.com
+DOMAIN-SUFFIX, hoolu.tv
+DOMAIN-SUFFIX, hu1u.com
+DOMAIN-SUFFIX, huloo.cc
+DOMAIN-SUFFIX, huloo.tv
+DOMAIN-SUFFIX, hulu.com
+DOMAIN-SUFFIX, hulu.jp
+DOMAIN-SUFFIX, hulu.tv
+DOMAIN-SUFFIX, hulu.us
+DOMAIN-SUFFIX, huluaction.com
+DOMAIN-SUFFIX, huluad.com
+DOMAIN-SUFFIX, huluapp.com
+DOMAIN-SUFFIX, huluasks.com
+DOMAIN-SUFFIX, hulucall.com
+DOMAIN-SUFFIX, hulufree.com
+DOMAIN-SUFFIX, hulugans.com
+DOMAIN-SUFFIX, hulugermany.com
+DOMAIN-SUFFIX, hulugo.com
+DOMAIN-SUFFIX, huluim.com
+DOMAIN-SUFFIX, huluinstantmessenger.com
+DOMAIN-SUFFIX, huluitaly.com
+DOMAIN-SUFFIX, hulunet.com
+DOMAIN-SUFFIX, hulunetwork.com
+DOMAIN-SUFFIX, huluplus.com
+DOMAIN-SUFFIX, hulupremium.com
+DOMAIN-SUFFIX, hulupurchase.com
+DOMAIN-SUFFIX, huluqa.com
+DOMAIN-SUFFIX, hulurussia.com
+DOMAIN-SUFFIX, huluspain.com
+DOMAIN-SUFFIX, hulusports.com
+DOMAIN-SUFFIX, hulustream.com
+DOMAIN-SUFFIX, huluteam.com
+DOMAIN-SUFFIX, hulutv.com
+DOMAIN-SUFFIX, huluusa.com
+DOMAIN-SUFFIX, joinmaidez.com
+DOMAIN-SUFFIX, mushymush.tv
+DOMAIN-SUFFIX, myhulu.com
+DOMAIN-SUFFIX, originalhulu.com
+DOMAIN-SUFFIX, payhulu.com
+DOMAIN-SUFFIX, registerhulu.com
+DOMAIN-SUFFIX, thehulubraintrust.com
+DOMAIN-SUFFIX, wwwhuluplus.com
+DOMAIN, hulu.playback.edge.bamgrid.com
 
 DOMAIN-SUFFIX, marvel.com
 DOMAIN-SUFFIX, marvel10thanniversary.com
@@ -1466,15 +1516,31 @@ DOMAIN-SUFFIX, disney.ru
 DOMAIN-SUFFIX, disney.se
 DOMAIN-SUFFIX, disney.sg
 
+# https://thewaltdisneycompany.com/about/
+DOMAIN-SUFFIX, disneyanimation.com
+DOMAIN-SUFFIX, fxnetwork.com
+DOMAIN-SUFFIX, fxnetworks.com
+DOMAIN-SUFFIX, lucasfilm.com
+DOMAIN-SUFFIX, pixar.com
+DOMAIN-SUFFIX, searchlightpictures.com
+DOMAIN-SUFFIX, thewaltdisneycompany.com
+DOMAIN-SUFFIX, waltdisneystudios.com
+
+DOMAIN-SUFFIX, disneylandparis.com
+DOMAIN-SUFFIX, hongkongdisneyland.com
+DOMAIN-SUFFIX, shanghaidisneyresort.com
+DOMAIN-SUFFIX, tokyodisneyresort.jp
+
 # Others
+DOMAIN-SUFFIX, 20thcenturystudios.com
 DOMAIN-SUFFIX, 20thcenturystudios.com.au
 DOMAIN-SUFFIX, 20thcenturystudios.com.br
 DOMAIN-SUFFIX, 20thcenturystudios.jp
 DOMAIN-SUFFIX, adventuresbydisney.com
 DOMAIN-SUFFIX, babble.com
 DOMAIN-SUFFIX, babyzone.com
-DOMAIN-SUFFIX, bamgrid.com
 DOMAIN-SUFFIX, beautyandthebeastmusical.co.uk
+DOMAIN-SUFFIX, detpress.com
 DOMAIN-SUFFIX, dilcdn.com
 DOMAIN-SUFFIX, disney-asia.com
 DOMAIN-SUFFIX, disney-discount.com
@@ -1482,6 +1548,7 @@ DOMAIN-SUFFIX, disney-plus.net
 DOMAIN-SUFFIX, disney-portal.my.onetrust.com
 DOMAIN-SUFFIX, disney-studio.com
 DOMAIN-SUFFIX, disney-studio.net
+DOMAIN-SUFFIX, disneyaccount.com
 DOMAIN-SUFFIX, disneyadsales.com
 DOMAIN-SUFFIX, disneyarena.com
 DOMAIN-SUFFIX, disneyaulani.com
@@ -1518,17 +1585,19 @@ DOMAIN-SUFFIX, disneynow.com
 DOMAIN-SUFFIX, disneypeoplesurveys.com
 DOMAIN-SUFFIX, disneyplus.bn5x.net
 DOMAIN-SUFFIX, disneyplus.com
-DOMAIN-SUFFIX, disneyplus.com.ssl.sc.omtrdc.net
+DOMAIN-SUFFIX, disneyprivacycenter.com
 DOMAIN-SUFFIX, disneyredirects.com
 DOMAIN-SUFFIX, disneysrivieraresort.com
 DOMAIN-SUFFIX, disneystore.com
 DOMAIN-SUFFIX, disneystreaming.com
 DOMAIN-SUFFIX, disneysubscription.com
+DOMAIN-SUFFIX, disneytermsofuse.com
 DOMAIN-SUFFIX, disneytickets.co.uk
 DOMAIN-SUFFIX, disneyturkiye.com.tr
 DOMAIN-SUFFIX, disneytvajobs.com
 DOMAIN-SUFFIX, disneyworld-go.com
 DOMAIN-SUFFIX, dssott.com
+DOMAIN-SUFFIX, freeform.com
 DOMAIN-SUFFIX, go-disneyworldgo.com
 DOMAIN-SUFFIX, go.com
 DOMAIN-SUFFIX, mickey.tv
@@ -1548,6 +1617,8 @@ DOMAIN-SUFFIX, streamingdisney.net
 DOMAIN-SUFFIX, thestationbymaker.com
 DOMAIN-SUFFIX, thisispolaris.com
 DOMAIN-SUFFIX, watchdisneyfe.com
+
+DOMAIN, disneyplus.com.ssl.sc.omtrdc.net
 
 # tracking
 DOMAIN, disney.my.sentry.io
@@ -1670,55 +1741,6 @@ DOMAIN-SUFFIX, hbo.com.edgesuite.net
 DOMAIN-SUFFIX, hbo.map.fastly.net
 DOMAIN-SUFFIX, hbomax-images.warnermediacdn.com
 DOMAIN-SUFFIX, hbomaxdash.s.llnwi.net
-
-DOMAIN-SUFFIX, 112263.com
-DOMAIN-SUFFIX, callhulu.com
-DOMAIN-SUFFIX, findyourlimits.com
-DOMAIN-SUFFIX, freehulu.com
-DOMAIN-SUFFIX, hooloo.tv
-DOMAIN-SUFFIX, hoolu.com
-DOMAIN-SUFFIX, hoolu.tv
-DOMAIN-SUFFIX, hu1u.com
-DOMAIN-SUFFIX, huloo.cc
-DOMAIN-SUFFIX, huloo.tv
-DOMAIN-SUFFIX, hulu.com
-DOMAIN-SUFFIX, hulu.jp
-DOMAIN-SUFFIX, hulu.tv
-DOMAIN-SUFFIX, hulu.us
-DOMAIN-SUFFIX, huluaction.com
-DOMAIN-SUFFIX, huluad.com
-DOMAIN-SUFFIX, huluapp.com
-DOMAIN-SUFFIX, huluasks.com
-DOMAIN-SUFFIX, hulucall.com
-DOMAIN-SUFFIX, hulufree.com
-DOMAIN-SUFFIX, hulugans.com
-DOMAIN-SUFFIX, hulugermany.com
-DOMAIN-SUFFIX, hulugo.com
-DOMAIN-SUFFIX, huluim.com
-DOMAIN-SUFFIX, huluinstantmessenger.com
-DOMAIN-SUFFIX, huluitaly.com
-DOMAIN-SUFFIX, hulunet.com
-DOMAIN-SUFFIX, hulunetwork.com
-DOMAIN-SUFFIX, huluplus.com
-DOMAIN-SUFFIX, hulupremium.com
-DOMAIN-SUFFIX, hulupurchase.com
-DOMAIN-SUFFIX, huluqa.com
-DOMAIN-SUFFIX, hulurussia.com
-DOMAIN-SUFFIX, huluspain.com
-DOMAIN-SUFFIX, hulusports.com
-DOMAIN-SUFFIX, hulustream.com
-DOMAIN-SUFFIX, huluteam.com
-DOMAIN-SUFFIX, hulutv.com
-DOMAIN-SUFFIX, huluusa.com
-DOMAIN-SUFFIX, joinmaidez.com
-DOMAIN-SUFFIX, mushymush.tv
-DOMAIN-SUFFIX, myhulu.com
-DOMAIN-SUFFIX, originalhulu.com
-DOMAIN-SUFFIX, payhulu.com
-DOMAIN-SUFFIX, registerhulu.com
-DOMAIN-SUFFIX, thehulubraintrust.com
-DOMAIN-SUFFIX, wwwhuluplus.com
-DOMAIN, hulu.playback.edge.bamgrid.com
 
 # All .imdb domains
 DOMAIN-SUFFIX, imdb
@@ -1847,8 +1869,6 @@ DOMAIN-SUFFIX, kk.stream
 DOMAIN-SUFFIX, kkbox.com
 DOMAIN-SUFFIX, kkbox.com.tw
 DOMAIN-SUFFIX, kktix.com
-DOMAIN-SUFFIX, kktv.com.tw
-DOMAIN-SUFFIX, kktv.me
 
 DOMAIN-SUFFIX, kktv.com.tw
 DOMAIN-SUFFIX, kktv.me
@@ -1937,7 +1957,6 @@ DOMAIN-SUFFIX, nivodz.com
 DOMAIN-SUFFIX, vod360.net
 
 DOMAIN-SUFFIX, mytvsuper.com
-DOMAIN-SUFFIX, tvb.com
 
 DOMAIN-SUFFIX, fast.com
 DOMAIN-SUFFIX, netflix.ca
@@ -2152,7 +2171,6 @@ DOMAIN-SUFFIX, tidalhifi.com
 DOMAIN-SUFFIX, wimpmusic.com
 
 DOMAIN-SUFFIX, bytedapm.com
-DOMAIN-SUFFIX, byteoversea.com
 DOMAIN-SUFFIX, muscdn.com
 DOMAIN-SUFFIX, musical.ly
 DOMAIN-SUFFIX, tik-tokapi.com

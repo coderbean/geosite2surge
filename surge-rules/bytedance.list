@@ -282,7 +282,6 @@ DOMAIN-SUFFIX, okr.com.cn  # 京ICP备16045432号-50 OKR网站
 DOMAIN-SUFFIX, vscenevideo.com  # 京ICP备16045432号-1 北京维境视讯信息技术有限公司网站
 
 DOMAIN-SUFFIX, bytedapm.com
-DOMAIN-SUFFIX, byteoversea.com
 DOMAIN-SUFFIX, muscdn.com
 DOMAIN-SUFFIX, musical.ly
 DOMAIN-SUFFIX, tik-tokapi.com
@@ -886,6 +885,10 @@ DOMAIN-SUFFIX, jimeng.com
 DOMAIN-SUFFIX, vlabimg.com
 DOMAIN-SUFFIX, vlabstatic.com
 DOMAIN-SUFFIX, vlabvod.com
+
+# CapCut
+DOMAIN-SUFFIX, capcut.com
+DOMAIN-SUFFIX, capcutcdn-us.com
 
 # 今日头条
 DOMAIN-SUFFIX, toutiao.com
