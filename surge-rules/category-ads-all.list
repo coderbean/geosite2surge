@@ -400,10 +400,15 @@ DOMAIN-SUFFIX, kunlunwe.com
 DOMAIN-SUFFIX, mxhichina.com
 DOMAIN-SUFFIX, myalicdn.com
 
-#865 #882 aliyuncs.com
+#869 #882 aliyuncs.com
 DOMAIN-SUFFIX, ap-southeast-1.aliyuncs.com
+DOMAIN-SUFFIX, cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX, cn-chengdu.aliyuncs.com
+DOMAIN-SUFFIX, cn-guangzhou.aliyuncs.com
 DOMAIN-SUFFIX, cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX, cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX, cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX, hotfix-api.aliyuncs.com
 DOMAIN-SUFFIX, log-global.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-2.aliyuncs.com
@@ -432,6 +437,7 @@ DOMAIN-SUFFIX, oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-west-1.aliyuncs.com
+DOMAIN-SUFFIX, registry.aliyuncs.com
 
 # Ads/tracking
 DOMAIN-SUFFIX, acjs.aliyun.com
@@ -3396,8 +3402,15 @@ DOMAIN-SUFFIX, ultracachenode.com
 DOMAIN-SUFFIX, woaihuoshan.com
 DOMAIN-SUFFIX, wohst8.com
 
+# 抖音电商
+DOMAIN-SUFFIX, douyinec.com
+
 # 抖音支付
 DOMAIN-SUFFIX, douyinpay.com
+DOMAIN-SUFFIX, ulpay.com
+
+# 抖音生活服务
+DOMAIN-SUFFIX, lifexue.com
 
 # 抖音开放平台
 DOMAIN-SUFFIX, open-douyin.com
@@ -4026,6 +4039,7 @@ DOMAIN-SUFFIX, bytetos.com
 DOMAIN-SUFFIX, bytetraffic.net
 DOMAIN-SUFFIX, bytetstatic.com
 DOMAIN-SUFFIX, bytetstatic.net
+DOMAIN-SUFFIX, byteurl.cn
 DOMAIN-SUFFIX, bytevalk.com
 DOMAIN-SUFFIX, bytevcloudapi.com
 DOMAIN-SUFFIX, bytevcloudvod.com
@@ -4167,6 +4181,7 @@ DOMAIN-SUFFIX, vlabstatic.com
 DOMAIN-SUFFIX, vlabvod.com
 
 # CapCut
+DOMAIN-SUFFIX, capcut.cn
 DOMAIN-SUFFIX, capcut.com
 DOMAIN-SUFFIX, capcutcdn-us.com
 
@@ -4245,20 +4260,30 @@ DOMAIN-SUFFIX, ppxstatic.com
 DOMAIN-SUFFIX, ppxvod.com
 DOMAIN-SUFFIX, xiaoxiaapi.com
 
+# 朝夕光年
+DOMAIN-SUFFIX, dailygn.com
+DOMAIN-SUFFIX, nvsgames.cn
+
 # 上海格物致品
-DOMAIN-SUFFIX, douyinec.com
+DOMAIN-SUFFIX, buydouke.com
 DOMAIN-SUFFIX, ecombdapi.com
+DOMAIN-SUFFIX, ecombdimg.com
 DOMAIN-SUFFIX, ecombdstatic.com
+DOMAIN-SUFFIX, ecombdvod.com
 DOMAIN-SUFFIX, jinritemai.com
 
-# faceu
+# FaceU激萌
 DOMAIN-SUFFIX, faceu.com
+DOMAIN-SUFFIX, faceu.mobi
 
 # 轻颜相机
 DOMAIN-SUFFIX, ulikecam.com
 
 # RsProxy 镜像
 DOMAIN-SUFFIX, rsproxy.cn
+
+# 巨量引擎
+DOMAIN-SUFFIX, oceanengine.com
 
 # 半次元 (dead)
 # 沪ICP备2021005742号

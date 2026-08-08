@@ -1049,8 +1049,15 @@ DOMAIN-SUFFIX, ultracachenode.com
 DOMAIN-SUFFIX, woaihuoshan.com
 DOMAIN-SUFFIX, wohst8.com
 
+# 抖音电商
+DOMAIN-SUFFIX, douyinec.com
+
 # 抖音支付
 DOMAIN-SUFFIX, douyinpay.com
+DOMAIN-SUFFIX, ulpay.com
+
+# 抖音生活服务
+DOMAIN-SUFFIX, lifexue.com
 
 # 抖音开放平台
 DOMAIN-SUFFIX, open-douyin.com
@@ -3527,8 +3534,6 @@ DOMAIN-SUFFIX, cc-pay.cn
 ## 橙券
 DOMAIN-SUFFIX, 51106.cn
 DOMAIN-SUFFIX, chengquan.cn
-## 重庆通卡
-DOMAIN-SUFFIX, cqtk.com.cn
 ## 易鑫金融
 DOMAIN-SUFFIX, daikuan.com
 ## 嘟噜支付
@@ -4660,8 +4665,51 @@ DOMAIN-SUFFIX, zgjx.cn
 
 # Public transportation
 ## 中国国际航空
-DOMAIN-SUFFIX, airchina.com.cn # 中国国际航空
-DOMAIN-SUFFIX, airchinacargo.com # 中国国际货运航空
+DOMAIN-SUFFIX, airchina.ae
+DOMAIN-SUFFIX, airchina.at
+DOMAIN-SUFFIX, airchina.ca
+DOMAIN-SUFFIX, airchina.ch
+DOMAIN-SUFFIX, airchina.cn
+DOMAIN-SUFFIX, airchina.co.id
+DOMAIN-SUFFIX, airchina.co.in
+DOMAIN-SUFFIX, airchina.co.th
+DOMAIN-SUFFIX, airchina.co.uk
+DOMAIN-SUFFIX, airchina.com
+DOMAIN-SUFFIX, airchina.com.au
+DOMAIN-SUFFIX, airchina.com.br
+DOMAIN-SUFFIX, airchina.com.cn
+DOMAIN-SUFFIX, airchina.com.my
+DOMAIN-SUFFIX, airchina.com.ph
+DOMAIN-SUFFIX, airchina.com.tw
+DOMAIN-SUFFIX, airchina.de
+DOMAIN-SUFFIX, airchina.dk
+DOMAIN-SUFFIX, airchina.es
+DOMAIN-SUFFIX, airchina.fr
+DOMAIN-SUFFIX, airchina.gr
+DOMAIN-SUFFIX, airchina.hk
+DOMAIN-SUFFIX, airchina.hu
+DOMAIN-SUFFIX, airchina.it
+DOMAIN-SUFFIX, airchina.jp
+DOMAIN-SUFFIX, airchina.kr
+DOMAIN-SUFFIX, airchina.nz
+DOMAIN-SUFFIX, airchina.se
+DOMAIN-SUFFIX, airchina.sg
+DOMAIN-SUFFIX, airchina.us
+DOMAIN-SUFFIX, airchina.vn
+
+DOMAIN-SUFFIX, airchinacargo.com
+
+DOMAIN-SUFFIX, airchinagroup.com
+
+DOMAIN-SUFFIX, airchinalimited.cn
+DOMAIN-SUFFIX, airchinalimited.com
+DOMAIN-SUFFIX, airchinalimited.com.cn
+
+DOMAIN-SUFFIX, fly-airchina.com
+
+DOMAIN-SUFFIX, phoenixmiles.cn
+DOMAIN-SUFFIX, phoenixmiles.com
+DOMAIN-SUFFIX, phoenixmiles.com.cn
 
 ## 海南航空
 DOMAIN-SUFFIX, hainanairlines.com
@@ -4714,6 +4762,22 @@ DOMAIN-SUFFIX, urumqi-air.com
 ## 厦门航空
 DOMAIN-SUFFIX, xiamenair.com
 
+## 北京市政交通一卡通
+DOMAIN-SUFFIX, bmac.com.cn
+## 重庆通卡
+DOMAIN-SUFFIX, cqtk.com.cn
+## 北京如意行
+DOMAIN-SUFFIX, ruubypay.com
+## 上海交通卡
+DOMAIN-SUFFIX, sctcd.com
+DOMAIN-SUFFIX, sptcc.com
+## 深圳通
+DOMAIN-SUFFIX, shenzhentong.com
+
+## 一些钱包 app 里手机交通卡供应商
+DOMAIN-SUFFIX, nfcos.cn
+DOMAIN-SUFFIX, snowballtech.com
+
 ## 中国民航局
 DOMAIN-SUFFIX, caac.gov.cn
 ## 信天游（航空电子客票验真）
@@ -4731,8 +4795,6 @@ DOMAIN-SUFFIX, variflight.com
 DOMAIN-SUFFIX, 12306.cn
 DOMAIN-SUFFIX, 95306.cn
 DOMAIN-SUFFIX, ccrgt.com
-## 北京市政交通一卡通
-DOMAIN-SUFFIX, bmac.com.cn
 ## 车来了
 DOMAIN-SUFFIX, chelaile.net.cn
 ## 活力智汇/高铁管家/航班管家
@@ -6286,10 +6348,15 @@ DOMAIN-SUFFIX, kunlunwe.com
 DOMAIN-SUFFIX, mxhichina.com
 DOMAIN-SUFFIX, myalicdn.com
 
-#865 #882 aliyuncs.com
+#869 #882 aliyuncs.com
 DOMAIN-SUFFIX, ap-southeast-1.aliyuncs.com
+DOMAIN-SUFFIX, cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX, cn-chengdu.aliyuncs.com
+DOMAIN-SUFFIX, cn-guangzhou.aliyuncs.com
 DOMAIN-SUFFIX, cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX, cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX, cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX, hotfix-api.aliyuncs.com
 DOMAIN-SUFFIX, log-global.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-ap-northeast-2.aliyuncs.com
@@ -6318,6 +6385,7 @@ DOMAIN-SUFFIX, oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-us-west-1.aliyuncs.com
+DOMAIN-SUFFIX, registry.aliyuncs.com
 
 # Ads/tracking
 DOMAIN-SUFFIX, acjs.aliyun.com
@@ -7092,8 +7160,15 @@ DOMAIN-SUFFIX, ultracachenode.com
 DOMAIN-SUFFIX, woaihuoshan.com
 DOMAIN-SUFFIX, wohst8.com
 
+# 抖音电商
+DOMAIN-SUFFIX, douyinec.com
+
 # 抖音支付
 DOMAIN-SUFFIX, douyinpay.com
+DOMAIN-SUFFIX, ulpay.com
+
+# 抖音生活服务
+DOMAIN-SUFFIX, lifexue.com
 
 # 抖音开放平台
 DOMAIN-SUFFIX, open-douyin.com
@@ -7722,6 +7797,7 @@ DOMAIN-SUFFIX, bytetos.com
 DOMAIN-SUFFIX, bytetraffic.net
 DOMAIN-SUFFIX, bytetstatic.com
 DOMAIN-SUFFIX, bytetstatic.net
+DOMAIN-SUFFIX, byteurl.cn
 DOMAIN-SUFFIX, bytevalk.com
 DOMAIN-SUFFIX, bytevcloudapi.com
 DOMAIN-SUFFIX, bytevcloudvod.com
@@ -7863,6 +7939,7 @@ DOMAIN-SUFFIX, vlabstatic.com
 DOMAIN-SUFFIX, vlabvod.com
 
 # CapCut
+DOMAIN-SUFFIX, capcut.cn
 DOMAIN-SUFFIX, capcut.com
 DOMAIN-SUFFIX, capcutcdn-us.com
 
@@ -7941,20 +8018,30 @@ DOMAIN-SUFFIX, ppxstatic.com
 DOMAIN-SUFFIX, ppxvod.com
 DOMAIN-SUFFIX, xiaoxiaapi.com
 
+# 朝夕光年
+DOMAIN-SUFFIX, dailygn.com
+DOMAIN-SUFFIX, nvsgames.cn
+
 # 上海格物致品
-DOMAIN-SUFFIX, douyinec.com
+DOMAIN-SUFFIX, buydouke.com
 DOMAIN-SUFFIX, ecombdapi.com
+DOMAIN-SUFFIX, ecombdimg.com
 DOMAIN-SUFFIX, ecombdstatic.com
+DOMAIN-SUFFIX, ecombdvod.com
 DOMAIN-SUFFIX, jinritemai.com
 
-# faceu
+# FaceU激萌
 DOMAIN-SUFFIX, faceu.com
+DOMAIN-SUFFIX, faceu.mobi
 
 # 轻颜相机
 DOMAIN-SUFFIX, ulikecam.com
 
 # RsProxy 镜像
 DOMAIN-SUFFIX, rsproxy.cn
+
+# 巨量引擎
+DOMAIN-SUFFIX, oceanengine.com
 
 # 半次元 (dead)
 # 沪ICP备2021005742号
@@ -10115,6 +10202,14 @@ DOMAIN-SUFFIX, fetion-portal.com
 DOMAIN-SUFFIX, fetionpic.com
 DOMAIN-SUFFIX, mmarket.com
 DOMAIN-SUFFIX, mmarket6.com
+
+# 中国移动通信集团终端有限公司
+# 京ICP备17049465号
+DOMAIN-SUFFIX, chinamobiledevice.com
+DOMAIN-SUFFIX, cmdcxls.com
+DOMAIN-SUFFIX, cxzx10086.cn
+DOMAIN-SUFFIX, fxltsbl.com
+DOMAIN-SUFFIX, zdsdp.com
 
 DOMAIN-SUFFIX, ctexcel.ca
 DOMAIN-SUFFIX, ctexcel.com
