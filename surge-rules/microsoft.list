@@ -410,6 +410,7 @@ DOMAIN-SUFFIX, onedrive.org
 DOMAIN-SUFFIX, onedrive.live.com
 DOMAIN-SUFFIX, storage.live.com
 
+#include:activision-blizzard
 DOMAIN-SUFFIX, asobostudio.com
 DOMAIN-SUFFIX, flightsimulator.com
 
