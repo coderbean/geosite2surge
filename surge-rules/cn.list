@@ -891,19 +891,6 @@ DOMAIN-SUFFIX, aamsmart.com
 # 舞推 (E舞成名)
 DOMAIN-SUFFIX, singworld.net
 
-# Beijing Danmu Network Technology Co., Ltd.
-
-DOMAIN-SUFFIX, ac.fun
-DOMAIN-SUFFIX, acfun.cn
-DOMAIN-SUFFIX, acfun.net
-DOMAIN-SUFFIX, acfunchina.cn
-DOMAIN-SUFFIX, acfunchina.com
-DOMAIN-SUFFIX, acfunchina.net
-DOMAIN-SUFFIX, aixifan.com
-
-# Ads/tracking
-DOMAIN, apilog-web.acfun.cn
-
 DOMAIN-SUFFIX, bilicdn1.com
 DOMAIN-SUFFIX, bilicdn2.com
 DOMAIN-SUFFIX, bilicdn3.com
@@ -974,12 +961,14 @@ DOMAIN-SUFFIX, kuangxiangit.com
 # 得到
 DOMAIN-SUFFIX, biji.com
 DOMAIN-SUFFIX, ddmogo.com
+DOMAIN-SUFFIX, dedao.cn
 DOMAIN-SUFFIX, igetget.cn
 DOMAIN-SUFFIX, igetget.com
 DOMAIN-SUFFIX, luojilab.com
 DOMAIN-SUFFIX, mogoo.com
 DOMAIN-SUFFIX, sao.cn
 DOMAIN-SUFFIX, saolife.com
+DOMAIN-SUFFIX, umiwi.com
 
 # 北京抖音科技有限公司 京ICP备16016397号
 # 抖音、抖音火山版、汽水音乐
@@ -1001,6 +990,7 @@ DOMAIN-SUFFIX, douyinact.net
 DOMAIN-SUFFIX, douyincdn.com
 DOMAIN-SUFFIX, douyinfe.com
 DOMAIN-SUFFIX, douyinliving.com
+DOMAIN-SUFFIX, douyinmusicpromotion.com
 DOMAIN-SUFFIX, douyinpic.com
 DOMAIN-SUFFIX, douyinstatic.com
 DOMAIN-SUFFIX, douyinvod.com
@@ -1035,7 +1025,6 @@ DOMAIN-SUFFIX, ihuoshanimg.com
 DOMAIN-SUFFIX, ihuoshanlive.com
 DOMAIN-SUFFIX, ihuoshanstatic.com
 DOMAIN-SUFFIX, ihuoshanvod.com
-DOMAIN-SUFFIX, kesong.co
 DOMAIN-SUFFIX, kolbuyer.cn
 DOMAIN-SUFFIX, nextvid.net
 DOMAIN-SUFFIX, ppkankan01.com
@@ -1177,6 +1166,21 @@ DOMAIN-SUFFIX, kkmh.com
 DOMAIN-SUFFIX, kuaikanmanhua.com
 DOMAIN-SUFFIX, v3mh.com
 
+# Beijing Danmu Network Technology Co., Ltd.
+
+DOMAIN-SUFFIX, ac.fun
+DOMAIN-SUFFIX, acfun.cn
+DOMAIN-SUFFIX, acfun.net
+DOMAIN-SUFFIX, acfunchina.cn
+DOMAIN-SUFFIX, acfunchina.com
+DOMAIN-SUFFIX, acfunchina.net
+DOMAIN-SUFFIX, aixifan.com
+
+# Ads/tracking
+DOMAIN, apilog-web.acfun.cn
+
+
+DOMAIN-SUFFIX, eckwai.com
 DOMAIN-SUFFIX, ecukwai.com
 DOMAIN-SUFFIX, gifshow.com
 DOMAIN-SUFFIX, inkuai.com
@@ -1190,10 +1194,15 @@ DOMAIN-SUFFIX, kuaishouapps.com
 DOMAIN-SUFFIX, kuaishoupay.com
 DOMAIN-SUFFIX, kuaishouzt.com
 DOMAIN-SUFFIX, kwaicdn.com
+DOMAIN-SUFFIX, kwaishop.com
+DOMAIN-SUFFIX, kwaixiaodian.com
+DOMAIN-SUFFIX, kwaiying.com
 DOMAIN-SUFFIX, kwaizt.com
 DOMAIN-SUFFIX, kwimgs.com
+DOMAIN-SUFFIX, mojidoc.com
 DOMAIN-SUFFIX, qingque.cn
 DOMAIN-SUFFIX, viviv.com
+DOMAIN-SUFFIX, wskwai.com
 DOMAIN-SUFFIX, wsukwai.com
 DOMAIN-SUFFIX, yximgs.com
 
@@ -1405,10 +1414,6 @@ DOMAIN-SUFFIX, report.tencentmusic.com
 DOMAIN-SUFFIX, stat.y.qq.com
 DOMAIN-SUFFIX, tmead.y.qq.com
 DOMAIN-SUFFIX, tmeadcomm.y.qq.com
-
-DOMAIN-SUFFIX, u17.com
-DOMAIN-SUFFIX, u17i.com
-DOMAIN-SUFFIX, u17t.com
 
 # 清枫（北京）科技有限公司
 # 京ICP备15018522号
@@ -5436,6 +5441,7 @@ DOMAIN-SUFFIX, tapnow.top
 # 通义千问
 DOMAIN-SUFFIX, qianwen.aliyun.com
 DOMAIN-SUFFIX, qianwen.com
+DOMAIN-SUFFIX, qianwenai.com
 DOMAIN-SUFFIX, qwen.ai
 DOMAIN-SUFFIX, qwenlm.ai
 DOMAIN-SUFFIX, tongyi.aliyun.com
@@ -7194,6 +7200,7 @@ DOMAIN-SUFFIX, douyinact.net
 DOMAIN-SUFFIX, douyincdn.com
 DOMAIN-SUFFIX, douyinfe.com
 DOMAIN-SUFFIX, douyinliving.com
+DOMAIN-SUFFIX, douyinmusicpromotion.com
 DOMAIN-SUFFIX, douyinpic.com
 DOMAIN-SUFFIX, douyinstatic.com
 DOMAIN-SUFFIX, douyinvod.com
@@ -7228,7 +7235,6 @@ DOMAIN-SUFFIX, ihuoshanimg.com
 DOMAIN-SUFFIX, ihuoshanlive.com
 DOMAIN-SUFFIX, ihuoshanstatic.com
 DOMAIN-SUFFIX, ihuoshanvod.com
-DOMAIN-SUFFIX, kesong.co
 DOMAIN-SUFFIX, kolbuyer.cn
 DOMAIN-SUFFIX, nextvid.net
 DOMAIN-SUFFIX, ppkankan01.com
@@ -7912,6 +7918,7 @@ DOMAIN-SUFFIX, jokecommunity.com
 DOMAIN-SUFFIX, jokecommunity.net
 DOMAIN-SUFFIX, jstti.com
 DOMAIN-SUFFIX, jtamac.com
+DOMAIN-SUFFIX, letsign.com
 DOMAIN-SUFFIX, livecdnstatic.com
 DOMAIN-SUFFIX, local-ip.online
 DOMAIN-SUFFIX, luckysf.net
@@ -7985,6 +7992,8 @@ DOMAIN-SUFFIX, volcdns-test.com
 DOMAIN-SUFFIX, volcdns-test.net
 DOMAIN-SUFFIX, voleai.com
 DOMAIN-SUFFIX, wtturl.cn
+DOMAIN-SUFFIX, xiaohe.cn
+DOMAIN-SUFFIX, xingtu.cn
 DOMAIN-SUFFIX, xsgtvacct.com
 DOMAIN-SUFFIX, yhgfb-cn-static.com
 DOMAIN-SUFFIX, zijieapi.cn
@@ -8119,7 +8128,8 @@ DOMAIN-SUFFIX, jinritemai.com
 DOMAIN-SUFFIX, faceu.com
 DOMAIN-SUFFIX, faceu.mobi
 
-# 轻颜相机
+# 轻颜相机/可颂
+DOMAIN-SUFFIX, kesong.co
 DOMAIN-SUFFIX, ulikecam.com
 
 # RsProxy 镜像
@@ -10289,7 +10299,8 @@ DOMAIN-SUFFIX, cmpay.com
 DOMAIN-SUFFIX, cmcc-cs.cn
 DOMAIN-SUFFIX, online-cmcc.cn
 
-# 中移互联
+# 中移互联网
+DOMAIN-SUFFIX, 5gxcx.net
 DOMAIN-SUFFIX, andfx.cn
 DOMAIN-SUFFIX, andfx.net
 DOMAIN-SUFFIX, cmicapm.com
@@ -10299,8 +10310,12 @@ DOMAIN-SUFFIX, cmpassport.com
 DOMAIN-SUFFIX, cytxl.com.cn
 DOMAIN-SUFFIX, fetion-portal.com
 DOMAIN-SUFFIX, fetionpic.com
+DOMAIN-SUFFIX, hfx.net
 DOMAIN-SUFFIX, mmarket.com
 DOMAIN-SUFFIX, mmarket6.com
+
+# 移动爱家
+DOMAIN-SUFFIX, komect.com
 
 # 中国移动通信集团终端有限公司
 # 京ICP备17049465号

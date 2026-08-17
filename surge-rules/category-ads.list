@@ -19,19 +19,6 @@ DOMAIN-SUFFIX, 36krcnd.com
 # Ads
 DOMAIN-SUFFIX, adx.36kr.com
 
-# Beijing Danmu Network Technology Co., Ltd.
-
-DOMAIN-SUFFIX, ac.fun
-DOMAIN-SUFFIX, acfun.cn
-DOMAIN-SUFFIX, acfun.net
-DOMAIN-SUFFIX, acfunchina.cn
-DOMAIN-SUFFIX, acfunchina.com
-DOMAIN-SUFFIX, acfunchina.net
-DOMAIN-SUFFIX, aixifan.com
-
-# Ads/tracking
-DOMAIN, apilog-web.acfun.cn
-
 # https://github.com/v2fly/domain-list-community/issues/2394#issuecomment-2632716166
 # This data source is meant to crack the license-validating of the Adobe software,
 # which is no longer the interest of this project. One of the maintainers (@IceCodeNew)
@@ -3353,6 +3340,7 @@ DOMAIN-SUFFIX, douyinact.net
 DOMAIN-SUFFIX, douyincdn.com
 DOMAIN-SUFFIX, douyinfe.com
 DOMAIN-SUFFIX, douyinliving.com
+DOMAIN-SUFFIX, douyinmusicpromotion.com
 DOMAIN-SUFFIX, douyinpic.com
 DOMAIN-SUFFIX, douyinstatic.com
 DOMAIN-SUFFIX, douyinvod.com
@@ -3387,7 +3375,6 @@ DOMAIN-SUFFIX, ihuoshanimg.com
 DOMAIN-SUFFIX, ihuoshanlive.com
 DOMAIN-SUFFIX, ihuoshanstatic.com
 DOMAIN-SUFFIX, ihuoshanvod.com
-DOMAIN-SUFFIX, kesong.co
 DOMAIN-SUFFIX, kolbuyer.cn
 DOMAIN-SUFFIX, nextvid.net
 DOMAIN-SUFFIX, ppkankan01.com
@@ -4071,6 +4058,7 @@ DOMAIN-SUFFIX, jokecommunity.com
 DOMAIN-SUFFIX, jokecommunity.net
 DOMAIN-SUFFIX, jstti.com
 DOMAIN-SUFFIX, jtamac.com
+DOMAIN-SUFFIX, letsign.com
 DOMAIN-SUFFIX, livecdnstatic.com
 DOMAIN-SUFFIX, local-ip.online
 DOMAIN-SUFFIX, luckysf.net
@@ -4144,6 +4132,8 @@ DOMAIN-SUFFIX, volcdns-test.com
 DOMAIN-SUFFIX, volcdns-test.net
 DOMAIN-SUFFIX, voleai.com
 DOMAIN-SUFFIX, wtturl.cn
+DOMAIN-SUFFIX, xiaohe.cn
+DOMAIN-SUFFIX, xingtu.cn
 DOMAIN-SUFFIX, xsgtvacct.com
 DOMAIN-SUFFIX, yhgfb-cn-static.com
 DOMAIN-SUFFIX, zijieapi.cn
@@ -4278,7 +4268,8 @@ DOMAIN-SUFFIX, jinritemai.com
 DOMAIN-SUFFIX, faceu.com
 DOMAIN-SUFFIX, faceu.mobi
 
-# 轻颜相机
+# 轻颜相机/可颂
+DOMAIN-SUFFIX, kesong.co
 DOMAIN-SUFFIX, ulikecam.com
 
 # RsProxy 镜像
@@ -6864,6 +6855,21 @@ DOMAIN-SUFFIX, kontur-inc.com
 DOMAIN, metrika.kontur.ru
 DOMAIN, sentry.kontur.host
 
+# Beijing Danmu Network Technology Co., Ltd.
+
+DOMAIN-SUFFIX, ac.fun
+DOMAIN-SUFFIX, acfun.cn
+DOMAIN-SUFFIX, acfun.net
+DOMAIN-SUFFIX, acfunchina.cn
+DOMAIN-SUFFIX, acfunchina.com
+DOMAIN-SUFFIX, acfunchina.net
+DOMAIN-SUFFIX, aixifan.com
+
+# Ads/tracking
+DOMAIN, apilog-web.acfun.cn
+
+
+DOMAIN-SUFFIX, eckwai.com
 DOMAIN-SUFFIX, ecukwai.com
 DOMAIN-SUFFIX, gifshow.com
 DOMAIN-SUFFIX, inkuai.com
@@ -6877,10 +6883,15 @@ DOMAIN-SUFFIX, kuaishouapps.com
 DOMAIN-SUFFIX, kuaishoupay.com
 DOMAIN-SUFFIX, kuaishouzt.com
 DOMAIN-SUFFIX, kwaicdn.com
+DOMAIN-SUFFIX, kwaishop.com
+DOMAIN-SUFFIX, kwaixiaodian.com
+DOMAIN-SUFFIX, kwaiying.com
 DOMAIN-SUFFIX, kwaizt.com
 DOMAIN-SUFFIX, kwimgs.com
+DOMAIN-SUFFIX, mojidoc.com
 DOMAIN-SUFFIX, qingque.cn
 DOMAIN-SUFFIX, viviv.com
+DOMAIN-SUFFIX, wskwai.com
 DOMAIN-SUFFIX, wsukwai.com
 DOMAIN-SUFFIX, yximgs.com
 
