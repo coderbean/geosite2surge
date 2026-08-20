@@ -225,6 +225,10 @@ DOMAIN-SUFFIX, deepwiki.org
 DOMAIN-SUFFIX, clipdrop.co
 DOMAIN-SUFFIX, jasper.ai
 
+# Kimi/Moonshot
+DOMAIN-SUFFIX, kimi.ai
+DOMAIN-SUFFIX, moonshot.ai
+
 DOMAIN-SUFFIX, agentclientprotocol.com
 DOMAIN-SUFFIX, anythingllm.com
 DOMAIN-SUFFIX, arena.ai
@@ -235,6 +239,7 @@ DOMAIN-SUFFIX, devin.ai
 DOMAIN-SUFFIX, diabrowser.com
 DOMAIN-SUFFIX, diabrowser.engineering
 DOMAIN-SUFFIX, dify.ai
+DOMAIN-SUFFIX, dreamgen.com
 DOMAIN-SUFFIX, duck.ai
 DOMAIN-SUFFIX, gateway.ai.cloudflare.com
 DOMAIN-SUFFIX, h2o.ai
@@ -247,6 +252,8 @@ DOMAIN-SUFFIX, midjourney.com
 DOMAIN-SUFFIX, minimax.io
 DOMAIN-SUFFIX, mistral.ai
 DOMAIN-SUFFIX, mozilla.ai
+DOMAIN-SUFFIX, notegpt.io
+DOMAIN-SUFFIX, novelai.net
 DOMAIN-SUFFIX, ollama.com
 DOMAIN-SUFFIX, openart.ai
 DOMAIN-SUFFIX, openclaw.ai
@@ -256,6 +263,7 @@ DOMAIN-SUFFIX, plannotator.ai
 DOMAIN-SUFFIX, qoder.com
 DOMAIN-SUFFIX, sider.ai
 DOMAIN-SUFFIX, spicywriter.com
+DOMAIN-SUFFIX, talkai.info
 DOMAIN-SUFFIX, tapnow.ai
 DOMAIN-SUFFIX, tripo3d.ai
 
@@ -7418,7 +7426,6 @@ DOMAIN, ubistatic22-a.akamaihd.net
 DOMAIN, ubistatic23-a.akamaihd.net
 DOMAIN, ubistatic24-a.akamaihd.net
 DOMAIN, ubisoft.siteintercept.qualtrics.com
-DOMAIN, uplaypc-s-ubisoft.cdn.ubi.com
 
 DOMAIN-SUFFIX, vrchat.cloud
 DOMAIN-SUFFIX, vrchat.com
@@ -8399,6 +8406,8 @@ DOMAIN, netflix.com.edgesuite.net
 # All .nico domains
 DOMAIN-SUFFIX, nico
 
+DOMAIN-SUFFIX, nico.ms
+DOMAIN-SUFFIX, nicochannel.jp
 DOMAIN-SUFFIX, nicodic.jp
 DOMAIN-SUFFIX, nicomanga.jp
 DOMAIN-SUFFIX, niconico.com
@@ -9156,6 +9165,7 @@ DOMAIN-SUFFIX, 4chan.org
 DOMAIN-SUFFIX, 4channel.org
 
 DOMAIN-SUFFIX, 2ch.net
+DOMAIN-SUFFIX, 5ch.io
 DOMAIN-SUFFIX, 5ch.net
 
 DOMAIN-SUFFIX, 6park.com
@@ -9946,6 +9956,7 @@ DOMAIN-SUFFIX, vkpay.io
 DOMAIN-SUFFIX, vkpay.ru
 
 
+DOMAIN-SUFFIX, fansly.com
 DOMAIN-SUFFIX, onlyfans.com
 DOMAIN-SUFFIX, truthsocial.com
 
@@ -22332,10 +22343,13 @@ DOMAIN-SUFFIX, amazonaws.org
 DOMAIN-SUFFIX, amazonaws.tv
 DOMAIN-SUFFIX, amazoncognito.com
 DOMAIN-SUFFIX, amazonses.com
+DOMAIN-SUFFIX, amazonwebservices.com
 DOMAIN-SUFFIX, amazonworkdocs.com
 DOMAIN-SUFFIX, amplifyapp.com
 DOMAIN-SUFFIX, amplifyframework.com
 DOMAIN-SUFFIX, aws-iot-hackathon.com
+DOMAIN-SUFFIX, aws.a2z.com
+DOMAIN-SUFFIX, aws.amazon.com
 DOMAIN-SUFFIX, aws.com
 DOMAIN-SUFFIX, aws.dev
 DOMAIN-SUFFIX, awsapprunner.com
@@ -22579,8 +22593,6 @@ DOMAIN-SUFFIX, amd.com.cn
 DOMAIN-SUFFIX, amdfanstore.com
 DOMAIN-SUFFIX, amdgaming.com
 DOMAIN-SUFFIX, radeon.com
-
-DOMAIN, www.amd.com
 
 DOMAIN-SUFFIX, bestsrv.de
 DOMAIN-SUFFIX, customercontrolpanel.de
@@ -25929,33 +25941,6 @@ DOMAIN-SUFFIX, vce.com
 
 DOMAIN, dell.my.site.com
 
-DOMAIN, afcs.dell.com
-DOMAIN, clientperipherals.dell.com
-DOMAIN, customization-cdn.dell.com
-DOMAIN, dds.dell.com
-DOMAIN, dl.dell.com
-DOMAIN, ea2cn-dev-outlet.dell.com
-DOMAIN, ea2cn-prod-outlet.dell.com
-DOMAIN, ea2cn-staging-outlet.dell.com
-DOMAIN, fcs.dell.com
-DOMAIN, fta.dell.com
-DOMAIN, ftaapj.dell.com
-DOMAIN, ftaemea.dell.com
-DOMAIN, ftasitapj.dell.com
-DOMAIN, gbxgateway-dev.dell.com
-DOMAIN, gbxgateway.dell.com
-DOMAIN, i.dell.com
-DOMAIN, nexus.dell.com
-DOMAIN, p.cdn.persaas.dell.com
-DOMAIN, scene7-cdn.dell.com
-DOMAIN, si.cdn.dell.com
-DOMAIN, sm.dell.com
-DOMAIN, snp.cdn.dell.com
-DOMAIN, snpi.dell.com
-DOMAIN, supportassist.dell.com
-DOMAIN, www-csb.dell.com
-DOMAIN, www.dell.com
-
 DOMAIN-SUFFIX, digitalocean.com
 DOMAIN-SUFFIX, digitalocean-ui.com
 DOMAIN-SUFFIX, digitaloceanspaces.com
@@ -27149,8 +27134,6 @@ DOMAIN-SUFFIX, louisvuitton.cn
 DOMAIN-SUFFIX, louisvuitton.com
 DOMAIN-SUFFIX, lvcampaign.com
 
-DOMAIN, tp.louisvuitton.com
-
 # VK Group, formerly known as Mail.ru Group, a Russian technology company
 DOMAIN-SUFFIX, dzen.ru
 
@@ -28313,7 +28296,6 @@ DOMAIN-SUFFIX, ditu.live.com
 DOMAIN-SUFFIX, r.bing.com
 DOMAIN-SUFFIX, th.bing.com
 DOMAIN, bj1.api.bing.com
-DOMAIN, emoi-cncdn.bing.com
 
 DOMAIN-SUFFIX, githubcopilot.com
 
