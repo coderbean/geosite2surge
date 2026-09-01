@@ -9225,6 +9225,7 @@ DOMAIN-SUFFIX, 360os.com
 DOMAIN-SUFFIX, 360panyun.cn
 DOMAIN-SUFFIX, 360qhcdn.com
 DOMAIN-SUFFIX, 360safe.com
+DOMAIN-SUFFIX, 360scdn.com
 DOMAIN-SUFFIX, 360shouji.com
 DOMAIN-SUFFIX, 360so.com
 DOMAIN-SUFFIX, 360sou.cn
@@ -9824,7 +9825,9 @@ DOMAIN-SUFFIX, tencentbyod.com
 DOMAIN-SUFFIX, tencentcdb.cn
 DOMAIN-SUFFIX, tencentcdb.com
 DOMAIN-SUFFIX, tencentcdb.com.cn
+DOMAIN-SUFFIX, tencentclb.cn
 DOMAIN-SUFFIX, tencentclb.com
+DOMAIN-SUFFIX, tencentclb.com.cn
 DOMAIN-SUFFIX, tencentcloud-aiot.com
 DOMAIN-SUFFIX, tencentcloudapi.com
 DOMAIN-SUFFIX, tencentcloudclub.com
@@ -10373,6 +10376,8 @@ DOMAIN-SUFFIX, tencent.com.cn
 DOMAIN-SUFFIX, tencent.com.hk
 DOMAIN-SUFFIX, tencent.net
 DOMAIN-SUFFIX, tencent.net.cn
+DOMAIN-SUFFIX, tencentmiying.com
+DOMAIN-SUFFIX, tengmed.com
 DOMAIN-SUFFIX, tenpay.com
 DOMAIN-SUFFIX, tfogc.com
 DOMAIN-SUFFIX, wechat.com
