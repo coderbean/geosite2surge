@@ -3152,14 +3152,6 @@ DOMAIN-SUFFIX, avito.st
 
 DOMAIN, stats.avito.ru
 
-DOMAIN-SUFFIX, zuoyebang.cc
-DOMAIN-SUFFIX, zuoyebang.com
-DOMAIN-SUFFIX, zybang.com
-
-# Ads/tracking
-DOMAIN-SUFFIX, syh.zybang.com
-
-
 # All .baidu domains
 DOMAIN-SUFFIX, baidu
 
@@ -5077,15 +5069,19 @@ DOMAIN-SUFFIX, fastlane.tools
 
 DOMAIN-SUFFIX, crashlytics.com
 DOMAIN-SUFFIX, firebase.com
+DOMAIN-SUFFIX, firebase.dev
 DOMAIN-SUFFIX, firebase.io
 DOMAIN-SUFFIX, firebaseapp.com
 DOMAIN-SUFFIX, firebaseio.com
 
+DOMAIN-SUFFIX, firebase.google.com
+
 DOMAIN, crashlyticsreports-pa.googleapis.com
 DOMAIN, firebase-settings.crashlytics.com
-DOMAIN, firebase.google.com
 DOMAIN, firebase.googleapis.com
 DOMAIN, firebaseappcheck.googleapis.com
+DOMAIN, firebaseappdistribution.googleapis.com
+DOMAIN, firebaseapptesters.googleapis.com
 DOMAIN, firebasedynamiclinks-ipv4.googleapis.com
 DOMAIN, firebasedynamiclinks-ipv6.googleapis.com
 DOMAIN, firebasedynamiclinks.googleapis.com
@@ -5144,6 +5140,7 @@ DOMAIN, daily-cloudcode-pa.googleapis.com
 # NotebookLM
 DOMAIN, notebooklm-pa.googleapis.com
 DOMAIN, notebooklm.googleapis.com
+DOMAIN-SUFFIX, notebook.google
 DOMAIN-SUFFIX, notebook.google.com
 DOMAIN-SUFFIX, notebooklm.google
 DOMAIN-SUFFIX, notebooklm.google.com
@@ -5156,6 +5153,7 @@ DOMAIN-SUFFIX, jules.google.com
 DOMAIN-SUFFIX, labs.google
 DOMAIN-SUFFIX, labs.google.com
 DOMAIN-SUFFIX, flow.google
+DOMAIN-SUFFIX, flow.google.com
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
@@ -6637,6 +6635,8 @@ DOMAIN-SUFFIX, 360buy.com.cn
 DOMAIN-SUFFIX, 360buyimg.com
 DOMAIN-SUFFIX, 360buyinternational.com
 DOMAIN-SUFFIX, 360top.com
+DOMAIN-SUFFIX, 51epei.com
+DOMAIN-SUFFIX, 51yipei.com
 DOMAIN-SUFFIX, 7fresh.com
 DOMAIN-SUFFIX, baitiao.com
 DOMAIN-SUFFIX, blackdragon.com
@@ -6720,6 +6720,7 @@ DOMAIN-SUFFIX, cloudyuxi.com
 DOMAIN-SUFFIX, cloudzhongshan.com
 DOMAIN-SUFFIX, cloudzhuhai.com
 DOMAIN-SUFFIX, dao123.com
+DOMAIN-SUFFIX, dd-advisor.com
 DOMAIN-SUFFIX, duiou.com.cn
 DOMAIN-SUFFIX, goselling.com
 DOMAIN-SUFFIX, healthjd.com
@@ -6770,6 +6771,7 @@ DOMAIN-SUFFIX, jd.hk
 DOMAIN-SUFFIX, jd.id
 DOMAIN-SUFFIX, jd.ru
 DOMAIN-SUFFIX, jd.shop
+DOMAIN-SUFFIX, jdallianz.com
 DOMAIN-SUFFIX, jdbusiness.com
 DOMAIN-SUFFIX, jdcache.com
 DOMAIN-SUFFIX, jdcdn.com
@@ -6815,6 +6817,7 @@ DOMAIN-SUFFIX, jdfw1.com
 DOMAIN-SUFFIX, jdgslb.com
 DOMAIN-SUFFIX, jdgslb.net
 DOMAIN-SUFFIX, jdh.com
+DOMAIN-SUFFIX, jdindustry.com
 DOMAIN-SUFFIX, jdjinrong.com
 DOMAIN-SUFFIX, jdl.cn
 DOMAIN-SUFFIX, jdl.com
@@ -6825,12 +6828,15 @@ DOMAIN-SUFFIX, jdpaydns.com
 DOMAIN-SUFFIX, jdwl.com
 DOMAIN-SUFFIX, jdx.com
 DOMAIN-SUFFIX, jhscm.com
+DOMAIN-SUFFIX, jingbantong.com
 DOMAIN-SUFFIX, jingdong.com
 DOMAIN-SUFFIX, jingdonghealth.cn
 DOMAIN-SUFFIX, jingdongjinrong.com
 DOMAIN-SUFFIX, jingpinhui.com
 DOMAIN-SUFFIX, jingxi.com
+DOMAIN-SUFFIX, jingxiaoling.com
 DOMAIN-SUFFIX, jkcsjd.com
+DOMAIN-SUFFIX, joyai.com
 DOMAIN-SUFFIX, joybuy.com
 DOMAIN-SUFFIX, joybuy.es
 DOMAIN-SUFFIX, linglonglife.com
@@ -6841,8 +6847,8 @@ DOMAIN-SUFFIX, missjia.net
 DOMAIN-SUFFIX, ocwms.com
 DOMAIN-SUFFIX, paidaojia.cn
 DOMAIN-SUFFIX, paipai.com
-DOMAIN-SUFFIX, prestodb.net.cn
 DOMAIN-SUFFIX, prestodb-china.com
+DOMAIN-SUFFIX, prestodb.net.cn
 DOMAIN-SUFFIX, qianxun.com
 DOMAIN-SUFFIX, qingzhouip.com
 DOMAIN-SUFFIX, sgsic.com
@@ -6856,11 +6862,15 @@ DOMAIN-SUFFIX, wuliujie.cn
 DOMAIN-SUFFIX, wuliujie.com
 DOMAIN-SUFFIX, xianjiqun.com
 DOMAIN-SUFFIX, xjoycity.com
+DOMAIN-SUFFIX, ybscjp.com
 DOMAIN-SUFFIX, yhd.com
 DOMAIN-SUFFIX, yihaodian.com
 DOMAIN-SUFFIX, yihaodianimg.com
 DOMAIN-SUFFIX, yiyaojd.com
 DOMAIN-SUFFIX, yizhitou.com
+DOMAIN-SUFFIX, yunpei.com
+DOMAIN-SUFFIX, yunxiu.com
+DOMAIN-SUFFIX, zhongyouex.com
 
 # 达达
 DOMAIN-SUFFIX, imdada.cn
@@ -7426,10 +7436,9 @@ DOMAIN-SUFFIX, facebook.ca
 DOMAIN-SUFFIX, facebook.cc
 DOMAIN-SUFFIX, facebook.com
 DOMAIN-SUFFIX, facebook.design
-DOMAIN-SUFFIX, facebook.net
 DOMAIN-SUFFIX, facebook.hu
 DOMAIN-SUFFIX, facebook.in
-DOMAIN-SUFFIX, fecebook.net
+DOMAIN-SUFFIX, facebook.net
 DOMAIN-SUFFIX, facebook.nl
 DOMAIN-SUFFIX, facebook.org
 DOMAIN-SUFFIX, facebook.se
@@ -7636,6 +7645,7 @@ DOMAIN-SUFFIX, fecbbok.com
 DOMAIN-SUFFIX, fecbooc.com
 DOMAIN-SUFFIX, fecbook.com
 DOMAIN-SUFFIX, feceboock.com
+DOMAIN-SUFFIX, fecebook.net
 DOMAIN-SUFFIX, feceboox.com
 DOMAIN-SUFFIX, fececbook.com
 DOMAIN-SUFFIX, feook.com
@@ -7705,6 +7715,7 @@ DOMAIN-SUFFIX, sportsfacebook.com
 DOMAIN-SUFFIX, sportstream.com
 DOMAIN-SUFFIX, supportfacebook.com
 DOMAIN-SUFFIX, terragraph.com
+DOMAIN-SUFFIX, tfbnw.net
 DOMAIN-SUFFIX, thefacebook.com
 DOMAIN-SUFFIX, thefacebook.net
 DOMAIN-SUFFIX, thefind.com
@@ -8846,6 +8857,7 @@ DOMAIN-SUFFIX, ad.api.moji.com
 # https://support.mozilla.org/fr/questions/1352614
 
 DOMAIN-SUFFIX, extendfirefox.com
+DOMAIN-SUFFIX, firefox-portal-detection.com
 DOMAIN-SUFFIX, firefox.com
 DOMAIN-SUFFIX, firefox.hu
 DOMAIN-SUFFIX, firefoxtweetmachine.com
@@ -11175,6 +11187,16 @@ DOMAIN-SUFFIX, vzuu.com
 # Ads/tracking
 DOMAIN-SUFFIX, crash2.zhihu.com
 DOMAIN-SUFFIX, zhihu-web-analytics.zhihu.com
+
+DOMAIN-SUFFIX, zuoyebang.cc
+DOMAIN-SUFFIX, zuoyebang.com
+DOMAIN-SUFFIX, zybang.com
+
+# 快对作业
+DOMAIN-SUFFIX, kuaiduizuoye.com
+
+# Ads/tracking
+DOMAIN-SUFFIX, syh.zybang.com
 
 
 # Other domains for ads serving

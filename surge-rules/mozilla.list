@@ -2,6 +2,7 @@
 # https://support.mozilla.org/fr/questions/1352614
 
 DOMAIN-SUFFIX, extendfirefox.com
+DOMAIN-SUFFIX, firefox-portal-detection.com
 DOMAIN-SUFFIX, firefox.com
 DOMAIN-SUFFIX, firefox.hu
 DOMAIN-SUFFIX, firefoxtweetmachine.com

@@ -99,6 +99,7 @@ DOMAIN, daily-cloudcode-pa.googleapis.com
 # NotebookLM
 DOMAIN, notebooklm-pa.googleapis.com
 DOMAIN, notebooklm.googleapis.com
+DOMAIN-SUFFIX, notebook.google
 DOMAIN-SUFFIX, notebook.google.com
 DOMAIN-SUFFIX, notebooklm.google
 DOMAIN-SUFFIX, notebooklm.google.com
@@ -111,6 +112,7 @@ DOMAIN-SUFFIX, jules.google.com
 DOMAIN-SUFFIX, labs.google
 DOMAIN-SUFFIX, labs.google.com
 DOMAIN-SUFFIX, flow.google
+DOMAIN-SUFFIX, flow.google.com
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
@@ -9409,10 +9411,9 @@ DOMAIN-SUFFIX, facebook.ca
 DOMAIN-SUFFIX, facebook.cc
 DOMAIN-SUFFIX, facebook.com
 DOMAIN-SUFFIX, facebook.design
-DOMAIN-SUFFIX, facebook.net
 DOMAIN-SUFFIX, facebook.hu
 DOMAIN-SUFFIX, facebook.in
-DOMAIN-SUFFIX, fecebook.net
+DOMAIN-SUFFIX, facebook.net
 DOMAIN-SUFFIX, facebook.nl
 DOMAIN-SUFFIX, facebook.org
 DOMAIN-SUFFIX, facebook.se
@@ -9619,6 +9620,7 @@ DOMAIN-SUFFIX, fecbbok.com
 DOMAIN-SUFFIX, fecbooc.com
 DOMAIN-SUFFIX, fecbook.com
 DOMAIN-SUFFIX, feceboock.com
+DOMAIN-SUFFIX, fecebook.net
 DOMAIN-SUFFIX, feceboox.com
 DOMAIN-SUFFIX, fececbook.com
 DOMAIN-SUFFIX, feook.com
@@ -9688,6 +9690,7 @@ DOMAIN-SUFFIX, sportsfacebook.com
 DOMAIN-SUFFIX, sportstream.com
 DOMAIN-SUFFIX, supportfacebook.com
 DOMAIN-SUFFIX, terragraph.com
+DOMAIN-SUFFIX, tfbnw.net
 DOMAIN-SUFFIX, thefacebook.com
 DOMAIN-SUFFIX, thefacebook.net
 DOMAIN-SUFFIX, thefind.com
@@ -19032,6 +19035,7 @@ DOMAIN-SUFFIX, censorship.no
 DOMAIN-SUFFIX, epicbrowser.com
 
 DOMAIN-SUFFIX, extendfirefox.com
+DOMAIN-SUFFIX, firefox-portal-detection.com
 DOMAIN-SUFFIX, firefox.com
 DOMAIN-SUFFIX, firefox.hu
 DOMAIN-SUFFIX, firefoxtweetmachine.com
@@ -20124,15 +20128,19 @@ DOMAIN-SUFFIX, getfedora.org
 
 DOMAIN-SUFFIX, crashlytics.com
 DOMAIN-SUFFIX, firebase.com
+DOMAIN-SUFFIX, firebase.dev
 DOMAIN-SUFFIX, firebase.io
 DOMAIN-SUFFIX, firebaseapp.com
 DOMAIN-SUFFIX, firebaseio.com
 
+DOMAIN-SUFFIX, firebase.google.com
+
 DOMAIN, crashlyticsreports-pa.googleapis.com
 DOMAIN, firebase-settings.crashlytics.com
-DOMAIN, firebase.google.com
 DOMAIN, firebase.googleapis.com
 DOMAIN, firebaseappcheck.googleapis.com
+DOMAIN, firebaseappdistribution.googleapis.com
+DOMAIN, firebaseapptesters.googleapis.com
 DOMAIN, firebasedynamiclinks-ipv4.googleapis.com
 DOMAIN, firebasedynamiclinks-ipv6.googleapis.com
 DOMAIN, firebasedynamiclinks.googleapis.com
@@ -20159,6 +20167,12 @@ DOMAIN-SUFFIX, framer.website
 DOMAIN-SUFFIX, framercanvas.com
 DOMAIN-SUFFIX, framerstatic.com
 DOMAIN-SUFFIX, framerusercontent.com
+
+# Freebuff - https://freebuff.com/
+# Source: https://github.com/CodebuffAI/freebuff
+
+DOMAIN-SUFFIX, codebuff.com
+DOMAIN-SUFFIX, freebuff.com
 
 DOMAIN-SUFFIX, fury.blog
 DOMAIN-SUFFIX, fury.co
@@ -21164,15 +21178,19 @@ DOMAIN-SUFFIX, fastlane.tools
 
 DOMAIN-SUFFIX, crashlytics.com
 DOMAIN-SUFFIX, firebase.com
+DOMAIN-SUFFIX, firebase.dev
 DOMAIN-SUFFIX, firebase.io
 DOMAIN-SUFFIX, firebaseapp.com
 DOMAIN-SUFFIX, firebaseio.com
 
+DOMAIN-SUFFIX, firebase.google.com
+
 DOMAIN, crashlyticsreports-pa.googleapis.com
 DOMAIN, firebase-settings.crashlytics.com
-DOMAIN, firebase.google.com
 DOMAIN, firebase.googleapis.com
 DOMAIN, firebaseappcheck.googleapis.com
+DOMAIN, firebaseappdistribution.googleapis.com
+DOMAIN, firebaseapptesters.googleapis.com
 DOMAIN, firebasedynamiclinks-ipv4.googleapis.com
 DOMAIN, firebasedynamiclinks-ipv6.googleapis.com
 DOMAIN, firebasedynamiclinks.googleapis.com
@@ -21231,6 +21249,7 @@ DOMAIN, daily-cloudcode-pa.googleapis.com
 # NotebookLM
 DOMAIN, notebooklm-pa.googleapis.com
 DOMAIN, notebooklm.googleapis.com
+DOMAIN-SUFFIX, notebook.google
 DOMAIN-SUFFIX, notebook.google.com
 DOMAIN-SUFFIX, notebooklm.google
 DOMAIN-SUFFIX, notebooklm.google.com
@@ -21243,6 +21262,7 @@ DOMAIN-SUFFIX, jules.google.com
 DOMAIN-SUFFIX, labs.google
 DOMAIN-SUFFIX, labs.google.com
 DOMAIN-SUFFIX, flow.google
+DOMAIN-SUFFIX, flow.google.com
 DOMAIN-SUFFIX, aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
@@ -27629,10 +27649,9 @@ DOMAIN-SUFFIX, facebook.ca
 DOMAIN-SUFFIX, facebook.cc
 DOMAIN-SUFFIX, facebook.com
 DOMAIN-SUFFIX, facebook.design
-DOMAIN-SUFFIX, facebook.net
 DOMAIN-SUFFIX, facebook.hu
 DOMAIN-SUFFIX, facebook.in
-DOMAIN-SUFFIX, fecebook.net
+DOMAIN-SUFFIX, facebook.net
 DOMAIN-SUFFIX, facebook.nl
 DOMAIN-SUFFIX, facebook.org
 DOMAIN-SUFFIX, facebook.se
@@ -27839,6 +27858,7 @@ DOMAIN-SUFFIX, fecbbok.com
 DOMAIN-SUFFIX, fecbooc.com
 DOMAIN-SUFFIX, fecbook.com
 DOMAIN-SUFFIX, feceboock.com
+DOMAIN-SUFFIX, fecebook.net
 DOMAIN-SUFFIX, feceboox.com
 DOMAIN-SUFFIX, fececbook.com
 DOMAIN-SUFFIX, feook.com
@@ -27908,6 +27928,7 @@ DOMAIN-SUFFIX, sportsfacebook.com
 DOMAIN-SUFFIX, sportstream.com
 DOMAIN-SUFFIX, supportfacebook.com
 DOMAIN-SUFFIX, terragraph.com
+DOMAIN-SUFFIX, tfbnw.net
 DOMAIN-SUFFIX, thefacebook.com
 DOMAIN-SUFFIX, thefacebook.net
 DOMAIN-SUFFIX, thefind.com
@@ -29076,6 +29097,7 @@ DOMAIN-SUFFIX, motorolasolutions.com
 # https://support.mozilla.org/fr/questions/1352614
 
 DOMAIN-SUFFIX, extendfirefox.com
+DOMAIN-SUFFIX, firefox-portal-detection.com
 DOMAIN-SUFFIX, firefox.com
 DOMAIN-SUFFIX, firefox.hu
 DOMAIN-SUFFIX, firefoxtweetmachine.com
