@@ -1,5 +1,7 @@
-# This file contains domains of all ads providers, including both the domains that serves ads, and the domains of providers themselves.
-# This file contains domains that clearly serving ads
+# This file contains domains of all ads/tracking providers,
+# including both the domains that serves ads/tracking, and the domains of providers themselves.
+# This file contains domains that clearly serving for ads or tracking.
+# We can not seperate ads and tracking domains clearly, so they are mixed together.
 # Iranian Advertising websites
 
 DOMAIN-SUFFIX, adivery.com
@@ -11211,7 +11213,6 @@ DOMAIN-SUFFIX, ads.huan.tv
 DOMAIN-SUFFIX, ads.huantest.com
 DOMAIN-SUFFIX, ads.trafficjunky.net
 DOMAIN-SUFFIX, ads.wteam.xyz
-DOMAIN-SUFFIX, adservice.sigmob.cn
 DOMAIN-SUFFIX, adtechus.com
 DOMAIN-SUFFIX, adtrue.com
 DOMAIN-SUFFIX, adxprtz.com
@@ -11439,6 +11440,7 @@ DOMAIN-SUFFIX, lijit.com
 DOMAIN-SUFFIX, mfadsrvr.com
 DOMAIN-SUFFIX, mgid.com
 DOMAIN-SUFFIX, ns1p.net
+DOMAIN-SUFFIX, sigmob.cn
 DOMAIN-SUFFIX, sigmob.com
 DOMAIN-SUFFIX, spotxchange.com
 DOMAIN-SUFFIX, unimhk.com
