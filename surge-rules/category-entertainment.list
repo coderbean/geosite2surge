@@ -549,6 +549,9 @@ DOMAIN-SUFFIX, nexon.net
 DOMAIN-SUFFIX, nexoncdn.co.kr
 DOMAIN-SUFFIX, nexongames.co.kr
 
+DOMAIN-SUFFIX, nexus-cdn.com
+DOMAIN-SUFFIX, nexusmods.com
+
 DOMAIN-SUFFIX, nikke-de.com
 DOMAIN-SUFFIX, nikke-en.com
 DOMAIN-SUFFIX, nikke-fr.com
@@ -1170,8 +1173,6 @@ DOMAIN-SUFFIX, mobimon.com.tw
 DOMAIN-SUFFIX, muvluv-girls-garden.com
 DOMAIN-SUFFIX, namemc.com
 DOMAIN-SUFFIX, neoforged.net
-DOMAIN-SUFFIX, nexus-cdn.com
-DOMAIN-SUFFIX, nexusmods.com
 DOMAIN-SUFFIX, noxygames.com
 DOMAIN-SUFFIX, offworldindustries.com
 DOMAIN-SUFFIX, offworldindustries.net
