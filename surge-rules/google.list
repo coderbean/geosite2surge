@@ -159,6 +159,8 @@ DOMAIN-SUFFIX, bard.google.com
 DOMAIN-SUFFIX, gemini.google
 DOMAIN-SUFFIX, gemini.google.com
 DOMAIN-SUFFIX, gemini.gstatic.com
+DOMAIN, geminiweb-pa.clients.google.com
+DOMAIN, geminiweb-pa.clients6.google.com
 
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
@@ -169,6 +171,7 @@ DOMAIN, daily-cloudcode-pa.googleapis.com
 # NotebookLM
 DOMAIN, notebooklm-pa.googleapis.com
 DOMAIN, notebooklm.googleapis.com
+DOMAIN-SUFFIX, labstailwind.pa.googleapis.com
 DOMAIN-SUFFIX, notebook.google
 DOMAIN-SUFFIX, notebook.google.com
 DOMAIN-SUFFIX, notebooklm.google

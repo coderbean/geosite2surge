@@ -232,6 +232,7 @@ DOMAIN-SUFFIX, sxlcdn.com
 
 # 腾讯 云原生构建
 DOMAIN-SUFFIX, cnb.cool
+DOMAIN-SUFFIX, cnb.space
 
 DOMAIN-SUFFIX, coding.me
 DOMAIN-SUFFIX, coding.net
@@ -9720,6 +9721,7 @@ DOMAIN-SUFFIX, wuliao.epro.sogou.com
 
 # 腾讯 云原生构建
 DOMAIN-SUFFIX, cnb.cool
+DOMAIN-SUFFIX, cnb.space
 
 DOMAIN-SUFFIX, coding.me
 DOMAIN-SUFFIX, coding.net
