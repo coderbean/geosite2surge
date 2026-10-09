@@ -216,7 +216,7 @@ DOMAIN, copilot-workspace.githubnext.com
 # Azure Blob Storage
 DOMAIN, copilotprodattachments.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
 DOMAIN, copilot-telemetry-service.githubusercontent.com
 DOMAIN, copilot-telemetry.githubusercontent.com
 
@@ -285,7 +285,8 @@ DOMAIN, productionresultssa17.blob.core.windows.net
 DOMAIN, productionresultssa18.blob.core.windows.net
 DOMAIN, productionresultssa19.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
+DOMAIN-SUFFIX, cafe.github.com
 DOMAIN-SUFFIX, collector.github.com
 
 DOMAIN-SUFFIX, adaptivecards.io

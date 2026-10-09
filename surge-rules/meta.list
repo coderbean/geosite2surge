@@ -563,8 +563,8 @@ DOMAIN-SUFFIX, whatsapp.tv
 DOMAIN-SUFFIX, whatsappbrand.com
 
 # Ads/tracking
-DOMAIN-SUFFIX, graph.whatsapp.com
-DOMAIN-SUFFIX, graph.whatsapp.net
+# graph.whatsapp.com and graph.whatsapp.net aren't solely for ads,
+# see https://github.com/v2fly/domain-list-community/issues/4127
 
 
 DOMAIN-SUFFIX, atmeta.com

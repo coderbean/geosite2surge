@@ -6,6 +6,6 @@ DOMAIN, copilot-workspace.githubnext.com
 # Azure Blob Storage
 DOMAIN, copilotprodattachments.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
 DOMAIN, copilot-telemetry-service.githubusercontent.com
 DOMAIN, copilot-telemetry.githubusercontent.com

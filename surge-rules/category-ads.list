@@ -7908,8 +7908,8 @@ DOMAIN-SUFFIX, whatsapp.tv
 DOMAIN-SUFFIX, whatsappbrand.com
 
 # Ads/tracking
-DOMAIN-SUFFIX, graph.whatsapp.com
-DOMAIN-SUFFIX, graph.whatsapp.net
+# graph.whatsapp.com and graph.whatsapp.net aren't solely for ads,
+# see https://github.com/v2fly/domain-list-community/issues/4127
 
 
 DOMAIN-SUFFIX, atmeta.com
@@ -8137,7 +8137,7 @@ DOMAIN, copilot-workspace.githubnext.com
 # Azure Blob Storage
 DOMAIN, copilotprodattachments.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
 DOMAIN, copilot-telemetry-service.githubusercontent.com
 DOMAIN, copilot-telemetry.githubusercontent.com
 
@@ -8206,7 +8206,8 @@ DOMAIN, productionresultssa17.blob.core.windows.net
 DOMAIN, productionresultssa18.blob.core.windows.net
 DOMAIN, productionresultssa19.blob.core.windows.net
 
-# Ads/tracking
+# Telemetry
+DOMAIN-SUFFIX, cafe.github.com
 DOMAIN-SUFFIX, collector.github.com
 
 DOMAIN-SUFFIX, adaptivecards.io
@@ -8943,6 +8944,8 @@ DOMAIN-SUFFIX, webmademovies.org
 # Ads/tracking
 DOMAIN, ads-img.mozilla.org
 DOMAIN, ads.mozilla.org
+
+# Telemetry
 DOMAIN, incoming.telemetry.mozilla.org
 DOMAIN, incoming-telemetry.thunderbird.net
 
