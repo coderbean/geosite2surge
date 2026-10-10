@@ -151,45 +151,74 @@ DOMAIN-SUFFIX, waveomoney.com.mm
 DOMAIN-SUFFIX, yomabank.com
 DOMAIN-SUFFIX, ysx-mm.com
 
-# Alfa Bank
+## Multi domains
+# Alfa-Bank
 DOMAIN-SUFFIX, alfa.me
 DOMAIN-SUFFIX, alfabank.ru
 DOMAIN-SUFFIX, alfabank.st
 DOMAIN-SUFFIX, alfadirect.ru
 DOMAIN-SUFFIX, myapelsin.ru
 
-# BBR
-DOMAIN-SUFFIX, bbr.ru
+# Bank 131
+DOMAIN-SUFFIX, bank131.com
+DOMAIN-SUFFIX, bank131.ru
 
-# BCS bank
-DOMAIN-SUFFIX, bcs.ru
-DOMAIN-SUFFIX, bcs-bank.ru
-DOMAIN-SUFFIX, broker.ru
+# Bank Snezhinsky
+DOMAIN-SUFFIX, isnbank.ru
+DOMAIN-SUFFIX, snbank.ru
+
+# BCS Financial Group (bank and broker)
+DOMAIN-SUFFIX, bcs-bank.ru # bank
+DOMAIN-SUFFIX, bcs.ru # broker
+DOMAIN-SUFFIX, broker.ru # broker
+
+# ChelyabinvestBank
+DOMAIN-SUFFIX, chelinvest.ru
+DOMAIN-SUFFIX, investpay.ru
 
 # Deutsche Bank
 DOMAIN-SUFFIX, dbmoscow.ru
 DOMAIN-SUFFIX, deutsche-bank.ru
 DOMAIN-SUFFIX, deutschebank.ru
 
-# DOM.RF
-DOMAIN-SUFFIX, domrfbank.ru
-DOMAIN-SUFFIX, xn--d1aqf.xn--p1ai
+# Eurofinance Mosnarbank
+DOMAIN-SUFFIX, efbank.ru
+DOMAIN-SUFFIX, evrofinance.ru
 
 # GazpromBank
+DOMAIN-SUFFIX, creditural.ru # subsidiary
 DOMAIN-SUFFIX, gazprombank.com
 DOMAIN-SUFFIX, gazprombank.investments
 DOMAIN-SUFFIX, gazprombank.ru
-DOMAIN-SUFFIX, gid.ru
 DOMAIN-SUFFIX, gpb.ru
+
+# Koshelev Bank
+DOMAIN-SUFFIX, k-bnk.ru
+DOMAIN-SUFFIX, koshelev-bank.ru
+
+# MetallinvestBank
+DOMAIN-SUFFIX, metallinvestbank.ru
+DOMAIN-SUFFIX, metib.ru
 
 # Mizuho Bank
 DOMAIN-SUFFIX, mhcb.ru
 DOMAIN-SUFFIX, mhcbr.ru
 
-# MKB
+# MKB (Credit Bank of Moscow)
+DOMAIN-SUFFIX, dvbank.ru # merged
 DOMAIN-SUFFIX, mkb.ru
 
-# MTS
+# Moscow Exchange Group (MOEX)
+DOMAIN-SUFFIX, moex.com
+DOMAIN-SUFFIX, nationalclearingcentre.ru # subsidiary
+DOMAIN-SUFFIX, nkcbank.ru # subsidiary
+DOMAIN-SUFFIX, nsd.ru # subsidiary
+
+# MSP Bank (SME Bank)
+DOMAIN-SUFFIX, mspbank.ru
+DOMAIN-SUFFIX, smbfin.ru
+
+# MTS Bank
 DOMAIN-SUFFIX, dbo-dengi.online
 DOMAIN-SUFFIX, mtsbank.ru
 DOMAIN-SUFFIX, mtsdengi.ru
@@ -198,46 +227,26 @@ DOMAIN-SUFFIX, mtsdengi.ru
 # Feature request: implement
 DOMAIN-SUFFIX, otpbank.ru
 
-# PSB Bank
+# Pervouralsk Bank
+DOMAIN-SUFFIX, pervbank.ru
+DOMAIN-SUFFIX, prvbank.ru
+DOMAIN-SUFFIX, pvubank.com
+
+# PSB (Promsvyaz Bank)
 DOMAIN-SUFFIX, payment.ru
 DOMAIN-SUFFIX, psb-ocenka.ru
 DOMAIN-SUFFIX, psb.ru
 DOMAIN-SUFFIX, psbank.ru
 
-# RUSSIA Bank
-DOMAIN-SUFFIX, abr.ru
+# Rosdor Bank
+DOMAIN-SUFFIX, rdb.ru
+DOMAIN-SUFFIX, rosdorbank.ru
 
-# Raiffeisen
-# Feature request: implement
-DOMAIN-SUFFIX, raiffeisen-media.ru
-DOMAIN-SUFFIX, raiffeisen.ru
-
-# Russian Agricultural Bank
-DOMAIN-SUFFIX, rshb.ru
+# Saint Petersburg exchanges (SPB Exchange, SPVB)
+DOMAIN-SUFFIX, spbexchange.ru
+DOMAIN-SUFFIX, spvb.ru
 
 # SberBank
-# https://crt.sh/?id=24119301132
-DOMAIN-SUFFIX, 2gis.ae
-DOMAIN-SUFFIX, 2gis.am
-DOMAIN-SUFFIX, 2gis.az
-DOMAIN-SUFFIX, 2gis.by
-DOMAIN-SUFFIX, 2gis.com
-DOMAIN-SUFFIX, 2gis.com.cy
-DOMAIN-SUFFIX, 2gis.cz
-DOMAIN-SUFFIX, 2gis.ge
-DOMAIN-SUFFIX, 2gis.kg
-DOMAIN-SUFFIX, 2gis.kz
-DOMAIN-SUFFIX, 2gis.ru
-DOMAIN-SUFFIX, 2gis.tj
-DOMAIN-SUFFIX, 2gis.uz
-DOMAIN-SUFFIX, 2gis.tech
-
-DOMAIN-SUFFIX, okkoapi.tv
-DOMAIN-SUFFIX, playfamily.ru
-DOMAIN-SUFFIX, okko.sport
-DOMAIN-SUFFIX, okko.tv
-
-
 DOMAIN-SUFFIX, bps-sberbank.by
 DOMAIN-SUFFIX, sber-bank.by
 DOMAIN-SUFFIX, sber.ru
@@ -245,101 +254,11 @@ DOMAIN-SUFFIX, sberbank.com
 DOMAIN-SUFFIX, sberbank.ru
 DOMAIN-SUFFIX, sbrf.ru
 
-# Ads/tracking
-DOMAIN-SUFFIX, ads.sber.ru
-DOMAIN-SUFFIX, clickstream.sberbank.ru
-DOMAIN-SUFFIX, neon.click
-DOMAIN-SUFFIX, sbermarketing.ru
-DOMAIN, error-tracking.megamarket.tech
-DOMAIN, metrics.21-school.ru
-DOMAIN, sentry.sberauto.com
-DOMAIN, tracing-http.megamarket.tech
-DOMAIN, visor.sberbank.ru
+# NCO ЮMoney
+DOMAIN-SUFFIX, yookassa.ru
+DOMAIN-SUFFIX, yoomoney.ru
 
-# Business ecosystem
-DOMAIN-SUFFIX, id.ru
-DOMAIN-SUFFIX, megamarket.ru
-DOMAIN-SUFFIX, megamarket.tech
-DOMAIN-SUFFIX, sberauto.com
-DOMAIN-SUFFIX, sberbank-insurance.ru
-DOMAIN-SUFFIX, sberbank-tele.com
-DOMAIN-SUFFIX, sberbankaktivno.ru
-DOMAIN-SUFFIX, sberbankins.ru
-DOMAIN-SUFFIX, sbercloud.ru
-DOMAIN-SUFFIX, sbercloud.tech
-DOMAIN-SUFFIX, sberdevices.ru
-DOMAIN-SUFFIX, sberdisk.ru
-DOMAIN-SUFFIX, sberfactoring.ru
-DOMAIN-SUFFIX, sberhealth.ru
-DOMAIN-SUFFIX, sberindex.ru
-DOMAIN-SUFFIX, sberleasing.ru
-DOMAIN-SUFFIX, sberlogistics.ru
-DOMAIN-SUFFIX, sbermegamarket.ru
-DOMAIN-SUFFIX, sbermobile.ru
-DOMAIN-SUFFIX, sberpb.ru
-DOMAIN-SUFFIX, sbertroika.ru
-
-## Afisha
-DOMAIN-SUFFIX, afisha.ru
-
-## Citydrive (carsharing)
-DOMAIN-SUFFIX, citydrive.ru
-
-## cloud.ru
-DOMAIN-SUFFIX, cloud.ru
-DOMAIN-SUFFIX, cloudru.cn # HK
-
-## EApteka (pharmacy)
-DOMAIN-SUFFIX, eaptechka.online
-DOMAIN-SUFFIX, eapteka.ru
-
-## Education
-DOMAIN-SUFFIX, 21-school.ru
-
-## Food delivery
-
-### Kuper
-DOMAIN-SUFFIX, kuper.ru
-DOMAIN-SUFFIX, restnproducts.ru
-
-### Samokat (food delivery)
-DOMAIN-SUFFIX, samokat.ru
-
-## GigaChat (AI chat)
-DOMAIN-SUFFIX, giga.chat
-
-## GitVerse
-DOMAIN-SUFFIX, gitverse.ru
-
-## Jivo/Jivochat/Jivosite (chat for website)
-DOMAIN-SUFFIX, jivo.chat
-DOMAIN-SUFFIX, jivo.ru
-DOMAIN-SUFFIX, jivochat.co.in
-DOMAIN-SUFFIX, jivochat.co.za
-DOMAIN-SUFFIX, jivochat.com
-DOMAIN-SUFFIX, jivochat.com.br
-DOMAIN-SUFFIX, jivochat.com.co
-DOMAIN-SUFFIX, jivochat.com.pe
-DOMAIN-SUFFIX, jivochat.com.tr
-DOMAIN-SUFFIX, jivochat.de
-DOMAIN-SUFFIX, jivochat.es
-DOMAIN-SUFFIX, jivochat.ng
-DOMAIN-SUFFIX, jivochat.ru
-DOMAIN-SUFFIX, jivosite.com
-DOMAIN-SUFFIX, jivosite.ru
-
-## Online payment service
-DOMAIN-SUFFIX, payecom.ru
-DOMAIN-SUFFIX, platiecom.ru
-
-## Ottelo (travel agency)
-DOMAIN-SUFFIX, otello.ru
-
-## Sber Pro
-DOMAIN-SUFFIX, sber.pro
-DOMAIN, sberpro.vedomosti.ru
-
-## Sber Spasibo (loyalty service)
+# Sber Spasibo (loyalty service)
 DOMAIN-SUFFIX, cplsb.ru
 DOMAIN-SUFFIX, sberspasibo.ru
 DOMAIN-SUFFIX, spasibo.digital
@@ -348,17 +267,21 @@ DOMAIN-SUFFIX, spasibobonus.ru
 DOMAIN-SUFFIX, spasibosb.ru
 DOMAIN-SUFFIX, spasibosberbank.ru
 
-## Sber Tech
-DOMAIN-SUFFIX, accesspoint.uz
-DOMAIN-SUFFIX, getsynapse.io
-DOMAIN-SUFFIX, sbertech.ru
+DOMAIN-SUFFIX, ads.sber.ru
+DOMAIN-SUFFIX, clickstream.sberbank.ru
+DOMAIN, visor.sberbank.ru
 
-# Zvuk (music streaming)
-DOMAIN-SUFFIX, zvuk-b2b.com
-DOMAIN-SUFFIX, zvuk.com
 
+# Solid Bank
+DOMAIN-SUFFIX, solid.ru
+DOMAIN-SUFFIX, solidbank.ru
 
 # Sovcombank
+DOMAIN-SUFFIX, halvacard.ru # Halva card
+DOMAIN-SUFFIX, home.bank # merged
+DOMAIN-SUFFIX, homecredit.ru # merged
+DOMAIN-SUFFIX, hva.im
+DOMAIN-SUFFIX, scb.ru
 DOMAIN-SUFFIX, sovcombank.ru
 
 # T-Bank (Tinkoff) and RosBank
@@ -480,83 +403,190 @@ DOMAIN, edu.tinkoff.ru
 DOMAIN, education.tbank.ru
 
 
-# Tochka bank
+# TKB Bank (TransCapitalBank)
+DOMAIN-SUFFIX, itb.ru # subsidiary
+DOMAIN-SUFFIX, tkbbank.ru
+
+# Tochka Bank
 DOMAIN-SUFFIX, tochka-tech.com
 DOMAIN-SUFFIX, tochka.com
 
-# VTB Bank
-DOMAIN-SUFFIX, pochtabank.ru #subsidiary
+# Transstroy Bank
+DOMAIN-SUFFIX, transstroybank.ru
+DOMAIN-SUFFIX, tsbnk.ru
+
+# UBS
+DOMAIN-SUFFIX, bank-credit-suisse-moscow.ru # subsidiary
+DOMAIN-SUFFIX, ubs.com
+
+# Uglemet Bank
+DOMAIN-SUFFIX, coalmetbank.ru
+DOMAIN-SUFFIX, umbank.ru
+
+# UniCredit Bank
+DOMAIN-SUFFIX, unicredit.ru
+DOMAIN-SUFFIX, unicreditbank.ru
+
+# VTB
+DOMAIN-SUFFIX, pochtabank.ru # subsidiary
+DOMAIN-SUFFIX, rncb.ru # merged
+DOMAIN-SUFFIX, sbpvtb.ru
 DOMAIN-SUFFIX, vtb-direct.com
 DOMAIN-SUFFIX, vtb-grants.fut.ru
+DOMAIN-SUFFIX, vtb.com
 DOMAIN-SUFFIX, vtb.ru
+DOMAIN-SUFFIX, vtbbo.ru
 DOMAIN-SUFFIX, vtbglobalperspectives.com
+DOMAIN-SUFFIX, xn--90ab2c.xn--p1ai
 
-# Zenit
+# Bank Zenit
 DOMAIN-SUFFIX, credit-zenit.ru
 DOMAIN-SUFFIX, zenit-card.ru
 DOMAIN-SUFFIX, zenit.ru
 
-# NSPK (QR-code payments)
-DOMAIN-SUFFIX, nspk.ru
+## Non-banks
+DOMAIN-SUFFIX, asia-pay.ru                   # LLC RNCO AsiaPay (non-bank credit organization)
+DOMAIN-SUFFIX, best2pay.net                  # LLC Best2Pay (payment service provider)
+DOMAIN-SUFFIX, koronapay.com                 # Zolotaya Korona (KoronaPay), RNCO Payment Center
+DOMAIN-SUFFIX, moneta.ru                     # LLC NCO Moneta (non-bank credit organization)
+DOMAIN-SUFFIX, nspk.ru                       # JSC NSPK (National Card Payment System; SBP, QR payments)
+DOMAIN-SUFFIX, rbsgate.com                   # RBS (Runet Business Systems): bank payment gateway
+DOMAIN-SUFFIX, rbsuat.com                    # RBS (Runet Business Systems): payment gateway test environment
+DOMAIN-SUFFIX, rncoluminis.ru                # JSC RNCO Luminis (non-bank credit organization)
+DOMAIN-SUFFIX, veb.ru                        # VEB.RF (state development corporation)
+DOMAIN-SUFFIX, westernunion.ru               # LLC NCO Western Union DP Vostok (non-bank credit organization)
+DOMAIN-SUFFIX, yoobusiness.ru                # LLC NCO YooMoney (YooBusiness service)
 
-# Other
-DOMAIN-SUFFIX, absolutbank.ru
-DOMAIN-SUFFIX, akbars.ru
-DOMAIN-SUFFIX, alefbank.com
-DOMAIN-SUFFIX, ankb.ru
-DOMAIN-SUFFIX, asia-pay.ru
-DOMAIN-SUFFIX, atb.su
-DOMAIN-SUFFIX, autokreditbank.ru
-DOMAIN-SUFFIX, avangard.ru
-DOMAIN-SUFFIX, aversbank.ru
-DOMAIN-SUFFIX, bank-arzamas.ru
-DOMAIN-SUFFIX, bank-credit-suisse-moscow.ru
-DOMAIN-SUFFIX, bank131.com
-DOMAIN-SUFFIX, bankermak.ru
-DOMAIN-SUFFIX, best2pay.net
-DOMAIN-SUFFIX, bfa.ru
-DOMAIN-SUFFIX, blanc.ru
-DOMAIN-SUFFIX, bm-bank.ru
-DOMAIN-SUFFIX, bspb.ru
-DOMAIN-SUFFIX, commerzbank.ru
-DOMAIN-SUFFIX, finambank.ru
-DOMAIN-SUFFIX, forshtadt.ru
-DOMAIN-SUFFIX, homecredit.ru
-DOMAIN-SUFFIX, hva.im # Sovcombank Halva
-DOMAIN-SUFFIX, ibamoscow.ru
-DOMAIN-SUFFIX, jpmorgan.ru
-DOMAIN-SUFFIX, korona.com
-DOMAIN-SUFFIX, kubankredit.ru
-DOMAIN-SUFFIX, mfk-bank.ru
-DOMAIN-SUFFIX, mvs-bank.ru
-DOMAIN-SUFFIX, noosferabank.ru
-DOMAIN-SUFFIX, primbank.ru
-DOMAIN-SUFFIX, prvbank.ru
-DOMAIN-SUFFIX, pskb.ru
-DOMAIN-SUFFIX, pvubank.com
-DOMAIN-SUFFIX, rbsgate.com
-DOMAIN-SUFFIX, rbsuat.com
-DOMAIN-SUFFIX, rencapbank.ru
-DOMAIN-SUFFIX, rencredit.ru
-DOMAIN-SUFFIX, rncoluminis.ru
-DOMAIN-SUFFIX, ru.ccb.com
-DOMAIN-SUFFIX, sbibankllc.ru
-DOMAIN-SUFFIX, seb.ru
-DOMAIN-SUFFIX, selkombank.ru
-DOMAIN-SUFFIX, sinara.ru
-DOMAIN-SUFFIX, slavbank.ru
-DOMAIN-SUFFIX, smbcr-bank.ru
-DOMAIN-SUFFIX, solid.ru
-DOMAIN-SUFFIX, ssb.msk.ru
-DOMAIN-SUFFIX, tagbank.ru
-DOMAIN-SUFFIX, tatsotsbank.ru
-DOMAIN-SUFFIX, tkbbank.ru
-DOMAIN-SUFFIX, ubs.com
-DOMAIN-SUFFIX, uralsib.ru
-DOMAIN-SUFFIX, vlb100.ru
-DOMAIN-SUFFIX, westernunion.ru
-DOMAIN-SUFFIX, yoobusiness.ru
-DOMAIN-SUFFIX, ziraatbank.ru
+## Single domains
+DOMAIN-SUFFIX, abr.ru                        # JSC AB Rossiya (Bank Rossiya)
+DOMAIN-SUFFIX, absolutbank.ru                # PJSC Absolut Bank
+DOMAIN-SUFFIX, agroros.ru                    # LLC Bank Agroros
+DOMAIN-SUFFIX, ai-bank.ru                    # JSC Asia-Invest Bank
+DOMAIN-SUFFIX, akbars.ru                     # PJSC AK BARS Bank
+DOMAIN-SUFFIX, akcept.ru                     # JSC Bank Akcept
+DOMAIN-SUFFIX, akibank.ru                    # PJSC AKIBANK
+DOMAIN-SUFFIX, albank.ru                     # JSC Almazergienbank
+DOMAIN-SUFFIX, alefbank.com                  # JSC Alef-Bank
+DOMAIN-SUFFIX, ankb.ru                       # PJSC Bratsky ANKB
+DOMAIN-SUFFIX, apkbank.ru                    # JSC CB Agropromcredit
+DOMAIN-SUFFIX, aresbank.ru                   # LLC CB Aresbank
+DOMAIN-SUFFIX, atb.su                        # PJSC Asian-Pacific Bank (ATB)
+DOMAIN-SUFFIX, autofinancebank.ru            # LLC Auto Finance Bank (formerly RN Bank)
+DOMAIN-SUFFIX, autokreditbank.ru             # JSC Avtokreditbank
+DOMAIN-SUFFIX, avangard.ru                   # PJSC JSCB Avangard
+DOMAIN-SUFFIX, aversbank.ru                  # PJSC Bank Avers
+DOMAIN-SUFFIX, bancaintesa.ru                # JSC Banca Intesa
+DOMAIN-SUFFIX, bank-arzamas.ru               # JSC CB Arzamas
+DOMAIN-SUFFIX, bank-hlynov.ru                # JSC CB Khlynov
+DOMAIN-SUFFIX, bank.yandex.ru                # JSC Yandex Bank
+DOMAIN-SUFFIX, bankermak.ru                  # JSC Bank Ermak
+DOMAIN-SUFFIX, bankofkazan.ru                # LLC CBER Bank of Kazan
+DOMAIN-SUFFIX, bankperm.ru                   # JSC Bank Perm
+DOMAIN-SUFFIX, bankstavr.ru                  # PJSC Bank Stavr (formerly Stavropolpromstroybank)
+DOMAIN-SUFFIX, bankvl.ru                     # JSC Bank Vologzhanin
+DOMAIN-SUFFIX, bbr.ru                        # JSC BBR Bank
+DOMAIN-SUFFIX, bfa.ru                        # JSC Bank BFA
+DOMAIN-SUFFIX, blanc.ru                      # LLC Blanc Bank (formerly Investment Bank Vesta)
+DOMAIN-SUFFIX, bm-bank.ru                    # JSC BM-Bank
+DOMAIN-SUFFIX, bmwbank.ru                    # LLC BMW Bank
+DOMAIN-SUFFIX, boc.ru                        # JSC Bank of China (Russia)
+DOMAIN-SUFFIX, bspb.ru                       # PJSC Bank Saint Petersburg
+DOMAIN-SUFFIX, bystrobank.ru                 # PJSC BystroBank
+DOMAIN-SUFFIX, centrinvest.ru                # PJSC CB Center-invest
+DOMAIN-SUFFIX, chelindbank.ru                # PJSC Chelindbank
+DOMAIN-SUFFIX, cibank.ru                     # JSC City Invest Bank (not Citibank)
+DOMAIN-SUFFIX, cifra-bank.ru                 # LLC Cifra Bank (formerly Freedom Finance Bank)
+DOMAIN-SUFFIX, cmrbank.ru                    # LLC CMRBank (Center for International Settlements)
+DOMAIN-SUFFIX, commerzbank.ru                # JSC Commerzbank (Eurasija)
+DOMAIN-SUFFIX, crediteurope.ru               # JSC Credit Europe Bank (Russia)
+DOMAIN-SUFFIX, databank.ru                   # JSC Databank
+DOMAIN-SUFFIX, dcapital.ru                   # JSC Bank Razvitie-Stolitsa
+DOMAIN-SUFFIX, derzhava.ru                   # PJSC JSCB Derzhava
+DOMAIN-SUFFIX, domrfbank.ru                  # JSC BANK DOM.RF
+DOMAIN-SUFFIX, emb.ru                        # PJSC Kontur.Bank (formerly Ekaterinburg Municipal Bank)
+DOMAIN-SUFFIX, energobank.ru                 # JSC Energobank
+DOMAIN-SUFFIX, energotransbank.com           # JSC Energotransbank
+DOMAIN-SUFFIX, eximbank.ru                   # JSC ROSEXIMBANK
+DOMAIN-SUFFIX, expobank.ru                   # JSC Expobank
+DOMAIN-SUFFIX, finambank.ru                  # JSC Bank FINAM
+DOMAIN-SUFFIX, finance.ozon.ru               # LLC Ozon Bank
+DOMAIN-SUFFIX, finstarbank.ru                # JSC Finstar Bank
+DOMAIN-SUFFIX, forabank.ru                   # JSC JSCB Fora-Bank
+DOMAIN-SUFFIX, forshtadt.ru                  # JSC JSCB Forshtadt
+DOMAIN-SUFFIX, gaztransbank.ru               # LLC Gaztransbank
+DOMAIN-SUFFIX, gebank.ru                     # JSC Gazenergobank
+DOMAIN-SUFFIX, genbank.ru                    # JSC Genbank
+DOMAIN-SUFFIX, ibamoscow.ru                  # LLC Bank IBA-Moscow (International Bank of Azerbaijan)
+DOMAIN-SUFFIX, icbcmoscow.ru                 # JSC Bank ICBC (Moscow)
+DOMAIN-SUFFIX, in-bank.ru                    # LLC Inbank
+DOMAIN-SUFFIX, ingobank.ru                   # JSC Ingosstrakh Bank
+DOMAIN-SUFFIX, jpmorgan.ru                   # LLC J.P. Morgan Bank International
+DOMAIN-SUFFIX, kamkombank.ru                 # LLC Kamkombank
+DOMAIN-SUFFIX, kbb.ru                        # JSC Kuznetskbusinessbank
+DOMAIN-SUFFIX, kremlinbank.ru                # LLC CB Kremlevsky
+DOMAIN-SUFFIX, kubankredit.ru                # LLC CB Kuban Kredit
+DOMAIN-SUFFIX, kuzbank.ru                    # PJSC Bank Kuznetsky
+DOMAIN-SUFFIX, lanta.ru                      # JSC JSCB Lanta-Bank
+DOMAIN-SUFFIX, lockobank.ru                  # JSC CB Locko-Bank
+DOMAIN-SUFFIX, maritimebank.com              # JSC Maritime Bank
+DOMAIN-SUFFIX, mcbank.ru                     # PJSC Bank Moscow-City
+DOMAIN-SUFFIX, mfk-bank.ru                   # JSC JSCB International Financial Club (MFK Bank)
+DOMAIN-SUFFIX, modulbank.ru                  # JSC CB Modulbank
+DOMAIN-SUFFIX, mvs-bank.ru                   # JSC MVS Bank
+DOMAIN-SUFFIX, nico-bank.ru                  # JSC Nico-Bank
+DOMAIN-SUFFIX, nipbank.ru                    # JSC Natsinvestprombank (National Investment and Industrial Bank)
+DOMAIN-SUFFIX, noosferabank.ru               # JSC Noosfera
+DOMAIN-SUFFIX, norvikbank.ru                 # PJSC Norvik Bank
+DOMAIN-SUFFIX, novikom.ru                    # JSC JSCB Novikombank
+DOMAIN-SUFFIX, novobank.ru                   # PJSC UCB Novobank
+DOMAIN-SUFFIX, ns-bank.ru                    # JSC Bank National Standard
+DOMAIN-SUFFIX, nskbl.ru                      # PJSC Bank Levoberezhny
+DOMAIN-SUFFIX, okbank.ru                     # JSC Bank Obyedinenny Kapital (United Capital)
+DOMAIN-SUFFIX, orbank.ru                     # JSC Bank Orenburg
+DOMAIN-SUFFIX, pikhtabank.ru                 # LLC Pikhta Bank (formerly Volkswagen Bank Rus)
+DOMAIN-SUFFIX, poidem.ru                     # JSC CB Poidem!
+DOMAIN-SUFFIX, primbank.ru                   # PJSC JSCB Primorye
+DOMAIN-SUFFIX, priobye.ru                    # JSC Bank Priobye
+DOMAIN-SUFFIX, priovtb.com                   # PJSC Prio-Vneshtorgbank
+DOMAIN-SUFFIX, pskb.com                      # PJSC Petersburg Social Commercial Bank (PSCB)
+DOMAIN-SUFFIX, raiffeisen.ru                 # JSC Raiffeisenbank
+DOMAIN-SUFFIX, rencapbank.ru                 # JSC RenCap Bank (formerly JSC Citibank)
+DOMAIN-SUFFIX, rencredit.ru                  # LLC CB Renaissance Credit
+DOMAIN-SUFFIX, resocreditbank.ru             # JSC RESO Credit
+DOMAIN-SUFFIX, rsb.ru                        # JSC Russian Standard Bank
+DOMAIN-SUFFIX, rshb.ru                       # JSC Russian Agricultural Bank (Rosselkhozbank)
+DOMAIN-SUFFIX, ru.ccb.com                    # JSC China Construction Bank (Russia)
+DOMAIN-SUFFIX, sbibankllc.ru                 # LLC SBI Bank (State Bank of India)
+DOMAIN-SUFFIX, sdm.ru                        # JSC SDM-Bank
+DOMAIN-SUFFIX, seb.ru                        # JSC SEB Bank
+DOMAIN-SUFFIX, selkombank.ru                 # LLC Kostromaselkombank
+DOMAIN-SUFFIX, sevnb.ru                      # JSC Severny Narodny Bank
+DOMAIN-SUFFIX, sibsoc.ru                     # LLC Sibsotsbank
+DOMAIN-SUFFIX, sinara.ru                     # PJSC Bank Sinara (formerly SKB-Bank)
+DOMAIN-SUFFIX, slavbank.ru                   # JSC NCB Slavyanbank
+DOMAIN-SUFFIX, slbank.ru                     # LLC CB Stroylesbank
+DOMAIN-SUFFIX, smbcr-bank.ru                 # LLC Sumitomo Mitsui Rus Bank
+DOMAIN-SUFFIX, sngb.ru                       # JSC Bank SNGB (Surgutneftegazbank)
+DOMAIN-SUFFIX, socium-bank.ru                # LLC Socium-Bank
+DOMAIN-SUFFIX, ssb.msk.ru                    # LLC CB Spetsstroybank
+DOMAIN-SUFFIX, svoi.ru                       # JSC Svoi Bank (formerly Gazneftbank)
+DOMAIN-SUFFIX, tagbank.ru                    # PJSC Taganrogbank
+DOMAIN-SUFFIX, tatsotsbank.ru                # LLC Tatsotsbank
+DOMAIN-SUFFIX, thbank.ru                     # JSC Tolyattikhimbank
+DOMAIN-SUFFIX, timerbank.ru                  # JSC Timer Bank
+DOMAIN-SUFFIX, toyota-bank.ru                # JSC Toyota Bank
+DOMAIN-SUFFIX, ubrr.ru                       # PJSC CB UBRD (Ural Bank for Reconstruction and Development)
+DOMAIN-SUFFIX, united.ru                     # JSC Yenisei United Bank
+DOMAIN-SUFFIX, uralfd.ru                     # PJSC Ural FD
+DOMAIN-SUFFIX, uralprombank.ru               # JSC Uralprombank
+DOMAIN-SUFFIX, uralsib.ru                    # PJSC Bank Uralsib
+DOMAIN-SUFFIX, vbrr.ru                       # JSC VBRR (All-Russian Regional Development Bank)
+DOMAIN-SUFFIX, venets-bank.ru                # JSC Bank Venets
+DOMAIN-SUFFIX, vfbank.ru                     # LLC CB Vneshfinbank
+DOMAIN-SUFFIX, vlb100.ru                     # JSC Velikiye Luki Bank
+DOMAIN-SUFFIX, vlbb.ru                       # JSC Vladbusinessbank
+DOMAIN-SUFFIX, wb-bank.ru                    # LLC Wildberries Bank
+DOMAIN-SUFFIX, ziraatbank.ru                 # JSC Ziraat Bank (Moscow)
 
 
 DOMAIN-SUFFIX, fibank.bg

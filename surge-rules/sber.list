@@ -19,7 +19,6 @@ DOMAIN-SUFFIX, playfamily.ru
 DOMAIN-SUFFIX, okko.sport
 DOMAIN-SUFFIX, okko.tv
 
-
 DOMAIN-SUFFIX, bps-sberbank.by
 DOMAIN-SUFFIX, sber-bank.by
 DOMAIN-SUFFIX, sber.ru
@@ -27,16 +26,31 @@ DOMAIN-SUFFIX, sberbank.com
 DOMAIN-SUFFIX, sberbank.ru
 DOMAIN-SUFFIX, sbrf.ru
 
-# Ads/tracking
+# NCO ЮMoney
+DOMAIN-SUFFIX, yookassa.ru
+DOMAIN-SUFFIX, yoomoney.ru
+
+# Sber Spasibo (loyalty service)
+DOMAIN-SUFFIX, cplsb.ru
+DOMAIN-SUFFIX, sberspasibo.ru
+DOMAIN-SUFFIX, spasibo.digital
+DOMAIN-SUFFIX, spasibo.market
+DOMAIN-SUFFIX, spasibobonus.ru
+DOMAIN-SUFFIX, spasibosb.ru
+DOMAIN-SUFFIX, spasibosberbank.ru
+
 DOMAIN-SUFFIX, ads.sber.ru
 DOMAIN-SUFFIX, clickstream.sberbank.ru
+DOMAIN, visor.sberbank.ru
+
+
+# Ads/tracking
 DOMAIN-SUFFIX, neon.click
 DOMAIN-SUFFIX, sbermarketing.ru
 DOMAIN, error-tracking.megamarket.tech
 DOMAIN, metrics.21-school.ru
 DOMAIN, sentry.sberauto.com
 DOMAIN, tracing-http.megamarket.tech
-DOMAIN, visor.sberbank.ru
 
 # Business ecosystem
 DOMAIN-SUFFIX, id.ru
@@ -120,15 +134,6 @@ DOMAIN-SUFFIX, otello.ru
 ## Sber Pro
 DOMAIN-SUFFIX, sber.pro
 DOMAIN, sberpro.vedomosti.ru
-
-## Sber Spasibo (loyalty service)
-DOMAIN-SUFFIX, cplsb.ru
-DOMAIN-SUFFIX, sberspasibo.ru
-DOMAIN-SUFFIX, spasibo.digital
-DOMAIN-SUFFIX, spasibo.market
-DOMAIN-SUFFIX, spasibobonus.ru
-DOMAIN-SUFFIX, spasibosb.ru
-DOMAIN-SUFFIX, spasibosberbank.ru
 
 ## Sber Tech
 DOMAIN-SUFFIX, accesspoint.uz
