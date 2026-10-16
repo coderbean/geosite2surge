@@ -3,6 +3,7 @@ DOMAIN-SUFFIX, playstation
 
 DOMAIN-SUFFIX, playstation.com
 DOMAIN-SUFFIX, playstation.net
+DOMAIN-SUFFIX, playstationnetwork.com
 DOMAIN-SUFFIX, sonyentertainmentnetwork.com
 
 DOMAIN-SUFFIX, imageworks.com
@@ -25,15 +26,17 @@ DOMAIN-SUFFIX, yourfantasybeginsnow.com
 DOMAIN-SUFFIX, sony
 
 # Sony Network Communications Inc.
-DOMAIN-SUFFIX, sonynetwork.co.jp
 DOMAIN-SUFFIX, nuro.jp
 DOMAIN-SUFFIX, so-net.ne.jp
+DOMAIN-SUFFIX, sonynetwork.co.jp
 
 # Sony Semiconductor Solutions Corporation
 DOMAIN-SUFFIX, sony-semicon.co.jp
 DOMAIN-SUFFIX, sony-semicon.com
 
 DOMAIN-SUFFIX, ginzasonypark.jp
+DOMAIN-SUFFIX, scea.com
+DOMAIN-SUFFIX, so-net.net.tw
 DOMAIN-SUFFIX, sony-africa.com
 DOMAIN-SUFFIX, sony-asia.com
 DOMAIN-SUFFIX, sony-europe.com
@@ -76,6 +79,7 @@ DOMAIN-SUFFIX, sony.com.ni
 DOMAIN-SUFFIX, sony.com.pa
 DOMAIN-SUFFIX, sony.com.pe
 DOMAIN-SUFFIX, sony.com.ph
+DOMAIN-SUFFIX, sony.com.py
 DOMAIN-SUFFIX, sony.com.sg
 DOMAIN-SUFFIX, sony.com.sv
 DOMAIN-SUFFIX, sony.com.tr
@@ -116,11 +120,12 @@ DOMAIN-SUFFIX, sonybuilding.jp
 DOMAIN-SUFFIX, sonydesign.com
 DOMAIN-SUFFIX, sonydna.com # Sony Digital Network Applications Inc.
 DOMAIN-SUFFIX, sonyglobalsolutions.jp
+DOMAIN-SUFFIX, sonyinteractive.com
 DOMAIN-SUFFIX, sonykigyo.jp
 DOMAIN-SUFFIX, sonylatvija.com
+DOMAIN-SUFFIX, sonymusic.com.hk
 DOMAIN-SUFFIX, sonypcl.jp
 DOMAIN-SUFFIX, sonyprotechnosupport.co.jp
 DOMAIN-SUFFIX, sonystoragemedia.co.jp # Sony Storage Media Solutions Corporation
 DOMAIN-SUFFIX, sonytc.co.jp
 DOMAIN-SUFFIX, sovec.net
-DOMAIN-SUFFIX, so-net.net.tw
