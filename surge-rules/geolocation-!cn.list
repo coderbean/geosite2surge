@@ -45,6 +45,7 @@ DOMAIN-SUFFIX, cursor-cdn.com
 DOMAIN-SUFFIX, cursor.com
 DOMAIN-SUFFIX, cursor.sh
 DOMAIN-SUFFIX, cursorapi.com
+DOMAIN-SUFFIX, cursorvm.com
 
 DOMAIN-SUFFIX, elevenlabs.com
 DOMAIN-SUFFIX, elevenlabs.io
@@ -161,6 +162,7 @@ DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaistatsig.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, openai.org
 DOMAIN-SUFFIX, sora.com
 
 # CDN & API
@@ -230,6 +232,9 @@ DOMAIN-SUFFIX, deepwiki.org
 # Jasper
 DOMAIN-SUFFIX, clipdrop.co
 DOMAIN-SUFFIX, jasper.ai
+
+# Jev
+DOMAIN-SUFFIX, typesafe.ai
 
 # Kimi/Moonshot
 DOMAIN-SUFFIX, kimi.ai
@@ -2450,6 +2455,7 @@ DOMAIN-SUFFIX, schwab.com
 DOMAIN-SUFFIX, schwab.com.hk
 DOMAIN-SUFFIX, schwab.com.sg
 DOMAIN-SUFFIX, schwabassetmanagement.com
+DOMAIN-SUFFIX, schwabcdn.com
 DOMAIN-SUFFIX, schwabplan.com
 
 DOMAIN-SUFFIX, sc.com
@@ -25414,8 +25420,19 @@ DOMAIN-SUFFIX, bwh88.net
 DOMAIN-SUFFIX, bwh89.net
 DOMAIN-SUFFIX, bwhstatus.com
 
+DOMAIN-SUFFIX, beget.app
+DOMAIN-SUFFIX, beget.cloud
 DOMAIN-SUFFIX, beget.com
+DOMAIN-SUFFIX, beget.de
+DOMAIN-SUFFIX, beget.hosting
+DOMAIN-SUFFIX, beget.pro
 DOMAIN-SUFFIX, beget.ru
+DOMAIN-SUFFIX, beget.tech
+DOMAIN-SUFFIX, begetcdn.cloud
+DOMAIN-SUFFIX, beserver.ru
+DOMAIN-SUFFIX, bget.ru
+DOMAIN-SUFFIX, sprut.io
+DOMAIN-SUFFIX, xn--90aefb9d.xn--p1ai
 
 DOMAIN-SUFFIX, blurams.app
 DOMAIN-SUFFIX, blurams.com
@@ -29947,6 +29964,8 @@ DOMAIN-SUFFIX, boringcompany.com
 
 DOMAIN-SUFFIX, timeweb.cloud
 DOMAIN-SUFFIX, timeweb.com
+DOMAIN-SUFFIX, timeweb.tech
+DOMAIN-SUFFIX, timewebcloud.kz
 DOMAIN-SUFFIX, twcstorage.ru
 
 DOMAIN-SUFFIX, internetdownloadmanager.com

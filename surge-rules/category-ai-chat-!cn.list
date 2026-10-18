@@ -44,6 +44,7 @@ DOMAIN-SUFFIX, cursor-cdn.com
 DOMAIN-SUFFIX, cursor.com
 DOMAIN-SUFFIX, cursor.sh
 DOMAIN-SUFFIX, cursorapi.com
+DOMAIN-SUFFIX, cursorvm.com
 
 DOMAIN-SUFFIX, elevenlabs.com
 DOMAIN-SUFFIX, elevenlabs.io
@@ -160,6 +161,7 @@ DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaistatsig.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, openai.org
 DOMAIN-SUFFIX, sora.com
 
 # CDN & API
@@ -229,6 +231,9 @@ DOMAIN-SUFFIX, deepwiki.org
 # Jasper
 DOMAIN-SUFFIX, clipdrop.co
 DOMAIN-SUFFIX, jasper.ai
+
+# Jev
+DOMAIN-SUFFIX, typesafe.ai
 
 # Kimi/Moonshot
 DOMAIN-SUFFIX, kimi.ai
