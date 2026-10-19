@@ -1,0 +1,106 @@
+## Multi domains
+# BeyondATC
+DOMAIN-SUFFIX, beyondatc.app
+DOMAIN-SUFFIX, beyondatc.net
+
+# FSDreamTeam (FSDT)
+DOMAIN-SUFFIX, fsdreamteam.com
+DOMAIN-SUFFIX, virtualisoftware.com
+DOMAIN, fsdt.virtuali.s3.amazonaws.com
+
+# HiFi
+DOMAIN-SUFFIX, hifisimtech.com
+DOMAIN-SUFFIX, hifisimtech.zendesk.com
+
+# Infiniti Flight
+DOMAIN-SUFFIX, infiniteflight.com
+DOMAIN-SUFFIX, infiniteflight.live
+
+# Microsoft Flight Simulator
+DOMAIN-SUFFIX, asobostudio.com
+DOMAIN-SUFFIX, flightsimulator.com
+
+DOMAIN, flightsimulator.azureedge.net
+
+
+# Navigraph
+DOMAIN-SUFFIX, navigraph.com
+DOMAIN-SUFFIX, simbrief.com
+
+# Orbx
+DOMAIN-SUFFIX, orbxdirect.com
+DOMAIN-SUFFIX, orbxsystems.com
+
+# PMDG Simulations
+DOMAIN-SUFFIX, pmdg.com
+DOMAIN-SUFFIX, precisionmanuals.com
+
+# REX Simulations
+DOMAIN-SUFFIX, rexgamestudios.com
+DOMAIN-SUFFIX, rexsimulations.com
+
+# VATSIM
+DOMAIN-SUFFIX, vat-apac.com
+DOMAIN-SUFFIX, vatca.org
+DOMAIN-SUFFIX, vatcan.ca
+DOMAIN-SUFFIX, vatcar.net
+DOMAIN-SUFFIX, vateud.net
+DOMAIN-SUFFIX, vathk.com
+DOMAIN-SUFFIX, vatil.org.il
+DOMAIN-SUFFIX, vatjpn.org
+DOMAIN-SUFFIX, vatkor.net
+DOMAIN-SUFFIX, vatmex.com.mx
+DOMAIN-SUFFIX, vatnz.net
+DOMAIN-SUFFIX, vatpac.org
+DOMAIN-SUFFIX, vatprc.net
+DOMAIN-SUFFIX, vatroc.net
+DOMAIN-SUFFIX, vats.im
+DOMAIN-SUFFIX, vatsea.org
+DOMAIN-SUFFIX, vatsim.com.br
+DOMAIN-SUFFIX, vatsim.dev
+DOMAIN-SUFFIX, vatsim.me
+DOMAIN-SUFFIX, vatsim.net
+DOMAIN-SUFFIX, vatsim.uk
+DOMAIN-SUFFIX, vatssa.com
+DOMAIN-SUFFIX, vatsur.org
+DOMAIN-SUFFIX, vatusa.net
+DOMAIN-SUFFIX, vatwa.net
+
+
+# Virtual Air Traffic Simulation Networks
+DOMAIN-SUFFIX, apocfly.com
+DOMAIN-SUFFIX, flyisfp.com
+DOMAIN-SUFFIX, ivao.aero
+DOMAIN-SUFFIX, pilotedge.net
+DOMAIN-SUFFIX, poscon.net
+DOMAIN-SUFFIX, skylitefly.com
+
+## Single domains
+DOMAIN-SUFFIX, a2asimulations.com # A2A Simulations
+DOMAIN-SUFFIX, aerosoft.com # Aerosoft
+DOMAIN-SUFFIX, carenado.com # Carenado
+DOMAIN-SUFFIX, css.aero # CSS Software
+DOMAIN-SUFFIX, digitalcombatsimulator.com # DCS
+DOMAIN-SUFFIX, fenixsim.com # Fenix Simulations
+DOMAIN-SUFFIX, flight1.com # Flight1
+DOMAIN-SUFFIX, flightsim.to # Marketplace
+DOMAIN-SUFFIX, flightsimlabs.com # Flight Sim Labs (FSL)
+DOMAIN-SUFFIX, flybywiresim.com # Fly By Wire Simulations
+DOMAIN-SUFFIX, flytampa.org # FlyTampa
+DOMAIN-SUFFIX, fs2crew.com # FS2Crew
+DOMAIN-SUFFIX, hoppie.nl # Virtual ACARS system
+DOMAIN-SUFFIX, inibuilds.com # IniBuilds
+DOMAIN-SUFFIX, justflight.com # Just Flight
+DOMAIN-SUFFIX, parallel42.com # Parallel 42
+DOMAIN-SUFFIX, prepar3d.com # Prepar3D
+DOMAIN-SUFFIX, rosscarlson.dev # VATSIM developer
+DOMAIN-SUFFIX, sayintentions.ai # SayIntentions
+DOMAIN-SUFFIX, simmarket.com # SimMarket
+DOMAIN-SUFFIX, synapticsim.com # Synaptic Simulations
+DOMAIN-SUFFIX, tfdidesign.com # TFDi Design
+DOMAIN-SUFFIX, thresholdx.net # Threshold
+DOMAIN-SUFFIX, vatsim-radar.com # Online map
+DOMAIN-SUFFIX, x-plane.com # X-Plane official website
+DOMAIN-SUFFIX, x-plane.org # X-Plane community
+DOMAIN-SUFFIX, xenviro.net # xEnviro
+DOMAIN-SUFFIX, xpilot-project.org # xPilot

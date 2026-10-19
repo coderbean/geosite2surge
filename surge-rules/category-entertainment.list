@@ -862,6 +862,9 @@ DOMAIN-SUFFIX, robloxlabs.com
 DOMAIN-SUFFIX, rowblocks.com
 DOMAIN-SUFFIX, rowblox.com
 DOMAIN, d1unuk07s6td74.cloudfront.net
+DOMAIN, d348twzf7a8p5.cloudfront.net
+DOMAIN, devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
+DOMAIN, doy2mn9upadnk.cloudfront.net
 DOMAIN, roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 DOMAIN, roblox-poc.global.ssl.fastly.net
 DOMAIN, robloxcorp.s.llnwi.net
@@ -1082,11 +1085,6 @@ DOMAIN-SUFFIX, wbgames.com
 DOMAIN-SUFFIX, wbinsights.com
 
 #include:activision-blizzard
-DOMAIN-SUFFIX, asobostudio.com
-DOMAIN-SUFFIX, flightsimulator.com
-
-DOMAIN, flightsimulator.azureedge.net
-
 DOMAIN-SUFFIX, beth.games
 DOMAIN-SUFFIX, bethesda.net
 DOMAIN-SUFFIX, bethesdagamestudios.com
@@ -2113,6 +2111,7 @@ DOMAIN-SUFFIX, primevideo.info
 DOMAIN-SUFFIX, primevideo.org
 DOMAIN-SUFFIX, primevideo.tv
 DOMAIN-SUFFIX, prod.service.minerva.devices.a2z.com
+DOMAIN-SUFFIX, pv-cdn.net
 
 # radiko official access and streaming domains
 
