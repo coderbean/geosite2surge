@@ -198,3 +198,14 @@ DOMAIN-SUFFIX, eadaily.net
 DOMAIN-SUFFIX, eadaily.org
 DOMAIN-SUFFIX, eadaily.su
 DOMAIN-SUFFIX, eurasiadaily.su
+
+# Western-Orthodox Christianity resources
+DOMAIN-SUFFIX, azbyka.ru
+DOMAIN-SUFFIX, posledovania.ru
+DOMAIN-SUFFIX, pravoslavie.ru
+DOMAIN-SUFFIX, webtypikon.ru
+DOMAIN-SUFFIX, xn--80adfddrquddgz.xn--p1ai # последование.рф
+
+# Pravmir, daily News articles provider that inserts opinion of the Western-Orthodox Church
+DOMAIN-SUFFIX, pravmir.com
+DOMAIN-SUFFIX, pravmir.ru

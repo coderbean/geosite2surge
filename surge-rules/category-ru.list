@@ -302,6 +302,7 @@ DOMAIN-SUFFIX, tak-pravilno.com     # Website about proper spelling in russian
 # "Networked city" — an russian automated information system that integrates educational institutions of all types into a single information network
 DOMAIN-SUFFIX, altaiobr04.ru
 DOMAIN-SUFFIX, chelyabinsk-sgo-edu-74.ru
+DOMAIN-SUFFIX, hse.ru                # Higher School of Economics University
 DOMAIN-SUFFIX, obr03.ru
 DOMAIN-SUFFIX, setevoygorodkrasnodar.ru
 DOMAIN-SUFFIX, sgo-egov66.ru
@@ -324,6 +325,11 @@ DOMAIN-SUFFIX, kinorium.com
 # Streaming services for watching TV series and movies
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX, kp.yandex.net
+
+# Smart TV app
+DOMAIN, kp-config-smart-tv.akamaized.net
+DOMAIN, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 
 DOMAIN-SUFFIX, okkoapi.tv
 DOMAIN-SUFFIX, playfamily.ru
@@ -358,15 +364,16 @@ DOMAIN-SUFFIX, rutube.sport
 
 
 DOMAIN-SUFFIX, dtf.ru           # Platform for discussing games, movies, development, technology and everything else in the world
+DOMAIN-SUFFIX, joyreactor.cc    # All-purpose RU forum
 DOMAIN-SUFFIX, opennet.dev      # Website about open source, linux, BSD and unix systems
 DOMAIN-SUFFIX, opennet.ru       # Opennent`s alternative domain
-DOMAIN-SUFFIX, prodota.ru       # Website about Dota 2
 DOMAIN-SUFFIX, pikabu.ru        # Popular forum
+DOMAIN-SUFFIX, prodota.ru       # Website about Dota 2
 DOMAIN-SUFFIX, tischenko.su     # Opennent`s alternative domain
 DOMAIN-SUFFIX, vc.ru            # Popular forum
+DOMAIN-SUFFIX, yap.ru           # Yaplakal`s alternative domain
 DOMAIN-SUFFIX, yapfiles.ru      # Free file storage service
 DOMAIN-SUFFIX, yaplakal.com     # Entertainment forum
-DOMAIN-SUFFIX, yap.ru           # Yaplakal`s alternative domain
 
 # Federal Gov.
 DOMAIN-SUFFIX, gov.ru          # Russian government server
@@ -401,6 +408,7 @@ DOMAIN-SUFFIX, izbirkom.ru     # Information on ongoing elections and referendum
 DOMAIN-SUFFIX, kremlin.ru      # Online representation of the President of Russia
 DOMAIN-SUFFIX, mil.ru          # Ministry of Defense of the Russian Federation
 DOMAIN-SUFFIX, nalog.ru        # Federal Tax Service
+DOMAIN-SUFFIX, regionvideo.ru  # CDN edges for government agitations
 DOMAIN-SUFFIX, xn--80ajghhoc2aj1c8b.xn--p1ai     # Honest Sign - State Labeling System
 DOMAIN-SUFFIX, xn--90aivcdt6dxbc.xn--p1ai        # Explaining Russia - A website with answers to questions
 DOMAIN-SUFFIX, xn--b1afabzvcegckfhg.xn--p1ai     # Military Registration Register
@@ -544,6 +552,10 @@ DOMAIN-SUFFIX, yanao.ru        # Yamalo-Nenets Autonomous Okrug
 
 # Regional health services
 DOMAIN-SUFFIX, zdrav10.ru      # Republic of Karelia
+
+# Russian Patriarchate resources
+DOMAIN-SUFFIX, mospat.ru       # Organization of the Department of External Church Relations of the Moscow Patriarchate
+DOMAIN-SUFFIX, patriarchia.ru  # Offician Moscow Patriarchate resource
 
 # This file contains Russian media *based in Russia*, i.e. not prosecuted by the state
 # Rossiya Segodnya (lit. 'Russia Today') media group (Federal State Unitary Enterprise MIA 'Russia Today')
@@ -745,6 +757,17 @@ DOMAIN-SUFFIX, eadaily.net
 DOMAIN-SUFFIX, eadaily.org
 DOMAIN-SUFFIX, eadaily.su
 DOMAIN-SUFFIX, eurasiadaily.su
+
+# Western-Orthodox Christianity resources
+DOMAIN-SUFFIX, azbyka.ru
+DOMAIN-SUFFIX, posledovania.ru
+DOMAIN-SUFFIX, pravoslavie.ru
+DOMAIN-SUFFIX, webtypikon.ru
+DOMAIN-SUFFIX, xn--80adfddrquddgz.xn--p1ai # последование.рф
+
+# Pravmir, daily News articles provider that inserts opinion of the Western-Orthodox Church
+DOMAIN-SUFFIX, pravmir.com
+DOMAIN-SUFFIX, pravmir.ru
 
 # BudZdorov – network of multidisciplinary medical clinics
 DOMAIN-SUFFIX, klinikabudzdorov.ru
@@ -1088,6 +1111,18 @@ DOMAIN-SUFFIX, bget.ru
 DOMAIN-SUFFIX, sprut.io
 DOMAIN-SUFFIX, xn--90aefb9d.xn--p1ai
 
+DOMAIN-SUFFIX, 1c-bitrix.ru
+DOMAIN-SUFFIX, bitrix.info
+DOMAIN-SUFFIX, bitrix24.com
+DOMAIN-SUFFIX, bitrix24.net
+DOMAIN-SUFFIX, bitrix24.ru
+DOMAIN-SUFFIX, bitrix24.tech
+DOMAIN-SUFFIX, bitrix24public.com
+DOMAIN-SUFFIX, bitrix24shop.ru
+DOMAIN-SUFFIX, bitrix24site.ru
+DOMAIN-SUFFIX, bitrixphone.com
+DOMAIN-SUFFIX, bitrixsoft.com
+
 DOMAIN-SUFFIX, carrot-mail.io
 DOMAIN-SUFFIX, carrotquest-mail.io
 DOMAIN-SUFFIX, carrotquest.app
@@ -1370,9 +1405,12 @@ DOMAIN, s17.upd.kaspersky.com
 DOMAIN, s18.upd.kaspersky.com
 DOMAIN, s19.upd.kaspersky.com
 
-DOMAIN-SUFFIX, kontur.ru
-DOMAIN-SUFFIX, kontur.host
 DOMAIN-SUFFIX, kontur-inc.com
+DOMAIN-SUFFIX, kontur.host
+DOMAIN-SUFFIX, kontur.ru
+DOMAIN-SUFFIX, ktalk.host
+DOMAIN-SUFFIX, ktalk.ru
+
 DOMAIN, metrika.kontur.ru
 DOMAIN, sentry.kontur.host
 
@@ -2041,6 +2079,11 @@ DOMAIN-SUFFIX, whoosh.bike
 
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX, kp.yandex.net
+
+# Smart TV app
+DOMAIN, kp-config-smart-tv.akamaized.net
+DOMAIN, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 
 
 # All .yandex domains
@@ -2651,6 +2694,11 @@ DOMAIN-SUFFIX, efin.ru
 ## Financial marketplace
 DOMAIN-SUFFIX, banki.ru
 DOMAIN-SUFFIX, finuslugi.ru
+## Insurance companies
+DOMAIN-SUFFIX, amt-insurance.com
+DOMAIN-SUFFIX, lexgarant.com
+DOMAIN-SUFFIX, renins.com
+DOMAIN-SUFFIX, renins.ru
 ## Investment
 DOMAIN-SUFFIX, sistema-capital.com
 ## Mir payment system
@@ -2699,6 +2747,9 @@ DOMAIN-SUFFIX, kion.ru
 DOMAIN-SUFFIX, mtsmedia.ru
 DOMAIN-SUFFIX, on-media.ru
 
+# MTS-link, a video-conference application
+DOMAIN-SUFFIX, mts-link.ru
+
 DOMAIN-SUFFIX, restream-media.net
 DOMAIN-SUFFIX, restream.ru
 DOMAIN-SUFFIX, more.tv
@@ -2725,6 +2776,7 @@ DOMAIN-SUFFIX, mcc250.pub.3gppnetwork.org # Mobile IMS
 # Other services
 DOMAIN-SUFFIX, 3ebra.net          # Zebra Net Bureau, web development agency
 DOMAIN-SUFFIX, apptrackpets.com   # Pet GPS tracker service (Yandex Cloud, reg.ru)
+DOMAIN-SUFFIX, chat2desk.com      # Omnichannel communications platform and chat center
 DOMAIN-SUFFIX, flomni.com         # Omnichannel communications platform
 DOMAIN-SUFFIX, foto-planeta.com   # Photo encyclopedia of settlements
 DOMAIN-SUFFIX, gazfond-pn.ru      # Non-state pension fund GAZFOND pension savings
@@ -2737,6 +2789,7 @@ DOMAIN-SUFFIX, pochta.ru          # Russian post
 DOMAIN-SUFFIX, ponyexpress.ru     # Courier delivery service
 DOMAIN-SUFFIX, qms.ru             # Russian internet speed testing service
 DOMAIN-SUFFIX, randomgodbot.com   # Telegram randomizer bot
+DOMAIN-SUFFIX, robohall.tech      # Robohall, creative engineering and robotics studio (Moscow, Russia)
 DOMAIN-SUFFIX, srv-hub.org        # Website buider
 DOMAIN-SUFFIX, t1.cloud           # Russian cloud storage provider
 DOMAIN-SUFFIX, taxsee.com         # Taxi for business (self-employed drivers)

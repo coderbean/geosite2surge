@@ -8476,6 +8476,9 @@ DOMAIN-SUFFIX, kion.ru
 DOMAIN-SUFFIX, mtsmedia.ru
 DOMAIN-SUFFIX, on-media.ru
 
+# MTS-link, a video-conference application
+DOMAIN-SUFFIX, mts-link.ru
+
 DOMAIN-SUFFIX, musixmatch.com
 DOMAIN-SUFFIX, mxmcdn.net
 
@@ -9518,6 +9521,11 @@ DOMAIN-SUFFIX, ysm.yahoo.com
 
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX, kp.yandex.net
+
+# Smart TV app
+DOMAIN, kp-config-smart-tv.akamaized.net
+DOMAIN, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 
 
 # All .yandex domains

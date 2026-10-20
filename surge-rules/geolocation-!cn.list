@@ -263,6 +263,7 @@ DOMAIN-SUFFIX, kiro.dev
 DOMAIN-SUFFIX, langchain.com
 DOMAIN-SUFFIX, lmstudio.ai
 DOMAIN-SUFFIX, lovart.ai
+DOMAIN-SUFFIX, magnific.com
 DOMAIN-SUFFIX, midjourney.com
 DOMAIN-SUFFIX, minimax.io
 DOMAIN-SUFFIX, mistral.ai
@@ -6457,6 +6458,11 @@ DOMAIN-SUFFIX, kinorium.com
 # Streaming services for watching TV series and movies
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX, kp.yandex.net
+
+# Smart TV app
+DOMAIN, kp-config-smart-tv.akamaized.net
+DOMAIN, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 
 DOMAIN-SUFFIX, okkoapi.tv
 DOMAIN-SUFFIX, playfamily.ru
@@ -20757,6 +20763,7 @@ DOMAIN-SUFFIX, php.net
 DOMAIN-SUFFIX, piwheels.org
 DOMAIN-SUFFIX, plasma-mobile.org
 DOMAIN-SUFFIX, postgresql.org
+DOMAIN-SUFFIX, postman.com
 DOMAIN-SUFFIX, putty.org
 DOMAIN-SUFFIX, r-project.org
 DOMAIN-SUFFIX, raspberrypi.org
@@ -29278,6 +29285,9 @@ DOMAIN-SUFFIX, kion.ru
 DOMAIN-SUFFIX, mtsmedia.ru
 DOMAIN-SUFFIX, on-media.ru
 
+# MTS-link, a video-conference application
+DOMAIN-SUFFIX, mts-link.ru
+
 DOMAIN-SUFFIX, musixmatch.com
 DOMAIN-SUFFIX, mxmcdn.net
 
@@ -30320,6 +30330,11 @@ DOMAIN-SUFFIX, ysm.yahoo.com
 
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX, kp.yandex.net
+
+# Smart TV app
+DOMAIN, kp-config-smart-tv.akamaized.net
+DOMAIN, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 
 
 # All .yandex domains

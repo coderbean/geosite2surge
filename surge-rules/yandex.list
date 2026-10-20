@@ -1,5 +1,10 @@
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX, kp.yandex.net
+
+# Smart TV app
+DOMAIN, kp-config-smart-tv.akamaized.net
+DOMAIN, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 
 
 # All .yandex domains

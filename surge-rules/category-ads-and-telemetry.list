@@ -6893,9 +6893,12 @@ DOMAIN-SUFFIX, img-x.jd.com
 DOMAIN-SUFFIX, jzt.jd.com
 DOMAIN-SUFFIX, stat.m.jd.com
 
-DOMAIN-SUFFIX, kontur.ru
-DOMAIN-SUFFIX, kontur.host
 DOMAIN-SUFFIX, kontur-inc.com
+DOMAIN-SUFFIX, kontur.host
+DOMAIN-SUFFIX, kontur.ru
+DOMAIN-SUFFIX, ktalk.host
+DOMAIN-SUFFIX, ktalk.ru
+
 DOMAIN, metrika.kontur.ru
 DOMAIN, sentry.kontur.host
 
@@ -8968,6 +8971,9 @@ DOMAIN-SUFFIX, kion.ru
 ## ON Media (MTS Media)
 DOMAIN-SUFFIX, mtsmedia.ru
 DOMAIN-SUFFIX, on-media.ru
+
+# MTS-link, a video-conference application
+DOMAIN-SUFFIX, mts-link.ru
 
 DOMAIN-SUFFIX, 126.com
 DOMAIN-SUFFIX, 126.link
@@ -11049,6 +11055,11 @@ DOMAIN-SUFFIX, ysm.yahoo.com
 
 DOMAIN-SUFFIX, kinopoisk.ru
 DOMAIN-SUFFIX, kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX, kp.yandex.net
+
+# Smart TV app
+DOMAIN, kp-config-smart-tv.akamaized.net
+DOMAIN, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 
 
 # All .yandex domains
