@@ -9,6 +9,11 @@ DOMAIN-SUFFIX, emias.ru
 # Federal State Budgetary Institution Polyclinic No. 1 in Moscow
 DOMAIN-SUFFIX, vipmed.ru
 
+# Hello, Doc! – telemedicine and medical laboratory ordering service
+DOMAIN-SUFFIX, hello-doc.ru
+DOMAIN-SUFFIX, hellodoc.app
+DOMAIN-SUFFIX, hellodoc.ru
+
 # Medical insurance policy "SMK RESO-Med"
 DOMAIN-SUFFIX, reso-med.com
 DOMAIN-SUFFIX, reso-med.ru
@@ -20,6 +25,16 @@ DOMAIN-SUFFIX, spboms.ru
 DOMAIN-SUFFIX, oms.karelia.ru
 ## The territorial fund of compulsory medical insurance of the Moscow region
 DOMAIN-SUFFIX, mofoms.ru
+
+# MedRocket – IT platform for healthcare and medical services
+DOMAIN-SUFFIX, medflex.ru
+DOMAIN-SUFFIX, medlock.ru
+DOMAIN-SUFFIX, medrocket.me
+DOMAIN-SUFFIX, medrocket.ru
+DOMAIN-SUFFIX, medtochka.ru
+DOMAIN-SUFFIX, probolezny.ru
+DOMAIN-SUFFIX, prodoctorov.ru
+DOMAIN-SUFFIX, protabletky.ru
 
 # MEDSI – federal network of private clinics
 DOMAIN-SUFFIX, medsi-premium.ru
