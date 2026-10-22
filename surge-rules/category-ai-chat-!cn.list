@@ -1,12 +1,22 @@
 # This list is for backward compatibility
 
+DOMAIN-SUFFIX, ant.dev
 DOMAIN-SUFFIX, anthropic.com
+DOMAIN-SUFFIX, anthropic.team
+DOMAIN-SUFFIX, antspace.dev # https://github.com/AprilNEA/reverse-engineering-claude-code-antspace
+DOMAIN-SUFFIX, chatbotclaude.com
 DOMAIN-SUFFIX, clau.de
 DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claude.app
 DOMAIN-SUFFIX, claude.com
 DOMAIN-SUFFIX, claude.dev
+DOMAIN-SUFFIX, claude.new
+DOMAIN-SUFFIX, claude.site
+DOMAIN-SUFFIX, claudeacademy.com
 DOMAIN-SUFFIX, claudemcpclient.com
 DOMAIN-SUFFIX, claudemcpcontent.com
+DOMAIN-SUFFIX, claudepages.dev
+DOMAIN-SUFFIX, claudestudio.com
 DOMAIN-SUFFIX, claudeusercontent.com
 
 # CDN
@@ -177,6 +187,7 @@ URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 # tracking
 DOMAIN, browser-intake-datadoghq.com
 DOMAIN, o33249.ingest.sentry.io
+DOMAIN, o33249.ingest.us.sentry.io
 DOMAIN, openai.qualtrics.com
 
 # Advanced Voice

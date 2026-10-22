@@ -9088,6 +9088,7 @@ URL-REGEX, ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 # tracking
 DOMAIN, browser-intake-datadoghq.com
 DOMAIN, o33249.ingest.sentry.io
+DOMAIN, o33249.ingest.us.sentry.io
 DOMAIN, openai.qualtrics.com
 
 # Advanced Voice
