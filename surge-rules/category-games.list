@@ -1212,6 +1212,7 @@ DOMAIN-SUFFIX, steamcontent.com
 DOMAIN-SUFFIX, steamconnecttest.com
 DOMAIN-SUFFIX, steamdeck.com
 DOMAIN-SUFFIX, steamgames.com
+DOMAIN-SUFFIX, steamos.cloud
 DOMAIN-SUFFIX, steampowered.com
 DOMAIN-SUFFIX, steamserver.net
 DOMAIN-SUFFIX, steamstatic.com
@@ -1402,6 +1403,7 @@ DOMAIN-SUFFIX, wgcrowd.io
 DOMAIN-SUFFIX, worldoftanks.com
 DOMAIN-SUFFIX, worldoftanks.eu
 DOMAIN-SUFFIX, worldofwarplanes.com
+DOMAIN-SUFFIX, worldofwarships.asia
 DOMAIN-SUFFIX, worldofwarships.com
 DOMAIN-SUFFIX, wotblitz.com
 DOMAIN-SUFFIX, wowsblitz.com
@@ -1493,6 +1495,7 @@ DOMAIN-SUFFIX, fanatical.com
 DOMAIN-SUFFIX, ficgs.com
 DOMAIN-SUFFIX, fitgirl-repacks.site
 DOMAIN-SUFFIX, game-repack.site
+DOMAIN-SUFFIX, gamebanana.com
 DOMAIN-SUFFIX, joinsquad.com
 DOMAIN-SUFFIX, loverslab.com
 DOMAIN-SUFFIX, minecraft.wiki
@@ -1510,9 +1513,13 @@ DOMAIN-SUFFIX, planetminecraft.com
 DOMAIN-SUFFIX, prismlauncher.org
 DOMAIN-SUFFIX, protondb.com
 DOMAIN-SUFFIX, quiltmc.org
+DOMAIN-SUFFIX, r2modman.com
 DOMAIN-SUFFIX, rayark.download
 DOMAIN-SUFFIX, rayark.net
 DOMAIN-SUFFIX, speedrun.com
 DOMAIN-SUFFIX, spigotmc.org
 DOMAIN-SUFFIX, steamdb.info
+DOMAIN-SUFFIX, thunderstore.io
+DOMAIN-SUFFIX, thunderstore.org
+DOMAIN-SUFFIX, wplace.live
 

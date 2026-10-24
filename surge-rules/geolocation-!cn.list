@@ -4111,6 +4111,8 @@ DOMAIN-SUFFIX, bitstamp.net
 DOMAIN-SUFFIX, bittrex.com
 DOMAIN-SUFFIX, blast.io
 DOMAIN-SUFFIX, blockchain.com
+DOMAIN-SUFFIX, blockchair.com
+DOMAIN-SUFFIX, blockchair.net
 DOMAIN-SUFFIX, blockfrost.io
 DOMAIN-SUFFIX, btcbox.co.jp
 DOMAIN-SUFFIX, cex.io
@@ -4127,10 +4129,12 @@ DOMAIN-SUFFIX, coinmarketcap.com
 DOMAIN-SUFFIX, coredao.org
 DOMAIN-SUFFIX, crypto.com
 DOMAIN-SUFFIX, cryptocompare.com
+DOMAIN-SUFFIX, cryptoid.info
 DOMAIN-SUFFIX, cryptomus.com
 DOMAIN-SUFFIX, curve.fi
 DOMAIN-SUFFIX, cyberx.com
 DOMAIN-SUFFIX, debank.com
+DOMAIN-SUFFIX, delets.cash
 DOMAIN-SUFFIX, delets.online
 DOMAIN-SUFFIX, dogecoin.com
 DOMAIN-SUFFIX, drpc.org
@@ -4147,6 +4151,7 @@ DOMAIN-SUFFIX, hashflow.com
 DOMAIN-SUFFIX, hyperliquid.xyz
 DOMAIN-SUFFIX, infura.io
 DOMAIN-SUFFIX, invity.io
+DOMAIN-SUFFIX, kurs.expert
 DOMAIN-SUFFIX, litecoin.org
 DOMAIN-SUFFIX, maple.finance
 DOMAIN-SUFFIX, megaeth.com
@@ -5610,16 +5615,29 @@ DOMAIN-SUFFIX, wmt.co
 DOMAIN-SUFFIX, wish.com
 
 
+DOMAIN-SUFFIX, 24.place
 DOMAIN-SUFFIX, allkeyshop.com
 DOMAIN-SUFFIX, axbdoll.com.tw
+DOMAIN-SUFFIX, craftifyx.com
 DOMAIN-SUFFIX, gamewtb.com
 DOMAIN-SUFFIX, gg.deals
 DOMAIN-SUFFIX, i69.com.tw
 DOMAIN-SUFFIX, kinguin.net
+DOMAIN-SUFFIX, makeship.com
+DOMAIN-SUFFIX, ownaj.com
 DOMAIN-SUFFIX, pornhubapparel.com
 DOMAIN-SUFFIX, readmoo.com
 DOMAIN-SUFFIX, redino.tw
-DOMAIN-SUFFIX, templatemonster.com
+DOMAIN-SUFFIX, tgtime.store
+DOMAIN-SUFFIX, youtooz.com
+
+# Funko Official Store
+DOMAIN-SUFFIX, funko.com
+DOMAIN, funko.my.site.com
+
+# Glitch Productions
+DOMAIN-SUFFIX, glitchprod.com
+DOMAIN-SUFFIX, glitchproductions.store
 
 
 # E-learning & Knowledge & Press & Scholar & Science & Technology
@@ -7344,6 +7362,7 @@ DOMAIN-SUFFIX, steamcontent.com
 DOMAIN-SUFFIX, steamconnecttest.com
 DOMAIN-SUFFIX, steamdeck.com
 DOMAIN-SUFFIX, steamgames.com
+DOMAIN-SUFFIX, steamos.cloud
 DOMAIN-SUFFIX, steampowered.com
 DOMAIN-SUFFIX, steamserver.net
 DOMAIN-SUFFIX, steamstatic.com
@@ -7534,6 +7553,7 @@ DOMAIN-SUFFIX, wgcrowd.io
 DOMAIN-SUFFIX, worldoftanks.com
 DOMAIN-SUFFIX, worldoftanks.eu
 DOMAIN-SUFFIX, worldofwarplanes.com
+DOMAIN-SUFFIX, worldofwarships.asia
 DOMAIN-SUFFIX, worldofwarships.com
 DOMAIN-SUFFIX, wotblitz.com
 DOMAIN-SUFFIX, wowsblitz.com
@@ -7625,6 +7645,7 @@ DOMAIN-SUFFIX, fanatical.com
 DOMAIN-SUFFIX, ficgs.com
 DOMAIN-SUFFIX, fitgirl-repacks.site
 DOMAIN-SUFFIX, game-repack.site
+DOMAIN-SUFFIX, gamebanana.com
 DOMAIN-SUFFIX, joinsquad.com
 DOMAIN-SUFFIX, loverslab.com
 DOMAIN-SUFFIX, minecraft.wiki
@@ -7642,11 +7663,15 @@ DOMAIN-SUFFIX, planetminecraft.com
 DOMAIN-SUFFIX, prismlauncher.org
 DOMAIN-SUFFIX, protondb.com
 DOMAIN-SUFFIX, quiltmc.org
+DOMAIN-SUFFIX, r2modman.com
 DOMAIN-SUFFIX, rayark.download
 DOMAIN-SUFFIX, rayark.net
 DOMAIN-SUFFIX, speedrun.com
 DOMAIN-SUFFIX, spigotmc.org
 DOMAIN-SUFFIX, steamdb.info
+DOMAIN-SUFFIX, thunderstore.io
+DOMAIN-SUFFIX, thunderstore.org
+DOMAIN-SUFFIX, wplace.live
 
 # This file contains domains of pirate chinese online novel sites that are blocked by GFW
 DOMAIN-SUFFIX, ptzwx.com
@@ -8131,6 +8156,8 @@ DOMAIN-SUFFIX, dlsite.jp
 DOMAIN-SUFFIX, dlsitestudio.com
 DOMAIN-SUFFIX, nijiyome.jp
 DOMAIN-SUFFIX, triokini.com
+
+DOMAIN-SUFFIX, fanfiction.net
 
 DOMAIN-SUFFIX, fanfictionero.com
 DOMAIN-SUFFIX, fic.fan
@@ -9294,6 +9321,8 @@ DOMAIN-SUFFIX, ms.dzen.ru
 
 # CDN
 DOMAIN-SUFFIX, dzeninfra.ru
+
+DOMAIN-SUFFIX, fanfiction.net
 
 DOMAIN-SUFFIX, habr.com
 DOMAIN-SUFFIX, habrastorage.org
@@ -20581,6 +20610,9 @@ DOMAIN-SUFFIX, readthedocs.com
 DOMAIN-SUFFIX, readthedocs.io
 DOMAIN-SUFFIX, readthedocs.org
 
+DOMAIN-SUFFIX, redhat.com
+DOMAIN-SUFFIX, redhat.org
+
 DOMAIN-SUFFIX, redis.io
 DOMAIN-SUFFIX, redislabs.com
 
@@ -20591,9 +20623,6 @@ DOMAIN-SUFFIX, rust-lang.org
 DOMAIN-SUFFIX, rustup.rs
 DOMAIN-SUFFIX, crates.io
 DOMAIN-SUFFIX, docs.rs
-
-DOMAIN-SUFFIX, redhat.com
-DOMAIN-SUFFIX, redhat.org
 
 DOMAIN-SUFFIX, scala-lang.org
 DOMAIN-SUFFIX, scala-sbt.org
@@ -20830,6 +20859,15 @@ DOMAIN-SUFFIX, elegantthemes.com
 DOMAIN-SUFFIX, hivepress.io
 DOMAIN-SUFFIX, motopress.com
 DOMAIN-SUFFIX, wpmailsmtp.com
+
+# TemplateMonster
+DOMAIN-SUFFIX, templatemonster.com
+DOMAIN-SUFFIX, tmimgcdn.com
+
+# Safety CLI Cybersecurity Inc.
+DOMAIN-SUFFIX, getsafety.com
+DOMAIN-SUFFIX, pyup.io
+DOMAIN-SUFFIX, safetycli.com
 
 
 # Tech companies

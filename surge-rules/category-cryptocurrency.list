@@ -198,6 +198,8 @@ DOMAIN-SUFFIX, bitstamp.net
 DOMAIN-SUFFIX, bittrex.com
 DOMAIN-SUFFIX, blast.io
 DOMAIN-SUFFIX, blockchain.com
+DOMAIN-SUFFIX, blockchair.com
+DOMAIN-SUFFIX, blockchair.net
 DOMAIN-SUFFIX, blockfrost.io
 DOMAIN-SUFFIX, btcbox.co.jp
 DOMAIN-SUFFIX, cex.io
@@ -214,10 +216,12 @@ DOMAIN-SUFFIX, coinmarketcap.com
 DOMAIN-SUFFIX, coredao.org
 DOMAIN-SUFFIX, crypto.com
 DOMAIN-SUFFIX, cryptocompare.com
+DOMAIN-SUFFIX, cryptoid.info
 DOMAIN-SUFFIX, cryptomus.com
 DOMAIN-SUFFIX, curve.fi
 DOMAIN-SUFFIX, cyberx.com
 DOMAIN-SUFFIX, debank.com
+DOMAIN-SUFFIX, delets.cash
 DOMAIN-SUFFIX, delets.online
 DOMAIN-SUFFIX, dogecoin.com
 DOMAIN-SUFFIX, drpc.org
@@ -234,6 +238,7 @@ DOMAIN-SUFFIX, hashflow.com
 DOMAIN-SUFFIX, hyperliquid.xyz
 DOMAIN-SUFFIX, infura.io
 DOMAIN-SUFFIX, invity.io
+DOMAIN-SUFFIX, kurs.expert
 DOMAIN-SUFFIX, litecoin.org
 DOMAIN-SUFFIX, maple.finance
 DOMAIN-SUFFIX, megaeth.com

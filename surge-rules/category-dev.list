@@ -601,6 +601,9 @@ DOMAIN-SUFFIX, readthedocs.com
 DOMAIN-SUFFIX, readthedocs.io
 DOMAIN-SUFFIX, readthedocs.org
 
+DOMAIN-SUFFIX, redhat.com
+DOMAIN-SUFFIX, redhat.org
+
 DOMAIN-SUFFIX, redis.io
 DOMAIN-SUFFIX, redislabs.com
 
@@ -611,9 +614,6 @@ DOMAIN-SUFFIX, rust-lang.org
 DOMAIN-SUFFIX, rustup.rs
 DOMAIN-SUFFIX, crates.io
 DOMAIN-SUFFIX, docs.rs
-
-DOMAIN-SUFFIX, redhat.com
-DOMAIN-SUFFIX, redhat.org
 
 DOMAIN-SUFFIX, scala-lang.org
 DOMAIN-SUFFIX, scala-sbt.org
@@ -850,3 +850,12 @@ DOMAIN-SUFFIX, elegantthemes.com
 DOMAIN-SUFFIX, hivepress.io
 DOMAIN-SUFFIX, motopress.com
 DOMAIN-SUFFIX, wpmailsmtp.com
+
+# TemplateMonster
+DOMAIN-SUFFIX, templatemonster.com
+DOMAIN-SUFFIX, tmimgcdn.com
+
+# Safety CLI Cybersecurity Inc.
+DOMAIN-SUFFIX, getsafety.com
+DOMAIN-SUFFIX, pyup.io
+DOMAIN-SUFFIX, safetycli.com

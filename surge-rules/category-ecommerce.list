@@ -1419,13 +1419,26 @@ DOMAIN-SUFFIX, wmt.co
 DOMAIN-SUFFIX, wish.com
 
 
+DOMAIN-SUFFIX, 24.place
 DOMAIN-SUFFIX, allkeyshop.com
 DOMAIN-SUFFIX, axbdoll.com.tw
+DOMAIN-SUFFIX, craftifyx.com
 DOMAIN-SUFFIX, gamewtb.com
 DOMAIN-SUFFIX, gg.deals
 DOMAIN-SUFFIX, i69.com.tw
 DOMAIN-SUFFIX, kinguin.net
+DOMAIN-SUFFIX, makeship.com
+DOMAIN-SUFFIX, ownaj.com
 DOMAIN-SUFFIX, pornhubapparel.com
 DOMAIN-SUFFIX, readmoo.com
 DOMAIN-SUFFIX, redino.tw
-DOMAIN-SUFFIX, templatemonster.com
+DOMAIN-SUFFIX, tgtime.store
+DOMAIN-SUFFIX, youtooz.com
+
+# Funko Official Store
+DOMAIN-SUFFIX, funko.com
+DOMAIN, funko.my.site.com
+
+# Glitch Productions
+DOMAIN-SUFFIX, glitchprod.com
+DOMAIN-SUFFIX, glitchproductions.store

@@ -1193,6 +1193,10 @@ DOMAIN-SUFFIX, drweb-av.es
 DOMAIN-SUFFIX, drweb-av.it
 DOMAIN-SUFFIX, drweb-av.pl
 
+DOMAIN-SUFFIX, ds-servers.com
+DOMAIN-SUFFIX, dsn.host
+DOMAIN-SUFFIX, dsncdn.net
+
 DOMAIN-SUFFIX, bananacall.ru
 DOMAIN-SUFFIX, beesbfl.ru
 DOMAIN-SUFFIX, beescrm.ru
@@ -2797,6 +2801,7 @@ DOMAIN-SUFFIX, chat2desk.com      # Omnichannel communications platform and chat
 DOMAIN-SUFFIX, flomni.com         # Omnichannel communications platform
 DOMAIN-SUFFIX, foto-planeta.com   # Photo encyclopedia of settlements
 DOMAIN-SUFFIX, gazfond-pn.ru      # Non-state pension fund GAZFOND pension savings
+DOMAIN-SUFFIX, hostland.ru        # Russian hosting provider
 DOMAIN-SUFFIX, litres.ru          # E-book and audiobook service
 DOMAIN-SUFFIX, meteoinfo.ru       # Hydrometeorological Center of Russia
 DOMAIN-SUFFIX, ngenix.net         # NGENIX is a Russian provider of acceleration and security services for public web resources

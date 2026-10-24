@@ -42,6 +42,8 @@ DOMAIN-SUFFIX, ms.dzen.ru
 # CDN
 DOMAIN-SUFFIX, dzeninfra.ru
 
+DOMAIN-SUFFIX, fanfiction.net
+
 DOMAIN-SUFFIX, habr.com
 DOMAIN-SUFFIX, habrastorage.org
 
