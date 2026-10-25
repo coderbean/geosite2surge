@@ -15,9 +15,11 @@ DOMAIN-SUFFIX, huijiwiki.com
 # MC百科
 DOMAIN-SUFFIX, mcmod.cn
 
-# moegirl
-DOMAIN-SUFFIX, moegirl.org
-DOMAIN-SUFFIX, moegirl.org.cn
+# moegirl 萌娘百科
+# Moegirlpedia is operated by a mainland-registered company, but the wiki itself is served by Cloudflare from outside the mainland.
+# Only the two sub-domains below have mainland access points: they CNAME to ChinaNetCenter and resolve to CHINATELECOM space.
+DOMAIN, app.moegirl.org.cn
+DOMAIN, storage.moegirl.org.cn
 
 # 智汇三农
 DOMAIN-SUFFIX, pwsannong.com

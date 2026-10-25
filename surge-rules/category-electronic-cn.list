@@ -36,10 +36,6 @@ DOMAIN-SUFFIX, hqchip.com
 DOMAIN-SUFFIX, hqdoc.com
 DOMAIN-SUFFIX, hqpcb.com
 
-# 英飞凌
-DOMAIN-SUFFIX, infineon.cn
-#infineon.com
-
 # 紫光集团
 DOMAIN-SUFFIX, gosinoic.com
 DOMAIN-SUFFIX, h3c.com
@@ -55,6 +51,15 @@ DOMAIN-SUFFIX, unisemicon.com
 DOMAIN-SUFFIX, unisoc.com
 DOMAIN-SUFFIX, unispc.com
 DOMAIN-SUFFIX, uniswdc.com
+
+# 英飞凌
+DOMAIN-SUFFIX, infineon.cn
+#infineon.com
+
+# 移远通信
+DOMAIN-SUFFIX, iotronic.tech
+DOMAIN-SUFFIX, quecmall.cn
+DOMAIN-SUFFIX, quectel.com.cn
 
 # 嘉立创集团
 # 嘉立创
@@ -106,10 +111,8 @@ DOMAIN-SUFFIX, zxhgroup.com
 # 聆思科技
 DOMAIN-SUFFIX, listenai.com
 
-# 移远通信
-DOMAIN-SUFFIX, quecmall.cn
-DOMAIN-SUFFIX, quectel.com.cn
-DOMAIN-SUFFIX, iotronic.tech
+# 微纳核芯
+DOMAIN-SUFFIX, nanocorechip.com
 
 # 瑞芯微电子
 DOMAIN-SUFFIX, rock-chips.com

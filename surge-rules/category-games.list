@@ -171,7 +171,6 @@ DOMAIN-SUFFIX, gcloudcstestonly.com
 DOMAIN-SUFFIX, gclouddolphin.com
 DOMAIN-SUFFIX, gcloudsdk.com
 DOMAIN-SUFFIX, gcloudsvcs.com
-DOMAIN-SUFFIX, gdtimg.com
 DOMAIN-SUFFIX, goto-game.com
 DOMAIN-SUFFIX, goto-game.mobi
 DOMAIN-SUFFIX, goto-game.net.cn
@@ -479,6 +478,14 @@ DOMAIN-SUFFIX, makearmanotwar.com
 DOMAIN-SUFFIX, silicagame.com
 DOMAIN-SUFFIX, vigorgame.com
 DOMAIN-SUFFIX, ylands.com
+
+DOMAIN-SUFFIX, cdpred.services
+DOMAIN-SUFFIX, cdprojekt.com
+DOMAIN-SUFFIX, cdprojekt.red
+DOMAIN-SUFFIX, cdprojektred.com
+DOMAIN-SUFFIX, cyberpunk.net
+DOMAIN-SUFFIX, playgwent.com
+DOMAIN-SUFFIX, thewitcher.com
 
 DOMAIN-SUFFIX, curseforge.com
 DOMAIN-SUFFIX, forgecdn.net
