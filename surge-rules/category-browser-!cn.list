@@ -13,6 +13,9 @@ DOMAIN-SUFFIX, firefoxusercontent.com
 DOMAIN, mozilla-ohttp.fastly-edge.com
 DOMAIN, mozilla.map.fastly.net
 
+DOMAIN-SUFFIX, librewolf.dev
+DOMAIN-SUFFIX, librewolf.net
+
 DOMAIN-SUFFIX, torproject.org
 
 
@@ -32,7 +35,6 @@ DOMAIN-SUFFIX, floorp.app
 DOMAIN-SUFFIX, iridiumbrowser.de
 DOMAIN-SUFFIX, kiwibrowser.com
 DOMAIN-SUFFIX, kmeleonbrowser.org
-DOMAIN-SUFFIX, librewolf.net
 DOMAIN-SUFFIX, minbrowser.org
 DOMAIN-SUFFIX, netsurf-browser.org
 DOMAIN-SUFFIX, opera.com

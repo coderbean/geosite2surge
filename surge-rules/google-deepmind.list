@@ -25,6 +25,11 @@ DOMAIN-SUFFIX, gemini.gstatic.com
 DOMAIN, geminiweb-pa.clients.google.com
 DOMAIN, geminiweb-pa.clients6.google.com
 
+# Gemini in Google Workspace apps (Gmail, Docs, Drive side panel)
+DOMAIN, appsgenaiserver-pa.clients.google.com
+DOMAIN, appsgenaiserver-pa.clients6.google.com
+DOMAIN, appsgenaiserver-pa.googleapis.com
+
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
 DOMAIN, cloudaicompanion.googleapis.com

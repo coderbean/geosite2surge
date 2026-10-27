@@ -85,6 +85,7 @@ DOMAIN-SUFFIX, cosmosdb.net
 DOMAIN-SUFFIX, devopsms.com
 DOMAIN-SUFFIX, gotcosmos.com
 DOMAIN-SUFFIX, hdinsightservices.cn
+DOMAIN-SUFFIX, in.applicationinsights.azure.com
 DOMAIN-SUFFIX, management-azure-devices-int.net
 DOMAIN-SUFFIX, management-azure-devices-provisioning.cn
 DOMAIN-SUFFIX, management-azure-devices.cn
@@ -142,6 +143,8 @@ DOMAIN-SUFFIX, azchcdns.com
 
 DOMAIN, azure.microsoft.com
 DOMAIN, azuremarketplace.microsoft.com
+DOMAIN, dc.applicationinsights.azure.com
+DOMAIN, live.applicationinsights.azure.com
 
 # Azure DNS
 DOMAIN-SUFFIX, azure-dns.cn

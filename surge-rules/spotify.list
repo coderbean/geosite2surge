@@ -21,9 +21,9 @@ DOMAIN, audio4-ak-spotify-com.akamaized.net
 DOMAIN, cdn-spotify-experiments.conductrics.com
 DOMAIN, heads-ak-spotify-com.akamaized.net
 DOMAIN, heads4-ak-spotify-com.akamaized.net
-DOMAIN, spotify.com.edgesuite.net
 DOMAIN, spotify.map.fastly.net
 DOMAIN, spotify.map.fastlylb.net
+DOMAIN-SUFFIX, spotify.com.edgesuite.net
 
 # Ads/tracking
 DOMAIN, adeventtracker.spotify.com
