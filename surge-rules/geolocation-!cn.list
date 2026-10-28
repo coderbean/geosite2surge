@@ -259,13 +259,18 @@ DOMAIN-SUFFIX, moonshot.ai
 # Meta
 DOMAIN-SUFFIX, meta.ai
 DOMAIN-SUFFIX, metaaivm.com
+DOMAIN-SUFFIX, metaaiusercontent.com
 DOMAIN-SUFFIX, muse.ai
 
 DOMAIN-SUFFIX, agentclientprotocol.com
 DOMAIN-SUFFIX, anythingllm.com
 DOMAIN-SUFFIX, arena.ai
+DOMAIN-SUFFIX, artificialanalysis.ai
 DOMAIN-SUFFIX, chutes.ai
 DOMAIN-SUFFIX, clawhub.ai
+DOMAIN-SUFFIX, cline.bot
+DOMAIN-SUFFIX, commandcode.ai
+DOMAIN-SUFFIX, context7.com
 DOMAIN-SUFFIX, crewai.com
 DOMAIN-SUFFIX, devin.ai
 DOMAIN-SUFFIX, diabrowser.com
@@ -285,6 +290,7 @@ DOMAIN-SUFFIX, minimax.io
 DOMAIN-SUFFIX, mistral.ai
 DOMAIN-SUFFIX, mozilla.ai
 DOMAIN-SUFFIX, notegpt.io
+DOMAIN-SUFFIX, nousresearch.com
 DOMAIN-SUFFIX, novelai.net
 DOMAIN-SUFFIX, ollama.com
 DOMAIN-SUFFIX, openart.ai
@@ -2474,6 +2480,7 @@ DOMAIN-SUFFIX, schwab.com.sg
 DOMAIN-SUFFIX, schwabassetmanagement.com
 DOMAIN-SUFFIX, schwabcdn.com
 DOMAIN-SUFFIX, schwabplan.com
+DOMAIN-SUFFIX, thinkorswim.com
 
 DOMAIN-SUFFIX, sc.com
 DOMAIN-SUFFIX, standardchartered.com
@@ -2493,6 +2500,7 @@ DOMAIN-SUFFIX, transferwise.com
 DOMAIN-SUFFIX, wise.com
 
 
+DOMAIN-SUFFIX, firstrade.com
 DOMAIN-SUFFIX, fxcorporate.com
 DOMAIN-SUFFIX, jivara.global
 DOMAIN-SUFFIX, mql5.com
@@ -24570,13 +24578,15 @@ DOMAIN, api-edge.apps.apple.com
 DOMAIN, communities.apple.com
 DOMAIN, discussionschinese.apple.com
 DOMAIN, fides-pol.apple.com
-DOMAIN, gspe11-2-cn-ssl.ls.apple.com
 DOMAIN, gspe12-cn-ssl.ls.apple.com
 DOMAIN, gspe85-cn-ssl.ls.apple.com
 DOMAIN, init.gc-lb.apple.com.akadns.net
 DOMAIN, init.gc.apple.com
 DOMAIN, km.support.apple.com
 DOMAIN, maps.apple.com
+DOMAIN, sh-pod1-smp-device.apple.com
+DOMAIN, sh-pod2-smp-device.apple.com
+DOMAIN, sh-pod3-smp-device.apple.com
 DOMAIN, tj-pod1-smp-device.apple.com
 DOMAIN, tj-pod2-smp-device.apple.com
 DOMAIN, tj-pod3-smp-device.apple.com
@@ -24624,7 +24634,7 @@ DOMAIN, s4.mzstatic.com
 DOMAIN, s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
-# Revision: c3c9839e5e71f04fc170b5645d7a162631985e2d
+# Revision: c2b16b3faf2a7eb88a7360a821574bd2e0366280
 # Duplicates removed; some domains were added to dedicated lists like itunes/apple-music
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
@@ -24667,6 +24677,7 @@ DOMAIN, gsp4-cn.ls.apple.com
 DOMAIN, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN, gsp5-cn.ls.apple.com
 DOMAIN, gsp85-cn-ssl.ls.apple.com
+DOMAIN, gspe11-2-cn-ssl.ls.apple.com
 DOMAIN, gspe19-2-cn-ssl.ls-apple.com.akadns.net
 DOMAIN, gspe19-2-cn-ssl.ls.apple.com
 DOMAIN, gspe19-cn-ssl.ls.apple.com
@@ -24706,7 +24717,6 @@ DOMAIN, seed-sequoia.siri.apple.com
 DOMAIN, seed-swallow.siri.apple.com
 DOMAIN, seed.siri.apple.com
 DOMAIN, sequoia.apple.com
-DOMAIN, sh-pod2-smp-device.apple.com
 DOMAIN, shazam-insights.cdn-apple.com
 DOMAIN, smp-device-content.apple.com
 DOMAIN, static.gc.apple.com
@@ -28262,6 +28272,7 @@ DOMAIN-SUFFIX, atmeta.com
 DOMAIN-SUFFIX, llama.com
 DOMAIN-SUFFIX, meta.ai
 DOMAIN-SUFFIX, meta.com
+DOMAIN-SUFFIX, metaaiusercontent.com
 DOMAIN-SUFFIX, metaaivm.com
 DOMAIN-SUFFIX, muse.ai
 
