@@ -244,6 +244,14 @@ DOMAIN-SUFFIX, shuanghui.net
 # 米村拌饭
 DOMAIN-SUFFIX, micun.com
 
+# 洽洽
+DOMAIN-SUFFIX, qiaqiafood.com
+
+# 鸣鸣很忙
+DOMAIN-SUFFIX, busyming.com
+DOMAIN-SUFFIX, hnlshm.com
+DOMAIN-SUFFIX, zymls.com
+
 # Tracking
 DOMAIN-SUFFIX, logger.qmai.cn
 DOMAIN-SUFFIX, tracking.mcdonalds.com.cn

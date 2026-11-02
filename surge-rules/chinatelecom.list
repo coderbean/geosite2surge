@@ -20,3 +20,6 @@ DOMAIN-SUFFIX, dlife.cn
 DOMAIN-SUFFIX, play.cn
 DOMAIN-SUFFIX, tv189.com
 DOMAIN-SUFFIX, vnet.cn
+
+# 3GPP 公网域 (IMS / VoWiFi)
+DOMAIN-SUFFIX, mnc011.mcc460.pub.3gppnetwork.org

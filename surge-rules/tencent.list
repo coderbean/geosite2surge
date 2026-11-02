@@ -718,6 +718,7 @@ DOMAIN-SUFFIX, tencent.net.cn
 DOMAIN-SUFFIX, tencentmiying.com
 DOMAIN-SUFFIX, tengmed.com
 DOMAIN-SUFFIX, tenpay.com
+DOMAIN-SUFFIX, tenpayglobal.com
 DOMAIN-SUFFIX, tfogc.com
 DOMAIN-SUFFIX, wechat.com
 DOMAIN-SUFFIX, wechatpay.cn
@@ -734,6 +735,10 @@ DOMAIN-SUFFIX, mmbizurl.cn
 DOMAIN-SUFFIX, url.cn
 DOMAIN-SUFFIX, wxaurl.cn
 DOMAIN-SUFFIX, wxmpurl.cn
+
+# 腾讯微保
+DOMAIN-SUFFIX, wesure.cn
+DOMAIN-SUFFIX, wesure100.com
 
 # 腾讯视频海外版
 DOMAIN-SUFFIX, wetv.vip

@@ -731,6 +731,7 @@ DOMAIN-SUFFIX, alisoft.com
 DOMAIN-SUFFIX, alisports.com
 DOMAIN-SUFFIX, alitianji.com
 DOMAIN-SUFFIX, aliunicorn.com
+DOMAIN-SUFFIX, alivecdn.com
 DOMAIN-SUFFIX, aliway.com
 DOMAIN-SUFFIX, aliwork.com
 DOMAIN-SUFFIX, alixiaomi.com
@@ -770,6 +771,7 @@ DOMAIN-SUFFIX, liangxinyao.com
 DOMAIN-SUFFIX, m-now.cn
 DOMAIN-SUFFIX, maitix.com
 DOMAIN-SUFFIX, mappcloud.com
+DOMAIN-SUFFIX, mayibao.cn
 DOMAIN-SUFFIX, mdeer.com
 DOMAIN-SUFFIX, mei.com
 DOMAIN-SUFFIX, miaostreet.com
@@ -824,6 +826,7 @@ DOMAIN-SUFFIX, freshippo.com
 DOMAIN-SUFFIX, hemamax.com
 DOMAIN-SUFFIX, hemaos.com
 DOMAIN-SUFFIX, hemashare.cn
+DOMAIN-SUFFIX, hmxs.cn
 DOMAIN-SUFFIX, shyhhema.com
 
 # 蚂蚁财富
@@ -1429,6 +1432,7 @@ DOMAIN-SUFFIX, building.fun
 DOMAIN-SUFFIX, instreet.com
 DOMAIN-SUFFIX, doubao-dev.com
 DOMAIN-SUFFIX, doubao.com
+DOMAIN-SUFFIX, doubaoapps.com
 DOMAIN-SUFFIX, doubaocdn.com
 DOMAIN-SUFFIX, hi-butterfly.cn
 DOMAIN-SUFFIX, maoxiangai.com
@@ -2163,6 +2167,7 @@ DOMAIN-SUFFIX, cdndns2.com
 DOMAIN-SUFFIX, doubo03.com
 DOMAIN-SUFFIX, draftstatic.com
 DOMAIN-SUFFIX, druid.vip
+DOMAIN-SUFFIX, edge-byted.com
 DOMAIN-SUFFIX, fedlearner.net
 DOMAIN-SUFFIX, feelgood.cn
 DOMAIN-SUFFIX, gcloudcache.com
@@ -2375,6 +2380,9 @@ DOMAIN-SUFFIX, ppximg.com
 DOMAIN-SUFFIX, ppxstatic.com
 DOMAIN-SUFFIX, ppxvod.com
 DOMAIN-SUFFIX, xiaoxiaapi.com
+
+# 海绵音乐
+DOMAIN-SUFFIX, haimian.com
 
 # 朝夕光年
 DOMAIN-SUFFIX, dailygn.com
@@ -2700,6 +2708,14 @@ DOMAIN-SUFFIX, shuanghui.net
 
 # 米村拌饭
 DOMAIN-SUFFIX, micun.com
+
+# 洽洽
+DOMAIN-SUFFIX, qiaqiafood.com
+
+# 鸣鸣很忙
+DOMAIN-SUFFIX, busyming.com
+DOMAIN-SUFFIX, hnlshm.com
+DOMAIN-SUFFIX, zymls.com
 
 # Tracking
 DOMAIN-SUFFIX, logger.qmai.cn
@@ -6584,6 +6600,7 @@ DOMAIN-SUFFIX, tencent.net.cn
 DOMAIN-SUFFIX, tencentmiying.com
 DOMAIN-SUFFIX, tengmed.com
 DOMAIN-SUFFIX, tenpay.com
+DOMAIN-SUFFIX, tenpayglobal.com
 DOMAIN-SUFFIX, tfogc.com
 DOMAIN-SUFFIX, wechat.com
 DOMAIN-SUFFIX, wechatpay.cn
@@ -6600,6 +6617,10 @@ DOMAIN-SUFFIX, mmbizurl.cn
 DOMAIN-SUFFIX, url.cn
 DOMAIN-SUFFIX, wxaurl.cn
 DOMAIN-SUFFIX, wxmpurl.cn
+
+# 腾讯微保
+DOMAIN-SUFFIX, wesure.cn
+DOMAIN-SUFFIX, wesure100.com
 
 # 腾讯视频海外版
 DOMAIN-SUFFIX, wetv.vip

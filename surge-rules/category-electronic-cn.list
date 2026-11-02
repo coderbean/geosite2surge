@@ -1,5 +1,8 @@
 # Electronic store/company's website with access point in China
 
+# 全志科技
+DOMAIN-SUFFIX, allwinnertech.com
+
 # Analog
 DOMAIN-SUFFIX, analog.com
 
@@ -15,6 +18,9 @@ DOMAIN-SUFFIX, boe.com.cn
 
 # 博流智能
 DOMAIN-SUFFIX, bouffalolab.com
+
+# 寒武纪
+DOMAIN-SUFFIX, cambricon.com
 
 # 长鑫存储
 DOMAIN-SUFFIX, cxmt.com
@@ -111,6 +117,9 @@ DOMAIN-SUFFIX, zxhgroup.com
 # 聆思科技
 DOMAIN-SUFFIX, listenai.com
 
+# 摩尔线程
+DOMAIN-SUFFIX, mthreads.com
+
 # 微纳核芯
 DOMAIN-SUFFIX, nanocorechip.com
 
@@ -126,6 +135,12 @@ DOMAIN-SUFFIX, seeedstudio.com.cn
 # 矽速科技
 DOMAIN-SUFFIX, sipeed.com
 DOMAIN-SUFFIX, maixhub.com
+
+# 南芯半导体
+DOMAIN-SUFFIX, southchip.com
+
+# 平头哥
+DOMAIN-SUFFIX, t-head.cn
 
 # 德州仪器
 #ti.com

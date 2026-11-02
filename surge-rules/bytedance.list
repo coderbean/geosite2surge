@@ -36,6 +36,7 @@ DOMAIN-SUFFIX, building.fun
 DOMAIN-SUFFIX, instreet.com
 DOMAIN-SUFFIX, doubao-dev.com
 DOMAIN-SUFFIX, doubao.com
+DOMAIN-SUFFIX, doubaoapps.com
 DOMAIN-SUFFIX, doubaocdn.com
 DOMAIN-SUFFIX, hi-butterfly.cn
 DOMAIN-SUFFIX, maoxiangai.com
@@ -770,6 +771,7 @@ DOMAIN-SUFFIX, cdndns2.com
 DOMAIN-SUFFIX, doubo03.com
 DOMAIN-SUFFIX, draftstatic.com
 DOMAIN-SUFFIX, druid.vip
+DOMAIN-SUFFIX, edge-byted.com
 DOMAIN-SUFFIX, fedlearner.net
 DOMAIN-SUFFIX, feelgood.cn
 DOMAIN-SUFFIX, gcloudcache.com
@@ -982,6 +984,9 @@ DOMAIN-SUFFIX, ppximg.com
 DOMAIN-SUFFIX, ppxstatic.com
 DOMAIN-SUFFIX, ppxvod.com
 DOMAIN-SUFFIX, xiaoxiaapi.com
+
+# 海绵音乐
+DOMAIN-SUFFIX, haimian.com
 
 # 朝夕光年
 DOMAIN-SUFFIX, dailygn.com
