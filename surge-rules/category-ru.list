@@ -2818,6 +2818,7 @@ DOMAIN-SUFFIX, t1.cloud           # Russian cloud storage provider
 DOMAIN-SUFFIX, taxsee.com         # Taxi for business (self-employed drivers)
 DOMAIN-SUFFIX, vimu.tv            # Vimu Media Player
 DOMAIN-SUFFIX, yourgood.app       # CRM for small business
+DOMAIN-SUFFIX, zapishu.me         # Online booking and CRM service for private specialists
 
 ## eXpress corporate messenger
 DOMAIN-SUFFIX, corp.express
