@@ -308,7 +308,7 @@ DOMAIN-SUFFIX, tapnow.ai
 DOMAIN-SUFFIX, tripo3d.ai
 
 
-# Advertisment & Analytics
+# Advertisement & Analytics
 # Programmatic Digital Advertising Technology & Solutions | PubMatic
 
 DOMAIN-SUFFIX, pubmatic.com
@@ -1713,7 +1713,7 @@ DOMAIN-SUFFIX, udtrucksmeena.com
 
 
 # Bank & Finance
-# DONOT include:category-bank-cn
+# DO NOT include:category-bank-cn
 # Iranian bank websites
 
 DOMAIN-SUFFIX, agri-bank.com
@@ -12438,7 +12438,7 @@ DOMAIN-SUFFIX, javdb.com
 DOMAIN-SUFFIX, jdbimgs.com
 DOMAIN-SUFFIX, jdbstatic.com
 
-URL-REGEX, javdb\d+\.com$
+URL-REGEX, (^|\.)javdb\d+\.com$
 
 DOMAIN-SUFFIX, javwide.com
 DOMAIN-SUFFIX, javwide.tv
@@ -18855,7 +18855,7 @@ URL-REGEX, (^|\.)69bag[0-1][1-9]?\.com$
 URL-REGEX, (^|\.)783([a-z][a-z]?)?\.tv$
 URL-REGEX, (^|\.)7mm0([0-1][0-9]?)?\.com$
 URL-REGEX, (^|\.)8dgo[1-57-9]\.com$
-URL-REGEX, (^|\.)91cg([1-9]|[0-9][1-9])?.com$
+URL-REGEX, (^|\.)91cg([1-9]|[0-9][1-9])?\.com$
 URL-REGEX, (^|\.)91p[0-9][0-9]?\.com$
 URL-REGEX, (^|\.)91porn\.(best|com|cool|fun|group|party|plus|site|tw|work)$
 URL-REGEX, (^|\.)91porn[0-9]{3}\.me$
@@ -18975,7 +18975,7 @@ URL-REGEX, (^|\.)zztt[1-6][0-9]\.com$
 URL-REGEX, (^|\.)zzz[1-9][0-9]\.top$
 
 
-# Services & Softwares
+# Services & Software
 DOMAIN-SUFFIX, apkcombo.com
 
 DOMAIN-SUFFIX, apkmirror.com
@@ -25516,6 +25516,7 @@ DOMAIN-SUFFIX, beget.app
 DOMAIN-SUFFIX, beget.cloud
 DOMAIN-SUFFIX, beget.com
 DOMAIN-SUFFIX, beget.de
+DOMAIN-SUFFIX, beget.email
 DOMAIN-SUFFIX, beget.hosting
 DOMAIN-SUFFIX, beget.pro
 DOMAIN-SUFFIX, beget.ru

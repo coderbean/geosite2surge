@@ -15,7 +15,7 @@ DOMAIN-SUFFIX, ru.com
 DOMAIN-SUFFIX, ru.net
 
 # - There is `[domain:]ru` in this list (from tld-ru), which matches all `*.ru` domains
-# - Redundant subdomains (full/domain type without attr) will be trimed by main.go
+# - Redundant subdomains (full/domain type without attr) will be trimmed by main.go
 #   In this list, `*.ru` domains without attr are redundant for the program and will not contribute to `geosite:category-ru`
 # - You can still add `*.ru` domains here if you want
 
@@ -1042,7 +1042,7 @@ DOMAIN-SUFFIX, overclock.ru
 DOMAIN-SUFFIX, overclocker.ru
 DOMAIN-SUFFIX, overclocking.ru
 DOMAIN-SUFFIX, overi.ru
-DOMAIN-SUFFIX, xn--80AGLFYFK.xn--p1ai
+DOMAIN-SUFFIX, xn--80aglfyfk.xn--p1ai
 DOMAIN-SUFFIX, xn--80aglzei.xn--p1ai
 DOMAIN-SUFFIX, xn--b1agatafrepfl.xn--p1ai
 DOMAIN-SUFFIX, xn--b1agpaeoen.xn--p1ai
@@ -1119,6 +1119,7 @@ DOMAIN-SUFFIX, beget.app
 DOMAIN-SUFFIX, beget.cloud
 DOMAIN-SUFFIX, beget.com
 DOMAIN-SUFFIX, beget.de
+DOMAIN-SUFFIX, beget.email
 DOMAIN-SUFFIX, beget.hosting
 DOMAIN-SUFFIX, beget.pro
 DOMAIN-SUFFIX, beget.ru
@@ -2813,7 +2814,7 @@ DOMAIN-SUFFIX, ponyexpress.ru     # Courier delivery service
 DOMAIN-SUFFIX, qms.ru             # Russian internet speed testing service
 DOMAIN-SUFFIX, randomgodbot.com   # Telegram randomizer bot
 DOMAIN-SUFFIX, robohall.tech      # Robohall, creative engineering and robotics studio (Moscow, Russia)
-DOMAIN-SUFFIX, srv-hub.org        # Website buider
+DOMAIN-SUFFIX, srv-hub.org        # Website builder
 DOMAIN-SUFFIX, t1.cloud           # Russian cloud storage provider
 DOMAIN-SUFFIX, taxsee.com         # Taxi for business (self-employed drivers)
 DOMAIN-SUFFIX, vimu.tv            # Vimu Media Player

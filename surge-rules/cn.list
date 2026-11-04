@@ -3106,7 +3106,7 @@ DOMAIN-SUFFIX, zhenai.com
 DOMAIN-SUFFIX, zsxq.com
 
 
-# Advertisment & Analytics
+# Advertisement & Analytics
 # 每日互动股份有限公司 浙ICP备14019898号
 DOMAIN-SUFFIX, gepush.com
 DOMAIN-SUFFIX, getui.cn
@@ -5587,7 +5587,7 @@ DOMAIN-SUFFIX, zjlib.cn
 ## 志愿汇
 DOMAIN-SUFFIX, zyh365.com
 
-# Services & Softwares
+# Services & Software
 # 点点 Ai
 DOMAIN-SUFFIX, askdiandian.com
 DOMAIN-SUFFIX, diandianlife.top
@@ -9668,7 +9668,7 @@ DOMAIN-SUFFIX, tdnsv14.net
 DOMAIN-SUFFIX, tdnsv15.net
 
 # myqcloud inside mainland China
-# overrided by myqcloud.com
+# overridden by myqcloud.com
 #regexp:\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$             #北京
 #regexp:\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$             #南京
 #regexp:\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$            #上海
@@ -9693,7 +9693,7 @@ DOMAIN-SUFFIX, eu-frankfurt.myqcloud.com
 DOMAIN-SUFFIX, eu-moscow.myqcloud.com
 
 # tencentcos inside mainland China
-# overrided by tencentcos.cn, tencentcos.com, tencentcos.com.cn
+# overridden by tencentcos.cn, tencentcos.com, tencentcos.com.cn
 #regexp:\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #北京
 #regexp:\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #南京
 #regexp:\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #上海
@@ -11223,7 +11223,6 @@ DOMAIN-SUFFIX, hnchasing.com # 湘ICP备13002754号-2
 DOMAIN-SUFFIX, hnrcsc.com
 DOMAIN-SUFFIX, hnyuyuhui.com
 DOMAIN-SUFFIX, hollycrm.com
-DOMAIN-SUFFIX, homeinns.com
 DOMAIN-SUFFIX, homekoo.com
 DOMAIN-SUFFIX, hongsanban.com
 DOMAIN-SUFFIX, hongyuanqh.com
@@ -11622,7 +11621,6 @@ DOMAIN-SUFFIX, tom.com
 DOMAIN-SUFFIX, tongdun.net
 DOMAIN-SUFFIX, tongkask.com # 苏ICP备2021040813号-1
 DOMAIN-SUFFIX, tool56.com # tool56.com
-DOMAIN-SUFFIX, topthink.com
 DOMAIN-SUFFIX, touqikan.com
 DOMAIN-SUFFIX, touzid.com
 DOMAIN-SUFFIX, trjcn.com

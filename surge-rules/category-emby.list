@@ -22,7 +22,6 @@ DOMAIN-SUFFIX, blueseacdn.com
 
 # 1111
 DOMAIN-SUFFIX, emby.ml
-DOMAIN-SUFFIX, loseremby.org
 
 # llon plex
 DOMAIN-SUFFIX, plex.direct
@@ -58,7 +57,7 @@ DOMAIN, emby.mdss.cloud
 # emby-ytoo
 DOMAIN, emby.ytoo.li
 
-# emby-w8ves
+# emby-w8ves (WaveCloud)
 DOMAIN, embyserver.ga
 
 # emby-prpr
@@ -67,8 +66,9 @@ DOMAIN, emby.prprcloud.com
 # emby-nyancat
 DOMAIN, emby.nyancat.net
 
-# emby-Plus
+# emby-Plus (普拉斯影业)
 DOMAIN, emby.plusmedia.site
+DOMAIN, emby-sg.plusmedia.site
 DOMAIN, emby-cf.plusmedia.site
 DOMAIN, emby.xeton.dev
 DOMAIN, jellyfin.xeton.dev
@@ -105,18 +105,6 @@ DOMAIN, line.emby.men
 
 # SoCloud
 DOMAIN, emby.run
-
-# 普拉斯影业
-DOMAIN, emby.plusmedia.site
-DOMAIN, emby-sg.plusmedia.site
-DOMAIN, emby-cf.plusmedia.site
-DOMAIN, emby.xeton.dev
-DOMAIN, jellyfin.xeton.dev
-DOMAIN, movie.xeton.dev
-DOMAIN, servers.xeton.dev
-
-# WaveCloud
-DOMAIN, embyserver.ga
 
 # 卷毛鼠
 DOMAIN, jmsooo.com

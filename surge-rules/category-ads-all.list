@@ -1,7 +1,7 @@
 # This file contains domains of all ads/tracking providers,
 # including both the domains that serves ads/tracking, and the domains of providers themselves.
 # This file contains domains that clearly serving for ads or tracking.
-# We can not seperate ads and tracking domains clearly, so they are mixed together.
+# We cannot separate ads and tracking domains clearly, so they are mixed together.
 # Iranian Advertising websites
 
 DOMAIN-SUFFIX, adivery.com
@@ -10015,7 +10015,7 @@ DOMAIN-SUFFIX, tdnsv14.net
 DOMAIN-SUFFIX, tdnsv15.net
 
 # myqcloud inside mainland China
-# overrided by myqcloud.com
+# overridden by myqcloud.com
 #regexp:\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$             #北京
 #regexp:\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$             #南京
 #regexp:\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$            #上海
@@ -10040,7 +10040,7 @@ DOMAIN-SUFFIX, eu-frankfurt.myqcloud.com
 DOMAIN-SUFFIX, eu-moscow.myqcloud.com
 
 # tencentcos inside mainland China
-# overrided by tencentcos.cn, tencentcos.com, tencentcos.com.cn
+# overridden by tencentcos.cn, tencentcos.com, tencentcos.com.cn
 #regexp:\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #北京
 #regexp:\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #南京
 #regexp:\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #上海
