@@ -677,6 +677,13 @@ DOMAIN-SUFFIX, playstation.net
 DOMAIN-SUFFIX, playstationnetwork.com
 DOMAIN-SUFFIX, sonyentertainmentnetwork.com
 
+DOMAIN-SUFFIX, projectmoon.studio
+
+# Limbus Company
+DOMAIN-SUFFIX, limbuscompany.global
+DOMAIN-SUFFIX, limbuscompanyapi.com
+DOMAIN-SUFFIX, limbuscompanycdn.org
+
 DOMAIN-SUFFIX, sekai.colorfulpalette.org
 DOMAIN-SUFFIX, pjsekai.sega.jp
 
@@ -1134,6 +1141,7 @@ DOMAIN-SUFFIX, quiltmc.org
 DOMAIN-SUFFIX, r2modman.com
 DOMAIN-SUFFIX, rayark.download
 DOMAIN-SUFFIX, rayark.net
+DOMAIN-SUFFIX, skinswap.com
 DOMAIN-SUFFIX, speedrun.com
 DOMAIN-SUFFIX, spigotmc.org
 DOMAIN-SUFFIX, steamdb.info
