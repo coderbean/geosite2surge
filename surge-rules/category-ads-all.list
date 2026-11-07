@@ -2214,6 +2214,7 @@ DOMAIN, pd.itunes.apple.com
 DOMAIN, play-edge.itunes.apple.com
 DOMAIN, play.itunes.apple.com
 DOMAIN, podcasts.itunes.apple.com
+DOMAIN, radio.itunes.apple.com
 DOMAIN, se-edge.itunes.apple.com
 DOMAIN, se2.itunes.apple.com
 DOMAIN, search.itunes.apple.com
@@ -9046,6 +9047,7 @@ DOMAIN-SUFFIX, qiyukf.net
 DOMAIN-SUFFIX, qiyukf.net.cn
 DOMAIN-SUFFIX, static163.net
 DOMAIN-SUFFIX, weiyang.cn
+DOMAIN-SUFFIX, ydshengxue.com
 DOMAIN-SUFFIX, ydstatic.com
 DOMAIN-SUFFIX, yeah.net
 DOMAIN-SUFFIX, youdao.com
@@ -9734,6 +9736,22 @@ DOMAIN-SUFFIX, ads.api.my7v.com
 DOMAIN-SUFFIX, euads-o.api.leiniao.com
 DOMAIN-SUFFIX, hwads-t.api.my7v.com
 DOMAIN-SUFFIX, testads.api.my7v.com
+# boot ad delivery, creative CDN, and the ad SDK key server
+DOMAIN-SUFFIX, ads-api-o.api.leiniao.com
+DOMAIN-SUFFIX, ads-o.res.leiniao.com
+DOMAIN-SUFFIX, ads-api-t.my7v.com
+DOMAIN-SUFFIX, isms-o.api.my7v.com
+
+# Telemetry: BI report, report config, QMS error report, Bugly app config
+DOMAIN-SUFFIX, base.api.my7v.com
+DOMAIN-SUFFIX, dc-conf-o.api.leiniao.com
+DOMAIN-SUFFIX, dc-conf-t.api.leiniao.com
+DOMAIN-SUFFIX, dc-o.api.leiniao.com
+DOMAIN-SUFFIX, dc-t.api.leiniao.com
+DOMAIN-SUFFIX, dc-uo.api.leiniao.com
+DOMAIN-SUFFIX, dc-ut.api.leiniao.com
+DOMAIN-SUFFIX, qms-report-o.api.leiniao.com
+DOMAIN-SUFFIX, qms-report-t.api.leiniao.com
 
 DOMAIN-SUFFIX, comsenz.com
 DOMAIN-SUFFIX, discuz.net
@@ -10243,7 +10261,6 @@ DOMAIN-SUFFIX, hdyxgame.com
 DOMAIN-SUFFIX, hkgcloudcs.com
 DOMAIN-SUFFIX, ihappystudio.cn
 DOMAIN-SUFFIX, ihappystudio.com
-DOMAIN-SUFFIX, in.th
 DOMAIN-SUFFIX, ludosuperstar.cn
 DOMAIN-SUFFIX, ludoworld.net
 DOMAIN-SUFFIX, mahjongai.net
@@ -10331,6 +10348,11 @@ DOMAIN-SUFFIX, anticheatexpert.com
 # 洛克王国
 DOMAIN-SUFFIX, 17roco.com
 DOMAIN-SUFFIX, roco.qq.com
+
+# Overseas business
+DOMAIN-SUFFIX, tencentgames.com
+DOMAIN-SUFFIX, levelinfinite.com
+DOMAIN-SUFFIX, nikke-en.com
 
 # 腾讯音乐娱乐集团/TME
 DOMAIN-SUFFIX, fanxingliveshow.com

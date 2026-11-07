@@ -2,10 +2,17 @@
 # The project does not provide any guarantees or warranties to financial institutions.
 
 # Stock Exchange 证券交易所
-DOMAIN-SUFFIX, sse.com.cn
-DOMAIN-SUFFIX, sseinfo.com
-DOMAIN-SUFFIX, szse.cn
-DOMAIN-SUFFIX, cninfo.com.cn
+DOMAIN-SUFFIX, bse.cn # 北京证券交易所
+DOMAIN-SUFFIX, bseinfo.net # 北京证券交易所
+DOMAIN-SUFFIX, chinahtz.com # 科融通（深交所）
+DOMAIN-SUFFIX, cnindex.com.cn # 国证指数（深交所）
+DOMAIN-SUFFIX, cninfo.com.cn # 巨潮资讯（深交所）
+DOMAIN-SUFFIX, csindex.com.cn # 中证指数有限公司
+DOMAIN-SUFFIX, sse.com.cn # 上海证券交易所
+DOMAIN-SUFFIX, sseinfo.com # 上证所信息网络有限公司
+DOMAIN-SUFFIX, ssetech.com.cn # 上交所技术有限责任公司
+DOMAIN-SUFFIX, szse.cn # 深圳证券交易所
+DOMAIN-SUFFIX, szsi.cn # 深圳证券信息有限公司（深交所）
 
 # 中国证券登记结算有限责任公司
 DOMAIN-SUFFIX, chinaclear.cn

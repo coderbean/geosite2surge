@@ -145,6 +145,14 @@ DOMAIN-SUFFIX, mypep.cn
 DOMAIN-SUFFIX, peeavp.com.cn
 DOMAIN-SUFFIX, pep.com.cn
 
+# 作文素材类
+DOMAIN-SUFFIX, diyifanwen.com
+DOMAIN-SUFFIX, zuowen8.com
+DOMAIN-SUFFIX, zuowenjun.com
+DOMAIN-SUFFIX, zuowenku.net
+DOMAIN-SUFFIX, zuowenwang.net
+DOMAIN-SUFFIX, zww.com.cn
+
 # 二一教育
 DOMAIN-SUFFIX, 21cnjy.com
 # 云校
@@ -196,6 +204,9 @@ DOMAIN-SUFFIX, offcn.com
 DOMAIN-SUFFIX, zggqzp.com
 DOMAIN-SUFFIX, zgjsks.com
 DOMAIN-SUFFIX, zgsydw.com
+# 高顿教育
+DOMAIN-SUFFIX, gaodun.com
+DOMAIN-SUFFIX, gaodunwangxiao.com
 # 高绩网
 DOMAIN-SUFFIX, gaojidata.com
 # 高考100
@@ -294,11 +305,6 @@ DOMAIN-SUFFIX, zhan.com
 DOMAIN-SUFFIX, zhihuishu.com
 # 浙江省教育考试院
 DOMAIN-SUFFIX, zjzs.net
-# 作文素材类
-DOMAIN-SUFFIX, zuowen8.com
-DOMAIN-SUFFIX, zuowenjun.com
-DOMAIN-SUFFIX, zuowenku.net
-DOMAIN-SUFFIX, zuowenwang.net
 # 千学教育 # 京ICP备2021026895号-5
 DOMAIN-SUFFIX, qianxuecloud.com
 DOMAIN-SUFFIX, qianxueyunke.com

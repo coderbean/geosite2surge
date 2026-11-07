@@ -170,6 +170,15 @@ DOMAIN-SUFFIX, aispeech.com
 DOMAIN-SUFFIX, dui.ai
 DOMAIN-SUFFIX, duiopen.com
 
+# 商汤智能科技
+DOMAIN-SUFFIX, senseaudio.cn
+DOMAIN-SUFFIX, senseavatar.com
+DOMAIN-SUFFIX, sensecore.cn
+DOMAIN-SUFFIX, sensefoundry.cn
+DOMAIN-SUFFIX, sensenova.cn
+DOMAIN-SUFFIX, sensetime.com
+DOMAIN-SUFFIX, xiaohuanxiong.com
+
 # ClawHub 中国官方镜像站 (bytedance)
 DOMAIN-SUFFIX, clawhub-mirror.com
 
@@ -198,3 +207,6 @@ DOMAIN-SUFFIX, kakaxing.com
 DOMAIN-SUFFIX, favonis.cloud
 DOMAIN-SUFFIX, favonis.com
 DOMAIN-SUFFIX, favonis.space
+
+# 实在智能
+DOMAIN-SUFFIX, ai-indeed.com

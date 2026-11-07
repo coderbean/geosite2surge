@@ -25,13 +25,27 @@ DOMAIN-SUFFIX, dcdapp.com
 DOMAIN-SUFFIX, dongchedi.com
 DOMAIN-SUFFIX, dongchediapp.com
 
+## 武汉木仓科技（驾考宝典）
+DOMAIN-SUFFIX, jiakaobaodian.com
+DOMAIN-SUFFIX, kakamobi.com
+DOMAIN-SUFFIX, maiche.com
+DOMAIN-SUFFIX, mc-cdn.cn
+DOMAIN-SUFFIX, mucang.cn
 
 # 汽车品牌
 DOMAIN-SUFFIX, byd.com # 比亚迪
+DOMAIN-SUFFIX, chery.cn # 奇瑞
+DOMAIN-SUFFIX, faw.cn # 一汽
 DOMAIN-SUFFIX, geely.com # 吉利
 DOMAIN-SUFFIX, gwm.com.cn # 长城
+DOMAIN-SUFFIX, jac.com.cn # 江淮
 DOMAIN-SUFFIX, lixiang.com # 理想
+DOMAIN-SUFFIX, seres.cn # 赛力斯
 DOMAIN-SUFFIX, xiaopeng.com # 小鹏
+## 领克
+DOMAIN-SUFFIX, lynkco-test.com
+DOMAIN-SUFFIX, lynkco.com
+DOMAIN-SUFFIX, lynkco.com.cn
 ## 蔚来
 DOMAIN-SUFFIX, nio.cn
 DOMAIN-SUFFIX, nio.com
