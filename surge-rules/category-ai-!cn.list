@@ -20,6 +20,10 @@ DOMAIN-SUFFIX, claudeusercontent.com
 # CDN
 DOMAIN, servd-anthropic-website.b-cdn.net
 
+# Claude Code telemetry
+DOMAIN, http-intake.logs.us5.datadoghq.com
+DOMAIN, o1158394.ingest.us.sentry.io
+
 # Dola, formly ciciai, an AI service of bytedance
 DOMAIN-SUFFIX, cici.com
 DOMAIN-SUFFIX, ciciai.com
@@ -66,6 +70,7 @@ DOMAIN-SUFFIX, githubcopilot.com
 
 DOMAIN, copilot-proxy.githubusercontent.com
 DOMAIN, copilot-workspace.githubnext.com
+DOMAIN, production-copilot-host-westus.webpubsub.azure.com
 
 # Azure Blob Storage
 DOMAIN, copilotprodattachments.blob.core.windows.net
@@ -215,6 +220,7 @@ DOMAIN-SUFFIX, windsurf.com
 
 DOMAIN-SUFFIX, grok.com
 DOMAIN-SUFFIX, grok.x.com
+DOMAIN-SUFFIX, grokbot.com
 DOMAIN-SUFFIX, grokipedia.com
 DOMAIN-SUFFIX, x.ai
 
