@@ -1005,8 +1005,10 @@ DOMAIN, inappcheck.itunes.apple.com
 DOMAIN, init.itunes.apple.com
 DOMAIN, iosapps.itunes.apple.com
 DOMAIN, misc-assets.itunes.apple.com
+DOMAIN, musicstatus.itunes.apple.com
 DOMAIN, mvod.itunes.apple.com
 DOMAIN, myapp.itunes.apple.com
+DOMAIN, mzstorekit.itunes.apple.com
 DOMAIN, np-edge.itunes.apple.com
 DOMAIN, osxapps.itunes.apple.com
 DOMAIN, pd-nk.itunes.apple.com
@@ -1767,11 +1769,13 @@ DOMAIN-SUFFIX, courier-push-apple.com.akadns.net
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:apple@cn"
+DOMAIN-SUFFIX, captive.apple.com
 DOMAIN, amp-api-edge.apps.apple.com
 DOMAIN, amp-api-search-edge.apps.apple.com
 DOMAIN, amp-api.apps.apple.com
 DOMAIN, api-edge.apps.apple.com
 DOMAIN, communities.apple.com
+DOMAIN, configuration.ls.apple.com
 DOMAIN, discussionschinese.apple.com
 DOMAIN, fides-pol.apple.com
 DOMAIN, gspe12-cn-ssl.ls.apple.com

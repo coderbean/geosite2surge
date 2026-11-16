@@ -1897,8 +1897,10 @@ DOMAIN, inappcheck.itunes.apple.com
 DOMAIN, init.itunes.apple.com
 DOMAIN, iosapps.itunes.apple.com
 DOMAIN, misc-assets.itunes.apple.com
+DOMAIN, musicstatus.itunes.apple.com
 DOMAIN, mvod.itunes.apple.com
 DOMAIN, myapp.itunes.apple.com
+DOMAIN, mzstorekit.itunes.apple.com
 DOMAIN, np-edge.itunes.apple.com
 DOMAIN, osxapps.itunes.apple.com
 DOMAIN, pd-nk.itunes.apple.com
