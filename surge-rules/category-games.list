@@ -97,6 +97,34 @@ DOMAIN-SUFFIX, heroesports.com
 DOMAIN-SUFFIX, shyxhy.com
 DOMAIN-SUFFIX, yingxiong.com
 
+# 鹰角网络
+DOMAIN-SUFFIX, hgto.cc
+DOMAIN-SUFFIX, hypergryph.cn
+DOMAIN-SUFFIX, hypergryph.com
+DOMAIN-SUFFIX, hypergryph.com.cn
+DOMAIN-SUFFIX, hypergryph.net
+DOMAIN-SUFFIX, hycdn.cn
+DOMAIN-SUFFIX, hycdn.com
+
+# 明日方舟
+DOMAIN-SUFFIX, arknights.com
+DOMAIN-SUFFIX, arknights.com.cn
+
+# 森空岛
+DOMAIN-SUFFIX, skland.com
+DOMAIN-SUFFIX, skland.net
+
+# 乌柯塔界限
+DOMAIN-SUFFIX, octavedge.com
+
+# Gryphline
+DOMAIN-SUFFIX, gryphline.cn
+DOMAIN-SUFFIX, gryphline.com
+DOMAIN-SUFFIX, gryphline.com.cn
+DOMAIN-SUFFIX, gryphline.net
+DOMAIN-SUFFIX, hg-cdn.com
+DOMAIN-SUFFIX, skport.com
+
 DOMAIN-SUFFIX, kurobbs.com
 DOMAIN-SUFFIX, kurogame-service.com
 DOMAIN-SUFFIX, kurogame.com
@@ -494,12 +522,13 @@ DOMAIN-SUFFIX, thewitcher.com
 DOMAIN-SUFFIX, curseforge.com
 DOMAIN-SUFFIX, forgecdn.net
 
-DOMAIN-SUFFIX, cygames.jp
 DOMAIN-SUFFIX, cygames.co.jp
+DOMAIN-SUFFIX, cygames.com
+DOMAIN-SUFFIX, cygames.jp
 DOMAIN-SUFFIX, worldflipper.jp
 
-DOMAIN-SUFFIX, worldflipper.akamaized.net
 DOMAIN-SUFFIX, umamusume.akamaized.net
+DOMAIN-SUFFIX, worldflipper.akamaized.net
 
 DOMAIN-SUFFIX, dawngate.com
 DOMAIN-SUFFIX, eastore.com

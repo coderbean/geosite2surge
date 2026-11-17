@@ -100,12 +100,13 @@ DOMAIN-SUFFIX, thewitcher.com
 DOMAIN-SUFFIX, curseforge.com
 DOMAIN-SUFFIX, forgecdn.net
 
-DOMAIN-SUFFIX, cygames.jp
 DOMAIN-SUFFIX, cygames.co.jp
+DOMAIN-SUFFIX, cygames.com
+DOMAIN-SUFFIX, cygames.jp
 DOMAIN-SUFFIX, worldflipper.jp
 
-DOMAIN-SUFFIX, worldflipper.akamaized.net
 DOMAIN-SUFFIX, umamusume.akamaized.net
+DOMAIN-SUFFIX, worldflipper.akamaized.net
 
 DOMAIN-SUFFIX, dawngate.com
 DOMAIN-SUFFIX, eastore.com

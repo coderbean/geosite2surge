@@ -286,6 +286,11 @@ DOMAIN-SUFFIX, vtbbo.ru
 DOMAIN-SUFFIX, vtbglobalperspectives.com
 DOMAIN-SUFFIX, xn--90ab2c.xn--p1ai
 
+# Yandex Bank
+DOMAIN-SUFFIX, bank.yandex.ru
+DOMAIN-SUFFIX, yandex-bank.net
+DOMAIN-SUFFIX, yb-payment.ru
+
 # Bank Zenit
 DOMAIN-SUFFIX, credit-zenit.ru
 DOMAIN-SUFFIX, zenit-card.ru
@@ -325,7 +330,6 @@ DOMAIN-SUFFIX, aversbank.ru                  # PJSC Bank Avers
 DOMAIN-SUFFIX, bancaintesa.ru                # JSC Banca Intesa
 DOMAIN-SUFFIX, bank-arzamas.ru               # JSC CB Arzamas
 DOMAIN-SUFFIX, bank-hlynov.ru                # JSC CB Khlynov
-DOMAIN-SUFFIX, bank.yandex.ru                # JSC Yandex Bank
 DOMAIN-SUFFIX, bankermak.ru                  # JSC Bank Ermak
 DOMAIN-SUFFIX, bankofkazan.ru                # LLC CBER Bank of Kazan
 DOMAIN-SUFFIX, bankperm.ru                   # JSC Bank Perm
