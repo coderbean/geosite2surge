@@ -65,9 +65,6 @@ DOMAIN-SUFFIX, youpin.com.cn
 # 紫米
 DOMAIN-SUFFIX, zmifi.com
 
-# AppStore CDN
-DOMAIN-SUFFIX, saxyit.com
-
 # Overseas only
 DOMAIN-SUFFIX, c.mi.com
 DOMAIN-SUFFIX, global.market.xiaomi.com

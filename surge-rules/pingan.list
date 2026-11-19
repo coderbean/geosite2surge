@@ -1,4 +1,33 @@
+DOMAIN-SUFFIX, 4008000000.com
+DOMAIN-SUFFIX, pingan.cn
 DOMAIN-SUFFIX, pingan.com
 DOMAIN-SUFFIX, pingan.com.cn
 DOMAIN-SUFFIX, pingan.com.hk
+
+# 壹钱包/平安付
+DOMAIN-SUFFIX, 172.com
+DOMAIN-SUFFIX, 1qianbao.com
+DOMAIN-SUFFIX, yiqianbao.com
 DOMAIN-SUFFIX, yqb.com
+DOMAIN-SUFFIX, yqbimg.net
+DOMAIN-SUFFIX, yqbmall.com
+
+# 平安普惠
+DOMAIN-SUFFIX, ph.com.cn
+
+# 平安消费金融
+DOMAIN-SUFFIX, pacfc.com
+
+# 陆金所
+DOMAIN-SUFFIX, lu.com
+DOMAIN-SUFFIX, lufax.com
+DOMAIN-SUFFIX, lufaxcdn.com
+
+# 深圳市陆金互联网信息服务有限公司
+DOMAIN-SUFFIX, lujincaifu.com
+
+# 平安基金会
+DOMAIN-SUFFIX, pafoundation.org.cn
+
+# 明园基金
+DOMAIN-SUFFIX, mingyuanfund.com

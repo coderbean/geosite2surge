@@ -421,6 +421,7 @@ DOMAIN-SUFFIX, oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-wulanchabu.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-zhangjiakou.aliyuncs.com
+DOMAIN-SUFFIX, oss-enet.aliyuncs.com
 DOMAIN-SUFFIX, oss-eu-central-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
@@ -9652,6 +9653,8 @@ DOMAIN-SUFFIX, sohu
 # 搜狐畅游
 DOMAIN-SUFFIX, 17173.com
 DOMAIN-SUFFIX, 17173cdn.com
+DOMAIN-SUFFIX, 1y.com
+DOMAIN-SUFFIX, 1ycdn.com
 DOMAIN-SUFFIX, changyou.com
 DOMAIN-SUFFIX, cy.com
 DOMAIN-SUFFIX, playcool.com
@@ -10481,6 +10484,7 @@ DOMAIN-SUFFIX, tencent.com.cn
 DOMAIN-SUFFIX, tencent.com.hk
 DOMAIN-SUFFIX, tencent.net
 DOMAIN-SUFFIX, tencent.net.cn
+DOMAIN-SUFFIX, tencentads.com
 DOMAIN-SUFFIX, tencentmiying.com
 DOMAIN-SUFFIX, tengmed.com
 DOMAIN-SUFFIX, tenpay.com
@@ -10913,9 +10917,6 @@ DOMAIN-SUFFIX, youpin.com.cn
 # 紫米
 DOMAIN-SUFFIX, zmifi.com
 
-# AppStore CDN
-DOMAIN-SUFFIX, saxyit.com
-
 # Overseas only
 DOMAIN-SUFFIX, c.mi.com
 DOMAIN-SUFFIX, global.market.xiaomi.com
@@ -11237,7 +11238,6 @@ DOMAIN-SUFFIX, yandexdataschool.ru
 DOMAIN-SUFFIX, yandexgo.com
 DOMAIN-SUFFIX, yandexlyceum.ru
 DOMAIN-SUFFIX, yandexwebcache.net
-DOMAIN-SUFFIX, yandexwebcache.org
 DOMAIN-SUFFIX, yango-b2b.com
 DOMAIN-SUFFIX, yango-team.com
 DOMAIN-SUFFIX, yango-tech.com
@@ -11986,6 +11986,7 @@ DOMAIN-SUFFIX, oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-wulanchabu.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-zhangjiakou.aliyuncs.com
+DOMAIN-SUFFIX, oss-enet.aliyuncs.com
 DOMAIN-SUFFIX, oss-eu-central-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
@@ -12512,6 +12513,7 @@ DOMAIN-SUFFIX, oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-wulanchabu.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-zhangjiakou.aliyuncs.com
+DOMAIN-SUFFIX, oss-enet.aliyuncs.com
 DOMAIN-SUFFIX, oss-eu-central-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
@@ -18142,6 +18144,7 @@ DOMAIN-SUFFIX, tencent.com.cn
 DOMAIN-SUFFIX, tencent.com.hk
 DOMAIN-SUFFIX, tencent.net
 DOMAIN-SUFFIX, tencent.net.cn
+DOMAIN-SUFFIX, tencentads.com
 DOMAIN-SUFFIX, tencentmiying.com
 DOMAIN-SUFFIX, tengmed.com
 DOMAIN-SUFFIX, tenpay.com
@@ -18993,9 +18996,6 @@ DOMAIN-SUFFIX, youpin.com.cn
 # 紫米
 DOMAIN-SUFFIX, zmifi.com
 
-# AppStore CDN
-DOMAIN-SUFFIX, saxyit.com
-
 # Overseas only
 DOMAIN-SUFFIX, c.mi.com
 DOMAIN-SUFFIX, global.market.xiaomi.com
@@ -19127,7 +19127,6 @@ DOMAIN-SUFFIX, yandexdataschool.ru
 DOMAIN-SUFFIX, yandexgo.com
 DOMAIN-SUFFIX, yandexlyceum.ru
 DOMAIN-SUFFIX, yandexwebcache.net
-DOMAIN-SUFFIX, yandexwebcache.org
 DOMAIN-SUFFIX, yango-b2b.com
 DOMAIN-SUFFIX, yango-team.com
 DOMAIN-SUFFIX, yango-tech.com

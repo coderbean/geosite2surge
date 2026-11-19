@@ -545,6 +545,8 @@ DOMAIN-SUFFIX, sl916.com
 # 搜狐畅游
 DOMAIN-SUFFIX, 17173.com
 DOMAIN-SUFFIX, 17173cdn.com
+DOMAIN-SUFFIX, 1y.com
+DOMAIN-SUFFIX, 1ycdn.com
 DOMAIN-SUFFIX, changyou.com
 DOMAIN-SUFFIX, cy.com
 DOMAIN-SUFFIX, playcool.com
@@ -2353,6 +2355,8 @@ DOMAIN-SUFFIX, sohu
 # 搜狐畅游
 DOMAIN-SUFFIX, 17173.com
 DOMAIN-SUFFIX, 17173cdn.com
+DOMAIN-SUFFIX, 1y.com
+DOMAIN-SUFFIX, 1ycdn.com
 DOMAIN-SUFFIX, changyou.com
 DOMAIN-SUFFIX, cy.com
 DOMAIN-SUFFIX, playcool.com
@@ -3707,10 +3711,39 @@ DOMAIN-SUFFIX, everbright.com
 DOMAIN-SUFFIX, secec.com
 DOMAIN-SUFFIX, sunlife-everbright.com
 
+DOMAIN-SUFFIX, 4008000000.com
+DOMAIN-SUFFIX, pingan.cn
 DOMAIN-SUFFIX, pingan.com
 DOMAIN-SUFFIX, pingan.com.cn
 DOMAIN-SUFFIX, pingan.com.hk
+
+# 壹钱包/平安付
+DOMAIN-SUFFIX, 172.com
+DOMAIN-SUFFIX, 1qianbao.com
+DOMAIN-SUFFIX, yiqianbao.com
 DOMAIN-SUFFIX, yqb.com
+DOMAIN-SUFFIX, yqbimg.net
+DOMAIN-SUFFIX, yqbmall.com
+
+# 平安普惠
+DOMAIN-SUFFIX, ph.com.cn
+
+# 平安消费金融
+DOMAIN-SUFFIX, pacfc.com
+
+# 陆金所
+DOMAIN-SUFFIX, lu.com
+DOMAIN-SUFFIX, lufax.com
+DOMAIN-SUFFIX, lufaxcdn.com
+
+# 深圳市陆金互联网信息服务有限公司
+DOMAIN-SUFFIX, lujincaifu.com
+
+# 平安基金会
+DOMAIN-SUFFIX, pafoundation.org.cn
+
+# 明园基金
+DOMAIN-SUFFIX, mingyuanfund.com
 
 DOMAIN-SUFFIX, taikang.com
 DOMAIN-SUFFIX, taikanglife.com
@@ -3759,10 +3792,6 @@ DOMAIN-SUFFIX, lehuipay.com
 ## 连连
 DOMAIN-SUFFIX, lianlian.com
 DOMAIN-SUFFIX, lianlianpay.com
-## 上海陆金所
-DOMAIN-SUFFIX, lu.com
-DOMAIN-SUFFIX, lufax.com
-DOMAIN-SUFFIX, lufaxcdn.com
 ## 银豹收银系统
 DOMAIN-SUFFIX, pospal.cn
 ## 趣店
@@ -3782,9 +3811,20 @@ DOMAIN-SUFFIX, yeepay.com
 DOMAIN-SUFFIX, ysepay.com
 
 # CDN or SDWAN
+# 白山云/凌川峰
+DOMAIN-SUFFIX, baishan.com
+DOMAIN-SUFFIX, baishancdnx.cn
+DOMAIN-SUFFIX, baishancloud.com
 DOMAIN-SUFFIX, bsclink.cn
 DOMAIN-SUFFIX, qingcdn.com
+DOMAIN-SUFFIX, trpcdn.com
 DOMAIN-SUFFIX, trpcdn.net
+
+## 云盾
+DOMAIN-SUFFIX, yundun.com
+
+## 广州鑫耘科技
+DOMAIN-SUFFIX, saxyit.com
 
 DOMAIN-SUFFIX, bootcdn.cn
 DOMAIN-SUFFIX, bootcdn.net
@@ -4181,9 +4221,11 @@ DOMAIN-SUFFIX, 58dns.org
 DOMAIN-SUFFIX, 58lovepet.com
 DOMAIN-SUFFIX, 58uxd.com
 DOMAIN-SUFFIX, 58v5.cn
+DOMAIN-SUFFIX, 58wos.com.cn
 DOMAIN-SUFFIX, 58xinghuo.cn
 DOMAIN-SUFFIX, 58xinghuo.com
 DOMAIN-SUFFIX, 58xueche.com
+DOMAIN-SUFFIX, ajkimg.com
 DOMAIN-SUFFIX, anjuke.com
 DOMAIN-SUFFIX, anjukestatic.com
 DOMAIN-SUFFIX, chinahr.com
@@ -4206,6 +4248,13 @@ DOMAIN-SUFFIX, zhuanspirit.cn
 DOMAIN-SUFFIX, zhuanspirit.com
 DOMAIN-SUFFIX, zhuanstatic.com
 DOMAIN-SUFFIX, zhuanzhuan.com
+
+# 找靓机
+DOMAIN-SUFFIX, zhaoliangji.com
+DOMAIN-SUFFIX, zhaoliangjipc.com
+
+# 乾派文化
+DOMAIN-SUFFIX, qpmcn.com
 
 # 考试宝
 DOMAIN-SUFFIX, kaoshibao.com
@@ -6837,6 +6886,7 @@ DOMAIN-SUFFIX, oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-wulanchabu.aliyuncs.com
 DOMAIN-SUFFIX, oss-cn-zhangjiakou.aliyuncs.com
+DOMAIN-SUFFIX, oss-enet.aliyuncs.com
 DOMAIN-SUFFIX, oss-eu-central-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX, oss-me-east-1.aliyuncs.com
@@ -9158,6 +9208,15 @@ DOMAIN-SUFFIX, thinkcloudlab.com
 DOMAIN-SUFFIX, thinkpad.com
 DOMAIN-SUFFIX, zhiliaowenda.com.cn
 
+# File hosting
+DOMAIN-SUFFIX, lefile.cn
+
+# 联想（北京）电子科技有限公司
+DOMAIN-SUFFIX, lenovofuturecenter.com
+
+# 北京联想公益基金会
+DOMAIN-SUFFIX, lenovofoundation.cn
+
 # 来酷科技有限公司
 DOMAIN-SUFFIX, lecoo.com
 
@@ -10250,6 +10309,7 @@ DOMAIN-SUFFIX, tencent.com.cn
 DOMAIN-SUFFIX, tencent.com.hk
 DOMAIN-SUFFIX, tencent.net
 DOMAIN-SUFFIX, tencent.net.cn
+DOMAIN-SUFFIX, tencentads.com
 DOMAIN-SUFFIX, tencentmiying.com
 DOMAIN-SUFFIX, tengmed.com
 DOMAIN-SUFFIX, tenpay.com
@@ -10491,9 +10551,6 @@ DOMAIN-SUFFIX, youpin.com.cn
 
 # 紫米
 DOMAIN-SUFFIX, zmifi.com
-
-# AppStore CDN
-DOMAIN-SUFFIX, saxyit.com
 
 # Overseas only
 DOMAIN-SUFFIX, c.mi.com
@@ -11934,7 +11991,6 @@ DOMAIN-SUFFIX, yslyhr.com
 DOMAIN-SUFFIX, ysten.com
 DOMAIN-SUFFIX, yuanzhiyijiantong.com
 DOMAIN-SUFFIX, yunba.io
-DOMAIN-SUFFIX, yundun.com
 DOMAIN-SUFFIX, yunkanpan.com # 京ICP备15036006号-3
 DOMAIN-SUFFIX, yunqishi.net
 DOMAIN-SUFFIX, yunshipei.com
