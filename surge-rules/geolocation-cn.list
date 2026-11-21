@@ -39,6 +39,7 @@ DOMAIN-SUFFIX, mucang.cn
 DOMAIN-SUFFIX, byd.com # 比亚迪
 DOMAIN-SUFFIX, chery.cn # 奇瑞
 DOMAIN-SUFFIX, faw.cn # 一汽
+DOMAIN-SUFFIX, faw-vw.com # 一汽-大众
 DOMAIN-SUFFIX, geely.com # 吉利
 DOMAIN-SUFFIX, gwm.com.cn # 长城
 DOMAIN-SUFFIX, jac.com.cn # 江淮
@@ -4736,6 +4737,10 @@ DOMAIN-SUFFIX, didapinche.com
 ## 多点新鲜
 DOMAIN-SUFFIX, dmall.com
 DOMAIN-SUFFIX, dmallcdn.com
+## 上海法至科技
+DOMAIN-SUFFIX, echooai.com
+DOMAIN-SUFFIX, fazhipro.com
+DOMAIN-SUFFIX, saasfz.com
 ## 房天下/搜房网
 DOMAIN-SUFFIX, fang.com
 DOMAIN-SUFFIX, soufun.com
