@@ -4733,6 +4733,7 @@ DOMAIN-SUFFIX, craigslist.org
 
 DOMAIN-SUFFIX, dmm.co.jp
 DOMAIN-SUFFIX, dmmrex.com
+DOMAIN-SUFFIX, fanza.jp
 
 
 DOMAIN-SUFFIX, dmm.com
@@ -10419,9 +10420,8 @@ DOMAIN, cbsservice.aws.syncbak.com
 DOMAIN, link.theplatform.com
 
 DOMAIN-SUFFIX, cnbc.com
+DOMAIN-SUFFIX, cnbccouncils.com
 DOMAIN-SUFFIX, cnbcfm.com
-DOMAIN-SUFFIX, nbcuni.com
-DOMAIN-SUFFIX, nbcudigitaladops.com
 
 DOMAIN-SUFFIX, cnbeta.com
 DOMAIN-SUFFIX, cnbeta.com.tw
@@ -10940,6 +10940,10 @@ DOMAIN-SUFFIX, valorinveste.com
 DOMAIN-SUFFIX, valorinveste.com.br
 DOMAIN-SUFFIX, xuxaverso.com.br
 
+DOMAIN-SUFFIX, rolfoundation.org
+DOMAIN-SUFFIX, rolsociety.org
+
+
 DOMAIN-SUFFIX, g-tvapp.com
 DOMAIN-SUFFIX, gclubs.com
 DOMAIN-SUFFIX, gettr.com
@@ -10957,8 +10961,6 @@ DOMAIN-SUFFIX, nfsc.global
 DOMAIN-SUFFIX, nfscdict.com
 DOMAIN-SUFFIX, nfscofficial.com
 DOMAIN-SUFFIX, rexcha.com
-DOMAIN-SUFFIX, rolfoundation.org
-DOMAIN-SUFFIX, rolsociety.org
 DOMAIN-SUFFIX, yiqiedoushiganggangkaishi.org
 
 DOMAIN, himalaya-exchange.zendesk.com
@@ -11121,30 +11123,49 @@ DOMAIN-SUFFIX, medium.systems
 DOMAIN-SUFFIX, myradio.hk
 DOMAIN-SUFFIX, myradio.com.hk
 
-# DreamWorks
-DOMAIN-SUFFIX, dreamworks.com
-
-# NBC
-DOMAIN-SUFFIX, cnbc.com
-DOMAIN-SUFFIX, cnbcfm.com
-DOMAIN-SUFFIX, msnbc.com
-DOMAIN-SUFFIX, nbc.co
-DOMAIN-SUFFIX, nbc.com
-DOMAIN-SUFFIX, nbcnews.com
-DOMAIN-SUFFIX, nbcolympics.com
-DOMAIN-SUFFIX, nbcsports.com
+DOMAIN-SUFFIX, nbcudigitaladops.com
 DOMAIN-SUFFIX, nbcuni.com
+DOMAIN-SUFFIX, nbcunicareers.com
 DOMAIN-SUFFIX, nbcuniversal.com
-DOMAIN-SUFFIX, s-nbcnews.com
+DOMAIN-SUFFIX, nbcuniversalprivacy.com
+DOMAIN-SUFFIX, udxfpp.com # UDX Franchise, Products & Partnerships
 
-# Peacock
-DOMAIN-SUFFIX, peacocktv.com
+# Reference: https://www.nbcuniversal.com/brands
 
-# Universal
-DOMAIN-SUFFIX, universalorlando.com
-DOMAIN-SUFFIX, universalpictures.com
-DOMAIN-SUFFIX, universalpicturesinternational.com
-DOMAIN-SUFFIX, universalstudioshollywood.com
+# Destinations & Experiences
+DOMAIN-SUFFIX, universalbeijingresort.com        # Universal Beijing Resort
+DOMAIN-SUFFIX, universalhorrorunleashed.com      # Universal Horror Unleashed
+DOMAIN-SUFFIX, universalkidsresort.com           # Universal Kids Resort
+DOMAIN-SUFFIX, universalorlando.com              # Universal Orlando Resort
+DOMAIN-SUFFIX, universalproductsexperiences.com  # Universal Products & Experiences
+DOMAIN-SUFFIX, universalstudioshollywood.com     # Universal Studios Hollywood
+DOMAIN-SUFFIX, universalukproject.co.uk          # Universal UK Project
+DOMAIN-SUFFIX, usj.co.jp                         # Universal Studios Japan
+
+# Media
+DOMAIN-SUFFIX, bravotv.com      # Bravo
+DOMAIN-SUFFIX, hayu.com         # Hayu
+DOMAIN-SUFFIX, nbc.co           # NBC
+DOMAIN-SUFFIX, nbc.com          # NBC
+DOMAIN-SUFFIX, nbcolympics.com  # NBC Olympics
+DOMAIN-SUFFIX, nbcsports.com    # NBC Sports
+DOMAIN-SUFFIX, peacocktv.com    # Peacock
+
+# NBC News Group
+DOMAIN-SUFFIX, nbcnews.com    # NBC News
+DOMAIN-SUFFIX, s-nbcnews.com  # NBC News
+DOMAIN-SUFFIX, telemundo.com  # Telemundo
+
+# Studios
+DOMAIN-SUFFIX, dreamworks.com                      # DreamWorks
+DOMAIN-SUFFIX, focusfeatures.com                   # Focus Features
+DOMAIN-SUFFIX, illumination.com                    # Illumination
+DOMAIN-SUFFIX, nbcumv.com                          # NBCUniversal MediaVillage
+DOMAIN-SUFFIX, universalpictures.co.uk             # Universal Pictures UK
+DOMAIN-SUFFIX, universalpictures.com               # Universal Pictures
+DOMAIN-SUFFIX, universalpicturesathome.com         # Universal Pictures Home Entertainment
+DOMAIN-SUFFIX, universalpicturesinternational.com  # Universal Pictures International
+DOMAIN-SUFFIX, uphe.com                            # Universal Pictures Home Entertainment
 
 DOMAIN-SUFFIX, neow.in
 DOMAIN-SUFFIX, neowin.net
@@ -12329,6 +12350,7 @@ DOMAIN-SUFFIX, triokini.com
 
 DOMAIN-SUFFIX, dmm.co.jp
 DOMAIN-SUFFIX, dmmrex.com
+DOMAIN-SUFFIX, fanza.jp
 
 DOMAIN-SUFFIX, e-hentai.org
 DOMAIN-SUFFIX, ehgt.org
@@ -12618,6 +12640,7 @@ DOMAIN, ad-display.diwodiwo.xyz
 
 DOMAIN-SUFFIX, playboy.com
 DOMAIN-SUFFIX, playboy.com.uk
+DOMAIN-SUFFIX, playboyplus.com
 
 DOMAIN-SUFFIX, pornpros.com
 DOMAIN-SUFFIX, pornprosnetwork.com
@@ -13055,6 +13078,7 @@ DOMAIN-SUFFIX, 51dh.site
 DOMAIN-SUFFIX, 51lieqi.com
 DOMAIN-SUFFIX, 51luoli.info
 DOMAIN-SUFFIX, 51mh.app
+DOMAIN-SUFFIX, 51papaya.com
 DOMAIN-SUFFIX, 51pincha.cc
 DOMAIN-SUFFIX, 520aa.tv
 DOMAIN-SUFFIX, 520avtv.com
@@ -13814,7 +13838,6 @@ DOMAIN-SUFFIX, bokepseks.org
 DOMAIN-SUFFIX, bokepvidz.com
 DOMAIN-SUFFIX, bondagecomixxx.net
 DOMAIN-SUFFIX, bondagesex-xxx.com
-DOMAIN-SUFFIX, bongacams.com
 DOMAIN-SUFFIX, bonyu.cyou
 DOMAIN-SUFFIX, boobieblog.com
 DOMAIN-SUFFIX, boobpedia.com
@@ -13915,7 +13938,6 @@ DOMAIN-SUFFIX, camvideos.tv
 DOMAIN-SUFFIX, camvideoshub.com
 DOMAIN-SUFFIX, camwhores-tv.com
 DOMAIN-SUFFIX, camwhores.forum
-DOMAIN-SUFFIX, camwhores.tv
 DOMAIN-SUFFIX, camwhoresbay.com
 DOMAIN-SUFFIX, camwhoreshd.com
 DOMAIN-SUFFIX, camwhoria.com
@@ -14120,7 +14142,6 @@ DOMAIN-SUFFIX, cumshotlist.com
 DOMAIN-SUFFIX, cumswappingsis.com
 DOMAIN-SUFFIX, cumteenporn.com
 DOMAIN-SUFFIX, cunhua.pics
-DOMAIN-SUFFIX, cuntempire.com
 DOMAIN-SUFFIX, curvybbwwives.com
 DOMAIN-SUFFIX, curvyerotic.com
 DOMAIN-SUFFIX, cwcams.com
@@ -14212,7 +14233,6 @@ DOMAIN-SUFFIX, dirtydoglinks.com
 DOMAIN-SUFFIX, dirtyfarmer.com
 DOMAIN-SUFFIX, dirtyflix.com
 DOMAIN-SUFFIX, dirtyhomefuck.com
-DOMAIN-SUFFIX, dirtyleague.com
 DOMAIN-SUFFIX, dirtyonline.com
 DOMAIN-SUFFIX, dirtypornvids.com
 DOMAIN-SUFFIX, dirtyscat.org
@@ -15396,7 +15416,6 @@ DOMAIN-SUFFIX, iloveinterracial.com
 DOMAIN-SUFFIX, ilovexs.com
 DOMAIN-SUFFIX, imagefap.com
 DOMAIN-SUFFIX, imagepost.com
-DOMAIN-SUFFIX, imagetwist.com
 DOMAIN-SUFFIX, imaypb.com
 DOMAIN-SUFFIX, imhentai.xxx
 DOMAIN-SUFFIX, imilfs.com
@@ -16187,7 +16206,6 @@ DOMAIN-SUFFIX, moeero-library.com
 DOMAIN-SUFFIX, moefuns.co
 DOMAIN-SUFFIX, moeimg.net
 DOMAIN-SUFFIX, moez-m.com
-DOMAIN-SUFFIX, mofos.com
 DOMAIN-SUFFIX, mofosex.com
 DOMAIN-SUFFIX, mofosnetwork.com
 DOMAIN-SUFFIX, mom-gfs.com
@@ -16275,7 +16293,6 @@ DOMAIN-SUFFIX, myboylove.com
 DOMAIN-SUFFIX, mybukkakeporn.com
 DOMAIN-SUFFIX, mycams.com
 DOMAIN-SUFFIX, mycartoonsexgames.com
-DOMAIN-SUFFIX, mycdn.me
 DOMAIN-SUFFIX, myclitgames.com
 DOMAIN-SUFFIX, mycomicsxxx.com
 DOMAIN-SUFFIX, myfappening.org
@@ -16467,7 +16484,6 @@ DOMAIN-SUFFIX, nudevista.best
 DOMAIN-SUFFIX, nudevista.club
 DOMAIN-SUFFIX, nudevista.fun
 DOMAIN-SUFFIX, nudevista.link
-DOMAIN-SUFFIX, nudevista.vip
 DOMAIN-SUFFIX, nudewifeporn.com
 DOMAIN-SUFFIX, nudewomenpics.net
 DOMAIN-SUFFIX, nudify.online
@@ -16676,8 +16692,6 @@ DOMAIN-SUFFIX, platinumlinks.org
 DOMAIN-SUFFIX, play-bmm.shop
 DOMAIN-SUFFIX, play-bmmer.buzz
 DOMAIN-SUFFIX, playbar.biz
-DOMAIN-SUFFIX, playboy.com
-DOMAIN-SUFFIX, playboyplus.com
 DOMAIN-SUFFIX, playforceone.com
 DOMAIN-SUFFIX, playmeow.com
 DOMAIN-SUFFIX, playno1.com
@@ -17008,7 +17022,6 @@ DOMAIN-SUFFIX, pornvideotube.online
 DOMAIN-SUFFIX, pornvidhd.club
 DOMAIN-SUFFIX, pornvr.me
 DOMAIN-SUFFIX, pornwatchers.com
-DOMAIN-SUFFIX, pornwebmasters.com
 DOMAIN-SUFFIX, pornwhite.com
 DOMAIN-SUFFIX, pornwhitelist.com
 DOMAIN-SUFFIX, pornwild.to
@@ -17158,7 +17171,6 @@ DOMAIN-SUFFIX, real-thaipussy.com
 DOMAIN-SUFFIX, realcuckoldsex.com
 DOMAIN-SUFFIX, realdoll.com
 DOMAIN-SUFFIX, realgfporn.com
-DOMAIN-SUFFIX, realitykings.com
 DOMAIN-SUFFIX, reallesbianexposed.com
 DOMAIN-SUFFIX, realmaturesfuck.com
 DOMAIN-SUFFIX, realpornclip.com
@@ -17180,7 +17192,6 @@ DOMAIN-SUFFIX, redteenporn.com
 DOMAIN-SUFFIX, redtub3xxx.com
 DOMAIN-SUFFIX, redtube.blog
 DOMAIN-SUFFIX, redtube9.com
-DOMAIN-SUFFIX, redtubepremium.com
 DOMAIN-SUFFIX, redwap-xxx.com
 DOMAIN-SUFFIX, redwap.me
 DOMAIN-SUFFIX, redwap.pro
@@ -17954,7 +17965,6 @@ DOMAIN-SUFFIX, toroporno.com
 DOMAIN-SUFFIX, torrentkitty.tv
 DOMAIN-SUFFIX, totoleak.com
 DOMAIN-SUFFIX, tourporno.com
-DOMAIN-SUFFIX, townofsins.com
 DOMAIN-SUFFIX, toxin-up.sbs
 DOMAIN-SUFFIX, toxinzoo.sbs
 DOMAIN-SUFFIX, tpornstars.com
@@ -18057,7 +18067,6 @@ DOMAIN-SUFFIX, twinkboyfriends.tv
 DOMAIN-SUFFIX, twinkspornos.com
 DOMAIN-SUFFIX, twinkybf.com
 DOMAIN-SUFFIX, twistedlinks.net
-DOMAIN-SUFFIX, twistys.com
 DOMAIN-SUFFIX, twitcomike.jp
 DOMAIN-SUFFIX, twlegs.com
 DOMAIN-SUFFIX, twline5.com
@@ -18280,7 +18289,6 @@ DOMAIN-SUFFIX, whoreslag.com
 DOMAIN-SUFFIX, whoreteensex.com
 DOMAIN-SUFFIX, whorevintagesex.com
 DOMAIN-SUFFIX, whvuxtub.com
-DOMAIN-SUFFIX, whynotbi.com
 DOMAIN-SUFFIX, wife-home-videos.com
 DOMAIN-SUFFIX, wifehomeporn.com
 DOMAIN-SUFFIX, wifeinlove.com
@@ -18339,7 +18347,6 @@ DOMAIN-SUFFIX, x-artvideo.net
 DOMAIN-SUFFIX, x-caprice.com
 DOMAIN-SUFFIX, x-fetish.org
 DOMAIN-SUFFIX, x0rd38.xyz
-DOMAIN-SUFFIX, x18r.com
 DOMAIN-SUFFIX, x3guide.com
 DOMAIN-SUFFIX, x3vid.com
 DOMAIN-SUFFIX, x6av.com
@@ -18437,7 +18444,6 @@ DOMAIN-SUFFIX, xnxx-sex-videos.com
 DOMAIN-SUFFIX, xnxx-teens.com
 DOMAIN-SUFFIX, xnxx-tv.net
 DOMAIN-SUFFIX, xnxx-xxx.win
-DOMAIN-SUFFIX, xnxx.com
 DOMAIN-SUFFIX, xnxx.health
 DOMAIN-SUFFIX, xnxx18.pro
 DOMAIN-SUFFIX, xnxx2.info
@@ -18730,7 +18736,6 @@ DOMAIN-SUFFIX, youngsex.video
 DOMAIN-SUFFIX, youngteenhomeporn.com
 DOMAIN-SUFFIX, youngtube.me
 DOMAIN-SUFFIX, youporn-germany.com
-DOMAIN-SUFFIX, youporn.com
 DOMAIN-SUFFIX, youporner.eu
 DOMAIN-SUFFIX, youpornlist.com
 DOMAIN-SUFFIX, youpornxvideos.net
@@ -20794,7 +20799,6 @@ DOMAIN-SUFFIX, almalinux.org
 DOMAIN-SUFFIX, alpinelinux.org
 DOMAIN-SUFFIX, apache.org
 DOMAIN-SUFFIX, artixlinux.org
-DOMAIN-SUFFIX, atom.io
 DOMAIN-SUFFIX, badgen.net
 DOMAIN-SUFFIX, bitvise.com
 DOMAIN-SUFFIX, bmonkeys.net
@@ -20876,6 +20880,7 @@ DOMAIN-SUFFIX, raspberrypi.org
 DOMAIN-SUFFIX, raspbian.org
 DOMAIN-SUFFIX, regex101.com
 DOMAIN-SUFFIX, remirepo.net
+DOMAIN-SUFFIX, replit.com
 DOMAIN-SUFFIX, rockylinux.org
 DOMAIN-SUFFIX, rpmfusion.org
 DOMAIN-SUFFIX, scientificlinux.org
@@ -20888,6 +20893,7 @@ DOMAIN-SUFFIX, system76.com
 DOMAIN-SUFFIX, tampermonkey.net
 DOMAIN-SUFFIX, termius.com
 DOMAIN-SUFFIX, topcoder.com
+DOMAIN-SUFFIX, tortoisegit.org
 DOMAIN-SUFFIX, unpkg.com
 DOMAIN-SUFFIX, videojs.com
 DOMAIN-SUFFIX, videolan.org
@@ -29496,6 +29502,9 @@ DOMAIN-SUFFIX, panasonic.com
 DOMAIN-SUFFIX, panasonic.jp
 DOMAIN-SUFFIX, technics.com
 
+# All .hkt domains
+DOMAIN-SUFFIX, hkt
+
 DOMAIN-SUFFIX, 1010.com.hk
 DOMAIN-SUFFIX, esmarthealth.com
 DOMAIN-SUFFIX, hkcsl.com
@@ -29527,6 +29536,9 @@ DOMAIN, dfp6rglgjqszk.cloudfront.net
 DOMAIN, d1k2us671qcoau.cloudfront.net
 DOMAIN, d2anahhhmp1ffz.cloudfront.net
 
+
+# All .pccw domains
+DOMAIN-SUFFIX, pccw
 
 DOMAIN-SUFFIX, pccw.com
 DOMAIN-SUFFIX, pccwglobal.com

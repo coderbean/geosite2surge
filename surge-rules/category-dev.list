@@ -760,7 +760,6 @@ DOMAIN-SUFFIX, almalinux.org
 DOMAIN-SUFFIX, alpinelinux.org
 DOMAIN-SUFFIX, apache.org
 DOMAIN-SUFFIX, artixlinux.org
-DOMAIN-SUFFIX, atom.io
 DOMAIN-SUFFIX, badgen.net
 DOMAIN-SUFFIX, bitvise.com
 DOMAIN-SUFFIX, bmonkeys.net
@@ -842,6 +841,7 @@ DOMAIN-SUFFIX, raspberrypi.org
 DOMAIN-SUFFIX, raspbian.org
 DOMAIN-SUFFIX, regex101.com
 DOMAIN-SUFFIX, remirepo.net
+DOMAIN-SUFFIX, replit.com
 DOMAIN-SUFFIX, rockylinux.org
 DOMAIN-SUFFIX, rpmfusion.org
 DOMAIN-SUFFIX, scientificlinux.org
@@ -854,6 +854,7 @@ DOMAIN-SUFFIX, system76.com
 DOMAIN-SUFFIX, tampermonkey.net
 DOMAIN-SUFFIX, termius.com
 DOMAIN-SUFFIX, topcoder.com
+DOMAIN-SUFFIX, tortoisegit.org
 DOMAIN-SUFFIX, unpkg.com
 DOMAIN-SUFFIX, videojs.com
 DOMAIN-SUFFIX, videolan.org

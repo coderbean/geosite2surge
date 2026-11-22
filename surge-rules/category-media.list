@@ -257,9 +257,8 @@ DOMAIN, cbsservice.aws.syncbak.com
 DOMAIN, link.theplatform.com
 
 DOMAIN-SUFFIX, cnbc.com
+DOMAIN-SUFFIX, cnbccouncils.com
 DOMAIN-SUFFIX, cnbcfm.com
-DOMAIN-SUFFIX, nbcuni.com
-DOMAIN-SUFFIX, nbcudigitaladops.com
 
 DOMAIN-SUFFIX, cnbeta.com
 DOMAIN-SUFFIX, cnbeta.com.tw
@@ -778,6 +777,10 @@ DOMAIN-SUFFIX, valorinveste.com
 DOMAIN-SUFFIX, valorinveste.com.br
 DOMAIN-SUFFIX, xuxaverso.com.br
 
+DOMAIN-SUFFIX, rolfoundation.org
+DOMAIN-SUFFIX, rolsociety.org
+
+
 DOMAIN-SUFFIX, g-tvapp.com
 DOMAIN-SUFFIX, gclubs.com
 DOMAIN-SUFFIX, gettr.com
@@ -795,8 +798,6 @@ DOMAIN-SUFFIX, nfsc.global
 DOMAIN-SUFFIX, nfscdict.com
 DOMAIN-SUFFIX, nfscofficial.com
 DOMAIN-SUFFIX, rexcha.com
-DOMAIN-SUFFIX, rolfoundation.org
-DOMAIN-SUFFIX, rolsociety.org
 DOMAIN-SUFFIX, yiqiedoushiganggangkaishi.org
 
 DOMAIN, himalaya-exchange.zendesk.com
@@ -959,30 +960,49 @@ DOMAIN-SUFFIX, medium.systems
 DOMAIN-SUFFIX, myradio.hk
 DOMAIN-SUFFIX, myradio.com.hk
 
-# DreamWorks
-DOMAIN-SUFFIX, dreamworks.com
-
-# NBC
-DOMAIN-SUFFIX, cnbc.com
-DOMAIN-SUFFIX, cnbcfm.com
-DOMAIN-SUFFIX, msnbc.com
-DOMAIN-SUFFIX, nbc.co
-DOMAIN-SUFFIX, nbc.com
-DOMAIN-SUFFIX, nbcnews.com
-DOMAIN-SUFFIX, nbcolympics.com
-DOMAIN-SUFFIX, nbcsports.com
+DOMAIN-SUFFIX, nbcudigitaladops.com
 DOMAIN-SUFFIX, nbcuni.com
+DOMAIN-SUFFIX, nbcunicareers.com
 DOMAIN-SUFFIX, nbcuniversal.com
-DOMAIN-SUFFIX, s-nbcnews.com
+DOMAIN-SUFFIX, nbcuniversalprivacy.com
+DOMAIN-SUFFIX, udxfpp.com # UDX Franchise, Products & Partnerships
 
-# Peacock
-DOMAIN-SUFFIX, peacocktv.com
+# Reference: https://www.nbcuniversal.com/brands
 
-# Universal
-DOMAIN-SUFFIX, universalorlando.com
-DOMAIN-SUFFIX, universalpictures.com
-DOMAIN-SUFFIX, universalpicturesinternational.com
-DOMAIN-SUFFIX, universalstudioshollywood.com
+# Destinations & Experiences
+DOMAIN-SUFFIX, universalbeijingresort.com        # Universal Beijing Resort
+DOMAIN-SUFFIX, universalhorrorunleashed.com      # Universal Horror Unleashed
+DOMAIN-SUFFIX, universalkidsresort.com           # Universal Kids Resort
+DOMAIN-SUFFIX, universalorlando.com              # Universal Orlando Resort
+DOMAIN-SUFFIX, universalproductsexperiences.com  # Universal Products & Experiences
+DOMAIN-SUFFIX, universalstudioshollywood.com     # Universal Studios Hollywood
+DOMAIN-SUFFIX, universalukproject.co.uk          # Universal UK Project
+DOMAIN-SUFFIX, usj.co.jp                         # Universal Studios Japan
+
+# Media
+DOMAIN-SUFFIX, bravotv.com      # Bravo
+DOMAIN-SUFFIX, hayu.com         # Hayu
+DOMAIN-SUFFIX, nbc.co           # NBC
+DOMAIN-SUFFIX, nbc.com          # NBC
+DOMAIN-SUFFIX, nbcolympics.com  # NBC Olympics
+DOMAIN-SUFFIX, nbcsports.com    # NBC Sports
+DOMAIN-SUFFIX, peacocktv.com    # Peacock
+
+# NBC News Group
+DOMAIN-SUFFIX, nbcnews.com    # NBC News
+DOMAIN-SUFFIX, s-nbcnews.com  # NBC News
+DOMAIN-SUFFIX, telemundo.com  # Telemundo
+
+# Studios
+DOMAIN-SUFFIX, dreamworks.com                      # DreamWorks
+DOMAIN-SUFFIX, focusfeatures.com                   # Focus Features
+DOMAIN-SUFFIX, illumination.com                    # Illumination
+DOMAIN-SUFFIX, nbcumv.com                          # NBCUniversal MediaVillage
+DOMAIN-SUFFIX, universalpictures.co.uk             # Universal Pictures UK
+DOMAIN-SUFFIX, universalpictures.com               # Universal Pictures
+DOMAIN-SUFFIX, universalpicturesathome.com         # Universal Pictures Home Entertainment
+DOMAIN-SUFFIX, universalpicturesinternational.com  # Universal Pictures International
+DOMAIN-SUFFIX, uphe.com                            # Universal Pictures Home Entertainment
 
 DOMAIN-SUFFIX, neow.in
 DOMAIN-SUFFIX, neowin.net
