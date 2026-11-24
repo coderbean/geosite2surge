@@ -411,6 +411,14 @@ DOMAIN-SUFFIX, zx.com
 # 沪ICP备18041304号-1
 DOMAIN-SUFFIX, tgpro.top
 DOMAIN-SUFFIX, tgprocs.net
+# 华立科技
+DOMAIN-SUFFIX, wahlap.net
+## The servers for wahlap.com are not all located in mainland China, so only add the accurate subdomains
+DOMAIN-SUFFIX, tgk-wcaime.wahlap.com
+## 舞萌DX
+DOMAIN-SUFFIX, maimai.wahlap.com
+## 中二节奏
+DOMAIN-SUFFIX, chunithm.wahlap.com
 # Wine游戏助手 京ICP备18041936号
 DOMAIN-SUFFIX, winegame.net
 # 畅玩空间 冀ICP备20019223号

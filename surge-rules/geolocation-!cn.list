@@ -158,6 +158,9 @@ DOMAIN-SUFFIX, antigravity-unleash.goog
 # Stitch
 DOMAIN-SUFFIX, stitch.withgoogle.com
 
+# Gemma
+DOMAIN-SUFFIX, gemma.ai
+
 DOMAIN-SUFFIX, groq.com
 
 DOMAIN-SUFFIX, hf.co
@@ -21472,6 +21475,9 @@ DOMAIN-SUFFIX, antigravity-unleash.goog
 
 # Stitch
 DOMAIN-SUFFIX, stitch.withgoogle.com
+
+# Gemma
+DOMAIN-SUFFIX, gemma.ai
 
 DOMAIN-SUFFIX, googleplay.com
 DOMAIN-SUFFIX, play-fe.googleapis.com
