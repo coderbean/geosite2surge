@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX, debian.org
 DOMAIN-SUFFIX, dotdeb.org
+
+# CDN
+DOMAIN-SUFFIX, debian.map.fastlydns.net
