@@ -9,6 +9,9 @@ DOMAIN-SUFFIX, alicepro.yandex.ru
 # CopyMonkey (AI copywriter)
 DOMAIN-SUFFIX, copymonkey.app
 
+# DevMachine (AI coding agent)
+DOMAIN-SUFFIX, devmachine.ai
+
 # Gerwin (AI copywriter)
 DOMAIN-SUFFIX, gerwin.io
 

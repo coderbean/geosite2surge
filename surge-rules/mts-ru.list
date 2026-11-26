@@ -2,11 +2,13 @@ DOMAIN-SUFFIX, mts-ws.net
 DOMAIN-SUFFIX, mts.ru
 DOMAIN-SUFFIX, mymts.ru
 
+# Moscow City Telephone Network (MGTS)
+DOMAIN-SUFFIX, mgts.ru
+DOMAIN-SUFFIX, spd-mgts.ru
+
 # Ads and tracking
 DOMAIN-SUFFIX, a.mts.ru
 DOMAIN-SUFFIX, obs.mts.ru
-
-# Ecosystem
 
 ## Finance
 DOMAIN-SUFFIX, dbo-dengi.online

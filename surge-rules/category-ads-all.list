@@ -8875,11 +8875,13 @@ DOMAIN-SUFFIX, mts-ws.net
 DOMAIN-SUFFIX, mts.ru
 DOMAIN-SUFFIX, mymts.ru
 
+# Moscow City Telephone Network (MGTS)
+DOMAIN-SUFFIX, mgts.ru
+DOMAIN-SUFFIX, spd-mgts.ru
+
 # Ads and tracking
 DOMAIN-SUFFIX, a.mts.ru
 DOMAIN-SUFFIX, obs.mts.ru
-
-# Ecosystem
 
 ## Finance
 DOMAIN-SUFFIX, dbo-dengi.online
@@ -9262,8 +9264,12 @@ DOMAIN-SUFFIX, wink.ru
 
 
 DOMAIN-SUFFIX, azbukainterneta.ru
+DOMAIN-SUFFIX, o7.com
+DOMAIN-SUFFIX, onlime.ru
+DOMAIN-SUFFIX, rostelecom-rb.ru
 DOMAIN-SUFFIX, rostelecom.ru
 DOMAIN-SUFFIX, rt.ru
+DOMAIN-SUFFIX, xn--e1aapchhekkk.xn--p1ai # ростелеком.рф
 
 # Tracking
 DOMAIN, sentry.iptv.rt.ru
