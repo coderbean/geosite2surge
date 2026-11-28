@@ -378,8 +378,9 @@ DOMAIN-SUFFIX, tarkov.com
 DOMAIN-SUFFIX, eft-store.com
 DOMAIN-SUFFIX, escapefromtarkov.com
 
-DOMAIN-SUFFIX, faceit.com
 DOMAIN-SUFFIX, faceit-cdn.net
+DOMAIN-SUFFIX, faceit.com
+DOMAIN-SUFFIX, fce.gg
 
 DOMAIN-SUFFIX, acesofthunder.net
 DOMAIN-SUFFIX, activematter.game
